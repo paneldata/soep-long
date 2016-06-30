@@ -1,17 +1,17 @@
 
-use data_de/pl.dta
+use temp/v31/de/pl.dta
 keep cid-pld0142
-save data_de/pl1.dta
-use data_de/pl.dta
+save temp/v31/de/pl1.dta
+use temp/v31/de/pl.dta
 keep pld0141-plg0207
-save data_de/pl2.dta
-use data_de/pl.dta
+save temp/v31/de/pl2.dta
+use temp/v31/de/pl.dta
 keep plg0208-plb0188
-save data_de/pl3.dta
-use data_de/pl.dta
+save temp/v31/de/pl3.dta
+use temp/v31/de/pl.dta
 keep plb0094-plh0130
-save data_de/pl4.dta
-use data_de/pl.dta
+save temp/v31/de/pl4.dta
+use temp/v31/de/pl.dta
 keep plh0131-fpop
-save data_de/pl5.dta
+save temp/v31/de/pl5.dta
 
