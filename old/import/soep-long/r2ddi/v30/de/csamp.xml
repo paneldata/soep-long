@@ -1,0 +1,818 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="csamp">
+      <labl>Case ID, Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">323700</sumStat>
+      <sumStat type="Median">1331000</sumStat>
+      <sumStat type="Mean">1605000</sumStat>
+      <sumStat type="3rd Qu.">3072000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">80413</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="ksample" intrvl="labeled_numeric" files="csamp">
+      <labl>Stichprobenart</labl>
+      <sumStat type="valid">80413</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A Deutsche (West)</labl>
+        <catStat type="freq"> 7971</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B Auslaender (West)</labl>
+        <catStat type="freq"> 2659</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] C Deutsche (Ost)</labl>
+        <catStat type="freq"> 2179</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] D Zuwanderer 1984-93</labl>
+        <catStat type="freq">  636</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E Ergaenzung 1998</labl>
+        <catStat type="freq"> 2033</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] F Ergaenzung 2000</labl>
+        <catStat type="freq">12487</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] G Hohe Einkommen 2002</labl>
+        <catStat type="freq"> 5663</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] H Ergaenzung 2006</labl>
+        <catStat type="freq"> 3928</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I Incentivierung 2009</labl>
+        <catStat type="freq"> 4964</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] J Aufstockung 2011</labl>
+        <catStat type="freq"> 9804</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] K Aufstockung 2012</labl>
+        <catStat type="freq"> 4536</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] L Laborstichprobe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] M Migration 2013</labl>
+        <catStat type="freq">12992</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] FiD Screening-Samples 2009</labl>
+        <catStat type="freq"> 3149</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] FiD Cohort-Samples 2009</labl>
+        <catStat type="freq"> 5366</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <labl>[90] Int Interviewer (seit 1984)</labl>
+        <catStat type="freq"> 1923</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>91</catValu>
+        <labl>[91] Faelschungen</labl>
+        <catStat type="freq">  123</catStat>
+      </catgry>
+    </var>
+    <var ID="sampdet" intrvl="labeled_numeric" files="csamp">
+      <labl>Sample Detailed</labl>
+      <sumStat type="valid">80413</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>100</catValu>
+        <labl>[100] A  (Dt-West)   nur brutto</labl>
+        <catStat type="freq">3421</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>101</catValu>
+        <labl>[101] A  (Dt-West)   realisiert</labl>
+        <catStat type="freq">4528</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>108</catValu>
+        <labl>[108] A  (Dt-West)</labl>
+        <catStat type="freq">  22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>109</catValu>
+        <labl>[109] A  (Dt-West)   Faelschung</labl>
+        <catStat type="freq">  26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>210</catValu>
+        <labl>[210] B1 (Tuerkei, W) nur brutto</labl>
+        <catStat type="freq"> 293</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>211</catValu>
+        <labl>[211] B1 (Tuerkei, W) realisiert</labl>
+        <catStat type="freq"> 397</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>218</catValu>
+        <labl>[218] B1 (Tuerkei, W)</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>219</catValu>
+        <labl>[219] B1 (Tuerkei, W) Faelschung</labl>
+        <catStat type="freq">   6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>220</catValu>
+        <labl>[220] B2 (Jugosl.,W) nur brutto</labl>
+        <catStat type="freq"> 261</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>221</catValu>
+        <labl>[221] B2 (Jugosl.,W) realisiert</labl>
+        <catStat type="freq"> 294</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>229</catValu>
+        <labl>[229] B2 (Jugosl.,W) Faelschung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>230</catValu>
+        <labl>[230] B3 (Griech.,W) nur brutto</labl>
+        <catStat type="freq"> 172</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>231</catValu>
+        <labl>[231] B3 (Griech.,W) realisiert</labl>
+        <catStat type="freq"> 196</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>238</catValu>
+        <labl>[238] B3 (Griech.,W)</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>239</catValu>
+        <labl>[239] B3 (Griech.,W) Faelschung</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>240</catValu>
+        <labl>[240] B4 (Italien,W) nur brutto</labl>
+        <catStat type="freq"> 319</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>241</catValu>
+        <labl>[241] B4 (Italien,W) realisiert</labl>
+        <catStat type="freq"> 306</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>248</catValu>
+        <labl>[248] B4 (Italien,W)</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>249</catValu>
+        <labl>[249] B4 (Italien,W) Faelschung</labl>
+        <catStat type="freq">  15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>250</catValu>
+        <labl>[250] B5 (Spanien,W) nur brutto</labl>
+        <catStat type="freq"> 199</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>251</catValu>
+        <labl>[251] B5 (Spanien,W) realisiert</labl>
+        <catStat type="freq"> 200</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>259</catValu>
+        <labl>[259] B5 (Spanien,W) Faelschung</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>301</catValu>
+        <labl>[301] C  (Dt-Ost)    realisiert</labl>
+        <catStat type="freq">2179</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>410</catValu>
+        <labl>[410] D1 (Zuw94,W)   nur brutto</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>411</catValu>
+        <labl>[411] D1 (Zuw94,W)   realisiert</labl>
+        <catStat type="freq"> 138</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>417</catValu>
+        <labl>[417] D1 (Zuw94,W)   Schneeball</labl>
+        <catStat type="freq">  98</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>420</catValu>
+        <labl>[420] D2 (Zuw95,W)   nur brutto</labl>
+        <catStat type="freq"> 108</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>421</catValu>
+        <labl>[421] D2 (Zuw95,W)   realisiert</labl>
+        <catStat type="freq"> 292</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>427</catValu>
+        <labl>[427] D2 (Zuw95,W)   Schneeball</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>510</catValu>
+        <labl>[510] E  (E98,PAPI)  nur brutto</labl>
+        <catStat type="freq"> 478</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>511</catValu>
+        <labl>[511] E  (E98,PAPI)  realisiert</labl>
+        <catStat type="freq"> 538</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>518</catValu>
+        <labl>[518] E  (E98,PAPI)  real(t1),(nach Faelsch.)</labl>
+        <catStat type="freq">   1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>519</catValu>
+        <labl>[519] E  (E98,PAPI)  Faelschung</labl>
+        <catStat type="freq">  11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>520</catValu>
+        <labl>[520] E  (E98,CAPI)  nur brutto</labl>
+        <catStat type="freq"> 495</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>521</catValu>
+        <labl>[521] E  (E98,CAPI)  realisiert</labl>
+        <catStat type="freq"> 518</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>528</catValu>
+        <labl>[528] E  (E98,CAPI)  real(t1),(nach Faelsch.)</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>529</catValu>
+        <labl>[529] E  (E98,CAPI)  Faelschung</labl>
+        <catStat type="freq">   8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>600</catValu>
+        <labl>[600] F  (E00)       nur brutto</labl>
+        <catStat type="freq">6225</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>601</catValu>
+        <labl>[601] F  (E00)       realisiert</labl>
+        <catStat type="freq">5578</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>609</catValu>
+        <labl>[609] F  (E00)       Faelschung</labl>
+        <catStat type="freq">  17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>610</catValu>
+        <labl>[610] F  (ZE00,Ausl) nur brutto</labl>
+        <catStat type="freq"> 219</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>611</catValu>
+        <labl>[611] F  (ZE00,Ausl) realisiert</labl>
+        <catStat type="freq"> 204</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>620</catValu>
+        <labl>[620] F  (ZE00,D)    nur brutto</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>621</catValu>
+        <labl>[621] F  (ZE00,D)    realisiert</labl>
+        <catStat type="freq"> 261</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>700</catValu>
+        <labl>[700] G  (HY02)      nur brutto</labl>
+        <catStat type="freq">4032</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>701</catValu>
+        <labl>[701] G  (HY02)      realisiert</labl>
+        <catStat type="freq">1224</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>708</catValu>
+        <labl>[708] G  (HY02)       geloescht (HY-Schwelle reduziert)</labl>
+        <catStat type="freq"> 407</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>800</catValu>
+        <labl>[800] H              nur brutto</labl>
+        <catStat type="freq">2422</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>801</catValu>
+        <labl>[801] H              realisiert</labl>
+        <catStat type="freq">1506</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>809</catValu>
+        <labl>[809] H              Faelschung</labl>
+        <catStat type="freq">   3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>900</catValu>
+        <labl>[900] I  (Tranche1)  nur brutto</labl>
+        <catStat type="freq">2591</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>901</catValu>
+        <labl>[901] I  (Tranche1)  realisiert</labl>
+        <catStat type="freq">1207</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>907</catValu>
+        <labl>[907] I  (Tranche1)  brutto(t1),(nach Non-Resp.Befr.)</labl>
+        <catStat type="freq"> 106</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>908</catValu>
+        <labl>[908] I  (Tranche1)  real(t1),(nach Non-Resp.Befr.)</labl>
+        <catStat type="freq">  70</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>909</catValu>
+        <labl>[909] I  (Tranche1)  Faelschung</labl>
+        <catStat type="freq">  26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>910</catValu>
+        <labl>[910] I  (Tranche2)  nur brutto</labl>
+        <catStat type="freq"> 657</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>911</catValu>
+        <labl>[911] I  (Tranche2)  realisiert</labl>
+        <catStat type="freq"> 286</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>917</catValu>
+        <labl>[917] I  (Tranche2)  brutto(t1),(nach Non-Resp.Befr.)</labl>
+        <catStat type="freq">  23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>918</catValu>
+        <labl>[918] I  (Tranche2)  real(t1),(nach Non-Resp.Befr.)</labl>
+        <catStat type="freq">  24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>919</catValu>
+        <labl>[919] I  (Tranche2)  Faelschung</labl>
+        <catStat type="freq">  10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1000</catValu>
+        <labl>[1000] J  (Aufstockung)  nur brutto</labl>
+        <catStat type="freq">6668</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1001</catValu>
+        <labl>[1001] J  (Aufstockung)  realisiert</labl>
+        <catStat type="freq">3136</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1100</catValu>
+        <labl>[1100] K  (Aufstockung)  nur brutto</labl>
+        <catStat type="freq">3010</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1101</catValu>
+        <labl>[1101] K  (Aufstockung)  realisiert</labl>
+        <catStat type="freq">1526</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1300</catValu>
+        <labl>[1300] M  (Tranche1)  nur brutto</labl>
+        <catStat type="freq">1891</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1301</catValu>
+        <labl>[1301] M  (Tranche1)  realisiert</labl>
+        <catStat type="freq"> 525</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1302</catValu>
+        <labl>[1302] M  (Tranche1)  Record Linkage, realisiert</labl>
+        <catStat type="freq">1250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1307</catValu>
+        <labl>[1307] M  (Tranche1)  Record Linkage, nur brutto</labl>
+        <catStat type="freq">4330</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1310</catValu>
+        <labl>[1310] M  (Tranche2)  nur brutto</labl>
+        <catStat type="freq">1802</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1311</catValu>
+        <labl>[1311] M  (Tranche2)  realisiert</labl>
+        <catStat type="freq"> 396</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1312</catValu>
+        <labl>[1312] M  (Tranche2)  Record Linkage, realisiert</labl>
+        <catStat type="freq"> 552</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1317</catValu>
+        <labl>[1317] M  (Tranche2)  Record Linkage, nur brutto</labl>
+        <catStat type="freq">2246</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6010</catValu>
+        <labl>[6010] FiD (Scr2010)  nur brutto</labl>
+        <catStat type="freq"> 649</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6011</catValu>
+        <labl>[6011] FiD (Scr2010)  realisiert</labl>
+        <catStat type="freq">2500</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6020</catValu>
+        <labl>[6020] FiD (Scr2011)  nur brutto</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6021</catValu>
+        <labl>[6021] FiD (Scr2011)  realisiert</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6110</catValu>
+        <labl>[6110] FiD (Coh2007)  nur brutto</labl>
+        <catStat type="freq"> 892</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6111</catValu>
+        <labl>[6111] FiD (Coh2007)  realisiert</labl>
+        <catStat type="freq"> 515</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6120</catValu>
+        <labl>[6120] FiD (Coh2008)  nur brutto</labl>
+        <catStat type="freq"> 849</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6121</catValu>
+        <labl>[6121] FiD (Coh2008)  realisiert</labl>
+        <catStat type="freq"> 535</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6130</catValu>
+        <labl>[6130] FiD (Coh2009)  nur brutto</labl>
+        <catStat type="freq"> 905</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6131</catValu>
+        <labl>[6131] FiD (Coh2009)  realisiert</labl>
+        <catStat type="freq"> 503</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6140</catValu>
+        <labl>[6140] FiD (Coh2010)  nur brutto</labl>
+        <catStat type="freq"> 646</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6141</catValu>
+        <labl>[6141] FiD (Coh2010)  realisiert</labl>
+        <catStat type="freq"> 521</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9000</catValu>
+        <labl>[9000] Int (Intview)  brutto</labl>
+        <catStat type="freq">1923</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9001</catValu>
+        <labl>[9001] Int (Intbef)   realisiert</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+    </var>
+    <var ID="split" intrvl="labeled_numeric" files="csamp">
+      <labl>Sample splits</labl>
+      <sumStat type="valid">5000</sumStat>
+      <sumStat type="invalid">75413</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">75413</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>901</catValu>
+        <labl>[901] I Incentivierung 5+5</labl>
+        <catStat type="freq"> 1250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>902</catValu>
+        <labl>[902] I Incentivierung 5+10</labl>
+        <catStat type="freq"> 1250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>903</catValu>
+        <labl>[903] I Incentivierung Los vs. Geld</labl>
+        <catStat type="freq"> 1250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>904</catValu>
+        <labl>[904] I Incentivierung Los</labl>
+        <catStat type="freq"> 1250</catStat>
+      </catgry>
+    </var>
+    <var ID="psu" intrvl="numeric" files="csamp">
+      <labl>PSU - Primary Sampling Units</labl>
+      <sumStat type="Min.">1010</sumStat>
+      <sumStat type="1st Qu.">81020</sumStat>
+      <sumStat type="Median">133000</sumStat>
+      <sumStat type="Mean">161900</sumStat>
+      <sumStat type="3rd Qu.">225100</sumStat>
+      <sumStat type="Max.">396000</sumStat>
+      <sumStat type="NA's">67421</sumStat>
+      <sumStat type="valid">12992</sumStat>
+      <sumStat type="invalid">67421</sumStat>
+    </var>
+    <var ID="strata" intrvl="labeled_numeric" files="csamp">
+      <labl>Schichtung, Stratifizierungseinheiten</labl>
+      <sumStat type="valid">27796</sumStat>
+      <sumStat type="invalid">52617</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">52617</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>901</catValu>
+        <labl>[901] I Adresse ohne Migrationshintergrund</labl>
+        <catStat type="freq"> 3993</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>902</catValu>
+        <labl>[902] I Adresse mit moegl. Mig.hintergrund</labl>
+        <catStat type="freq"> 1007</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1001</catValu>
+        <labl>[1001] J Adresse ohne Migrationshintergrund</labl>
+        <catStat type="freq"> 8537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1002</catValu>
+        <labl>[1002] J Adr.mit(moegl.)Mig.hintergrund, Basis</labl>
+        <catStat type="freq">  673</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1003</catValu>
+        <labl>[1003] J Adr.mit(moegl.)Mig.hintergrund, Top Up</labl>
+        <catStat type="freq">  594</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1301</catValu>
+        <labl>[1301] M Italien, 1.Gen.</labl>
+        <catStat type="freq">  560</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1302</catValu>
+        <labl>[1302] M Italien, 2. Gen.</labl>
+        <catStat type="freq">  479</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1303</catValu>
+        <labl>[1303] M Italien, Gen. unklar</labl>
+        <catStat type="freq">  144</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1304</catValu>
+        <labl>[1304] M Spanien/Griechenland, 1.Gen.</labl>
+        <catStat type="freq">  618</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1305</catValu>
+        <labl>[1305] M Spanien/Griechenland, 2.Gen.</labl>
+        <catStat type="freq">  472</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1306</catValu>
+        <labl>[1306] M Spanien/Griechenland, Gen. unklar</labl>
+        <catStat type="freq">  181</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1307</catValu>
+        <labl>[1307] M Tuerkei, 1.Gen.</labl>
+        <catStat type="freq"> 1041</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1308</catValu>
+        <labl>[1308] M Tuerkei, 2.Gen.</labl>
+        <catStat type="freq">  733</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1309</catValu>
+        <labl>[1309] M Tuerkei, Gen. unklar</labl>
+        <catStat type="freq">  230</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1310</catValu>
+        <labl>[1310] M Ehem. Jugosl., 1.Gen.</labl>
+        <catStat type="freq">  577</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1311</catValu>
+        <labl>[1311] M Ehem. Jugosl., 2.Gen.</labl>
+        <catStat type="freq">  498</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1312</catValu>
+        <labl>[1312] M Ehem. Jugosl., Gen. unklar</labl>
+        <catStat type="freq">  153</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1313</catValu>
+        <labl>[1313] M Spaetaussiedler</labl>
+        <catStat type="freq"> 1269</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1314</catValu>
+        <labl>[1314] M Polen</labl>
+        <catStat type="freq"> 1382</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1315</catValu>
+        <labl>[1315] M Rumaenien</labl>
+        <catStat type="freq">  885</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1316</catValu>
+        <labl>[1316] M GUS-Staaten</labl>
+        <catStat type="freq"> 1182</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1317</catValu>
+        <labl>[1317] M Arabische Laender</labl>
+        <catStat type="freq">  826</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1318</catValu>
+        <labl>[1318] M Rest der Welt</labl>
+        <catStat type="freq"> 1762</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="csamp"/>
+</codebook>

@@ -1,0 +1,4437 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="pbrutto">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">33630</sumStat>
+      <sumStat type="Median">250500</sumStat>
+      <sumStat type="Mean">375600</sumStat>
+      <sumStat type="3rd Qu.">504700</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">730272</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="pbrutto">
+      <labl>Current Wave HH Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">48070</sumStat>
+      <sumStat type="Median">212900</sumStat>
+      <sumStat type="Mean">381500</sumStat>
+      <sumStat type="3rd Qu.">503900</sumStat>
+      <sumStat type="Max.">3502000</sumStat>
+      <sumStat type="valid">730272</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="pbrutto">
+      <labl>Never Changing Person ID</labl>
+      <sumStat type="Min.">101</sumStat>
+      <sumStat type="1st Qu.">410900</sumStat>
+      <sumStat type="Median">2183000</sumStat>
+      <sumStat type="Mean">3797000</sumStat>
+      <sumStat type="3rd Qu.">5046000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="valid">730272</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="pbrutto">
+      <labl>Survey Year</labl>
+      <sumStat type="Min.">1984</sumStat>
+      <sumStat type="1st Qu.">1994</sumStat>
+      <sumStat type="Median">2002</sumStat>
+      <sumStat type="Mean">2001</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="valid">730272</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="geburt" intrvl="numeric" files="pbrutto">
+      <labl>Birth Year</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1944</sumStat>
+      <sumStat type="Median">1962</sumStat>
+      <sumStat type="Mean">1920</sumStat>
+      <sumStat type="3rd Qu.">1980</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="NA's">4345</sumStat>
+      <sumStat type="valid">725927</sumStat>
+      <sumStat type="invalid">4345</sumStat>
+    </var>
+    <var ID="sex" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Gender</labl>
+      <sumStat type="valid">730214</sumStat>
+      <sumStat type="invalid">58</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    58</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] male</labl>
+        <catStat type="freq">359227</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] female</labl>
+        <catStat type="freq">370987</catStat>
+      </catgry>
+    </var>
+    <var ID="pnat" intrvl="labeled_numeric" files="pbrutto">
+      <labl>nationality</labl>
+      <sumStat type="valid">523251</sumStat>
+      <sumStat type="invalid">207021</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">206827</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   194</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] German</labl>
+        <catStat type="freq">475674</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Turkey</labl>
+        <catStat type="freq"> 16933</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Ex-Yugoslavia</labl>
+        <catStat type="freq">  2600</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Greece</labl>
+        <catStat type="freq">  4097</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Italian</labl>
+        <catStat type="freq">  7079</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Spain</labl>
+        <catStat type="freq">  1639</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Ex-GDR</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Austria</labl>
+        <catStat type="freq">   929</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] France</labl>
+        <catStat type="freq">   461</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Belgian, Dutch, Luxembourg</labl>
+        <catStat type="freq">    19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] Denmark</labl>
+        <catStat type="freq">   105</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Great Britain</labl>
+        <catStat type="freq">   401</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] Sweden</labl>
+        <catStat type="freq">    54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Norway</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] Finland</labl>
+        <catStat type="freq">    67</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] American</labl>
+        <catStat type="freq">   443</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] Switzerland</labl>
+        <catStat type="freq">   146</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Chile</labl>
+        <catStat type="freq">    19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Romania</labl>
+        <catStat type="freq">   498</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Poland</labl>
+        <catStat type="freq">  1001</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Korea</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Iran</labl>
+        <catStat type="freq">   126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Indonesia</labl>
+        <catStat type="freq">    31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Hungary</labl>
+        <catStat type="freq">   192</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Bolivia</labl>
+        <catStat type="freq">    25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <labl>[28] Portugal</labl>
+        <catStat type="freq">   355</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <labl>[29] Bulgaria</labl>
+        <catStat type="freq">    80</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] Syria</labl>
+        <catStat type="freq">    36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] Czech Republic</labl>
+        <catStat type="freq">   139</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Russia</labl>
+        <catStat type="freq">   638</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Empty (was Kurdistan)</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>[34] Mexico</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>[35] Argentina</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>[36] Cap Verde Is.</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>37</catValu>
+        <labl>[37] Benin</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <labl>[38] Philippines</labl>
+        <catStat type="freq">    99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] Israel</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Japan</labl>
+        <catStat type="freq">    38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Australia</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] India</labl>
+        <catStat type="freq">    56</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Afghanistan</labl>
+        <catStat type="freq">    86</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>[44] Thailand</labl>
+        <catStat type="freq">    96</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>[45] Jamaica</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <labl>[46] Saudi Arabia</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <labl>[47] Ethiopia</labl>
+        <catStat type="freq">    17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>48</catValu>
+        <labl>[48] Columbia</labl>
+        <catStat type="freq">    51</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>49</catValu>
+        <labl>[49] Ghana</labl>
+        <catStat type="freq">    43</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <labl>[50] Bangladesh</labl>
+        <catStat type="freq">    15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>[51] Venezuela</labl>
+        <catStat type="freq">    16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>[52] Tunisia</labl>
+        <catStat type="freq">    47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>53</catValu>
+        <labl>[53] Mauritius</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>54</catValu>
+        <labl>[54] Nigeria</labl>
+        <catStat type="freq">    37</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>55</catValu>
+        <labl>[55] Canada</labl>
+        <catStat type="freq">    73</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>56</catValu>
+        <labl>[56] New Zealand</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>57</catValu>
+        <labl>[57] Tanzania</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>58</catValu>
+        <labl>[58] Cyprus</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>59</catValu>
+        <labl>[59] Cuba</labl>
+        <catStat type="freq">    49</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] Iraq</labl>
+        <catStat type="freq">   248</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] Brazil</labl>
+        <catStat type="freq">    66</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>[62] Monaco</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>[63] Hong Kong</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>[64] Peru</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>65</catValu>
+        <labl>[65] Sri Lanka</labl>
+        <catStat type="freq">    62</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>66</catValu>
+        <labl>[66] Nepal</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>67</catValu>
+        <labl>[67] Morocco</labl>
+        <catStat type="freq">   140</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>68</catValu>
+        <labl>[68] China</labl>
+        <catStat type="freq">    72</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>69</catValu>
+        <labl>[69] Liechtenstein</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>70</catValu>
+        <labl>[70] Iceland</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>[71] Ireland</labl>
+        <catStat type="freq">    13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>72</catValu>
+        <labl>[72] St. Lucia</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>73</catValu>
+        <labl>[73] Moldavia</labl>
+        <catStat type="freq">    21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>74</catValu>
+        <labl>[74] Kazakhstan</labl>
+        <catStat type="freq">   130</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>75</catValu>
+        <labl>[75] Albania</labl>
+        <catStat type="freq">   215</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>76</catValu>
+        <labl>[76] Lebanon</labl>
+        <catStat type="freq">   111</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>77</catValu>
+        <labl>[77] Kirgistan</labl>
+        <catStat type="freq">    36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>78</catValu>
+        <labl>[78] Ukraine</labl>
+        <catStat type="freq">   330</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>79</catValu>
+        <labl>[79] Algeria</labl>
+        <catStat type="freq">    15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>80</catValu>
+        <labl>[80] Mozambique</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>81</catValu>
+        <labl>[81] Egypt</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>82</catValu>
+        <labl>[82] Tajikistan</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>83</catValu>
+        <labl>[83] Vietnam</labl>
+        <catStat type="freq">   172</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>84</catValu>
+        <labl>[84] Somalia</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>85</catValu>
+        <labl>[85] Pakistan</labl>
+        <catStat type="freq">    60</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>86</catValu>
+        <labl>[86] South Africa</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>87</catValu>
+        <labl>[87] UAE</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>88</catValu>
+        <labl>[88] El Salvador</labl>
+        <catStat type="freq">    12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>89</catValu>
+        <labl>[89] Eritrea</labl>
+        <catStat type="freq">    91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <labl>[90] Jordan</labl>
+        <catStat type="freq">    12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>91</catValu>
+        <labl>[91] Turkmenistan</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>92</catValu>
+        <labl>[92] Costa Rica</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>93</catValu>
+        <labl>[93] Singapore</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>94</catValu>
+        <labl>[94] Burkina Faso</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>95</catValu>
+        <labl>[95] Zambia</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>96</catValu>
+        <labl>[96] Ecuador</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <labl>[97] Uzbekistan</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <labl>[98] No Nationality</labl>
+        <catStat type="freq">   139</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] Puerto Rico</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>100</catValu>
+        <labl>[100] Laos</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>101</catValu>
+        <labl>[101] Estonia</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>102</catValu>
+        <labl>[102] Angola</labl>
+        <catStat type="freq">    26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>103</catValu>
+        <labl>[103] Latvia</labl>
+        <catStat type="freq">    45</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>104</catValu>
+        <labl>[104] Malaysia</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>105</catValu>
+        <labl>[105] Malaysia</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>106</catValu>
+        <labl>[106] Montenegro</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>107</catValu>
+        <labl>[107] Belize</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>108</catValu>
+        <labl>[108] Dominican Rep</labl>
+        <catStat type="freq">    14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>109</catValu>
+        <labl>[109] Belize</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>110</catValu>
+        <labl>[110] Dominican Republic</labl>
+        <catStat type="freq">    12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>111</catValu>
+        <labl>[111] Libya</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>112</catValu>
+        <labl>[112] Kenya</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>113</catValu>
+        <labl>[113] Botswana</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>114</catValu>
+        <labl>[114] Haiti</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>115</catValu>
+        <labl>[115] Trinidad-Tobago</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>116</catValu>
+        <labl>[116] Luxembourg</labl>
+        <catStat type="freq">   101</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>117</catValu>
+        <labl>[117] Belgium</labl>
+        <catStat type="freq">   143</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>118</catValu>
+        <labl>[118] Holland</labl>
+        <catStat type="freq">   521</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>119</catValu>
+        <labl>[119] Croatia</labl>
+        <catStat type="freq">  2140</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>120</catValu>
+        <labl>[120] Bosnia-Herzegovina</labl>
+        <catStat type="freq">  1488</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>121</catValu>
+        <labl>[121] Macedonia</labl>
+        <catStat type="freq">   478</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>122</catValu>
+        <labl>[122] Slovenia</labl>
+        <catStat type="freq">   190</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>123</catValu>
+        <labl>[123] Slovakia</labl>
+        <catStat type="freq">    42</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>124</catValu>
+        <labl>[124] Paraguay</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>125</catValu>
+        <labl>[125] Guinea</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>126</catValu>
+        <labl>[126] Kuwait</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>127</catValu>
+        <labl>[127] Ivory Coast</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>128</catValu>
+        <labl>[128] Malaysia</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>129</catValu>
+        <labl>[129] Samoa</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>130</catValu>
+        <labl>[130] Azerbaijan</labl>
+        <catStat type="freq">    85</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>131</catValu>
+        <labl>[131] Seychelles</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>132</catValu>
+        <labl>[132] Belarus</labl>
+        <catStat type="freq">    90</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>133</catValu>
+        <labl>[133] Uruguay</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>134</catValu>
+        <labl>[134] Bahamas</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>135</catValu>
+        <labl>[135] Uganda</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>136</catValu>
+        <labl>[136] Oman</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>137</catValu>
+        <labl>[137] Micronesia</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>138</catValu>
+        <labl>[138] Mali</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>139</catValu>
+        <labl>[139] Cameroon</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>140</catValu>
+        <labl>[140] Kosovo-Albania</labl>
+        <catStat type="freq">   689</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>141</catValu>
+        <labl>[141] Georgia</labl>
+        <catStat type="freq">    10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>142</catValu>
+        <labl>[142] Sudan</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>143</catValu>
+        <labl>[143] Congo</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>144</catValu>
+        <labl>[144] Togo</labl>
+        <catStat type="freq">    26</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>145</catValu>
+        <labl>[145] Mongolia</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>146</catValu>
+        <labl>[146] Lithuania</labl>
+        <catStat type="freq">    28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>147</catValu>
+        <labl>[147] Chad</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>148</catValu>
+        <labl>[148] Armenia</labl>
+        <catStat type="freq">    30</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>149</catValu>
+        <labl>[149] Empty (was Kurdistan)</labl>
+        <catStat type="freq">    23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>150</catValu>
+        <labl>[150] Liberia</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>151</catValu>
+        <labl>[151] Yemen</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>152</catValu>
+        <labl>[152] Palestine</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>153</catValu>
+        <labl>[153] Free State of Gdansk</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>154</catValu>
+        <labl>[154] Taiwan</labl>
+        <catStat type="freq">    13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>155</catValu>
+        <labl>[155] Turkmenistan</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>156</catValu>
+        <labl>[156] Africa</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>157</catValu>
+        <labl>[157] guatemala</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>158</catValu>
+        <labl>[158] Sierra Leone</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>159</catValu>
+        <labl>[159] Panama</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>160</catValu>
+        <labl>[160] East timor</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>161</catValu>
+        <labl>[161] Bahrain</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>162</catValu>
+        <labl>[162] Senegal</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>163</catValu>
+        <labl>[163] Maldives</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>164</catValu>
+        <labl>[164] Hawaii</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>165</catValu>
+        <labl>[165] Serbia</labl>
+        <catStat type="freq">   335</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>166</catValu>
+        <labl>[166] Gambia</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>167</catValu>
+        <labl>[167] Honduras</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>168</catValu>
+        <labl>[168] Montenegro</labl>
+        <catStat type="freq">    14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>169</catValu>
+        <labl>[169] Cambodia</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>170</catValu>
+        <labl>[170] Surinam</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>171</catValu>
+        <labl>[171] Guyana</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>172</catValu>
+        <labl>[172] Caucasus</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>173</catValu>
+        <labl>[173] Zimbabwe</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>174</catValu>
+        <labl>[174] Madagascar</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>175</catValu>
+        <labl>[175] Grenada</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>176</catValu>
+        <labl>[176] Lesotho</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>177</catValu>
+        <labl>[177] Bhutan</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>222</catValu>
+        <labl>[222] Eastern Europe</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>333</catValu>
+        <labl>[333] other unspecified foreign country</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>777</catValu>
+        <labl>[777] Not German</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+    </var>
+    <var ID="stistat" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Sample Status</labl>
+      <sumStat type="valid">707889</sumStat>
+      <sumStat type="invalid">22383</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 22383</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Core Sample Member</labl>
+        <catStat type="freq">600177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Non-Core Sample Member</labl>
+        <catStat type="freq"> 68516</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] New Core Sample Member</labl>
+        <catStat type="freq"> 29370</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] New Non-Core Sample Member</labl>
+        <catStat type="freq">  9826</catStat>
+      </catgry>
+    </var>
+    <var ID="befstat" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Survey Status</labl>
+      <sumStat type="valid">707889</sumStat>
+      <sumStat type="invalid">22383</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 22383</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Re-Survey</labl>
+        <catStat type="freq">513090</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 1st Survey Temporarily Missing</labl>
+        <catStat type="freq">  4913</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 1st Survey Too Young</labl>
+        <catStat type="freq">  8862</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 1st Survey New Person</labl>
+        <catStat type="freq"> 29231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Not To Be Surveyed Old Person</labl>
+        <catStat type="freq">124392</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Not To Be Surveyed New Person</labl>
+        <catStat type="freq"> 12747</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Not To Be Surveyed Refused</labl>
+        <catStat type="freq"> 13589</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Converted From Category</labl>
+        <catStat type="freq">  1065</catStat>
+      </catgry>
+    </var>
+    <var ID="lint" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Wave Last Interviewed</labl>
+      <sumStat type="valid">578763</sumStat>
+      <sumStat type="invalid">151509</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] No Interview</labl>
+        <catStat type="freq"> 35346</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">  3557</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 10150</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">  9965</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq">  9484</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq">  8798</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1984</catValu>
+        <labl>[1984] 1984, Wave A</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1985</catValu>
+        <labl>[1985] 1985, Wave B</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1986</catValu>
+        <labl>[1986] 1986, Wave C</labl>
+        <catStat type="freq">    14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1987</catValu>
+        <labl>[1987] 1987, Wave D</labl>
+        <catStat type="freq">    20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1988</catValu>
+        <labl>[1988] 1988, Wave E</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1989</catValu>
+        <labl>[1989] 1989, Wave F</labl>
+        <catStat type="freq">    66</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1990</catValu>
+        <labl>[1990] 1990, Wave G</labl>
+        <catStat type="freq">    14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1991</catValu>
+        <labl>[1991] 1991, Wave H</labl>
+        <catStat type="freq">    40</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1992</catValu>
+        <labl>[1992] 1992, Wave I</labl>
+        <catStat type="freq">    88</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1993</catValu>
+        <labl>[1993] 1993, Wave J</labl>
+        <catStat type="freq">    83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1994</catValu>
+        <labl>[1994] 1994, Wave K</labl>
+        <catStat type="freq">    61</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1995</catValu>
+        <labl>[1995] 1995, Wave L</labl>
+        <catStat type="freq">   147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1996</catValu>
+        <labl>[1996] 1996, Wave M</labl>
+        <catStat type="freq">   147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1997</catValu>
+        <labl>[1997] 1997, Wave N</labl>
+        <catStat type="freq">   214</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1998</catValu>
+        <labl>[1998] 1998, Wave O</labl>
+        <catStat type="freq">   612</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1999</catValu>
+        <labl>[1999] 1999, Wave P</labl>
+        <catStat type="freq">  1372</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq"> 17541</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">141359</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2000</catValu>
+        <labl>[2000] 2000, Wave Q</labl>
+        <catStat type="freq"> 29027</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2001</catValu>
+        <labl>[2001] 2001, Wave R</labl>
+        <catStat type="freq"> 25567</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2002</catValu>
+        <labl>[2002] 2002, Wave S</labl>
+        <catStat type="freq"> 26918</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2003</catValu>
+        <labl>[2003] 2003, Wave T</labl>
+        <catStat type="freq"> 25157</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2004</catValu>
+        <labl>[2004] 2004, Wave U</labl>
+        <catStat type="freq"> 24824</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2005</catValu>
+        <labl>[2005] 2005, Wave V</labl>
+        <catStat type="freq"> 23829</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2006</catValu>
+        <labl>[2006] 2006, Wave W</labl>
+        <catStat type="freq"> 25532</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2007</catValu>
+        <labl>[2007] 2007, Wave X</labl>
+        <catStat type="freq"> 23679</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2008</catValu>
+        <labl>[2008] 2008, Wave Y</labl>
+        <catStat type="freq"> 22357</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2009</catValu>
+        <labl>[2009] 2009, Wave Z</labl>
+        <catStat type="freq"> 24055</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2010</catValu>
+        <labl>[2010] 2010, Wave BA</labl>
+        <catStat type="freq"> 20979</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2011</catValu>
+        <labl>[2011] 2011, Wave BB</labl>
+        <catStat type="freq"> 24403</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2012</catValu>
+        <labl>[2012] 2012, Wave BC</labl>
+        <catStat type="freq"> 23128</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2013</catValu>
+        <labl>[2013] 2013, Wave BD</labl>
+        <catStat type="freq"> 24113</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq"> 16063</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq"> 15872</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">  5044</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq"> 14586</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq"> 14723</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq"> 10305</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>84</catValu>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>85</catValu>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>86</catValu>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>87</catValu>
+        <catStat type="freq">    15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>88</catValu>
+        <catStat type="freq">    10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>89</catValu>
+        <catStat type="freq">    41</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq"> 10069</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <catStat type="freq">    24</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>91</catValu>
+        <catStat type="freq">    50</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>92</catValu>
+        <catStat type="freq">    83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>93</catValu>
+        <catStat type="freq">   128</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>94</catValu>
+        <catStat type="freq">   376</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>95</catValu>
+        <catStat type="freq">  1058</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>96</catValu>
+        <catStat type="freq"> 14684</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <catStat type="freq"> 14583</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <catStat type="freq"> 15813</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <catStat type="freq"> 14085</catStat>
+      </catgry>
+    </var>
+    <var ID="luecke" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Missing In Previous Year</labl>
+      <sumStat type="valid">76312</sumStat>
+      <sumStat type="invalid">653960</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">653960</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Does not apply</labl>
+        <catStat type="freq"> 52618</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Resurvey Current Wave</labl>
+        <catStat type="freq">  6084</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Not Resurvey Current Waves</labl>
+        <catStat type="freq"> 17513</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Missed Several Previous Waves</labl>
+        <catStat type="freq">    97</catStat>
+      </catgry>
+    </var>
+    <var ID="zupan" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Wave Entered Panel</labl>
+      <sumStat type="valid">697199</sumStat>
+      <sumStat type="invalid">33073</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">141239</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   458</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <catStat type="freq">  1317</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <catStat type="freq">   825</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <catStat type="freq">   385</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1984</catValu>
+        <labl>[1984] 1984, Wave A</labl>
+        <catStat type="freq"> 62680</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1985</catValu>
+        <labl>[1985] 1985, Wave B</labl>
+        <catStat type="freq">  1752</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1986</catValu>
+        <labl>[1986] 1986, Wave C</labl>
+        <catStat type="freq">  2385</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1987</catValu>
+        <labl>[1987] 1987, Wave D</labl>
+        <catStat type="freq">  2192</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1988</catValu>
+        <labl>[1988] 1988, Wave E</labl>
+        <catStat type="freq">  2432</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1989</catValu>
+        <labl>[1989] 1989, Wave F</labl>
+        <catStat type="freq">  2785</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1990</catValu>
+        <labl>[1990] 1990, Wave G</labl>
+        <catStat type="freq"> 41998</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1991</catValu>
+        <labl>[1991] 1991, Wave H</labl>
+        <catStat type="freq">  3998</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1992</catValu>
+        <labl>[1992] 1992, Wave I</labl>
+        <catStat type="freq">  3761</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1993</catValu>
+        <labl>[1993] 1993, Wave J</labl>
+        <catStat type="freq">  3799</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1994</catValu>
+        <labl>[1994] 1994, Wave K</labl>
+        <catStat type="freq">  8761</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1995</catValu>
+        <labl>[1995] 1995, Wave L</labl>
+        <catStat type="freq">  9146</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1996</catValu>
+        <labl>[1996] 1996, Wave M</labl>
+        <catStat type="freq">  4462</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1997</catValu>
+        <labl>[1997] 1997, Wave N</labl>
+        <catStat type="freq">  4244</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1998</catValu>
+        <labl>[1998] 1998, Wave O</labl>
+        <catStat type="freq"> 22443</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1999</catValu>
+        <labl>[1999] 1999, Wave P</labl>
+        <catStat type="freq">  4966</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">  3734</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 32615</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2000</catValu>
+        <labl>[2000] 2000, Wave Q</labl>
+        <catStat type="freq">129528</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2001</catValu>
+        <labl>[2001] 2001, Wave R</labl>
+        <catStat type="freq">  7688</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2002</catValu>
+        <labl>[2002] 2002, Wave S</labl>
+        <catStat type="freq"> 31612</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2003</catValu>
+        <labl>[2003] 2003, Wave T</labl>
+        <catStat type="freq">  6211</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2004</catValu>
+        <labl>[2004] 2004, Wave U</labl>
+        <catStat type="freq">  5044</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2005</catValu>
+        <labl>[2005] 2005, Wave V</labl>
+        <catStat type="freq">  4348</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2006</catValu>
+        <labl>[2006] 2006, Wave W</labl>
+        <catStat type="freq"> 23308</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2007</catValu>
+        <labl>[2007] 2007, Wave X</labl>
+        <catStat type="freq">  3432</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2008</catValu>
+        <labl>[2008] 2008, Wave Y</labl>
+        <catStat type="freq">  2587</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2009</catValu>
+        <labl>[2009] 2009, Wave Z</labl>
+        <catStat type="freq">  9110</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2010</catValu>
+        <labl>[2010] 2010, Wave BA</labl>
+        <catStat type="freq">  1805</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2011</catValu>
+        <labl>[2011] 2011, Wave BB</labl>
+        <catStat type="freq"> 20829</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2012</catValu>
+        <labl>[2012] 2012, Wave BC</labl>
+        <catStat type="freq">  7543</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2013</catValu>
+        <labl>[2013] 2013, Wave BD</labl>
+        <catStat type="freq">  9161</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq">  4306</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  3778</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <catStat type="freq">  2877</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <catStat type="freq">  3045</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <catStat type="freq">  8643</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <catStat type="freq">  2116</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>84</catValu>
+        <catStat type="freq"> 30279</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>85</catValu>
+        <catStat type="freq">   811</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>86</catValu>
+        <catStat type="freq">  1056</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>87</catValu>
+        <catStat type="freq">  1043</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>88</catValu>
+        <catStat type="freq">  1139</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>89</catValu>
+        <catStat type="freq">  1270</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <catStat type="freq">  1615</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <catStat type="freq"> 18840</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>91</catValu>
+        <catStat type="freq">  1773</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>92</catValu>
+        <catStat type="freq">  1703</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>93</catValu>
+        <catStat type="freq">  1797</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>94</catValu>
+        <catStat type="freq">  4452</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>95</catValu>
+        <catStat type="freq">  4990</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>96</catValu>
+        <catStat type="freq">  2093</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>97</catValu>
+        <catStat type="freq">  1567</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <catStat type="freq">  5936</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <catStat type="freq">   560</catStat>
+      </catgry>
+    </var>
+    <var ID="pnrakt" intrvl="numeric" files="pbrutto">
+      <labl>Serial Person Number</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.225</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">20</sumStat>
+      <sumStat type="NA's">16252</sumStat>
+      <sumStat type="valid">714020</sumStat>
+      <sumStat type="invalid">16252</sumStat>
+    </var>
+    <var ID="stell" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Relationship To Head Of Household</labl>
+      <sumStat type="valid">730245</sumStat>
+      <sumStat type="invalid">27</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Head Of HH</labl>
+        <catStat type="freq">299970</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Non-Relative</labl>
+        <catStat type="freq">172774</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Child of HH-Heads Partner</labl>
+        <catStat type="freq">   169</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] same-sex spouse</labl>
+        <catStat type="freq"> 25805</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Child / Adoptive Child [-2011]</labl>
+        <catStat type="freq">196439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Son, Daughter</labl>
+        <catStat type="freq"> 17278</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Stepchild (Child of the Partner)</labl>
+        <catStat type="freq">  3620</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Adoptive Child</labl>
+        <catStat type="freq">    23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] foster child</labl>
+        <catStat type="freq">   588</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] grandchild</labl>
+        <catStat type="freq">  3056</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Great-Grandchild</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Son, Daughter-In-Law</labl>
+        <catStat type="freq">  1459</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] Parents [-2011]</labl>
+        <catStat type="freq">  2537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] Father, Mother</labl>
+        <catStat type="freq">   516</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Step Father / Step Mother / Spouse of Father or Mother</labl>
+        <catStat type="freq">    16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Adoptive Father or Mother</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>[34] Foster Father or Mother</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>[35] Parent-In-Law</labl>
+        <catStat type="freq">  1129</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>[36] Grandparents</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Sibling, brother/sister in law [-2011]</labl>
+        <catStat type="freq">  1026</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Brother, Sister</labl>
+        <catStat type="freq">   312</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] Half-Brother, Half-sister</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Stepbrother, Stepsister</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>[44] Adoptive Brother/Sister</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>[45] Foster Brother/Sister</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>[51] Brother, Sister -in Law (spouse of brother/sister)</labl>
+        <catStat type="freq">    11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>[52] Brother, Sister -in Law (brother/sister of spouse)</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] Aunt, Uncle, niece/nephew [-2011]</labl>
+        <catStat type="freq">   477</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] Aunt, Uncle</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>[62] niece/nephew</labl>
+        <catStat type="freq">    16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>[63] Cousin/Cousine</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>[64] Other Relative</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>70</catValu>
+        <labl>[70] Other non relative by birth or marriage [-2011]</labl>
+        <catStat type="freq">  2876</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>[71] Other</labl>
+        <catStat type="freq">   104</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+    </var>
+    <var ID="pzug" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Member Of Household</labl>
+      <sumStat type="valid">712843</sumStat>
+      <sumStat type="invalid">17429</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 16252</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  1177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Lives In HH</labl>
+        <catStat type="freq">658828</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Absent Military, Community Service</labl>
+        <catStat type="freq">   293</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Absent Schooling</labl>
+        <catStat type="freq">   597</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Absent For Job</labl>
+        <catStat type="freq">   278</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Absent In Hospital</labl>
+        <catStat type="freq">   281</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Absent For Longer</labl>
+        <catStat type="freq">   540</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] other</labl>
+        <catStat type="freq">   268</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Died</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Has Moved</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Miscoded In Prior Year</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] born</labl>
+        <catStat type="freq">  6102</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] moved from w germany since last survey</labl>
+        <catStat type="freq">  5133</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] moved f.foreign country since l.survey</labl>
+        <catStat type="freq">   443</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Moved Back To HH</labl>
+        <catStat type="freq">   926</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] Moved Within Ger. Before Last Wave</labl>
+        <catStat type="freq">   217</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Moved From Abroad Before Last Survey</labl>
+        <catStat type="freq">    36</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] born before last survey</labl>
+        <catStat type="freq">   116</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] Moved From East Germany</labl>
+        <catStat type="freq">  1014</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] no answer</labl>
+        <catStat type="freq">   158</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Lives In New HH</labl>
+        <catStat type="freq"> 11334</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Absent Military, Community Service</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Absent Schooling</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Absent For Job</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Absent In Hospital</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Absent For Longer</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] other</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Died</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <labl>[28] Has Moved</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] in HH at least 2 years</labl>
+        <catStat type="freq"> 22646</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] born</labl>
+        <catStat type="freq">   391</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Moved From W Germany Since Survey</labl>
+        <catStat type="freq">  2198</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Moved From Abroad During Yr</labl>
+        <catStat type="freq">   102</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <labl>[38] moved f.former GDR since Jan.prev.year</labl>
+        <catStat type="freq">   526</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] no answer</labl>
+        <catStat type="freq">   111</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Currently In HH</labl>
+        <catStat type="freq">   258</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Absent Military, Community Service</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] Absent Schooling</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Absent For Job</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>[44] Absent In Hospital</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>[45] Absent For Longer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <labl>[46] other</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <labl>[47] Died</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>48</catValu>
+        <labl>[48] Has Moved</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] No Answer When Added</labl>
+        <catStat type="freq">    32</catStat>
+      </catgry>
+    </var>
+    <var ID="pform" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Interview Work Form</labl>
+      <sumStat type="valid">558836</sumStat>
+      <sumStat type="invalid">171436</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">171434</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] only interviewer</labl>
+        <catStat type="freq">361930</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Interview After Mail, Tel. Contact</labl>
+        <catStat type="freq">   226</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Writ. Mail Intv. After Pos. Tel. Contact</labl>
+        <catStat type="freq"> 48148</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Only Telephone Contact, Negative</labl>
+        <catStat type="freq"> 14834</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] phone interview</labl>
+        <catStat type="freq">   253</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Written-Postal Without Tel. Contact</labl>
+        <catStat type="freq"> 26712</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] No Interview</labl>
+        <catStat type="freq">  1080</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] CAPI</labl>
+        <catStat type="freq">105653</catStat>
+      </catgry>
+    </var>
+    <var ID="perg" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Interview Work Result, 1 Digit</labl>
+      <sumStat type="valid">560325</sumStat>
+      <sumStat type="invalid">169947</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">169947</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Realized</labl>
+        <catStat type="freq">  1590</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Int. Successful</labl>
+        <catStat type="freq">494111</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Unsuccessful At The Time</labl>
+        <catStat type="freq">  5185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Unwilling Then</labl>
+        <catStat type="freq"> 21831</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Final Refusal</labl>
+        <catStat type="freq"> 35816</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Moved To Foreign Country</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Died</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] HH Not Found</labl>
+        <catStat type="freq">  1017</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Address Of HH Not Found</labl>
+        <catStat type="freq">   763</catStat>
+      </catgry>
+    </var>
+    <var ID="pergz" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Interview Work Result, 2 Digits</labl>
+      <sumStat type="valid">559470</sumStat>
+      <sumStat type="invalid">170802</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">169774</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  1028</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Changed HH</labl>
+        <catStat type="freq">  1590</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Int. Successful</labl>
+        <catStat type="freq">431580</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Int. CURR And Prior Wave Successful</labl>
+        <catStat type="freq"> 55393</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] with HH-gap questionnaire (previous year)</labl>
+        <catStat type="freq">   451</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] no HH-gap questionnaire (previous year)</labl>
+        <catStat type="freq">    35</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Int. PGAP Prev Yr Closed</labl>
+        <catStat type="freq">  5097</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] Int. PGAP Prev Yr Open</labl>
+        <catStat type="freq">  1344</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] Individual Interview, No HH Interview</labl>
+        <catStat type="freq">   211</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] unseccessful at the time</labl>
+        <catStat type="freq">  2700</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Old, Sick</labl>
+        <catStat type="freq">    39</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Unreachable Until End</labl>
+        <catStat type="freq">    91</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Foreigner In Homeland</labl>
+        <catStat type="freq">    61</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Sick Until End Of Field Interview</labl>
+        <catStat type="freq">   126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Unreachable</labl>
+        <catStat type="freq">  2032</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Cannot Process</labl>
+        <catStat type="freq">   160</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <labl>[29] Other Unclear Case</labl>
+        <catStat type="freq">    12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] Unwilling Then</labl>
+        <catStat type="freq"> 15605</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] No Questionnaire</labl>
+        <catStat type="freq">   377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] No Time, Desire</labl>
+        <catStat type="freq">  5868</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Successful After Field Work</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] Other Unclear Case</labl>
+        <catStat type="freq">   107</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Final Refusal</labl>
+        <catStat type="freq"> 34180</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <labl>[46] Not Usable</labl>
+        <catStat type="freq">   737</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <labl>[47] Language Difficulties</labl>
+        <catStat type="freq">    60</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <labl>[50] Moved To Foreign Country</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] Died</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>80</catValu>
+        <labl>[80] HH Not Found</labl>
+        <catStat type="freq">   867</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <labl>[90] Address Of HH Not Found</labl>
+        <catStat type="freq">   732</catStat>
+      </catgry>
+    </var>
+    <var ID="hhnrold" intrvl="numeric" files="pbrutto">
+      <labl>HH Number Previous Year With Person ID</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">57850</sumStat>
+      <sumStat type="Median">261500</sumStat>
+      <sumStat type="Mean">893200</sumStat>
+      <sumStat type="3rd Qu.">508400</sumStat>
+      <sumStat type="Max.">35010000</sumStat>
+      <sumStat type="NA's">169819</sumStat>
+      <sumStat type="valid">560453</sumStat>
+      <sumStat type="invalid">169819</sumStat>
+    </var>
+    <var ID="pnrold" intrvl="numeric" files="pbrutto">
+      <labl>Serial Person Number In Previous Year</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">1.964</sumStat>
+      <sumStat type="3rd Qu.">3</sumStat>
+      <sumStat type="Max.">91</sumStat>
+      <sumStat type="NA's">151833</sumStat>
+      <sumStat type="valid">578439</sumStat>
+      <sumStat type="invalid">151833</sumStat>
+    </var>
+    <var ID="pzugv" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Member Of Household In Previous Year</labl>
+      <sumStat type="valid">662254</sumStat>
+      <sumStat type="invalid">68018</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 67480</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   538</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Lives In HH</labl>
+        <catStat type="freq">621128</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Absent Military, Community Service</labl>
+        <catStat type="freq">   247</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Absent Schooling</labl>
+        <catStat type="freq">   491</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Absent For Job</labl>
+        <catStat type="freq">   213</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Absent In Hospital</labl>
+        <catStat type="freq">   190</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Absent For Longer</labl>
+        <catStat type="freq">   439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] other</labl>
+        <catStat type="freq">   184</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Died</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Has Moved</labl>
+        <catStat type="freq">   203</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Miscoded In Prior Year</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] born</labl>
+        <catStat type="freq">  5690</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] moved from w germany since last survey</labl>
+        <catStat type="freq">  4409</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] moved f.foreign country since l.survey</labl>
+        <catStat type="freq">   403</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Moved Back To HH</labl>
+        <catStat type="freq">   776</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] Moved Within Ger. Before Last Wave</labl>
+        <catStat type="freq">   184</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Moved From Abroad Before Last Survey</labl>
+        <catStat type="freq">    29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] born before last survey</labl>
+        <catStat type="freq">   114</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] Moved From East Germany</labl>
+        <catStat type="freq">   951</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] no answer</labl>
+        <catStat type="freq">   126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Lives In New HH</labl>
+        <catStat type="freq">  9415</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Absent Military, Community Service</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Absent Schooling</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Absent For Job</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Absent In Hospital</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Absent For Longer</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] other</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Died</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <labl>[28] Has Moved</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] in HH at least 2 years</labl>
+        <catStat type="freq"> 13742</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] born</labl>
+        <catStat type="freq">   375</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Moved From W Germany Since Survey</labl>
+        <catStat type="freq">  1979</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Moved From Abroad During Yr</labl>
+        <catStat type="freq">    94</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <labl>[38] moved f.former GDR since Jan.prev.year</labl>
+        <catStat type="freq">   505</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] no answer</labl>
+        <catStat type="freq">    73</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Currently In HH</labl>
+        <catStat type="freq">   217</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Absent Military, Community Service</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] Absent Schooling</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Absent For Job</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>[44] Absent In Hospital</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>[45] Absent For Longer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <labl>[46] other</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <labl>[47] Died</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>48</catValu>
+        <labl>[48] Has Moved</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] No Answer When Added</labl>
+        <catStat type="freq">    60</catStat>
+      </catgry>
+    </var>
+    <var ID="pformv" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Type Of Survey Previous Year</labl>
+      <sumStat type="valid">538660</sumStat>
+      <sumStat type="invalid">191612</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">189142</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  2469</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Not Yet In Panel</labl>
+        <catStat type="freq"> 38088</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] only interviewer</labl>
+        <catStat type="freq">343119</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Interview After Mail, Tel. Contact</labl>
+        <catStat type="freq">  2448</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Writ. Mail Intv. After Pos. Tel. Contact</labl>
+        <catStat type="freq"> 43247</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Only Telephone Contact, Negative</labl>
+        <catStat type="freq">  3628</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] phone interview</labl>
+        <catStat type="freq">   255</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Written-Postal Without Tel. Contact</labl>
+        <catStat type="freq"> 20003</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] No Interview</labl>
+        <catStat type="freq">   164</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Final Refusal</labl>
+        <catStat type="freq"> 87708</catStat>
+      </catgry>
+    </var>
+    <var ID="pergzv" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Work Result In Previous Year</labl>
+      <sumStat type="valid">423230</sumStat>
+      <sumStat type="invalid">307042</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">307042</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Int. Successful</labl>
+        <catStat type="freq">373104</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Int. CURR And Prior Wave Successful</labl>
+        <catStat type="freq"> 17571</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] Successful, HH-Gap prv. Year filled</labl>
+        <catStat type="freq">   107</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Successful, HH-Gap prv. Year not filled</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Int. PGAP Prev Yr Closed</labl>
+        <catStat type="freq">  4579</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] Int. PGAP Prev Yr Open</labl>
+        <catStat type="freq">  1241</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] Individual Interview, No HH Interview</labl>
+        <catStat type="freq">   137</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] faked 1999 interview</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] unseccessful at the time</labl>
+        <catStat type="freq">  1423</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Old, Sick</labl>
+        <catStat type="freq">    18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Unreachable Until End</labl>
+        <catStat type="freq">    47</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Foreigner In Homeland</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Sick Until End Of Field Interview</labl>
+        <catStat type="freq">    54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Unreachable</labl>
+        <catStat type="freq">  1544</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Cannot Process</labl>
+        <catStat type="freq">   100</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <labl>[29] Other Unclear Case</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] Unwilling Then</labl>
+        <catStat type="freq"> 13126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] No Questionnaire</labl>
+        <catStat type="freq">   267</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] No Time, Desire</labl>
+        <catStat type="freq">  4717</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Currently not willing to participate</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] Other Unclear Case</labl>
+        <catStat type="freq">    76</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Final Refusal</labl>
+        <catStat type="freq">  3966</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>46</catValu>
+        <labl>[46] Final Refusal</labl>
+        <catStat type="freq">   424</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>47</catValu>
+        <labl>[47] Language Difficulties</labl>
+        <catStat type="freq">    31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>50</catValu>
+        <labl>[50] Moved To Foreign Country</labl>
+        <catStat type="freq">    35</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>60</catValu>
+        <labl>[60] Died</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>70</catValu>
+        <labl>[70] Moved, No Core Person</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>80</catValu>
+        <labl>[80] HH Not Found</labl>
+        <catStat type="freq">   633</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>90</catValu>
+        <labl>[90] Address Of HH Not Found</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+    </var>
+    <var ID="pader" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Success Obtaining Address</labl>
+      <sumStat type="valid">9339</sumStat>
+      <sumStat type="invalid">720933</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">720933</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Moved, New Address</labl>
+        <catStat type="freq">  6110</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Moved, No New Address</labl>
+        <catStat type="freq">  1820</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] HH Not At Old Address</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] HH Not Found</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Moved To Foreign Country</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] No Follow Up Due To Prev. Yr. Refusal</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Moved With Core Person</labl>
+        <catStat type="freq">  1343</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Rejoined Panel HH</labl>
+        <catStat type="freq">    56</catStat>
+      </catgry>
+    </var>
+    <var ID="paderq" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Person Supplying Address Information</labl>
+      <sumStat type="valid">9331</sumStat>
+      <sumStat type="invalid">720941</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">720941</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Interviewer</labl>
+        <catStat type="freq">  8607</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Mail</labl>
+        <catStat type="freq">   134</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Resident Registrar</labl>
+        <catStat type="freq">   482</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Target Person</labl>
+        <catStat type="freq">   108</catStat>
+      </catgry>
+    </var>
+    <var ID="auszugm" intrvl="numeric" files="pbrutto">
+      <labl>Month Moved Out Of Dwelling</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.556</sumStat>
+      <sumStat type="3rd Qu.">10</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">721371</sumStat>
+      <sumStat type="valid">8901</sumStat>
+      <sumStat type="invalid">721371</sumStat>
+    </var>
+    <var ID="auszugj" intrvl="numeric" files="pbrutto">
+      <labl>Year Moved Out Of Dwelling</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">37.52</sumStat>
+      <sumStat type="3rd Qu.">93</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">720346</sumStat>
+      <sumStat type="valid">9926</sumStat>
+      <sumStat type="invalid">720346</sumStat>
+    </var>
+    <var ID="einzugm" intrvl="numeric" files="pbrutto">
+      <labl>Month Moved Into Dwelling</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">7</sumStat>
+      <sumStat type="Mean">6.545</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">95</sumStat>
+      <sumStat type="NA's">709330</sumStat>
+      <sumStat type="valid">20942</sumStat>
+      <sumStat type="invalid">709330</sumStat>
+    </var>
+    <var ID="einzugj" intrvl="numeric" files="pbrutto">
+      <labl>Year Moved In</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">10</sumStat>
+      <sumStat type="Mean">38.39</sumStat>
+      <sumStat type="3rd Qu.">93</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">707241</sumStat>
+      <sumStat type="valid">23031</sumStat>
+      <sumStat type="invalid">707241</sumStat>
+    </var>
+    <var ID="abwesm" intrvl="numeric" files="pbrutto">
+      <labl>Month When Temporarily Absent</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">6</sumStat>
+      <sumStat type="Mean">6.59</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">729051</sumStat>
+      <sumStat type="valid">1221</sumStat>
+      <sumStat type="invalid">729051</sumStat>
+    </var>
+    <var ID="abwesj" intrvl="numeric" files="pbrutto">
+      <labl>Year When Temporarily Absent</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">5</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">29.69</sumStat>
+      <sumStat type="3rd Qu.">91</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">728684</sumStat>
+      <sumStat type="valid">1588</sumStat>
+      <sumStat type="invalid">728684</sumStat>
+    </var>
+    <var ID="pbio" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Work Result Biography</labl>
+      <sumStat type="valid">484592</sumStat>
+      <sumStat type="invalid">245680</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">245680</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] No Biography Member Since 1984</labl>
+        <catStat type="freq">129288</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Completed Biography</labl>
+        <catStat type="freq"> 34786</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] No Biography Reason Unknown</labl>
+        <catStat type="freq">  2487</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] No Biography Now Survey Age</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] No Biography, Refused</labl>
+        <catStat type="freq"> 20354</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Old Respondent, 1</labl>
+        <catStat type="freq">272253</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Old Respondent, 2</labl>
+        <catStat type="freq">   769</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Old Respondent, 3</labl>
+        <catStat type="freq"> 16140</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Old Respondent, 4</labl>
+        <catStat type="freq">   817</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Left Panel Before Biography</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Biography from integrated Person-Biography-Questionaire</labl>
+        <catStat type="freq">  7697</catStat>
+      </catgry>
+    </var>
+    <var ID="ber" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Willing To Participate</labl>
+      <sumStat type="valid">108219</sumStat>
+      <sumStat type="invalid">622053</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">605063</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 16990</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] very good</labl>
+        <catStat type="freq"> 71426</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] good</labl>
+        <catStat type="freq"> 20077</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] bad</labl>
+        <catStat type="freq">  5326</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Very Bad</labl>
+        <catStat type="freq"> 11390</catStat>
+      </catgry>
+    </var>
+    <var ID="perge" intrvl="labeled_numeric" files="pbrutto">
+      <labl>SUBSAMPLE</labl>
+      <sumStat type="valid">1983</sumStat>
+      <sumStat type="invalid">728289</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">728289</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] PAPI-Interview</labl>
+        <catStat type="freq">  1207</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] CAPI-Interview</labl>
+        <catStat type="freq">   703</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Dropout</labl>
+        <catStat type="freq">    73</catStat>
+      </catgry>
+    </var>
+    <var ID="pnat0" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Nationality 85-95</labl>
+      <sumStat type="valid">188649</sumStat>
+      <sumStat type="invalid">541623</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">541497</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    99</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] German West</labl>
+        <catStat type="freq">134363</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Other</labl>
+        <catStat type="freq"> 16139</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Ex-Yugoslavia</labl>
+        <catStat type="freq">  7554</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Greece</labl>
+        <catStat type="freq">  5420</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Ital</labl>
+        <catStat type="freq">  7614</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Spain</labl>
+        <catStat type="freq">  3799</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] other</labl>
+        <catStat type="freq">  1371</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] German, East</labl>
+        <catStat type="freq"> 12330</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] no answer</labl>
+        <catStat type="freq">    59</catStat>
+      </catgry>
+    </var>
+    <var ID="umzug" intrvl="numeric" files="pbrutto">
+      <labl>Moved Between East And West Germany</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.24</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">728028</sumStat>
+      <sumStat type="valid">2244</sumStat>
+      <sumStat type="invalid">728028</sumStat>
+    </var>
+    <var ID="pzugm" intrvl="numeric" files="pbrutto">
+      <labl>Month Entered,Left Panel</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">8</sumStat>
+      <sumStat type="Mean">20.44</sumStat>
+      <sumStat type="3rd Qu.">11</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">724477</sumStat>
+      <sumStat type="valid">5795</sumStat>
+      <sumStat type="invalid">724477</sumStat>
+    </var>
+    <var ID="pzugj" intrvl="numeric" files="pbrutto">
+      <labl>Year Entered,Left Panel</labl>
+      <sumStat type="Min.">32</sumStat>
+      <sumStat type="1st Qu.">86</sumStat>
+      <sumStat type="Median">88</sumStat>
+      <sumStat type="Mean">88.6</sumStat>
+      <sumStat type="3rd Qu.">90</sumStat>
+      <sumStat type="Max.">99</sumStat>
+      <sumStat type="NA's">724115</sumStat>
+      <sumStat type="valid">6157</sumStat>
+      <sumStat type="invalid">724115</sumStat>
+    </var>
+    <var ID="padq" intrvl="unknown" files="pbrutto">
+      <labl>Source Of Address Information</labl>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 1</catValu>
+        <labl>[1] Interviewer</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 2</catValu>
+        <labl>[2] Mail</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 3</catValu>
+        <labl>[3] Resident Registrar</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu> 4</catValu>
+        <labl>[4] Target Person</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="part" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Type Of Person Record</labl>
+      <sumStat type="valid">107352</sumStat>
+      <sumStat type="invalid">622920</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">622920</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Latent</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Once</labl>
+        <catStat type="freq">105347</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Twice In Old HH</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Twice In New HH</labl>
+        <catStat type="freq">  2005</catStat>
+      </catgry>
+    </var>
+    <var ID="pzweitv" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Second Residence Previous Year</labl>
+      <sumStat type="valid">968</sumStat>
+      <sumStat type="invalid">729304</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">729304</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">   968</catStat>
+      </catgry>
+    </var>
+    <var ID="wstatus" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Follow-Up Status</labl>
+      <sumStat type="valid">75417</sumStat>
+      <sumStat type="invalid">654855</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">654855</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] No W Status, Too Young</labl>
+        <catStat type="freq"> 16850</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Old Person With W Status</labl>
+        <catStat type="freq"> 55701</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Old Person Exc W Status</labl>
+        <catStat type="freq">  1447</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] New Person With W Status</labl>
+        <catStat type="freq">   783</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] New Person Exc W Status</labl>
+        <catStat type="freq">   636</catStat>
+      </catgry>
+    </var>
+    <var ID="zuhau" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Wave Entered Household</labl>
+      <sumStat type="valid">96398</sumStat>
+      <sumStat type="invalid">633874</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">633152</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   722</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] 1984, Wave A</labl>
+        <catStat type="freq"> 80534</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 1985, Wave B</labl>
+        <catStat type="freq">  3021</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 1986, Wave C</labl>
+        <catStat type="freq">  3734</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 1987, Wave D</labl>
+        <catStat type="freq">  3105</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] 1988, Wave E</labl>
+        <catStat type="freq">  1729</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] 1989, Wave F</labl>
+        <catStat type="freq">  2023</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] 1990, Wave G</labl>
+        <catStat type="freq">  1461</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] 1991, Wave H</labl>
+        <catStat type="freq">   791</catStat>
+      </catgry>
+    </var>
+    <var ID="abhau" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Wave Left Household</labl>
+      <sumStat type="valid">440</sumStat>
+      <sumStat type="invalid">729832</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">729831</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] 1985, Wave B</labl>
+        <catStat type="freq">   106</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] 1986, Wave C</labl>
+        <catStat type="freq">   160</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] 1987, Wave D</labl>
+        <catStat type="freq">    48</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] 1988, Wave E</labl>
+        <catStat type="freq">    52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] 1989, Wave F</labl>
+        <catStat type="freq">    49</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] 1990, Wave G</labl>
+        <catStat type="freq">    25</catStat>
+      </catgry>
+    </var>
+    <var ID="sample1" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Sample</labl>
+      <sumStat type="valid">231743</sumStat>
+      <sumStat type="invalid">498529</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">498529</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A German HH Head, West</labl>
+        <catStat type="freq"> 51868</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B1 Tuerkischer HV</labl>
+        <catStat type="freq">  6167</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] B2 Jugoslawischer HV</labl>
+        <catStat type="freq">  2924</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] B3 Greek HH Head</labl>
+        <catStat type="freq">  1756</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] B4 Italian HH Head</labl>
+        <catStat type="freq">  3340</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] B5 Spanish HH Head</labl>
+        <catStat type="freq">  1348</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] C German HH Head, East</labl>
+        <catStat type="freq"> 24900</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] D1 Immigrant W. Germany</labl>
+        <catStat type="freq">  2764</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] D2 Immigrant W. Germany</labl>
+        <catStat type="freq">  2869</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] E1, PAPI</labl>
+        <catStat type="freq">  3839</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] E2, CAPI</labl>
+        <catStat type="freq">  3583</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] F1 ISOEP (Innovation)</labl>
+        <catStat type="freq"> 51839</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] F2 ISOEP, Additional Foreigner Addresses</labl>
+        <catStat type="freq">  1860</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] G1 High Income</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] G1 High Income</labl>
+        <catStat type="freq"> 13362</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] H Ergaenzungsstichprobe</labl>
+        <catStat type="freq"> 17100</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>19</catValu>
+        <labl>[19] I Icentivation</labl>
+        <catStat type="freq">  7087</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] J Increase 2011</labl>
+        <catStat type="freq"> 19993</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] K Increase 2012</labl>
+        <catStat type="freq">  6622</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] IS2 Increase IS 2012</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] L Special Survey 2012</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] M Migration 2013</labl>
+        <catStat type="freq">  8522</catStat>
+      </catgry>
+    </var>
+    <var ID="ewstatu" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Employment Status of Non-Respondents (PUNR)</labl>
+      <sumStat type="valid">6105</sumStat>
+      <sumStat type="invalid">724167</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">721079</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  3088</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Fulltime Employment</labl>
+        <catStat type="freq">  2946</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Part Time Employment</labl>
+        <catStat type="freq">   383</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Registered Unemployed</labl>
+        <catStat type="freq">   238</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Schooling, Occupational Training</labl>
+        <catStat type="freq">  1087</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Pension</labl>
+        <catStat type="freq">   932</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] other</labl>
+        <catStat type="freq">   519</catStat>
+      </catgry>
+    </var>
+    <var ID="intdabei" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Preliminary Version  P-Interview collected</labl>
+      <sumStat type="valid">13333</sumStat>
+      <sumStat type="invalid">716939</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">716939</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq"> 13266</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] no</labl>
+        <catStat type="freq">    67</catStat>
+      </catgry>
+    </var>
+    <var ID="dj" intrvl="labeled_numeric" files="pbrutto">
+      <labl>Cognitive Test - Wanna DJ</labl>
+      <sumStat type="valid">1874</sumStat>
+      <sumStat type="invalid">728398</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">728398</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] DJ Completed</labl>
+        <catStat type="freq">  1381</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] DJ Not Possible</labl>
+        <catStat type="freq">    69</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] DJ Refused</labl>
+        <catStat type="freq">   424</catStat>
+      </catgry>
+    </var>
+    <var ID="stell1" intrvl="labeled_numeric" files="pbrutto">
+      <labl>[until 2011] Relationship To Head Of Household</labl>
+      <sumStat type="valid">662332</sumStat>
+      <sumStat type="invalid">67940</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq"> 67917</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Head Of HH</labl>
+        <catStat type="freq">269856</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Spouse Of Head</labl>
+        <catStat type="freq">157063</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Life Partner</labl>
+        <catStat type="freq"> 23019</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Son, Daughter</labl>
+        <catStat type="freq">196439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] foster child</labl>
+        <catStat type="freq">   537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Son, Daughter-In-Law</labl>
+        <catStat type="freq">  1357</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Father, Mother</labl>
+        <catStat type="freq">  2537</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Parent-In-Law</labl>
+        <catStat type="freq">  1066</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Brother, Sister, In-Law</labl>
+        <catStat type="freq">  1026</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] grandchild</labl>
+        <catStat type="freq">  2877</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Other Relative</labl>
+        <catStat type="freq">   477</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Non-Relative</labl>
+        <catStat type="freq">  2876</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Child of HH-Heads Partner</labl>
+        <catStat type="freq">  3084</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] same-sex spouse</labl>
+        <catStat type="freq">   115</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] No Answer</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="pbrutto"/>
+</codebook>

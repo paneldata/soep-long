@@ -1,0 +1,2878 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="kidl">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">35</sumStat>
+      <sumStat type="1st Qu.">34890</sumStat>
+      <sumStat type="Median">59400</sumStat>
+      <sumStat type="Mean">365700</sumStat>
+      <sumStat type="3rd Qu.">504300</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="kidl">
+      <labl>Wave-Specific Household ID</labl>
+      <sumStat type="Min.">35</sumStat>
+      <sumStat type="1st Qu.">55340</sumStat>
+      <sumStat type="Median">118000</sumStat>
+      <sumStat type="Mean">375300</sumStat>
+      <sumStat type="3rd Qu.">504000</sumStat>
+      <sumStat type="Max.">3502000</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="pid" intrvl="numeric" files="kidl">
+      <labl>ID Of Child</labl>
+      <sumStat type="Min.">303</sumStat>
+      <sumStat type="1st Qu.">532000</sumStat>
+      <sumStat type="Median">1175000</sumStat>
+      <sumStat type="Mean">3753000</sumStat>
+      <sumStat type="3rd Qu.">5044000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="kidl">
+      <labl>Current Wave HH Number (=HHNRAKT)</labl>
+      <sumStat type="Min.">1984</sumStat>
+      <sumStat type="1st Qu.">1993</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">2000</sumStat>
+      <sumStat type="3rd Qu.">2006</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="k_samp" intrvl="labeled_numeric" files="kidl">
+      <labl>Sample Membership</labl>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A German Head W.</labl>
+        <catStat type="freq">44369</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B Foreigner West</labl>
+        <catStat type="freq">22028</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] C German (East)</labl>
+        <catStat type="freq">20384</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] D Immigrant 1984-1993</labl>
+        <catStat type="freq"> 5377</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E Refreshment 1998</labl>
+        <catStat type="freq"> 3857</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] F Innovation 2000</labl>
+        <catStat type="freq">21196</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] G High Income</labl>
+        <catStat type="freq"> 3509</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] H Ergaenzungsstichprobe</labl>
+        <catStat type="freq"> 2979</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I Icentivation</labl>
+        <catStat type="freq"> 1099</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] J Increase 2011</labl>
+        <catStat type="freq"> 2864</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] K Increase 2012</labl>
+        <catStat type="freq"> 1015</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] M Migration 2013</labl>
+        <catStat type="freq"> 2481</catStat>
+      </catgry>
+    </var>
+    <var ID="k_nat" intrvl="labeled_numeric" files="kidl">
+      <labl>nationality</labl>
+      <sumStat type="valid">2753</sumStat>
+      <sumStat type="invalid">128405</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128322</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    83</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Nationality Of Household Head</labl>
+        <catStat type="freq">   957</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] German</labl>
+        <catStat type="freq">   242</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Turkish</labl>
+        <catStat type="freq">   653</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Ex-Yugoslav</labl>
+        <catStat type="freq">   262</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Greece</labl>
+        <catStat type="freq">   177</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Italian</labl>
+        <catStat type="freq">   289</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Spain</labl>
+        <catStat type="freq">   147</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] France</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Belgian, Dutch, Luxembourg</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] Sweden</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] American</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Korea</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Iran</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Indonesia</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <labl>[28] Portugal</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <labl>[29] Bulgaria</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>39</catValu>
+        <labl>[39] Israel</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Afghan</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+    </var>
+    <var ID="k_rel" intrvl="labeled_numeric" files="kidl">
+      <labl>relationship to head of household</labl>
+      <sumStat type="valid">131146</sumStat>
+      <sumStat type="invalid">12</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Haushaltsvorstand,Bezugsperson</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Spouse Of HH Head</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Life Partner</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Son, Daughter</labl>
+        <catStat type="freq">115121</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] foster child</labl>
+        <catStat type="freq">   354</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Son, Daughter-In-Law Of HH Head</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Brother, Sister Of HH Head</labl>
+        <catStat type="freq">    21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] grandchild</labl>
+        <catStat type="freq">  2130</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] Other Relative Of HH Head</labl>
+        <catStat type="freq">   127</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] Non-Relative</labl>
+        <catStat type="freq">  1153</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] Child Of The Partner Of HH Head</labl>
+        <catStat type="freq">  1784</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] Lebenspartner/in</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Son, Daughter</labl>
+        <catStat type="freq">  9905</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Stepchild (Child of the Partner)</labl>
+        <catStat type="freq">   279</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>23</catValu>
+        <labl>[23] Adoptive Child</labl>
+        <catStat type="freq">    18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] foster child</labl>
+        <catStat type="freq">    31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] grandchild</labl>
+        <catStat type="freq">   101</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Great-Grandchild</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Schwsohn,-tocher (Ehe-/LPartner v.Kind)</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] Leibliche/r Vater,Mutter</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Stiefvater,-mutter/Partner v.Vater,Mutter</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Adoptivvater,-mutter</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>[34] Pflegevater,-mutter</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>[35] Schwiegervater,-mutter,(Ehe-/LPartner v.Eltern)</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>[36] Grossvater,-mutter</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>[41] Brother, Sister</labl>
+        <catStat type="freq">    96</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>42</catValu>
+        <labl>[42] Halbbruder,-schwester</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>43</catValu>
+        <labl>[43] Stiefschwester,-bruder(von Elternteilen.verh/lpar)</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>44</catValu>
+        <labl>[44] Adoptivbruder,-schwester</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>45</catValu>
+        <labl>[45] Pflegebruder,-schwester</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>[51] Schwa(e)ger/in (Ehe-/LPartner v.Geschwistern)</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>52</catValu>
+        <labl>[52] Schwa(e)ger/in (Geschwister v.Ehe-/LPartner)</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>61</catValu>
+        <labl>[61] Tante,Onkel</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>62</catValu>
+        <labl>[62] niece/nephew</labl>
+        <catStat type="freq">     9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>63</catValu>
+        <labl>[63] Cousin/Cousine</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>64</catValu>
+        <labl>[64] Andere Verwandte</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>71</catValu>
+        <labl>[71] Sonstige</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>[99] Stellung zu HV unbekannt</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+    </var>
+    <var ID="k_inhh" intrvl="labeled_numeric" files="kidl">
+      <labl>member of household</labl>
+      <sumStat type="valid">131106</sumStat>
+      <sumStat type="invalid">52</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">    13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>[0] Lives In HH</labl>
+        <catStat type="freq">117776</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Absent Schooling</labl>
+        <catStat type="freq">    10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Absent For Job</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Absent In Hospital</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Absent For Longer</labl>
+        <catStat type="freq">    14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] other</labl>
+        <catStat type="freq">    11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] born</labl>
+        <catStat type="freq">  5873</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] moved from w germany since last survey</labl>
+        <catStat type="freq">   587</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] moved f.foreign country since l.survey</labl>
+        <catStat type="freq">   119</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] Moved Back To HH</labl>
+        <catStat type="freq">   154</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] Moved Within Ger. Before Last Wave</labl>
+        <catStat type="freq">    18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] moved f.foreign country prior l.survey</labl>
+        <catStat type="freq">    16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] born before last survey</labl>
+        <catStat type="freq">   102</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>[18] Moved From East Germany</labl>
+        <catStat type="freq">   134</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Lives In New HH</labl>
+        <catStat type="freq">   738</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>30</catValu>
+        <labl>[30] In HH At Least 2 Yrs</labl>
+        <catStat type="freq">  4889</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] born</labl>
+        <catStat type="freq">   373</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Moved From Within Germany Last Year</labl>
+        <catStat type="freq">   143</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>33</catValu>
+        <labl>[33] Moved From Foreign Country Last Year</labl>
+        <catStat type="freq">    13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>38</catValu>
+        <labl>[38] moved f.former GDR since Jan.prev.year</labl>
+        <catStat type="freq">    38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>40</catValu>
+        <labl>[40] Currently In HH</labl>
+        <catStat type="freq">    94</catStat>
+      </catgry>
+    </var>
+    <var ID="k_nrinhh" intrvl="numeric" files="kidl">
+      <labl>Serial Number Of Child</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">3.88</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">20</sumStat>
+      <sumStat type="NA's">271</sumStat>
+      <sumStat type="valid">130887</sumStat>
+      <sumStat type="invalid">271</sumStat>
+    </var>
+    <var ID="k_size" intrvl="numeric" files="kidl">
+      <labl>Household Size</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">4</sumStat>
+      <sumStat type="Mean">4.223</sumStat>
+      <sumStat type="3rd Qu.">5</sumStat>
+      <sumStat type="Max.">17</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="k_nrkid" intrvl="numeric" files="kidl">
+      <labl>Number Of Children In Household</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2.042</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="valid">131158</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="k_phead" intrvl="numeric" files="kidl">
+      <labl>pointer to head of household</labl>
+      <sumStat type="Min.">301</sumStat>
+      <sumStat type="1st Qu.">373900</sumStat>
+      <sumStat type="Median">1014000</sumStat>
+      <sumStat type="Mean">3679000</sumStat>
+      <sumStat type="3rd Qu.">5044000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="NA's">33</sumStat>
+      <sumStat type="valid">131125</sumStat>
+      <sumStat type="invalid">33</sumStat>
+    </var>
+    <var ID="k_pheadp" intrvl="numeric" files="kidl">
+      <labl>Pointer To Partner Of Head</labl>
+      <sumStat type="Min.">302</sumStat>
+      <sumStat type="1st Qu.">503500</sumStat>
+      <sumStat type="Median">1118000</sumStat>
+      <sumStat type="Mean">3607000</sumStat>
+      <sumStat type="3rd Qu.">5033000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="NA's">14318</sumStat>
+      <sumStat type="valid">116840</sumStat>
+      <sumStat type="invalid">14318</sumStat>
+    </var>
+    <var ID="k_pmum" intrvl="numeric" files="kidl">
+      <labl>pointer to mother</labl>
+      <sumStat type="Min.">302</sumStat>
+      <sumStat type="1st Qu.">423000</sumStat>
+      <sumStat type="Median">1139000</sumStat>
+      <sumStat type="Mean">3710000</sumStat>
+      <sumStat type="3rd Qu.">5047000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="NA's">2294</sumStat>
+      <sumStat type="valid">128864</sumStat>
+      <sumStat type="invalid">2294</sumStat>
+    </var>
+    <var ID="k_pmump" intrvl="numeric" files="kidl">
+      <labl>pointer to partner of mother</labl>
+      <sumStat type="Min.">301</sumStat>
+      <sumStat type="1st Qu.">440100</sumStat>
+      <sumStat type="Median">1086000</sumStat>
+      <sumStat type="Mean">3586000</sumStat>
+      <sumStat type="3rd Qu.">5038000</sumStat>
+      <sumStat type="Max.">35020000</sumStat>
+      <sumStat type="NA's">14729</sumStat>
+      <sumStat type="valid">116429</sumStat>
+      <sumStat type="invalid">14729</sumStat>
+    </var>
+    <var ID="k_instr" intrvl="labeled_numeric" files="kidl">
+      <labl>Language Version Of Questionnaire</labl>
+      <sumStat type="valid">30140</sumStat>
+      <sumStat type="invalid">101018</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">101018</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] German West</labl>
+        <catStat type="freq"> 13928</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Other</labl>
+        <catStat type="freq">  3454</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Ex-Yugoslavia</labl>
+        <catStat type="freq">  1239</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Greece</labl>
+        <catStat type="freq">   801</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Ital</labl>
+        <catStat type="freq">  1352</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Spain</labl>
+        <catStat type="freq">   571</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] German (East)</labl>
+        <catStat type="freq">  6439</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Immigrant</labl>
+        <catStat type="freq">  2356</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_pre" intrvl="labeled_numeric" files="kidl">
+      <labl>Pre-School</labl>
+      <sumStat type="valid">29360</sumStat>
+      <sumStat type="invalid">101798</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">100183</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">  1615</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Nursery School</labl>
+        <catStat type="freq"> 23472</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Part-Time</labl>
+        <catStat type="freq">  1279</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] In The Morning</labl>
+        <catStat type="freq">  1630</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Afternoon</labl>
+        <catStat type="freq">   270</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Full Day</labl>
+        <catStat type="freq">  2709</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_gen" intrvl="labeled_numeric" files="kidl">
+      <labl>General Education System</labl>
+      <sumStat type="valid">79135</sumStat>
+      <sumStat type="invalid">52023</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   63</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">51959</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Primary School</labl>
+        <catStat type="freq">31817</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Lower Secondary School</labl>
+        <catStat type="freq">11319</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] intermediate school</labl>
+        <catStat type="freq">12839</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] upper secondary</labl>
+        <catStat type="freq">14662</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] comprehensive school</labl>
+        <catStat type="freq"> 3912</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] vocational school</labl>
+        <catStat type="freq">  456</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Other School</labl>
+        <catStat type="freq"> 2121</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] Spec. Education School</labl>
+        <catStat type="freq">  277</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] Other School (East 90,91)</labl>
+        <catStat type="freq"> 1732</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_vocat" intrvl="labeled_numeric" files="kidl">
+      <labl>Vocational School</labl>
+      <sumStat type="valid">423</sumStat>
+      <sumStat type="invalid">130735</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130734</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Vocational School</labl>
+        <catStat type="freq">   231</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Other School</labl>
+        <catStat type="freq">   192</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_none" intrvl="labeled_numeric" files="kidl">
+      <labl>None Of These Institutions</labl>
+      <sumStat type="valid">26887</sumStat>
+      <sumStat type="invalid">104271</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">    3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">99083</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 5185</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] None Of These Institutions (1984-2008)</labl>
+        <catStat type="freq">19016</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] None Of These Schools (2009-)</labl>
+        <catStat type="freq"> 5133</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] No Pre-School Attended (2009-)</labl>
+        <catStat type="freq"> 2738</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_east" intrvl="labeled_numeric" files="kidl">
+      <labl>General School East Germany</labl>
+      <sumStat type="valid">1732</sumStat>
+      <sumStat type="invalid">129426</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">129426</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Polytechnical Secondary School</labl>
+        <catStat type="freq">  1618</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Extended Oberschule</labl>
+        <catStat type="freq">    31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Specialized School</labl>
+        <catStat type="freq">    18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Spec. Education School</labl>
+        <catStat type="freq">    27</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] Other Comprehensive School</labl>
+        <catStat type="freq">    15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] vocational school</labl>
+        <catStat type="freq">    10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Other School</labl>
+        <catStat type="freq">    13</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_eastp" intrvl="labeled_numeric" files="kidl">
+      <labl>Day-Home For School Children,East</labl>
+      <sumStat type="valid">369</sumStat>
+      <sumStat type="invalid">130789</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130789</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Boarding School (East 90/91)</labl>
+        <catStat type="freq">   369</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_other" intrvl="labeled_numeric" files="kidl">
+      <labl>Other Type Of School</labl>
+      <sumStat type="valid">52</sumStat>
+      <sumStat type="invalid">131106</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">131087</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Spec. Education School</labl>
+        <catStat type="freq">    15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] Learning Disabilities School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] Remedial School</labl>
+        <catStat type="freq">     5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] School For The handicapped</labl>
+        <catStat type="freq">     4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] School For The Blind</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] School For Disabled</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>[17] Observation Period</labl>
+        <catStat type="freq">     6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>20</catValu>
+        <labl>[20] Speech Therapy School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>[21] Speech Therapy Primary School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>22</catValu>
+        <labl>[22] Speech Therapy Day Center</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>24</catValu>
+        <labl>[24] Business School</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>25</catValu>
+        <labl>[25] Continuing Education</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>26</catValu>
+        <labl>[26] Specialized Vocational School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>27</catValu>
+        <labl>[27] Continuing Education Vocational School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>28</catValu>
+        <labl>[28] Professional Preparation Year</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>29</catValu>
+        <labl>[29] Domestic Science School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>[31] Home Economics School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>32</catValu>
+        <labl>[32] Special Assistance School (Lebenshilfe)</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>34</catValu>
+        <labl>[34] School For The Deaf</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>35</catValu>
+        <labl>[35] School For Learning Disorders</labl>
+        <catStat type="freq">     3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>36</catValu>
+        <labl>[36] Church Run Special School</labl>
+        <catStat type="freq">     2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>37</catValu>
+        <labl>[37] Learn Disabilities Special School</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_publ" intrvl="labeled_numeric" files="kidl">
+      <labl>Public Institution</labl>
+      <sumStat type="valid">25214</sumStat>
+      <sumStat type="invalid">105944</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">105731</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   213</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Public Institution</labl>
+        <catStat type="freq"> 18061</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Public School (2011)</labl>
+        <catStat type="freq">  5903</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Public Provider (2011)</labl>
+        <catStat type="freq">  1250</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_priv" intrvl="labeled_numeric" files="kidl">
+      <labl>Private Provider Of Facility</labl>
+      <sumStat type="valid">493</sumStat>
+      <sumStat type="invalid">130665</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130665</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Private Provider</labl>
+        <catStat type="freq">   214</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Private Non-Profit School (2011)</labl>
+        <catStat type="freq">   103</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Private Provider (2011)</labl>
+        <catStat type="freq">   176</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_indep" intrvl="labeled_numeric" files="kidl">
+      <labl>Independent Provider Of Facility</labl>
+      <sumStat type="valid">4044</sumStat>
+      <sumStat type="invalid">127114</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">126901</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   213</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Independent Provider</labl>
+        <catStat type="freq">  2592</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Church School (2011)</labl>
+        <catStat type="freq">   376</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Church Instituion (2011)</labl>
+        <catStat type="freq">  1076</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_comp" intrvl="labeled_numeric" files="kidl">
+      <labl>Company Facility</labl>
+      <sumStat type="valid">47</sumStat>
+      <sumStat type="invalid">131111</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130898</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   213</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Provided By Company</labl>
+        <catStat type="freq">    28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Provided By Company (2011)</labl>
+        <catStat type="freq">    19</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_comm" intrvl="labeled_numeric" files="kidl">
+      <labl>Commercial Provider Of Facility</labl>
+      <sumStat type="valid">561</sumStat>
+      <sumStat type="invalid">130597</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130057</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   540</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Commercial Provider</labl>
+        <catStat type="freq">   354</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Private School (2011)</labl>
+        <catStat type="freq">    82</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Commercial Provider (2011)</labl>
+        <catStat type="freq">   125</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_time" intrvl="labeled_numeric" files="kidl">
+      <labl>Time Of Day Of care</labl>
+      <sumStat type="valid">69337</sumStat>
+      <sumStat type="invalid">61821</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">60060</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 1761</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] In The Morning</labl>
+        <catStat type="freq">45803</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Afternoon</labl>
+        <catStat type="freq">  390</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Full Day</labl>
+        <catStat type="freq">12667</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] No, Not Full-Time (2009-)</labl>
+        <catStat type="freq">10477</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_hrs" intrvl="numeric" files="kidl">
+      <labl>Hours P.Day Spent At Facility</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">4</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">5.523</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">24</sumStat>
+      <sumStat type="NA's">124420</sumStat>
+      <sumStat type="valid">6738</sumStat>
+      <sumStat type="invalid">124420</sumStat>
+    </var>
+    <var ID="kd_rely" intrvl="labeled_numeric" files="kidl">
+      <labl>Adherence To Opening Time</labl>
+      <sumStat type="valid">4964</sumStat>
+      <sumStat type="invalid">126194</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">126043</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   151</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Fully Rely</labl>
+        <catStat type="freq">  4210</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Partly Rely</labl>
+        <catStat type="freq">   661</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Cannot Rely</labl>
+        <catStat type="freq">    93</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_lunch" intrvl="labeled_numeric" files="kidl">
+      <labl>Lunch At Facility</labl>
+      <sumStat type="valid">19145</sumStat>
+      <sumStat type="invalid">112013</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">111649</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   364</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes</labl>
+        <catStat type="freq">  8294</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] no</labl>
+        <catStat type="freq"> 10851</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_lunch" intrvl="labeled_numeric" files="kidl">
+      <labl>Mittagessen in der Schule</labl>
+      <sumStat type="valid">3802</sumStat>
+      <sumStat type="invalid">127356</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">127327</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Ja</labl>
+        <catStat type="freq">  2259</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Nein</labl>
+        <catStat type="freq">  1543</catStat>
+      </catgry>
+    </var>
+    <var ID="ks_amtp" intrvl="numeric" files="kidl">
+      <labl>Kosten fuer Schule pro Monat</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">20</sumStat>
+      <sumStat type="Median">40</sumStat>
+      <sumStat type="Mean">62.78</sumStat>
+      <sumStat type="3rd Qu.">70</sumStat>
+      <sumStat type="Max.">1500</sumStat>
+      <sumStat type="NA's">129761</sumStat>
+      <sumStat type="valid">1397</sumStat>
+      <sumStat type="invalid">129761</sumStat>
+    </var>
+    <var ID="ks_cost" intrvl="labeled_numeric" files="kidl">
+      <labl>Schule: keine Kosten</labl>
+      <sumStat type="valid">2382</sumStat>
+      <sumStat type="invalid">128776</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128724</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    52</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] keine Kosten</labl>
+        <catStat type="freq">  2382</catStat>
+      </catgry>
+    </var>
+    <var ID="kk_amtp" intrvl="numeric" files="kidl">
+      <labl>Kosten fuer Kita etc. pro Monat</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">85</sumStat>
+      <sumStat type="Mean">109.6</sumStat>
+      <sumStat type="3rd Qu.">150</sumStat>
+      <sumStat type="Max.">816</sumStat>
+      <sumStat type="NA's">129584</sumStat>
+      <sumStat type="valid">1574</sumStat>
+      <sumStat type="invalid">129584</sumStat>
+    </var>
+    <var ID="kk_cost" intrvl="labeled_numeric" files="kidl">
+      <labl>Kita: keine Kosten</labl>
+      <sumStat type="valid">296</sumStat>
+      <sumStat type="invalid">130862</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130833</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] keine Kosten</labl>
+        <catStat type="freq">   296</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_fee" intrvl="labeled_numeric" files="kidl">
+      <labl>Fee Payable For Attendence</labl>
+      <sumStat type="valid">18169</sumStat>
+      <sumStat type="invalid">112989</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">112681</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   308</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Free Of Charge</labl>
+        <catStat type="freq"> 12923</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Fixed Sum in EURO</labl>
+        <catStat type="freq">  5246</catStat>
+      </catgry>
+    </var>
+    <var ID="kd_amtp" intrvl="numeric" files="kidl">
+      <labl>Amount Paid</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">53</sumStat>
+      <sumStat type="Median">87.5</sumStat>
+      <sumStat type="Mean">120.3</sumStat>
+      <sumStat type="3rd Qu.">150</sumStat>
+      <sumStat type="Max.">1500</sumStat>
+      <sumStat type="NA's">126038</sumStat>
+      <sumStat type="valid">5120</sumStat>
+      <sumStat type="invalid">126038</sumStat>
+    </var>
+    <var ID="kc_relat" intrvl="labeled_numeric" files="kidl">
+      <labl>Carer: Relatives</labl>
+      <sumStat type="valid">15849</sumStat>
+      <sumStat type="invalid">115309</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">115308</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Carer: Relatives</labl>
+        <catStat type="freq"> 15849</catStat>
+      </catgry>
+    </var>
+    <var ID="kc_frnd" intrvl="labeled_numeric" files="kidl">
+      <labl>Carer: Friends</labl>
+      <sumStat type="valid">2824</sumStat>
+      <sumStat type="invalid">128334</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128333</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Carer: Friends</labl>
+        <catStat type="freq">  2824</catStat>
+      </catgry>
+    </var>
+    <var ID="kc_paid" intrvl="labeled_numeric" files="kidl">
+      <labl>Carer: Paid</labl>
+      <sumStat type="valid">1441</sumStat>
+      <sumStat type="invalid">129717</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">129716</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Carer: Paid Care</labl>
+        <catStat type="freq">  1441</catStat>
+      </catgry>
+    </var>
+    <var ID="kc_mindr" intrvl="labeled_numeric" files="kidl">
+      <labl>Carer: Child Minder</labl>
+      <sumStat type="valid">904</sumStat>
+      <sumStat type="invalid">130254</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130254</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Carer: Child Minder</labl>
+        <catStat type="freq">   904</catStat>
+      </catgry>
+    </var>
+    <var ID="kc_none" intrvl="labeled_numeric" files="kidl">
+      <labl>Carer: None</labl>
+      <sumStat type="valid">54269</sumStat>
+      <sumStat type="invalid">76889</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">    0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">73733</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq"> 3156</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Carer: None</labl>
+        <catStat type="freq">54269</catStat>
+      </catgry>
+    </var>
+    <var ID="kc_amtp" intrvl="numeric" files="kidl">
+      <labl>External Care: Costs per Month</labl>
+      <sumStat type="Min.">3</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">120</sumStat>
+      <sumStat type="Mean">186.6</sumStat>
+      <sumStat type="3rd Qu.">200</sumStat>
+      <sumStat type="Max.">5500</sumStat>
+      <sumStat type="NA's">130853</sumStat>
+      <sumStat type="valid">305</sumStat>
+      <sumStat type="invalid">130853</sumStat>
+    </var>
+    <var ID="kc_cost" intrvl="labeled_numeric" files="kidl">
+      <labl>External Care: No Costs</labl>
+      <sumStat type="valid">2124</sumStat>
+      <sumStat type="invalid">129034</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">129013</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">    21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] no costs</labl>
+        <catStat type="freq">  2124</catStat>
+      </catgry>
+    </var>
+    <var ID="ka06_spo" intrvl="labeled_numeric" files="kidl">
+      <labl>Gymnastics Under 6</labl>
+      <sumStat type="valid">2290</sumStat>
+      <sumStat type="invalid">128868</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128868</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">  2290</catStat>
+      </catgry>
+    </var>
+    <var ID="ka06_mus" intrvl="labeled_numeric" files="kidl">
+      <labl>Music Education Under 6</labl>
+      <sumStat type="valid">849</sumStat>
+      <sumStat type="invalid">130309</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130309</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   849</catStat>
+      </catgry>
+    </var>
+    <var ID="ka06_art" intrvl="labeled_numeric" files="kidl">
+      <labl>Art Class Under 6</labl>
+      <sumStat type="valid">199</sumStat>
+      <sumStat type="invalid">130959</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130959</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   199</catStat>
+      </catgry>
+    </var>
+    <var ID="ka06_oth" intrvl="labeled_numeric" files="kidl">
+      <labl>Other Activities Under 6</labl>
+      <sumStat type="valid">740</sumStat>
+      <sumStat type="invalid">130418</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130418</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   740</catStat>
+      </catgry>
+    </var>
+    <var ID="ka06_non" intrvl="labeled_numeric" files="kidl">
+      <labl>No Activities Under 6</labl>
+      <sumStat type="valid">2841</sumStat>
+      <sumStat type="invalid">128317</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128072</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   245</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] no activities since 6</labl>
+        <catStat type="freq">  2841</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_ssp" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: School Sports Club</labl>
+      <sumStat type="valid">2720</sumStat>
+      <sumStat type="invalid">128438</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128438</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">  2720</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_smu" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: School Music Club</labl>
+      <sumStat type="valid">1643</sumStat>
+      <sumStat type="invalid">129515</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">129515</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">  1643</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_sar" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: School Art Club</labl>
+      <sumStat type="valid">541</sumStat>
+      <sumStat type="invalid">130617</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130617</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   541</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_sth" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: School Theatre Club</labl>
+      <sumStat type="valid">493</sumStat>
+      <sumStat type="invalid">130665</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130665</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   493</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_sot" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Other School Activities</labl>
+      <sumStat type="valid">1780</sumStat>
+      <sumStat type="invalid">129378</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">129378</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Other School Activities</labl>
+        <catStat type="freq">  1780</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_spo" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Non School Sports Club</labl>
+      <sumStat type="valid">6497</sumStat>
+      <sumStat type="invalid">124661</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">124661</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">  6497</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_mus" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Non School Music Club</labl>
+      <sumStat type="valid">2639</sumStat>
+      <sumStat type="invalid">128519</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128519</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">  2639</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_art" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Non School Art Club</labl>
+      <sumStat type="valid">188</sumStat>
+      <sumStat type="invalid">130970</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130970</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   188</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_org" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Volunteer Fire Department, Red Cross</labl>
+      <sumStat type="valid">461</sumStat>
+      <sumStat type="invalid">130697</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130697</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   461</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_yth" intrvl="labeled_numeric" files="kidl">
+      <labl>Youth Group Above 6</labl>
+      <sumStat type="valid">729</sumStat>
+      <sumStat type="invalid">130429</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130429</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   729</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_ctr" intrvl="labeled_numeric" files="kidl">
+      <labl>6 Years And Older: Non School Youth Center</labl>
+      <sumStat type="valid">363</sumStat>
+      <sumStat type="invalid">130795</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">130795</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Yes, Activity Applies</labl>
+        <catStat type="freq">   363</catStat>
+      </catgry>
+    </var>
+    <var ID="ka16_non" intrvl="labeled_numeric" files="kidl">
+      <labl>No Activities Above 6</labl>
+      <sumStat type="valid">1946</sumStat>
+      <sumStat type="invalid">129212</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128956</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   256</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] No Activities Above 6</labl>
+        <catStat type="freq">  1946</catStat>
+      </catgry>
+    </var>
+    <var ID="k_amtp" intrvl="numeric" files="kidl">
+      <labl>Average Costs Per Month</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">20</sumStat>
+      <sumStat type="Median">50</sumStat>
+      <sumStat type="Mean">76.6</sumStat>
+      <sumStat type="3rd Qu.">100</sumStat>
+      <sumStat type="Max.">1500</sumStat>
+      <sumStat type="NA's">125881</sumStat>
+      <sumStat type="valid">5277</sumStat>
+      <sumStat type="invalid">125881</sumStat>
+    </var>
+    <var ID="k_cost" intrvl="labeled_numeric" files="kidl">
+      <labl>No Costs</labl>
+      <sumStat type="valid">2278</sumStat>
+      <sumStat type="invalid">128880</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">128341</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   539</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] no costs</labl>
+        <catStat type="freq">  2278</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="kidl"/>
+</codebook>

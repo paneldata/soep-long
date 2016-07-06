@@ -1,0 +1,333 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hpfadl">
+      <labl>Case ID, Ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">32240</sumStat>
+      <sumStat type="Median">254800</sumStat>
+      <sumStat type="Mean">381800</sumStat>
+      <sumStat type="3rd Qu.">504200</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hpfadl">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">47790</sumStat>
+      <sumStat type="Median">219700</sumStat>
+      <sumStat type="Mean">387200</sumStat>
+      <sumStat type="3rd Qu.">502800</sumStat>
+      <sumStat type="Max.">3502000</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="hpfadl">
+      <labl>Erhebungsjahr (SurveyYear)</labl>
+      <sumStat type="Min.">1984</sumStat>
+      <sumStat type="1st Qu.">1995</sumStat>
+      <sumStat type="Median">2002</sumStat>
+      <sumStat type="Mean">2001</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2013</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hsample" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Stichprobenart</labl>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A Deutsche (West)</labl>
+        <catStat type="freq">106194</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B Auslaender (West)</labl>
+        <catStat type="freq"> 28903</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] C Deutsche (Ost)</labl>
+        <catStat type="freq"> 47021</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] D Zuwanderer (West) 1984-93</labl>
+        <catStat type="freq">  8367</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E Ergaenzung 1998</labl>
+        <catStat type="freq"> 11639</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] F Ergaenzung 2000</labl>
+        <catStat type="freq"> 61465</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] G Hocheinkommensbezieher 2002</labl>
+        <catStat type="freq"> 11384</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] H Ergaenzung 2006</labl>
+        <catStat type="freq">  9416</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I Incentivierung 2009</labl>
+        <catStat type="freq">  3251</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] J Aufstockung 2011</labl>
+        <catStat type="freq">  9252</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] K Aufstockung 2012</labl>
+        <catStat type="freq">  3098</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] M Migration 2013</labl>
+        <catStat type="freq">  2723</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Aktueller Befragungsstatus</labl>
+      <sumStat type="valid">302705</sumStat>
+      <sumStat type="invalid">8</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Realisiertes Haushaltsinterview</labl>
+        <catStat type="freq">270148</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH nur in Brutto-Bestand</labl>
+        <catStat type="freq"> 32557</catStat>
+      </catgry>
+    </var>
+    <var ID="sampreg" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Aktuelle Stichprobenregion</labl>
+      <sumStat type="valid">302657</sumStat>
+      <sumStat type="invalid">56</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">    48</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Westdeutschland, alte Bundeslaender</labl>
+        <catStat type="freq">237045</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Ostdeutschland, neue Bundeslaender</labl>
+        <catStat type="freq"> 65612</catStat>
+      </catgry>
+    </var>
+    <var ID="hpop" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Aktuelle Populationszugehoerigkeit</labl>
+      <sumStat type="valid">300649</sumStat>
+      <sumStat type="invalid">2064</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Fragebogenversion mit geaenderter Filterfuehrung</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] In Fragebogenversion nicht enthalten</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Unzulaessige Mehrfachantwort</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] nicht valide</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] trifft nicht zu</labl>
+        <catStat type="freq">  2064</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] keine Angabe</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Privat_HH,deut.HV</labl>
+        <catStat type="freq">265994</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Privat_HH,ausl.HV</labl>
+        <catStat type="freq"> 31651</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Anstalts_HH,deut.HV</labl>
+        <catStat type="freq">  2473</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Anstalts_HH,ausl.HV</labl>
+        <catStat type="freq">   531</catStat>
+      </catgry>
+    </var>
+    <var ID="hrgroup" intrvl="numeric" files="hpfadl">
+      <labl>Random Groups</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.519</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hbleib" intrvl="numeric" files="hpfadl">
+      <labl>Inverse Bleibewahrscheinlichkeit</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1.01</sumStat>
+      <sumStat type="Median">1.03</sumStat>
+      <sumStat type="Mean">0.8898</sumStat>
+      <sumStat type="3rd Qu.">1.08</sumStat>
+      <sumStat type="Max.">18.33</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf" intrvl="numeric" files="hpfadl">
+      <labl>Hochrechnungsfaktor</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">946.6</sumStat>
+      <sumStat type="Median">2633</sumStat>
+      <sumStat type="Mean">3616</sumStat>
+      <sumStat type="3rd Qu.">5122</sumStat>
+      <sumStat type="Max.">36600</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf0" intrvl="numeric" files="hpfadl">
+      <labl>Hochrechnungsfaktor fuer Ursprungsstichproben (Welle 1)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">671.6</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">204500</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf1" intrvl="numeric" files="hpfadl">
+      <labl>Hochrechnungsfaktor ohne Ursprungsstichproben (Welle 1)</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">920.6</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">34970</sumStat>
+      <sumStat type="valid">302713</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hpfadl"/>
+</codebook>
