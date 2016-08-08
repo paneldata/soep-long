@@ -1,3 +1,11 @@
+---
+name: soep-long
+label: SOEPlong
+config:
+    variables:
+        label-table: True
+---
+
 # SOEPlong
 
 ## Citation
