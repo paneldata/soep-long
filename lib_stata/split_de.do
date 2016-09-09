@@ -1,19 +1,19 @@
-use temp/v31/de/pl.dta
+use temp/v31/de/pl.dta, clear
 keep cid-plb0400
-save temp/v31/de/pl1.dta
+saveold temp/v31/de/plxxxxx1.dta, replace
 
-use temp/v31/de/pl.dta
+use temp/v31/de/pl.dta, clear
 keep plb0401-plc0320
-save temp/v31/de/pl2.dta
+saveold temp/v31/de/plxxxxx2.dta, replace
 
-use temp/v31/de/pl.dta
+use temp/v31/de/pl.dta, clear
 keep plc0321-ple0090
-save temp/v31/de/pl3.dta
+saveold temp/v31/de/plxxxxx3.dta, replace
 
-use temp/v31/de/pl.dta
+use temp/v31/de/pl.dta, clear
 keep ple0091-plh0247
-save temp/v31/de/pl4.dta
+saveold temp/v31/de/plxxxxx4.dta, replace
 
-use temp/v31/de/pl.dta
+use temp/v31/de/pl.dta, clear
 keep plh0248-fpop
-save temp/v31/de/pl5.dta
+saveold temp/v31/de/plxxxxx5.dta, replace
