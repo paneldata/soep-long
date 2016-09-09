@@ -1,0 +1,349 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hpfadl">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">35780</sumStat>
+      <sumStat type="Median">271200</sumStat>
+      <sumStat type="Mean">554600</sumStat>
+      <sumStat type="3rd Qu.">515000</sumStat>
+      <sumStat type="Max.">3343000</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hpfadl">
+      <labl>Current Wave HH Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">54370</sumStat>
+      <sumStat type="Median">266600</sumStat>
+      <sumStat type="Mean">559400</sumStat>
+      <sumStat type="3rd Qu.">517200</sumStat>
+      <sumStat type="Max.">3503000</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="syear" intrvl="numeric" files="hpfadl">
+      <labl>Survea Year</labl>
+      <sumStat type="Min.">1984</sumStat>
+      <sumStat type="1st Qu.">1996</sumStat>
+      <sumStat type="Median">2004</sumStat>
+      <sumStat type="Mean">2003</sumStat>
+      <sumStat type="3rd Qu.">2010</sumStat>
+      <sumStat type="Max.">2014</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hsample" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Sample</labl>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A 1984 Initial Sample (West)</labl>
+        <catStat type="freq">108287</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B 1984 Migration (until 1983, West)</labl>
+        <catStat type="freq"> 29267</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] C 1990 Initial Sample (East)</labl>
+        <catStat type="freq"> 48378</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] D 1994/5 Migration (1984-1994, West)</labl>
+        <catStat type="freq">  8617</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E 1998 Refreshment</labl>
+        <catStat type="freq"> 11729</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] F 2000 Refreshment</labl>
+        <catStat type="freq"> 64226</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] G 2002 High Income</labl>
+        <catStat type="freq"> 12111</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] H 2006 Refreshment</labl>
+        <catStat type="freq"> 10249</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I 2009 Innovation Sample</labl>
+        <catStat type="freq">  3251</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] J 2011 Refreshment</labl>
+        <catStat type="freq"> 11794</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] K 2012 Refreshment</labl>
+        <catStat type="freq">  4553</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] L1 2010 Birth Cohort (2007-2010)</labl>
+        <catStat type="freq">  9351</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] L2 2010 Family Type (Low-Income, Single-Parent, Large Families)</labl>
+        <catStat type="freq"> 11330</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] L3 2011 Family Type (Single-Parent, Large Families)</labl>
+        <catStat type="freq">  3634</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] M1 2013 Migration (1995-2011)</labl>
+        <catStat type="freq">  5564</catStat>
+      </catgry>
+    </var>
+    <var ID="hnetto" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Current Wave survey Status</labl>
+      <sumStat type="valid">342333</sumStat>
+      <sumStat type="invalid">8</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Successful HH Interview</labl>
+        <catStat type="freq">303397</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] HH In Brutto Only</labl>
+        <catStat type="freq"> 38936</catStat>
+      </catgry>
+    </var>
+    <var ID="sampreg" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Current Sample Region</labl>
+      <sumStat type="valid">342241</sumStat>
+      <sumStat type="invalid">100</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">    92</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] West-Germany</labl>
+        <catStat type="freq">268856</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] East-Germany</labl>
+        <catStat type="freq"> 73385</catStat>
+      </catgry>
+    </var>
+    <var ID="hpop" intrvl="labeled_numeric" files="hpfadl">
+      <labl>Current Sample Membership</labl>
+      <sumStat type="valid">340241</sumStat>
+      <sumStat type="invalid">2100</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">  2100</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">     0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] Private HH, German HH-Head</labl>
+        <catStat type="freq">301659</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] Private HH, Foreign HH-Head</labl>
+        <catStat type="freq"> 35414</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] Institutionalized HH, German HH-Head</labl>
+        <catStat type="freq">  2623</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] Institutionalized HH, Foreign HH-Head</labl>
+        <catStat type="freq">   545</catStat>
+      </catgry>
+    </var>
+    <var ID="hrgroup" intrvl="numeric" files="hpfadl">
+      <labl>Random Groups</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">3</sumStat>
+      <sumStat type="Median">5</sumStat>
+      <sumStat type="Mean">4.519</sumStat>
+      <sumStat type="3rd Qu.">7</sumStat>
+      <sumStat type="Max.">8</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hbleib" intrvl="numeric" files="hpfadl">
+      <labl>Inverse staying Probability</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">1.01</sumStat>
+      <sumStat type="Median">1.03</sumStat>
+      <sumStat type="Mean">0.901</sumStat>
+      <sumStat type="3rd Qu.">1.09</sumStat>
+      <sumStat type="Max.">18.33</sumStat>
+      <sumStat type="NA's">5921</sumStat>
+      <sumStat type="valid">336420</sumStat>
+      <sumStat type="invalid">5921</sumStat>
+    </var>
+    <var ID="hhrf" intrvl="numeric" files="hpfadl">
+      <labl>Weighting Factor Wave</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">695.4</sumStat>
+      <sumStat type="Median">2268</sumStat>
+      <sumStat type="Mean">3310</sumStat>
+      <sumStat type="3rd Qu.">4769</sumStat>
+      <sumStat type="Max.">39720</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf0" intrvl="numeric" files="hpfadl">
+      <labl>Weighting only sample specific first wave</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">610.9</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">204500</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhrf1" intrvl="numeric" files="hpfadl">
+      <labl>Weighting without sample specific first wave</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">490.2</sumStat>
+      <sumStat type="Median">2162</sumStat>
+      <sumStat type="Mean">3311</sumStat>
+      <sumStat type="3rd Qu.">4869</sumStat>
+      <sumStat type="Max.">39720</sumStat>
+      <sumStat type="valid">342341</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hpfadl"/>
+</codebook>
