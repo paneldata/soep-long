@@ -41,7 +41,12 @@ def concepts():
     x.to_csv("ddionrails/concepts.csv", index=False)
 
 def fix_pl():
-    for name in glob.glob("ddionrails/r2ddi/*/plxxx*"):
+    os.system("""
+        rm -rf temp/r2ddi
+        mkdir -p temp
+        cp -r r2ddi temp
+    """)
+    for name in glob.glob("temp/r2ddi/*/*/plxxx*"):
         print(name)
         with open(name, "r") as f:
             text = f.read()
@@ -53,8 +58,8 @@ def main():
     copy.study()
     datasets()
     variables()
-    convert_r2ddi.Parser(version="v31").write_json()
     fix_pl()
+    convert_r2ddi.Parser(version="v31", r2ddi_path="temp/r2ddi").write_json()
 
 if __name__ == "__main__":
     main()
