@@ -59,7 +59,7 @@ def main():
     datasets()
     variables()
     fix_pl()
-    convert_r2ddi.Parser(version="v31", r2ddi_path="temp/r2ddi").write_json()
+    convert_r2ddi.Parser(version="v32", r2ddi_path="temp/r2ddi").write_json()
 
 if __name__ == "__main__":
     main()
