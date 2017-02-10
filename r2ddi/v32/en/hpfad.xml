@@ -1,0 +1,147 @@
+<codebook>
+  <dataDscr>
+    <var ID="cid" intrvl="numeric" files="hpfad">
+      <labl>Case-ID, Original Household Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">260900</sumStat>
+      <sumStat type="Median">806700</sumStat>
+      <sumStat type="Mean">1496000</sumStat>
+      <sumStat type="3rd Qu.">3124000</sumStat>
+      <sumStat type="Max.">3500000</sumStat>
+      <sumStat type="valid">54594</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hid" intrvl="numeric" files="hpfad">
+      <labl>Current Wave HH Number</labl>
+      <sumStat type="Min.">19</sumStat>
+      <sumStat type="1st Qu.">210800</sumStat>
+      <sumStat type="Median">803300</sumStat>
+      <sumStat type="Mean">1491000</sumStat>
+      <sumStat type="3rd Qu.">3132000</sumStat>
+      <sumStat type="Max.">3503000</sumStat>
+      <sumStat type="valid">54594</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hsample" intrvl="labeled_numeric" files="hpfad">
+      <labl>Sample Member</labl>
+      <sumStat type="valid">54594</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="TRUE">
+        <catValu>-8</catValu>
+        <labl>[-8] Question this year not part of Survey program</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-6</catValu>
+        <labl>[-6] Version of questionnaire with modified filtering</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-5</catValu>
+        <labl>[-5] Not included in this version of the questionnaire</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-4</catValu>
+        <labl>[-4] Inadmissible multiple response</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-3</catValu>
+        <labl>[-3] Answer improbable</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <labl>[-2] Does not apply</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <labl>[-1] No Answer</labl>
+        <catStat type="freq">   0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>[1] A 1984 Initial Sample (West)</labl>
+        <catStat type="freq">8267</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>[2] B 1984 Migration (until 1983, West)</labl>
+        <catStat type="freq">2642</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>[3] C 1990 Initial Sample (East)</labl>
+        <catStat type="freq">4070</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>[4] D 1994/5 Migration (1984-1994, West)</labl>
+        <catStat type="freq"> 886</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>[5] E 1998 Refreshment</labl>
+        <catStat type="freq">1389</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>[6] F 2000 Refreshment</labl>
+        <catStat type="freq">7831</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>[7] G 2002 High Income</labl>
+        <catStat type="freq">1701</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>[8] H 2006 Refreshment</labl>
+        <catStat type="freq">1746</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>[9] I 2009 Innovation Sample</labl>
+        <catStat type="freq">1756</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>[10] J 2011 Refreshment</labl>
+        <catStat type="freq">3444</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>[11] K 2012 Refreshment</labl>
+        <catStat type="freq">1658</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>[12] L1 2010 Birth Cohort (2007-2010)</labl>
+        <catStat type="freq">2250</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>[13] L2 2010 Family Type (Low-Income, Single-Parent, Large Families)</labl>
+        <catStat type="freq">2964</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>[14] L3 2011 Family Type (Single-Parent, Large Families)</labl>
+        <catStat type="freq">1046</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>[15] M1 2013 Migration (1995-2011)</labl>
+        <catStat type="freq">2945</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>16</catValu>
+        <labl>[16] Engeneering</labl>
+        <catStat type="freq">9999</catStat>
+      </catgry>
+    </var>
+  </dataDscr>
+  <fileDscr ID="hpfad"/>
+</codebook>
