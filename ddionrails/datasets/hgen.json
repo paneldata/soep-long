@@ -1,1 +1,4829 @@
-{"cid": {"name": "cid", "name_cs": "cid", "variable": "cid", "dataset": "hgen", "label": "Case-ID, Original Household Number", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["19", "35110", "269600", "541000", "514000", "3343000", "303397", "0"]}, "scale": "", "label_de": "Case ID, Ursprungshaushaltsnummer"}, "hid": {"name": "hid", "name_cs": "hid", "variable": "hid", "dataset": "hgen", "label": "Current Wave HH Number", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["19", "51930", "265100", "545800", "516100", "3503000", "303397", "0"]}, "scale": "", "label_de": "Aktuelle Haushaltsnummer"}, "syear": {"name": "syear", "name_cs": "syear", "variable": "syear", "dataset": "hgen", "label": "Survey Year", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "valid", "invalid"], "values": ["1984", "1996", "2004", "2002", "2010", "2014", "303397", "0"]}, "scale": "", "label_de": "Survey-Year, Erhebungsjahr"}, "hgmoveyr": {"name": "hgmoveyr", "name_cs": "hgmoveyr", "variable": "hgmoveyr", "dataset": "hgen", "label": "Year Moved In", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["1900", "1978", "1991", "1988", "2001", "2014", "6053", "297344", "6053"]}, "scale": "", "label_de": "Year Moved Into Dwelling"}, "hgcondit": {"name": "hgcondit", "name_cs": "hgcondit", "variable": "hgcondit", "dataset": "hgen", "label": "condition of house", "categories": {"frequencies": [0, 0, 0, 0, 0, 1284, 201933, 87788, 11935, 457], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] In A Good Condition", "[2] Partial Renovation", "[3] Full Renovations", "[4] Dilapidated"], "missings": [true, true, true, true, true, true, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] In A Good Condition", "[2] Some Renovations", "[3] Full Renovations", "[4] Dilapidated"]}, "statistics": {"names": ["valid", "invalid"], "values": ["302113", "1284"]}, "scale": "cat", "label_de": "Condition Of House"}, "hgseval": {"name": "hgseval", "name_cs": "hgseval", "variable": "hgseval", "dataset": "hgen", "label": "Adequacy Of Living Space In House Unit", "categories": {"frequencies": [0, 0, 0, 0, 0, 1547, 7424, 45867, 215692, 29266, 3601], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Much Too Small", "[2] A Bit Too Small", "[3] Just Right", "[4] A Bit Too Large", "[5] Much Too Large"], "missings": [true, true, true, true, true, true, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Much Too Small", "[2] A Bit Too Small", "[3] Just Right", "[4] A Bit Too Large", "[5] Much Too Large"]}, "statistics": {"names": ["valid", "invalid"], "values": ["301850", "1547"]}, "scale": "cat", "label_de": "Adequacy Of Living Space In Housing Unit"}, "hgeqpkit": {"name": "hgeqpkit", "name_cs": "hgeqpkit", "variable": "hgeqpkit", "dataset": "hgen", "label": "Dwelling Has Kitchen", "categories": {"frequencies": [0, 0, 0, 0, 0, 3009, 297126, 3262], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["300388", "3009"]}, "scale": "cat", "label_de": "Dwelling Has Kitchen"}, "hgeqpshw": {"name": "hgeqpshw", "name_cs": "hgeqpshw", "variable": "hgeqpshw", "dataset": "hgen", "label": "Dwelling Has Indoor Bath,Shower", "categories": {"frequencies": [0, 0, 0, 0, 0, 3317, 295145, 4935], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["300080", "3317"]}, "scale": "cat", "label_de": "Dwelling Has Indoor Bath,Shower"}, "hgeqpiwc": {"name": "hgeqpiwc", "name_cs": "hgeqpiwc", "variable": "hgeqpiwc", "dataset": "hgen", "label": "Dwelling Has Indoor Toilet", "categories": {"frequencies": [0, 0, 0, 0, 0, 12556, 286406, 4435], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["290841", "12556"]}, "scale": "cat", "label_de": "Dwelling Has Indoor Toilet"}, "hgeqphea": {"name": "hgeqphea", "name_cs": "hgeqphea", "variable": "hgeqphea", "dataset": "hgen", "label": "Dwelling Has Central, Floor Heat", "categories": {"frequencies": [0, 0, 0, 0, 0, 3071, 274723, 25603], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["300326", "3071"]}, "scale": "cat", "label_de": "Dwelling Has Central,Floor Heat"}, "hgeqpter": {"name": "hgeqpter", "name_cs": "hgeqpter", "variable": "hgeqpter", "dataset": "hgen", "label": "dwelling has balcony, terrace", "categories": {"frequencies": [0, 0, 0, 0, 0, 4972, 220750, 77675], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["298425", "4972"]}, "scale": "cat", "label_de": "Dwelling Has Balcony,Terrace"}, "hgeqpbas": {"name": "hgeqpbas", "name_cs": "hgeqpbas", "variable": "hgeqpbas", "dataset": "hgen", "label": "dwelling has basement", "categories": {"frequencies": [0, 0, 0, 0, 0, 2247, 283331, 17819], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["301150", "2247"]}, "scale": "cat", "label_de": "Dwelling Has Basement"}, "hgeqpgar": {"name": "hgeqpgar", "name_cs": "hgeqpgar", "variable": "hgeqpgar", "dataset": "hgen", "label": "dwelling has garden", "categories": {"frequencies": [0, 0, 0, 0, 0, 5031, 175996, 122370], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["298366", "5031"]}, "scale": "cat", "label_de": "Dwelling Has Garden"}, "hgeqpwat": {"name": "hgeqpwat", "name_cs": "hgeqpwat", "variable": "hgeqpwat", "dataset": "hgen", "label": "Dwelling Has Hot Water, Boiler", "categories": {"frequencies": [0, 32302, 0, 0, 4640, 1847, 261421, 3187], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["264608", "38789"]}, "scale": "cat", "label_de": "Dwelling Has Water, Bioler"}, "hgeqptel": {"name": "hgeqptel", "name_cs": "hgeqptel", "variable": "hgeqptel", "dataset": "hgen", "label": "dwelling has telefone", "categories": {"frequencies": [0, 37658, 0, 0, 4640, 10026, 247549, 3524], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["251073", "52324"]}, "scale": "cat", "label_de": "Dwelling Has Telefone"}, "hgeqpalm": {"name": "hgeqpalm", "name_cs": "hgeqpalm", "variable": "hgeqpalm", "dataset": "hgen", "label": "dwelling has alarm system", "categories": {"frequencies": [0, 150155, 0, 0, 0, 11571, 5134, 136537], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["141671", "161726"]}, "scale": "cat", "label_de": "Dwelling Has Alarm System"}, "hgeqpsol": {"name": "hgeqpsol", "name_cs": "hgeqpsol", "variable": "hgeqpsol", "dataset": "hgen", "label": "dwelling has solar system", "categories": {"frequencies": [0, 185890, 0, 0, 0, 678, 9123, 107706], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["116829", "186568"]}, "scale": "cat", "label_de": "Dwelling Has Solar System"}, "hgeqpair": {"name": "hgeqpair", "name_cs": "hgeqpair", "variable": "hgeqpair", "dataset": "hgen", "label": "dwelling has air conditioner", "categories": {"frequencies": [0, 185890, 0, 0, 0, 760, 1856, 114891], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["116747", "186650"]}, "scale": "cat", "label_de": "Dwelling Has Air Conditioner"}, "hgeqplif": {"name": "hgeqplif", "name_cs": "hgeqplif", "variable": "hgeqplif", "dataset": "hgen", "label": "Dwelling Has An Elevator", "categories": {"frequencies": [0, 208637, 0, 0, 0, 407, 7523, 86830], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["94353", "209044"]}, "scale": "cat", "label_de": "Dwelling Has An Elevator"}, "hgeqpnrj": {"name": "hgeqpnrj", "name_cs": "hgeqpnrj", "variable": "hgeqpnrj", "dataset": "hgen", "label": "dwelling has alternative energy source", "categories": {"frequencies": [0, 208637, 0, 0, 0, 478, 2946, 91336], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["94282", "209115"]}, "scale": "cat", "label_de": "Dwelling Has Alternative Energy Source"}, "hgowner": {"name": "hgowner", "name_cs": "hgowner", "variable": "hgowner", "dataset": "hgen", "label": "Tenant Or Owner Of Dwelling", "categories": {"frequencies": [0, 0, 0, 0, 0, 28, 130294, 162384, 7222, 2852, 617], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Owner", "[2] Main Tenant", "[3] Sub-tenant", "[4] Tenant", "[5] Home Occupant"], "missings": [true, true, true, true, true, true, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Owner", "[2] Main Tenant", "[3] Sub-Tenant", "[4] Tenant", "[5] Living In A Home"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303369", "28"]}, "scale": "cat", "label_de": "Tenant Or Owner Of Dwelling"}, "hgacquis": {"name": "hgacquis", "name_cs": "hgacquis", "variable": "hgacquis", "dataset": "hgen", "label": "Means Of Acquiring Dwelling", "categories": {"frequencies": [0, 13374, 0, 0, 165297, 35746, 30178, 21449, 37347, 6], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Bought From Owner", "[2] Inheritance, Gift", "[3] Bought, Built New", "[4] got back from public property"], "missings": [true, true, true, true, true, true, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Bought From Owner", "[2] Inheritance, Gift", "[3] Bought, Built New", "[4] Got Back From Public Property"]}, "statistics": {"names": ["valid", "invalid"], "values": ["88980", "214417"]}, "scale": "cat", "label_de": "Means Of Acquiring Dwelling"}, "hgsubsid": {"name": "hgsubsid", "name_cs": "hgsubsid", "variable": "hgsubsid", "dataset": "hgen", "label": "Government Subsidizes Housing Payments", "categories": {"frequencies": [0, 203191, 0, 0, 74396, 11769, 5274, 8767], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["14041", "289356"]}, "scale": "cat", "label_de": "Government Subsidizes Housing Payments"}, "hgosubs": {"name": "hgosubs", "name_cs": "hgosubs", "variable": "hgosubs", "dataset": "hgen", "label": "Amount Of Subsidies Last Year", "categories": {"frequencies": [0, 100206, 0, 0, 108728, 1225, 13048, 80190], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["93238", "210159"]}, "scale": "cat", "label_de": "Amount Of Subsidies Last Year"}, "hgreval": {"name": "hgreval", "name_cs": "hgreval", "variable": "hgreval", "dataset": "hgen", "label": "Rent Of Dwelling Vs Comparable Dwellings", "categories": {"frequencies": [0, 23857, 0, 0, 125873, 1643, 12957, 39152, 67492, 27088, 5335], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Very Inexpensive", "[2] Inexpensive", "[3] Reasonable", "[4] Slightly Expensive", "[5] Too Expensive"], "missings": [true, true, true, true, true, true, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Very Inexpensive", "[2] Inexpensive", "[3] Reasonable", "[4] Slightly Expensive", "[5] Too Expensive"]}, "statistics": {"names": ["valid", "invalid"], "values": ["152024", "151373"]}, "scale": "cat", "label_de": "Rent Of Dwelling Vs Comparable Dwellings"}, "hgrsubs": {"name": "hgrsubs", "name_cs": "hgrsubs", "variable": "hgrsubs", "dataset": "hgen", "label": "government subsidized housing", "categories": {"frequencies": [0, 0, 0, 0, 131052, 2645, 16409, 4649, 148642], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes, With due diligence", "[2] Yes, Exp.Subsidy", "[3] No"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes, With Due Diligence", "[2] Yes, With Run Out Due Diligence", "[3] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["169700", "133697"]}, "scale": "cat", "label_de": "Government Subsidized Housing"}, "hgreduc": {"name": "hgreduc", "name_cs": "hgreduc", "variable": "hgreduc", "dataset": "hgen", "label": "Dwelling At A Reduced Prize", "categories": {"frequencies": [0, 11243, 0, 0, 126424, 18517, 13415, 133798], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Yes", "[2] No"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Yes", "[2] No"]}, "statistics": {"names": ["valid", "invalid"], "values": ["147213", "156184"]}, "scale": "cat", "label_de": "Dwelling At A Reduced Prize"}, "hgsize": {"name": "hgsize", "name_cs": "hgsize", "variable": "hgsize", "dataset": "hgen", "label": "Size Of Housing Unit In m2", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["6", "65", "85", "95.04", "120", "938", "18", "303379", "18"]}, "scale": "", "label_de": "Size Of Housing Unit In Sq M"}, "hgroom": {"name": "hgroom", "name_cs": "hgroom", "variable": "hgroom", "dataset": "hgen", "label": "number of rooms > 6 m2", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "3", "3", "3.828", "5", "82", "5", "303392", "5"]}, "scale": "", "label_de": "Number Of Rooms Larger Than 6 Sq M"}, "hgheat": {"name": "hgheat", "name_cs": "hgheat", "variable": "hgheat", "dataset": "hgen", "label": "Amount Of Heating At Hot Water Costs (gen.)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "46", "65", "75.62", "100", "930", "145841", "157556", "145841"]}, "scale": "", "label_de": "Costs Of Warm Water, Gen"}, "hgutil": {"name": "hgutil", "name_cs": "hgutil", "variable": "hgutil", "dataset": "hgen", "label": "cost allocation", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "35", "57", "66.88", "90", "930", "172880", "130517", "172880"]}, "scale": "", "label_de": "Other Monthly Utility Costs"}, "hgrent": {"name": "hgrent", "name_cs": "hgrent", "variable": "hgrent", "dataset": "hgen", "label": "Amount Of Rent Minus Heating Costs", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "250", "357", "392.1", "492", "7318", "139024", "164373", "139024"]}, "scale": "", "label_de": "Amount Of Rent Minus Heating Costs"}, "hgelectr": {"name": "hgelectr", "name_cs": "hgelectr", "variable": "hgelectr", "dataset": "hgen", "label": "Costs of Electricity (gen)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "40", "56", "63.11", "80", "950", "260343", "43054", "260343"]}, "scale": "", "label_de": "Costs of Electricity (gen)"}, "hgnorent": {"name": "hgnorent", "name_cs": "hgnorent", "variable": "hgnorent", "dataset": "hgen", "label": "Does Not Pay Rent", "categories": {"frequencies": [0, 0, 0, 0, 293368, 1421, 8608], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Pays No Rent"], "missings": [true, true, true, true, true, true, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Pays No Rent"]}, "statistics": {"names": ["valid", "invalid"], "values": ["8608", "294789"]}, "scale": "cat", "label_de": "Does Not Pay Rent"}, "hgfsize": {"name": "hgfsize", "name_cs": "hgfsize", "variable": "hgfsize", "dataset": "hgen", "label": "Imputation Flag, Size Of Housing", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 302268, 1129], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Imputation Flag, Size Of Housing"}, "hgfroom": {"name": "hgfroom", "name_cs": "hgfroom", "variable": "hgfroom", "dataset": "hgen", "label": "imputation flag, number of rooms > 6 m2", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 301045, 2352], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Imputation Flag, Number Of Rooms Lager Than 6 Sq M"}, "hgfheat": {"name": "hgfheat", "name_cs": "hgfheat", "variable": "hgfheat", "dataset": "hgen", "label": "Imputation Flag, Costs Of Heating And Warm Water", "categories": {"frequencies": [0, 11243, 0, 0, 0, 0, 255237, 19178, 17739], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed", "[2] Heating Costs From Previous or Subsequent Years"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed by PMM", "[2] Heating Costs From Previous or Subsequent Years"]}, "statistics": {"names": ["valid", "invalid"], "values": ["292154", "11243"]}, "scale": "cat", "label_de": "Imputation Flag, Costs Of Heating And Warm Water"}, "hgfutil": {"name": "hgfutil", "name_cs": "hgfutil", "variable": "hgfutil", "dataset": "hgen", "label": "imputation flag, cost allocation", "categories": {"frequencies": [0, 51814, 0, 0, 0, 0, 162303, 77136, 12144], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed", "[2] Other Costs From Previous or Subsequent Years"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed by PMM", "[2] Other Costs From Previous or Subsequent Years"]}, "statistics": {"names": ["valid", "invalid"], "values": ["251583", "51814"]}, "scale": "cat", "label_de": "Imputation Flag, Other Monthly Utility Costs"}, "hgfrent": {"name": "hgfrent", "name_cs": "hgfrent", "variable": "hgfrent", "dataset": "hgen", "label": "Imputation Flag, Amount Of Rent Minus Heating Costs", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 237559, 50981, 12210, 2124, 523], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] imputed Amount Of Rent Minus Heating Costs", "[2] imputed cost allocation", "[3] Imputed Costs Of Heating And Warm Water", "[4] Rent Corrected for Longitudinal Consistency Before Imputation"], "missings": [true, true, true, true, true, true, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2", "3", "4"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Rent and/or Sub-Aggregate Imputed by PMM", "[2] Rent and/or Sub-Aggregate from Previous or Subsequent Years", "[3] Rent and/or Sub-Aggregate From Prev./Subs. Years and/or PMM", "[4] Rent Corrected for Longitudinal Consistency Before Imputation"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Imputation Flag, Amount Of Rent Minus Heating Costs"}, "hgfelectr": {"name": "hgfelectr", "name_cs": "hgfelectr", "variable": "hgfelectr", "dataset": "hgen", "label": "Imputation Flag, Costs of Electricity", "categories": {"frequencies": [0, 220526, 0, 0, 0, 0, 79125, 1867, 1879], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed", "[2] Electricity Costs from Previous or Subsequent Years"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed by PMM", "[2] Electricity Costs from Previous or Subsequent Years"]}, "statistics": {"names": ["valid", "invalid"], "values": ["82871", "220526"]}, "scale": "cat", "label_de": "Imputation Flag, Costs of Electricity"}, "hgtyp1hh": {"name": "hgtyp1hh", "name_cs": "hgtyp1hh", "variable": "hgtyp1hh", "dataset": "hgen", "label": "Household Typology, one Digit", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 71642, 87227, 23522, 67212, 29611, 15983, 3894, 4306, 0], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] 1-Pers.-HH", "[2] couple without children", "[3] Single Parent", "[4] Couple With Children LE 16", "[5] Couple With Children GT 16", "[6] Couple With Children LE and GT 16", "[7] multiple generaition hh", "[8] other combination", "[9] No Answer"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5", "6", "7", "8", "9"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] 1-Pers.-HH", "[2] Couple Without Children", "[3] Single Parent", "[4] Couple With Children LE 16", "[5] Couple With Children GT 16", "[6] Couple With Children LE And GT 16", "[7] Multiple Generation-HH", "[8] Other Combination", "[9] no answer"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Household Typology, One Digit"}, "hgtyp2hh": {"name": "hgtyp2hh", "name_cs": "hgtyp2hh", "variable": "hgtyp2hh", "dataset": "hgen", "label": "Household Typology, Two Digit", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 8845, 12604, 7988, 7737, 9329, 25139, 87227, 7744, 4509, 6979, 1676, 1579, 1035, 26187, 28924, 12101, 19688, 8460, 1463, 8347, 7636, 3515, 27, 352, 4306, 0], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[11] 1-Person HH - Male LE 35 Y.", "[12] 1-Person HH - Male 35- LT 60 Y.", "[13] 1-Person HH - Male GE 60 Y.", "[14] 1-Person HH - Female LE 35 Y.", "[15] 1-Person HH - Female 35- LT 60 Y.", "[16] 1-Person HH - Female GE 60 Y.", "[21] couple without children", "[31] Single Parent, 1 child LE 16", "[32] Single Parent, 2 or more children LE 16", "[33] Single Parent, 1 child GT 16", "[34] Single Parent, 2 or more children GT 16", "[35] Single Parent, 2 children LE and GT 16", "[36] Single Parent, 3 children or more LE and GT 16", "[41] Couple, 1 Child, LE 16", "[42] Couple, 2 Children, LE 16", "[43] Couple, 3 Or More Children, LE 16", "[51] Couple, 1 Child, GT 16", "[52] Couple, 2 Children, GT 16", "[53] Couple, 3 Or More Children, GT 16", "[61] Couple, 2 Children, LE and GT 16", "[62] Couple, 3 Or More Children, LE and GT 16", "[71] 3-generation hh", "[72] 4-generation hh", "[73] GrandParents-GrandChildren-HH", "[81] other combination without K. LE 16", "[82] other combination with K. LE 16"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "11", "12", "13", "14", "15", "16", "21", "31", "32", "33", "34", "35", "36", "41", "42", "43", "51", "52", "53", "61", "62", "71", "72", "73", "81", "82"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[11] 1-Person HH  Male LE 35 Y.", "[12] 1-Person HH  Male 35- LT 60 Y.", "[13] 1-Person HH  Male GE 60 Y.", "[14] 1-Person HH - Female LE 35 Y.", "[15] 1-Person HH  Female 35- LT 60 Y.", "[16] 1-Person HH  Female GE 60 Y.", "[21] Couple Without Children", "[31] Single Parent,1 Child, LE 16", "[32] Single Parent,2 Or More Children, LE 16", "[33] Single Parent,1 Children, GT 16", "[34] Single Parent,2 Or More Children, GT 16", "[35] Single Parent,2 Children, LE and GT 16", "[36] Single Parent,3 Or More Children, LE and GT 16", "[41] Couple, 1 Child, LE 16", "[42] Couple, 2 Children, LE 16", "[43] Couple, 3 Or More Children, LE 16", "[51] Couple, 1 Child, GT 16", "[52] Couple, 2 Children, GT 16", "[53] Couple, 3 Or More Children, GT 16", "[61] Couple, 2 Children, LE and GT 16", "[62] Couple, 3 Or More Children, LE and GT 16", "[71] 3-Generation-HH", "[72] 4-Generation-HH", "[73] GrandParents-GrandChildren-HH", "[81] Other Combination Without K. LE 16", "[82] Other Combination With K. LE 16"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Household Typology, Two Digit"}, "hghmonth": {"name": "hghmonth", "name_cs": "hghmonth", "variable": "hghmonth", "dataset": "hgen", "label": "Month of interview", "categories": {"frequencies": [0, 0, 0, 1, 0, 37, 22165, 77506, 81288, 46006, 25704, 20605, 12952, 7320, 5592, 3181, 708, 332], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] January", "[2] February", "[3] March", "[4] April", "[5] May", "[6] June", "[7] July", "[8] August", "[9] September", "[10] October", "[11] November", "[12] December"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] January", "[2] February", "[3] March", "[4] April", "[5] May", "[6] June", "[7] July", "[8] August", "[9] September", "[10] October", "[11] November", "[12] December"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303359", "38"]}, "scale": "cat", "label_de": "Month Of Interview"}, "hghmode": {"name": "hghmode", "name_cs": "hghmode", "variable": "hghmode", "dataset": "hgen", "label": "Interview Method", "categories": {"frequencies": [0, 0, 0, 0, 0, 11, 4155, 98161, 51783, 0, 5686, 6551, 9, 1334, 9175, 89655, 1122, 0, 35501, 254], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[100] With Interviewer Assistance", "[110] Oral Interview", "[120] Written Ques. Interviewer", "[130] Mixed Type", "[131] Written Ques. No Interviewer", "[132] Oral And Written", "[133] Proxy", "[134] Third Person Present", "[135] No Third Person Present", "[140] CAPI - Wave O Onwards", "[150] CAWI - Wave BE (2014) Onwards", "[200] Telephone Assistance", "[210] Written, By Mail", "[220] Phone Interview"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "100", "110", "120", "130", "131", "132", "133", "134", "135", "140", "150", "200", "210", "220"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[100] With Interviewer Assistance", "[110] Oral Interview", "[120] Written Ques. Interviewer", "[130] Mixed Type", "[131] Written Ques. No Interviewer", "[132] Oral And Written", "[133] Proxy", "[134] Third Person Present", "[135] No Third Person Present", "[140] CAPI - Wave O Onwards", "[150] CAWI - Wave BE (2014) Onwards", "[200] Telephone Assistance", "[210] Written, By Mail", "[220] Phone Interview"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303386", "11"]}, "scale": "cat", "label_de": "Interview Method"}, "hghinc": {"name": "hghinc", "name_cs": "hghinc", "variable": "hghinc", "dataset": "hgen", "label": "monthly Household Net Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1278", "1920", "2266", "2800", "2e+05", "15619", "287778", "15619"]}, "scale": "", "label_de": "Monthly Household Net Income (EUR)"}, "hgnuts1": {"name": "hgnuts1", "name_cs": "hgnuts1", "variable": "hgnuts1", "dataset": "hgen", "label": "NUTS-Systematic-1 (Federal State)", "categories": {"frequencies": [0, 0, 0, 0, 5921, 2, 37299, 42959, 12699, 11519, 2534, 5002, 21613, 6957, 26119, 61841, 14913, 2352, 19486, 11569, 9152, 11460], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[1] Baden-Wuerttemberg", "[2] Bavaria", "[3] Berlin", "[4] Brandenburg", "[5] Bremen", "[6] Hamburg", "[7] Hesse", "[8] [DE800] Mecklenburg-Western Pomerania", "[9] Lower Saxony", "[10] North Rhine-Westphalia", "[11] [DEB00] Rhineland-Palatinate", "[12] Saarland", "[13] Saxony", "[14] Saxony-Anhalt", "[15] Schleswig-Holstein", "[16] [DEG00] Thuringia"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Baden-Wuerttemberg", "[2] Bavaria", "[3] Berlin", "[4] Brandenburg", "[5] Bremen", "[6] Hamburg", "[7] Hesse", "[8] Mecklenburg-Western Pomerania", "[9] Lower Saxony", "[10] North Rhine-Westphalia", "[11] Rhineland-Palatinate", "[12] Saarland", "[13] Saxony", "[14] Saxony-Anhalt", "[15] Schleswig-Holstein", "[16] Thuringia"]}, "statistics": {"names": ["valid", "invalid"], "values": ["297474", "5923"]}, "scale": "cat", "label_de": "NUTS-Systematic-1 (Federal State)"}, "hgi1hinc": {"name": "hgi1hinc", "name_cs": "hgi1hinc", "variable": "hgi1hinc", "dataset": "hgen", "label": "1. Imputed Monthly Net Houshold Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1400", "2045", "2447", "3000", "1e+05", "64483", "238914", "64483"]}, "scale": "", "label_de": "1. Imputed Monthly Net Household Income (EUR) [1/5]"}, "hgi2hinc": {"name": "hgi2hinc", "name_cs": "hgi2hinc", "variable": "hgi2hinc", "dataset": "hgen", "label": "2. Imputed Monthly Net Houshold Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1400", "2045", "2449", "3000", "1e+05", "64483", "238914", "64483"]}, "scale": "", "label_de": "2. Imputed Monthly Net Household Income (EUR) [2/5]"}, "hgi3hinc": {"name": "hgi3hinc", "name_cs": "hgi3hinc", "variable": "hgi3hinc", "dataset": "hgen", "label": "3. Imputed Monthly Net Houshold Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1400", "2045", "2448", "3000", "1e+05", "64483", "238914", "64483"]}, "scale": "", "label_de": "3. Imputed Monthly Net Household Income (EUR) [3/5]"}, "hgi4hinc": {"name": "hgi4hinc", "name_cs": "hgi4hinc", "variable": "hgi4hinc", "dataset": "hgen", "label": "4. Imputed Monthly Net Houshold Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1400", "2045", "2448", "3000", "1e+05", "64483", "238914", "64483"]}, "scale": "", "label_de": "4. Imputed Monthly Net Household Income (EUR) [4/5]"}, "hgi5hinc": {"name": "hgi5hinc", "name_cs": "hgi5hinc", "variable": "hgi5hinc", "dataset": "hgen", "label": "5. Imputed Monthly Net Houshold Income (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1400", "2045", "2448", "3000", "1e+05", "64483", "238914", "64483"]}, "scale": "", "label_de": "5. Imputed Monthly Net Household Income (EUR) [5/5]"}, "hgfhinc": {"name": "hgfhinc", "name_cs": "hgfhinc", "variable": "hgfhinc", "dataset": "hgen", "label": "Imputation Flag, monthly net household income", "categories": {"frequencies": [0, 0, 0, 0, 2, 3, 290563, 12829], "labels": ["[-6] Questionnaire Version With Modified Filter", "[-5] Not Included In Questionnaire Version", "[-4] Forbidden Multiple Response", "[-3] Not Valid", "[-2] Does Not Apply", "[-1] No Answer", "[0] not imputed", "[1] Imputed"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Imputed"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303392", "5"]}, "scale": "cat", "label_de": "Imputation Flag, Monthly Net Household Income"}, "hgrentinfo": {"name": "hgrentinfo", "name_cs": "hgrentinfo", "variable": "hgrentinfo", "dataset": "hgen", "label": "Pays Rent and/or Utilities", "categories": {"frequencies": [0, 287360, 0, 0, 7098, 7, 8560, 236, 136], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[1] Pays Rent", "[2] Pays Utility Costs, but No Rent", "[3] Does Not Pay either Rent or Utilities"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Pays Rent", "[2] Pays Utility Costs, but No Rent", "[3] Does Not Pay either Rent or Utilities"]}, "statistics": {"names": ["valid", "invalid"], "values": ["8932", "294465"]}, "scale": "cat", "label_de": "Pays Rent and/or Utilities"}, "hgheatinfo": {"name": "hgheatinfo", "name_cs": "hgheatinfo", "variable": "hgheatinfo", "dataset": "hgen", "label": "Reason for Missing Heating Costs", "categories": {"frequencies": [0, 287360, 0, 0, 15593, 144, 17, 283], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[1] Heating Costs Unknown", "[3] No Heating Costs"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Heating Costs Unknown", "[3] No Heating Costs"]}, "statistics": {"names": ["valid", "invalid"], "values": ["300", "303097"]}, "scale": "cat", "label_de": "Reason for Missing Heating Costs"}, "hgutilinfo": {"name": "hgutilinfo", "name_cs": "hgutilinfo", "variable": "hgutilinfo", "dataset": "hgen", "label": "Reason for Missing Additional Utility Costs", "categories": {"frequencies": [0, 287360, 0, 0, 14781, 143, 16, 1097], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[1] Utility Costs Unknown", "[3] No Other Additional Utility Costs"], "missings": [true, true, true, true, true, true, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Utility Costs Unknown", "[3] No Other Additional Utility Costs"]}, "statistics": {"names": ["valid", "invalid"], "values": ["1113", "302284"]}, "scale": "cat", "label_de": "Reason for Missing Additional Utility Costs"}, "hgelectrinfo": {"name": "hgelectrinfo", "name_cs": "hgelectrinfo", "variable": "hgelectrinfo", "dataset": "hgen", "label": "Reason for Missing Electricty Costs", "categories": {"frequencies": [0, 287360, 0, 0, 15529, 143, 2, 282, 81], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[1] Electricity Costs Unknown", "[2] Electricity Costs Included in Heating Costs", "[3] No Electricity Costs"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Electricity Costs Unknown", "[2] Electricity Costs Included in Heating Costs", "[3] No Electricity Costs"]}, "statistics": {"names": ["valid", "invalid"], "values": ["365", "303032"]}, "scale": "cat", "label_de": "Reason for Missing Electricty Costs"}, "hggasinfo": {"name": "hggasinfo", "name_cs": "hggasinfo", "variable": "hggasinfo", "dataset": "hgen", "label": "Reason for Missing Gas Costs", "categories": {"frequencies": [0, 287360, 0, 0, 7995, 531, 704, 1551, 5256], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[1] Gas Costs Unknown", "[2] Gas Costs Included in Heating Costs", "[3] No Gas Costs"], "missings": [true, true, true, true, true, true, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "1", "2", "3"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[1] Gas Costs Unknown", "[2] Gas Costs Included in Heating Costs", "[3] No Gas Costs"]}, "statistics": {"names": ["valid", "invalid"], "values": ["7511", "295886"]}, "scale": "cat", "label_de": "Reason for Missing Gas Costs"}, "hgcnstyrmin": {"name": "hgcnstyrmin", "name_cs": "hgcnstyrmin", "variable": "hgcnstyrmin", "dataset": "hgen", "label": "Earliest Possible Construction Year of Dwelling", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "1918", "1949", "1666", "1972", "2013", "8285", "295112", "8285"]}, "scale": "", "label_de": "Earliest Possible Construction Year of Dwelling"}, "hgcnstyrmax": {"name": "hgcnstyrmax", "name_cs": "hgcnstyrmax", "variable": "hgcnstyrmax", "dataset": "hgen", "label": "Latest Possible Construction Year of Dwelling", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["1917", "1948", "1971", "1966", "1984", "2013", "8285", "295112", "8285"]}, "scale": "", "label_de": "Latest Possible Construction Year of Dwelling"}, "hgf2rent": {"name": "hgf2rent", "name_cs": "hgf2rent", "variable": "hgf2rent", "dataset": "hgen", "label": "Detailed Imputation Flag, Rent Minus Heating Costs", "categories": {"frequencies": [0, 0, 0, 0, 0, 0, 238009, 25229, 34974, 75, 3335, 467, 0, 0, 458, 390, 272, 1, 85, 102, 0, 0], "labels": ["[-6] Version of questionnaire with modified filtering", "[-5] Not included in this version of the questionnaire", "[-4] Inadmissible multiple response", "[-3] Answer improbable", "[-2] Does not apply", "[-1] No Answer", "[0] Not Imputed", "[1] Reported Rent Corrected for Imputed Heat", "[2] Reported Rent Corrected for Imputed Util", "[3] Reported Rent Corrected for Imputed Electr", "[4] Reported Rent Corrected for Heat and Util", "[5] Reported Rent Corrected for Heat and Electr", "[6] Reported Rent Corrected for Util and Electr", "[7] Reported Rent Corrected for Heat, Util and Electr", "[8] Rent Imp., Sub-Aggregates Not Imputed", "[9] Rent Imp. and Corrected for Imp. Heat", "[10] Rent Imp. and Corrected for Imp. Util", "[11] Rent Imp. and Corrected for Imp. Electr", "[12] Rent Imp. and Corrected for Imp. Heat and Util", "[13] Rent Imp. and Corrected for Imp. Heat and Electr", "[14] Rent Imp. and Corrected for Imp. Util and Electr", "[15] Rent Imp. and Corrected for Imp. Heat, Util and Electr"], "missings": [true, true, true, true, true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false], "values": ["-6", "-5", "-4", "-3", "-2", "-1", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15"], "labels_de": ["[-6] Fragebogenversion mit geaenderter Filterfuehrung", "[-5] In Fragebogenversion nicht enthalten", "[-4] Unzulaessige Mehrfachantwort", "[-3] nicht valide", "[-2] trifft nicht zu", "[-1] keine Angabe", "[0] Not Imputed", "[1] Reported Rent Corrected for Imputed Heat", "[2] Reported Rent Corrected for Imputed Util", "[3] Reported Rent Corrected for Imputed Electr", "[4] Reported Rent Corrected for Heat and Util", "[5] Reported Rent Corrected for Heat and Electr", "[6] Reported Rent Corrected for Util and Electr", "[7] Reported Rent Corrected for Heat, Util and Electr", "[8] Rent Imp., Sub-Aggregates Not Imputed", "[9] Rent Imp. and Corrected for Imp. Heat", "[10] Rent Imp. and Corrected for Imp. Util", "[11] Rent Imp. and Corrected for Imp. Electr", "[12] Rent Imp. and Corrected for Imp. Heat and Util", "[13] Rent Imp. and Corrected for Imp. Heat and Electr", "[14] Rent Imp. and Corrected for Imp. Util and Electr", "[15] Rent Imp. and Corrected for Imp. Heat, Util and Electr"]}, "statistics": {"names": ["valid", "invalid"], "values": ["303397", "0"]}, "scale": "cat", "label_de": "Detailed Imputation Flag, Rent Minus Heating Costs"}, "hggas": {"name": "hggas", "name_cs": "hggas", "variable": "hggas", "dataset": "hgen", "label": "Costs of Gas (EUR)", "categories": {"frequencies": [], "labels": [], "missings": [], "values": []}, "statistics": {"names": ["Min.", "1st Qu.", "Median", "Mean", "3rd Qu.", "Max.", "NA's", "valid", "invalid"], "values": ["0", "30", "60", "68.37", "100", "550", "302450", "947", "302450"]}, "scale": "", "label_de": "Monatl. Gaskosten (EUR)"}}
+{
+  "cid": {
+    "name": "cid",
+    "name_cs": "cid",
+    "variable": "cid",
+    "dataset": "hgen",
+    "label": "Case-ID, Original Household Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "36030",
+        "274900",
+        "599500",
+        "516900",
+        "3500000",
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Case ID, Ursprungshaushaltsnummer"
+  },
+  "hid": {
+    "name": "hid",
+    "name_cs": "hid",
+    "variable": "hid",
+    "dataset": "hgen",
+    "label": "Current Wave HH Number",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "54290",
+        "270700",
+        "603500",
+        "519900",
+        "3503000",
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Aktuelle Haushaltsnummer"
+  },
+  "syear": {
+    "name": "syear",
+    "name_cs": "syear",
+    "variable": "syear",
+    "dataset": "hgen",
+    "label": "Survey Year",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1984",
+        "1997",
+        "2004",
+        "2003",
+        "2011",
+        "2015",
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "",
+    "label_de": "Survey-Year, Erhebungsjahr"
+  },
+  "hgowner": {
+    "name": "hgowner",
+    "name_cs": "hgowner",
+    "variable": "hgowner",
+    "dataset": "hgen",
+    "label": "Tenant Or Owner Of Dwelling",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        28,
+        137078,
+        173934,
+        7586,
+        102,
+        660
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Owner",
+        "[2] Main Tenant",
+        "[3] Sub-Tenant",
+        "[4] Tenant",
+        "[5] Living In A Home"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Eigentuemer",
+        "[2] Hauptmieter",
+        "[3] Untermieter",
+        "[4] Mieter",
+        "[5] Heimbewohner"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319360",
+        "28"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Eigentuemer, Mieter"
+  },
+  "hgmoveyr": {
+    "name": "hgmoveyr",
+    "name_cs": "hgmoveyr",
+    "variable": "hgmoveyr",
+    "dataset": "hgen",
+    "label": "Year Moved Into Dwelling",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1900",
+        "1979",
+        "1992",
+        "1989",
+        "2001",
+        "2015",
+        "2454",
+        "316934",
+        "2454"
+      ]
+    },
+    "scale": "",
+    "label_de": "Jahr des Einzugs"
+  },
+  "hgcnstyrmin": {
+    "name": "hgcnstyrmin",
+    "name_cs": "hgcnstyrmin",
+    "variable": "hgcnstyrmin",
+    "dataset": "hgen",
+    "label": "Earliest Possible Construction Year of Dwelling",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1919",
+        "1949",
+        "1669",
+        "1972",
+        "2015",
+        "9469",
+        "309919",
+        "9469"
+      ]
+    },
+    "scale": "",
+    "label_de": "Fruehestmoegliches Baujahr des Hauses"
+  },
+  "hgcnstyrmax": {
+    "name": "hgcnstyrmax",
+    "name_cs": "hgcnstyrmax",
+    "variable": "hgcnstyrmax",
+    "dataset": "hgen",
+    "label": "Latest Possible Construction Year of Dwelling",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1917",
+        "1948",
+        "1971",
+        "1967",
+        "1984",
+        "2015",
+        "9469",
+        "309919",
+        "9469"
+      ]
+    },
+    "scale": "",
+    "label_de": "Spaetestmoegliches Baujahr des Hauses"
+  },
+  "hgcondit": {
+    "name": "hgcondit",
+    "name_cs": "hgcondit",
+    "variable": "hgcondit",
+    "dataset": "hgen",
+    "label": "Condition Of House",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1298,
+        212908,
+        92371,
+        12333,
+        478
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] In A Good Condition",
+        "[2] Some Renovations",
+        "[3] Full Renovations",
+        "[4] Dilapidated"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] In gutem Zustand",
+        "[2] Teilw. ren.beduerftig",
+        "[3] Ganz ren.beduerftig",
+        "[4] Abbruchreif"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "318090",
+        "1298"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Renovierungsbeduerftigkeit"
+  },
+  "hgacquis": {
+    "name": "hgacquis",
+    "name_cs": "hgacquis",
+    "variable": "hgacquis",
+    "dataset": "hgen",
+    "label": "Means Of Acquiring Dwelling",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        13374,
+        0,
+        0,
+        174504,
+        40236,
+        31332,
+        21916,
+        38020,
+        6
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Bought From Owner",
+        "[2] Inheritance, Gift",
+        "[3] Bought, Built New",
+        "[4] Got Back From Public Property"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Vom Vorbesitzer gekauft",
+        "[2] Erbschaft, Schenkung",
+        "[3] Neu gekauft oder gebaut",
+        "[4] Aus Volkseigentum rueckueberf."
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "91274",
+        "228114"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Art des Eigentumerwerbs"
+  },
+  "hgreval": {
+    "name": "hgreval",
+    "name_cs": "hgreval",
+    "variable": "hgreval",
+    "dataset": "hgen",
+    "label": "Rent Of Dwelling Vs Comparable Dwellings",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        39848,
+        0,
+        0,
+        125873,
+        1643,
+        12957,
+        39152,
+        67492,
+        27088,
+        5335
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Very Inexpensive",
+        "[2] Inexpensive",
+        "[3] Reasonable",
+        "[4] Slightly Expensive",
+        "[5] Too Expensive"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Sehr guenstig",
+        "[2] Guenstig",
+        "[3] Angemessen",
+        "[4] Etwas zu hoch",
+        "[5] Viel zu hoch"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "152024",
+        "167364"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Beurteilung Miethoehe"
+  },
+  "hgseval": {
+    "name": "hgseval",
+    "name_cs": "hgseval",
+    "variable": "hgseval",
+    "dataset": "hgen",
+    "label": "Adequacy Of Living Space In Housing Unit",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1561,
+        7884,
+        48277,
+        226766,
+        31039,
+        3861
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Much Too Small",
+        "[2] A Bit Too Small",
+        "[3] Just Right",
+        "[4] A Bit Too Large",
+        "[5] Much Too Large"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Viel zu klein",
+        "[2] Etwas zu klein",
+        "[3] Gerade richtig",
+        "[4] Etwas zu gross",
+        "[5] Viel zu gross"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "317827",
+        "1561"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Beurteilung der Wohnungsgroesse"
+  },
+  "hgeqpkit": {
+    "name": "hgeqpkit",
+    "name_cs": "hgeqpkit",
+    "variable": "hgeqpkit",
+    "dataset": "hgen",
+    "label": "Dwelling Has Kitchen",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        32028,
+        0,
+        0,
+        0,
+        1571,
+        282602,
+        3187
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "285789",
+        "33599"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Kueche"
+  },
+  "hgeqpshw": {
+    "name": "hgeqpshw",
+    "name_cs": "hgeqpshw",
+    "variable": "hgeqpshw",
+    "dataset": "hgen",
+    "label": "Dwelling Has Indoor Bath,Shower",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        32028,
+        0,
+        0,
+        0,
+        1880,
+        280620,
+        4860
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "285480",
+        "33908"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Bad, Dusche"
+  },
+  "hgeqpiwc": {
+    "name": "hgeqpiwc",
+    "name_cs": "hgeqpiwc",
+    "variable": "hgeqpiwc",
+    "dataset": "hgen",
+    "label": "Dwelling Has Indoor Toilet",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        110751,
+        0,
+        0,
+        0,
+        2056,
+        202210,
+        4371
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "206581",
+        "112807"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: WC in Wohnung"
+  },
+  "hgeqphea": {
+    "name": "hgeqphea",
+    "name_cs": "hgeqphea",
+    "variable": "hgeqphea",
+    "dataset": "hgen",
+    "label": "Dwelling Has Central,Floor Heat",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        15991,
+        0,
+        0,
+        0,
+        3071,
+        274723,
+        25603
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "300326",
+        "19062"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Zentral-, Etagenheizung"
+  },
+  "hgeqpter": {
+    "name": "hgeqpter",
+    "name_cs": "hgeqpter",
+    "variable": "hgeqpter",
+    "dataset": "hgen",
+    "label": "Dwelling Has Balcony,Terrace",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4979,
+        233636,
+        80773
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "314409",
+        "4979"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Balkon, Terrasse"
+  },
+  "hgeqpbas": {
+    "name": "hgeqpbas",
+    "name_cs": "hgeqpbas",
+    "variable": "hgeqpbas",
+    "dataset": "hgen",
+    "label": "Dwelling Has Basement",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2253,
+        298009,
+        19126
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "317135",
+        "2253"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Keller"
+  },
+  "hgeqpgar": {
+    "name": "hgeqpgar",
+    "name_cs": "hgeqpgar",
+    "variable": "hgeqpgar",
+    "dataset": "hgen",
+    "label": "Dwelling Has Garden",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5042,
+        185442,
+        128904
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "314346",
+        "5042"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Garten"
+  },
+  "hgeqpwat": {
+    "name": "hgeqpwat",
+    "name_cs": "hgeqpwat",
+    "variable": "hgeqpwat",
+    "dataset": "hgen",
+    "label": "Dwelling Has Water, Bioler",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        62891,
+        0,
+        0,
+        4640,
+        1847,
+        246907,
+        3103
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "250010",
+        "69378"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Fl. Warmwasser, Boiler"
+  },
+  "hgeqptel": {
+    "name": "hgeqptel",
+    "name_cs": "hgeqptel",
+    "variable": "hgeqptel",
+    "dataset": "hgen",
+    "label": "Dwelling Has Telefone",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        37658,
+        0,
+        0,
+        4640,
+        10027,
+        263503,
+        3560
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "267063",
+        "52325"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Telefon oder Handy"
+  },
+  "hgeqpalm": {
+    "name": "hgeqpalm",
+    "name_cs": "hgeqpalm",
+    "variable": "hgeqpalm",
+    "dataset": "hgen",
+    "label": "Dwelling Has Alarm System",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        150155,
+        0,
+        0,
+        0,
+        11597,
+        5741,
+        151895
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "157636",
+        "161752"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Alarmanlage"
+  },
+  "hgeqpsol": {
+    "name": "hgeqpsol",
+    "name_cs": "hgeqpsol",
+    "variable": "hgeqpsol",
+    "dataset": "hgen",
+    "label": "Dwelling Has Solar System",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        185890,
+        0,
+        0,
+        0,
+        698,
+        10710,
+        122090
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "132800",
+        "186588"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Solaranlage"
+  },
+  "hgeqpair": {
+    "name": "hgeqpair",
+    "name_cs": "hgeqpair",
+    "variable": "hgeqpair",
+    "dataset": "hgen",
+    "label": "Dwelling Has Air Conditioner",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        185890,
+        0,
+        0,
+        0,
+        779,
+        2158,
+        130561
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "132719",
+        "186669"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Klimaanlage"
+  },
+  "hgeqplif": {
+    "name": "hgeqplif",
+    "name_cs": "hgeqplif",
+    "variable": "hgeqplif",
+    "dataset": "hgen",
+    "label": "Dwelling Has An Elevator",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        208637,
+        0,
+        0,
+        0,
+        422,
+        9132,
+        101197
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "110329",
+        "209059"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Aufzug, Lift"
+  },
+  "hgeqpnrj": {
+    "name": "hgeqpnrj",
+    "name_cs": "hgeqpnrj",
+    "variable": "hgeqpnrj",
+    "dataset": "hgen",
+    "label": "Dwelling Has Alternative Energy Source",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        208637,
+        0,
+        0,
+        0,
+        506,
+        3517,
+        106728
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "110245",
+        "209143"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Andere Alternative Energiequelle"
+  },
+  "hgsize": {
+    "name": "hgsize",
+    "name_cs": "hgsize",
+    "variable": "hgsize",
+    "dataset": "hgen",
+    "label": "Size Of Housing Unit In Sq M",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "65",
+        "85",
+        "95.32",
+        "120",
+        "938",
+        "19",
+        "319369",
+        "19"
+      ]
+    },
+    "scale": "",
+    "label_de": "Wohnflaeche in qm"
+  },
+  "hgroom": {
+    "name": "hgroom",
+    "name_cs": "hgroom",
+    "variable": "hgroom",
+    "dataset": "hgen",
+    "label": "Number Of Rooms Larger Than 6 Sq M",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "3",
+        "3",
+        "3.834",
+        "5",
+        "82",
+        "5",
+        "319383",
+        "5"
+      ]
+    },
+    "scale": "",
+    "label_de": "Zahl der Wohnraeume ueber 6 qm"
+  },
+  "hgrent": {
+    "name": "hgrent",
+    "name_cs": "hgrent",
+    "variable": "hgrent",
+    "dataset": "hgen",
+    "label": "Amount Of Rent Minus Heating Costs",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "250",
+        "357",
+        "394.3",
+        "495",
+        "7318",
+        "146211",
+        "173177",
+        "146211"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Bruttokaltmiete (EUR)"
+  },
+  "hgheat": {
+    "name": "hgheat",
+    "name_cs": "hgheat",
+    "variable": "hgheat",
+    "dataset": "hgen",
+    "label": "Costs Of Warm Water, Gen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "48",
+        "66",
+        "75.86",
+        "100",
+        "930",
+        "152637",
+        "166751",
+        "152637"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Heiz- und Warmwasserkosten (EUR)"
+  },
+  "hgutil": {
+    "name": "hgutil",
+    "name_cs": "hgutil",
+    "variable": "hgutil",
+    "dataset": "hgen",
+    "label": "Other Monthly Utility Costs",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "39",
+        "58",
+        "66.68",
+        "90",
+        "930",
+        "181685",
+        "137703",
+        "181685"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Umlagen (EUR)"
+  },
+  "hgelectr": {
+    "name": "hgelectr",
+    "name_cs": "hgelectr",
+    "variable": "hgelectr",
+    "dataset": "hgen",
+    "label": "Costs of Electricity (gen)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "40",
+        "56",
+        "63.51",
+        "80",
+        "950",
+        "267305",
+        "52083",
+        "267305"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Stromkosten (EUR)"
+  },
+  "hggas": {
+    "name": "hggas",
+    "name_cs": "hggas",
+    "variable": "hggas",
+    "dataset": "hgen",
+    "label": "Costs of Gas (EUR)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "30",
+        "60",
+        "68.6",
+        "100",
+        "550",
+        "318437",
+        "951",
+        "318437"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Gaskosten (EUR)"
+  },
+  "hgnorent": {
+    "name": "hgnorent",
+    "name_cs": "hgnorent",
+    "variable": "hgnorent",
+    "dataset": "hgen",
+    "label": "Does Not Pay Rent",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        310254,
+        108,
+        9026
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Pays No Rent"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Zahlt keine Miete"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9026",
+        "310362"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Zahlt keine Miete"
+  },
+  "hgrentinfo": {
+    "name": "hgrentinfo",
+    "name_cs": "hgrentinfo",
+    "variable": "hgrentinfo",
+    "dataset": "hgen",
+    "label": "Pays Rent and/or Utilities",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        287360,
+        0,
+        0,
+        13882,
+        15,
+        17341,
+        489,
+        301
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Pays Rent",
+        "[2] Pays Utility Costs, but No Rent",
+        "[3] Does Not Pay either Rent or Utilities"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Zahlt Miete und Nebenkosten",
+        "[2] Zahlt keine Miete, aber Nebenkosten",
+        "[3] Zahlt weder Miete noch Nebenkosten"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "18131",
+        "301257"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushalt zahlt Miete und/oder Nebenkosten"
+  },
+  "hgheatinfo": {
+    "name": "hgheatinfo",
+    "name_cs": "hgheatinfo",
+    "variable": "hgheatinfo",
+    "dataset": "hgen",
+    "label": "Reason for Missing Heating Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303351,
+        0,
+        0,
+        15730,
+        0,
+        24,
+        283
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Heating Costs Unknown",
+        "[3] No Heating Costs"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Heizkosten unbekannt",
+        "[3] Keine Heizkosten"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "307",
+        "319081"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Grund fuer fehlende Heizkosten"
+  },
+  "hgutilinfo": {
+    "name": "hgutilinfo",
+    "name_cs": "hgutilinfo",
+    "variable": "hgutilinfo",
+    "dataset": "hgen",
+    "label": "Reason for Missing Additional Utility Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        287360,
+        0,
+        0,
+        28251,
+        0,
+        35,
+        3742
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Utility Costs Unknown",
+        "[3] No Other Additional Utility Costs"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Umlagekosten unbekannt",
+        "[3] Keine weiteren Umlagekosten"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3777",
+        "315611"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Grund fuer fehlende Umlagekosten"
+  },
+  "hgelectrinfo": {
+    "name": "hgelectrinfo",
+    "name_cs": "hgelectrinfo",
+    "variable": "hgelectrinfo",
+    "dataset": "hgen",
+    "label": "Reason for Missing Electricty Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303351,
+        0,
+        0,
+        15665,
+        0,
+        9,
+        282,
+        81
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Electricity Costs Unknown",
+        "[2] Electricity Costs Included in Heating Costs",
+        "[3] No Electricity Costs"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Stromkosten unbekannt",
+        "[2] Betrag in Heizkosten enthalten",
+        "[3] Keine Stromkosten"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "372",
+        "319016"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Grund fuer fehlende Stromkosten"
+  },
+  "hggasinfo": {
+    "name": "hggasinfo",
+    "name_cs": "hggasinfo",
+    "variable": "hggasinfo",
+    "dataset": "hgen",
+    "label": "Reason for Missing Gas Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303351,
+        0,
+        0,
+        8175,
+        0,
+        1059,
+        1547,
+        5256
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Gas Costs Unknown",
+        "[2] Electricity Costs Included in Heating Costs",
+        "[3] No Gas Costs"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Gaskosten unbekannt",
+        "[2] Betrag in Heizkosten enthalten",
+        "[3] Keine Kosten fuer Gas"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7862",
+        "311526"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Grund fuer fehlende Gaskosten"
+  },
+  "hgfsize": {
+    "name": "hgfsize",
+    "name_cs": "hgfsize",
+    "variable": "hgfsize",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Size Of Housing",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        318230,
+        1158
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Imputiert"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Wohnflaeche in qm"
+  },
+  "hgfroom": {
+    "name": "hgfroom",
+    "name_cs": "hgfroom",
+    "variable": "hgfroom",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Number Of Rooms Lager Than 6 Sq M",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        317037,
+        2351
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Imputiert"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Anzahl der Wohnraeume ueber 6 qm"
+  },
+  "hgfrent": {
+    "name": "hgfrent",
+    "name_cs": "hgfrent",
+    "variable": "hgfrent",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Amount Of Rent Minus Heating Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        253092,
+        50172,
+        13282,
+        2842
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Rent and/or Sub-Aggregate Imputed by PMM",
+        "[2] Rent and/or Sub-Aggregate from Previous or Subsequent Years",
+        "[3] Imputed Costs Of Heating And Warm Water"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Miete und/oder Nebenkostenbestandteil mit PMM imp.",
+        "[2] Miete und/oder Nebenkostenbestandteil aus Vor-/Folgejahren",
+        "[3] Miete und/oder Nebenkostenbest. aus Vor-/Folgej. und/oder"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Bruttokaltmiete"
+  },
+  "hgf2rent": {
+    "name": "hgf2rent",
+    "name_cs": "hgf2rent",
+    "variable": "hgf2rent",
+    "dataset": "hgen",
+    "label": "Detailed Imputation Flag, Rent Minus Heating Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        243978,
+        25139,
+        32599,
+        405,
+        2919,
+        1179,
+        0,
+        0,
+        8980,
+        507,
+        220,
+        133,
+        1,
+        55,
+        217,
+        0,
+        0,
+        3056
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Reported Rent Corrected for Imputed Heat",
+        "[2] Reported Rent Corrected for Imputed Util",
+        "[3] Reported Rent Corrected for Imputed Electr",
+        "[4] Reported Rent Corrected for Heat and Util",
+        "[5] Reported Rent Corrected for Heat and Electr",
+        "[6] Reported Rent Corrected for Util and Electr",
+        "[7] Reported Rent Corrected for Heat, Util and Electr",
+        "[8] Rent Imp., Sub-Aggregates Not Imputed",
+        "[9] Rent Imp., Sub-Aggregates Not Imputed",
+        "[10] Rent Imp. and Corrected For Imp. Heat",
+        "[11] Rent Imp. and Corrected For Imp. Util",
+        "[12] Rent Imp. and Corrected For Imp. Electr",
+        "[13] Rent Imp. and Corrected For Imp. Heat and Util",
+        "[14] Rent Imp. and Corrected For Imp. Heat and Electr",
+        "[15] Rent Imp. and Corrected For Imp. Util and Electr",
+        "[16] Rent Imp. and Corrected For Imp. Heat, Util and Electr",
+        "[17] Rent Imp. & Imp. Heating Costs /Levies \u00e2\u0080\u0093 Filter Question"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Angegebene Miete um imp. Heizkosten korrigiert",
+        "[2] Angegebene Miete um imp. Umlagen korrigiert",
+        "[3] Angegebene Miete um imp. Stromkosten korrigiert",
+        "[4] Angegebene Miete um imp. Heizkosten & Umlagen korr.",
+        "[5] Angegebene Miete um imp. Heiz- & Stromkosten korr.",
+        "[6] Angegebene Miete um imp. Umlagen & Stromk. korr.",
+        "[7] Ang. Miete um imp. Heiz- & Stromk. & Umlagen korr.",
+        "[8] Ang. Miete & imp. Heizk.-/Umlagen-Filterfrage",
+        "[9] Miete imp., Nebenkostenbestandteile nicht imp.",
+        "[10] Miete imp. & um imp. Heizkosten korrigiert",
+        "[11] Miete imp. & um imp. Umlagen korrigiert",
+        "[12] Miete imp. & um imp. Stromkosten korrigiert",
+        "[13] Miete imp. & um imp. Heizk. & Umlagen korr.",
+        "[14] Miete imp. & um imp. Heiz- & Stromk. korr.",
+        "[15] Miete imp. & um imp. Stromk. & Umlagen korr.",
+        "[16] Miete imp. & um imp. Heiz- und Stromk. & Umlagen korr.",
+        "[17] Miete imp. & imp. Heizk.-/Umlagen-Filterfrage"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Detaillierte Imputation Flag, Bruttokaltmiete"
+  },
+  "hgfheat": {
+    "name": "hgfheat",
+    "name_cs": "hgfheat",
+    "variable": "hgfheat",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Costs Of Heating And Warm Water",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        11243,
+        0,
+        0,
+        0,
+        0,
+        269320,
+        19684,
+        19141
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed by PMM",
+        "[2] Electricity Costs from Previous or Subsequent Years"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Mit PMM imputiert",
+        "[2] Wert aus Vor-/Folgejahren"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "308145",
+        "11243"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Heiz- und Warmwasserkosten"
+  },
+  "hgfutil": {
+    "name": "hgfutil",
+    "name_cs": "hgfutil",
+    "variable": "hgfutil",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Other Monthly Utility Costs",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        51814,
+        0,
+        0,
+        0,
+        0,
+        177110,
+        76945,
+        13519
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed by PMM",
+        "[2] Electricity Costs from Previous or Subsequent Years"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Mit PMM imputiert",
+        "[2] Wert aus Vor-/Folgejahren"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "267574",
+        "51814"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Umlagen"
+  },
+  "hgfelectr": {
+    "name": "hgfelectr",
+    "name_cs": "hgfelectr",
+    "variable": "hgfelectr",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Costs of Electricity",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        220526,
+        0,
+        0,
+        0,
+        0,
+        93959,
+        2261,
+        2642
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed by PMM",
+        "[2] Electricity Costs from Previous or Subsequent Years"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Mit PMM imputiert",
+        "[2] Wert aus Vor-/Folgejahren"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "98862",
+        "220526"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, Stromkosten"
+  },
+  "hgsubsid": {
+    "name": "hgsubsid",
+    "name_cs": "hgsubsid",
+    "variable": "hgsubsid",
+    "dataset": "hgen",
+    "label": "Government Subsidizes Housing Payments",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        219182,
+        0,
+        0,
+        74396,
+        11769,
+        5274,
+        8767
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "14041",
+        "305347"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Eigentumsfoerderung mit oeff. Darlehen"
+  },
+  "hgosubs": {
+    "name": "hgosubs",
+    "name_cs": "hgosubs",
+    "variable": "hgosubs",
+    "dataset": "hgen",
+    "label": "Amount Of Subsidies Last Year",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        116197,
+        0,
+        0,
+        108728,
+        1225,
+        13048,
+        80190
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "93238",
+        "226150"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Foerderung mit oeff. Darlehen letztes Jahr"
+  },
+  "hgrsubs": {
+    "name": "hgrsubs",
+    "name_cs": "hgrsubs",
+    "variable": "hgrsubs",
+    "dataset": "hgen",
+    "label": "Government Subsidized Housing",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        137836,
+        2907,
+        16894,
+        4882,
+        156869
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes, With Due Diligence",
+        "[2] Yes, With Run Out Due Diligence",
+        "[3] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja, mit bestehender Sozialbindung",
+        "[2] Ja, mit abgelaufener Sozialbindung",
+        "[3] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "178645",
+        "140743"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Sozialwohnung"
+  },
+  "hgreduc": {
+    "name": "hgreduc",
+    "name_cs": "hgreduc",
+    "variable": "hgreduc",
+    "dataset": "hgen",
+    "label": "Dwelling At A Reduced Prize",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        11243,
+        0,
+        0,
+        133208,
+        18541,
+        14155,
+        142241
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "156396",
+        "162992"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Verbilligt ueberlassene Wohnung"
+  },
+  "hgtyp1hh": {
+    "name": "hgtyp1hh",
+    "name_cs": "hgtyp1hh",
+    "variable": "hgtyp1hh",
+    "dataset": "hgen",
+    "label": "Household Typology, One Digit",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        75402,
+        91652,
+        25239,
+        70996,
+        30676,
+        16828,
+        4035,
+        4560,
+        0
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] 1-Pers.-HH",
+        "[2] Couple Without Children",
+        "[3] Single Parent",
+        "[4] Couple With Children LE 16",
+        "[5] Couple With Children GT 16",
+        "[6] Couple With Children LE And GT 16",
+        "[7] Multiple Generation-HH",
+        "[8] Other Combination",
+        "[9] No Answer"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] 1-Pers.-HH",
+        "[2] Ehe-Paar ohne K.",
+        "[3] Alleinerziehende",
+        "[4] Paar + K. LE 16",
+        "[5] Paar + K. GT 16",
+        "[6] Paar + K. LE und GT 16",
+        "[7] Mehr-Generationen-HH",
+        "[8] Sonst. Kombination",
+        "[9] Keine Angabe"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushalts-Typologie (1-Steller)"
+  },
+  "hgtyp2hh": {
+    "name": "hgtyp2hh",
+    "name_cs": "hgtyp2hh",
+    "variable": "hgtyp2hh",
+    "dataset": "hgen",
+    "label": "Household Typology, Two Digit",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        9289,
+        13244,
+        8548,
+        8106,
+        9897,
+        26318,
+        91652,
+        8273,
+        4845,
+        7488,
+        1786,
+        1715,
+        1132,
+        27455,
+        30576,
+        12965,
+        20392,
+        8742,
+        1542,
+        8674,
+        8154,
+        3640,
+        27,
+        368,
+        4560,
+        0
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[11] 1-Person HH Male LE 35 Y.",
+        "[12] 1-Person HH Male 35- LT 60 Y.",
+        "[13] 1-Person HH Male GE 60 Y.",
+        "[14] 1-Person HH - Female LE 35 Y.",
+        "[15] 1-Person HH Female 35- LT 60 Y.",
+        "[16] 1-Person HH Female GE 60 Y.",
+        "[21] Couple Without Children",
+        "[31] Single Parent,1 Child, LE 16",
+        "[32] Single Parent,2 Or More Children, LE 16",
+        "[33] Single Parent,1 Children, GT 16",
+        "[34] Single Parent,2 Or More Children, GT 16",
+        "[35] Single Parent,2 Children, LE and GT 16",
+        "[36] Single Parent,3 Or More Children, LE and GT 16",
+        "[41] Couple, 1 Child, LE 16",
+        "[42] Couple, 2 Children, LE 16",
+        "[43] Couple, 3 Or More Children, LE 16",
+        "[51] Couple, 1 Child, GT 16",
+        "[52] Couple, 2 Children, GT 16",
+        "[53] Couple, 3 Or More Children, GT 16",
+        "[61] Couple, 2 Children, LE and GT 16",
+        "[62] Couple, 3 Or More Children, LE and GT 16",
+        "[71] 3-Generation-HH",
+        "[72] 4-Generation-HH",
+        "[73] GrandParents-GrandChildren-HH",
+        "[81] Other Combination Without K. LE 16",
+        "[82] Other Combination With K. LE 16"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "21",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35",
+        "36",
+        "41",
+        "42",
+        "43",
+        "51",
+        "52",
+        "53",
+        "61",
+        "62",
+        "71",
+        "72",
+        "73",
+        "81",
+        "82"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[11] 1-P-HH Mann LE 35 J.",
+        "[12] 1-P-HH Mann 35- LT 60 J.",
+        "[13] 1-P-HH Mann GE 60 J.",
+        "[14] 1-P-HH Frau LE 35 J.",
+        "[15] 1-P-HH Frau 35- LT 60 J.",
+        "[16] 1-P-HH Frau GE 60 J.",
+        "[21] (Ehe-)Paar ohne K.",
+        "[31] Alleinerz.+1 K. LE 16",
+        "[32] Alleinerz.+2 u.m K. LE 16",
+        "[33] Alleinerz.+1 K. GT 16",
+        "[34] Alleinerz.+2 u.m. K. GT 16",
+        "[35] Alleinerz.+2 K. LE und GT 16",
+        "[36] Alleinerz.+3 u.m. K. LE und GT 16",
+        "[41] Paar+1 K. LE 16",
+        "[42] Paar+2 K. LE 16",
+        "[43] Paar+3 u.m. K. LE 16",
+        "[51] Paar+1 K. GT 16",
+        "[52] Paar+2 K. GT 16",
+        "[53] Paar+3 u.m. K. GT 16",
+        "[61] Paar+2 K. LE und GT 16",
+        "[62] Paar+3 u.m. K. LE und GT 16",
+        "[71] 3-Generationen-HH",
+        "[72] 4-Generationen-HH",
+        "[73] Grosseltern-Enkel-HH",
+        "[81] Sonst. Kombination ohne K. LE 16",
+        "[82] Sonst. Kombination mit K. LE 16"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319388",
+        "0"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Haushalts-Typologie (2-Steller)"
+  },
+  "hghinc": {
+    "name": "hghinc",
+    "name_cs": "hghinc",
+    "variable": "hghinc",
+    "dataset": "hgen",
+    "label": "Monthly Household Net Income (EUR)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1278",
+        "1950",
+        "2296",
+        "2850",
+        "2e+05",
+        "16407",
+        "302981",
+        "16407"
+      ]
+    },
+    "scale": "",
+    "label_de": "Monatl. Haushaltsnettoeinkommen (EUR)"
+  },
+  "hgi1hinc": {
+    "name": "hgi1hinc",
+    "name_cs": "hgi1hinc",
+    "variable": "hgi1hinc",
+    "dataset": "hgen",
+    "label": "1. Imputed Monthly Net Household Income (EUR) [1/5]",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1426",
+        "2090",
+        "2471",
+        "3000",
+        "1e+05",
+        "64484",
+        "254904",
+        "64484"
+      ]
+    },
+    "scale": "",
+    "label_de": "1.Imput.monatl.HH-Nettoeinkommen (EUR) [1/5]"
+  },
+  "hgi2hinc": {
+    "name": "hgi2hinc",
+    "name_cs": "hgi2hinc",
+    "variable": "hgi2hinc",
+    "dataset": "hgen",
+    "label": "2. Imputed Monthly Net Household Income (EUR) [2/5]",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1430",
+        "2096",
+        "2472",
+        "3000",
+        "1e+05",
+        "64484",
+        "254904",
+        "64484"
+      ]
+    },
+    "scale": "",
+    "label_de": "2.Imput.monatl.HH-Nettoeinkommen (EUR) [2/5]"
+  },
+  "hgi3hinc": {
+    "name": "hgi3hinc",
+    "name_cs": "hgi3hinc",
+    "variable": "hgi3hinc",
+    "dataset": "hgen",
+    "label": "3. Imputed Monthly Net Household Income (EUR) [3/5]",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1430",
+        "2096",
+        "2472",
+        "3000",
+        "1e+05",
+        "64484",
+        "254904",
+        "64484"
+      ]
+    },
+    "scale": "",
+    "label_de": "3.Imput.monatl.HH-Nettoeinkommen (EUR) [3/5]"
+  },
+  "hgi4hinc": {
+    "name": "hgi4hinc",
+    "name_cs": "hgi4hinc",
+    "variable": "hgi4hinc",
+    "dataset": "hgen",
+    "label": "4. Imputed Monthly Net Household Income (EUR) [4/5]",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1430",
+        "2096",
+        "2472",
+        "3000",
+        "1e+05",
+        "64484",
+        "254904",
+        "64484"
+      ]
+    },
+    "scale": "",
+    "label_de": "4.Imput.monatl.HH-Nettoeinkommen (EUR) [4/5]"
+  },
+  "hgi5hinc": {
+    "name": "hgi5hinc",
+    "name_cs": "hgi5hinc",
+    "variable": "hgi5hinc",
+    "dataset": "hgen",
+    "label": "5. Imputed Monthly Net Household Income (EUR) [5/5]",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1429",
+        "2096",
+        "2472",
+        "3000",
+        "1e+05",
+        "64484",
+        "254904",
+        "64484"
+      ]
+    },
+    "scale": "",
+    "label_de": "5.Imput.monatl.HH-Nettoeinkommen (EUR) [5/5]"
+  },
+  "hgfhinc": {
+    "name": "hgfhinc",
+    "name_cs": "hgfhinc",
+    "variable": "hgfhinc",
+    "dataset": "hgen",
+    "label": "Imputation Flag, Monthly Net Household Income",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        3,
+        305766,
+        13616
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[0] Not imputed",
+        "[1] Imputed"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[0] Nicht imputiert",
+        "[1] Imputiert"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319382",
+        "6"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen"
+  },
+  "hgnuts1": {
+    "name": "hgnuts1",
+    "name_cs": "hgnuts1",
+    "variable": "hgnuts1",
+    "dataset": "hgen",
+    "label": "NUTS-Systematic-1 (Federal State)",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        5921,
+        2,
+        39153,
+        45587,
+        13358,
+        12136,
+        2652,
+        5291,
+        22761,
+        7312,
+        27629,
+        65099,
+        15696,
+        2501,
+        20418,
+        12118,
+        9707,
+        12047
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] Baden-Wuerttemberg",
+        "[2] Bavaria",
+        "[3] Berlin",
+        "[4] Brandenburg",
+        "[5] Bremen",
+        "[6] Hamburg",
+        "[7] Hesse",
+        "[8] Mecklenburg-West Pomerania",
+        "[9] Lower Saxony",
+        "[10] North Rhine-Westphalia",
+        "[11] Rhineland-Palatinate",
+        "[12] Saarland",
+        "[13] Saxony",
+        "[14] Saxony-Anhalt",
+        "[15] Schleswig-Holstein",
+        "[16] Thuringia"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Baden-Wuerttemberg",
+        "[2] Bayern",
+        "[3] Berlin",
+        "[4] Brandenburg",
+        "[5] Bremen",
+        "[6] Hamburg",
+        "[7] Hessen",
+        "[8] Mecklenburg-Vorpommern",
+        "[9] Niedersachsen",
+        "[10] Nordrhein-Westfalen",
+        "[11] Rheinland-Pfalz",
+        "[12] Saarland",
+        "[13] Sachsen",
+        "[14] Sachsen-Anhalt",
+        "[15] Schleswig-Holstein",
+        "[16] Thueringen"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "313465",
+        "5923"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "NUTS-Systematik-1 (Bundesland)"
+  },
+  "hghmonth": {
+    "name": "hghmonth",
+    "name_cs": "hghmonth",
+    "variable": "hghmonth",
+    "dataset": "hgen",
+    "label": "Month Of Interview",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        37,
+        22267,
+        80758,
+        84974,
+        47852,
+        26968,
+        22289,
+        14525,
+        8325,
+        6410,
+        3777,
+        873,
+        332
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[1] January",
+        "[2] February",
+        "[3] March",
+        "[4] April",
+        "[5] May",
+        "[6] June",
+        "[7] July",
+        "[8] August",
+        "[9] September",
+        "[10] October",
+        "[11] November",
+        "[12] December"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] Nicht valide",
+        "[-2] Trifft nicht zu",
+        "[-1] Keine Angabe",
+        "[1] Januar",
+        "[2] Februar",
+        "[3] Maerz",
+        "[4] April",
+        "[5] Mai",
+        "[6] Juni",
+        "[7] Juli",
+        "[8] August",
+        "[9] September",
+        "[10] Oktober",
+        "[11] November",
+        "[12] Dezember"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319350",
+        "38"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Monat des Interviews"
+  },
+  "hghmode": {
+    "name": "hghmode",
+    "name_cs": "hghmode",
+    "variable": "hghmode",
+    "dataset": "hgen",
+    "label": "Interview Method",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        4181,
+        99122,
+        53461,
+        0,
+        5794,
+        6730,
+        9,
+        1334,
+        9175,
+        100123,
+        2114,
+        0,
+        37079,
+        255
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Questionnaire Version With Modified Filter",
+        "[-5] Not Included In Questionnaire Version",
+        "[-4] Forbidden Multiple Response",
+        "[-3] Not Valid",
+        "[-2] Does Not Apply",
+        "[-1] No Answer",
+        "[100] With Interviewer Assistance",
+        "[110] Oral Interview",
+        "[120] Written Ques. Interviewer",
+        "[130] Mixed Type",
+        "[131] Written Ques. No Interviewer",
+        "[132] Oral And Written",
+        "[133] Proxy",
+        "[134] Third Person Present",
+        "[135] No Third Person Present",
+        "[140] CAPI - Wave O Onwards",
+        "[150] CAWI - Wave BE (2014) Onwards",
+        "[200] Telephone Assistance",
+        "[210] Written, By Mail",
+        "[220] Phone Interview"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "100",
+        "110",
+        "120",
+        "130",
+        "131",
+        "132",
+        "133",
+        "134",
+        "135",
+        "140",
+        "150",
+        "200",
+        "210",
+        "220"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[100] With Interviewer Assistance",
+        "[110] Oral Interview",
+        "[120] Written Ques. Interviewer",
+        "[130] Mixed Type",
+        "[131] Written Ques. No Interviewer",
+        "[132] Oral And Written",
+        "[133] Proxy",
+        "[134] Third Person Present",
+        "[135] No Third Person Present",
+        "[140] CAPI - Wave O (1998) Onwards",
+        "[150] CAWI - Wave BE (2014) Onwards",
+        "[200] Telephone Assistance",
+        "[210] Written, By Mail",
+        "[220] Phone Interview"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "319377",
+        "11"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Interviewmethode"
+  },
+  "hgeqpfhea": {
+    "name": "hgeqpfhea",
+    "name_cs": "hgeqpfhea",
+    "variable": "hgeqpfhea",
+    "dataset": "hgen",
+    "label": "Equipment: Floor Heating",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        208637,
+        0,
+        0,
+        0,
+        1736,
+        20918,
+        88097
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "109015",
+        "210373"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Fussbodenheizung"
+  },
+  "hgeqpinsul": {
+    "name": "hgeqpinsul",
+    "name_cs": "hgeqpinsul",
+    "variable": "hgeqpinsul",
+    "dataset": "hgen",
+    "label": "Equipment: Thermal Insulation",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303397,
+        0,
+        0,
+        0,
+        439,
+        8613,
+        6939
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "15552",
+        "303836"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Waermedaemmung"
+  },
+  "hgeqpmglass": {
+    "name": "hgeqpmglass",
+    "name_cs": "hgeqpmglass",
+    "variable": "hgeqpmglass",
+    "dataset": "hgen",
+    "label": "Equipment: at Least Double Glazing",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303397,
+        0,
+        0,
+        0,
+        85,
+        14287,
+        1619
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "15906",
+        "303482"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Mindestens Doppelverglasung"
+  },
+  "hgeqpnobar": {
+    "name": "hgeqpnobar",
+    "name_cs": "hgeqpnobar",
+    "variable": "hgeqpnobar",
+    "dataset": "hgen",
+    "label": "Equipment: Barrier Free Furnishing",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        269267,
+        0,
+        0,
+        0,
+        192,
+        7528,
+        42401
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "49929",
+        "269459"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Barrierefreie Wohnaust."
+  },
+  "hgeqppark": {
+    "name": "hgeqppark",
+    "name_cs": "hgeqppark",
+    "variable": "hgeqppark",
+    "dataset": "hgen",
+    "label": "Equipment: Garage/ Parking Space",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        303397,
+        0,
+        0,
+        0,
+        73,
+        10882,
+        5036
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Yes",
+        "[2] No"
+      ],
+      "missings": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] Ja",
+        "[2] Nein"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "15918",
+        "303470"
+      ]
+    },
+    "scale": "cat",
+    "label_de": "Ausstattung: Garage/Stellplatz"
+  }
+}
