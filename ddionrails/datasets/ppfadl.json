@@ -1,6 +1,6 @@
 {
   "cid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -38,7 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "pid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -76,7 +76,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -114,7 +114,7 @@
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "sex": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -191,7 +191,7 @@
     "label_de": "Geschlecht"
   },
   "gebjahr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "gebjahr",
     "name_cs": "gebjahr",
     "variable": "gebjahr",
@@ -231,7 +231,7 @@
     "label_de": "Geburtsjahr -4Steller-"
   },
   "erstbefr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "erstbefr",
     "name_cs": "erstbefr",
     "variable": "erstbefr",
@@ -271,7 +271,7 @@
     "label_de": "Jahr der ersten Befragung"
   },
   "letztbef": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "letztbef",
     "name_cs": "letztbef",
     "variable": "letztbef",
@@ -311,7 +311,7 @@
     "label_de": "Jahr der letzten Befragung, (Netto=10-19)"
   },
   "eintritt": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "eintritt",
     "name_cs": "eintritt",
     "variable": "eintritt",
@@ -349,7 +349,7 @@
     "label_de": "Jahr des ersten Kontaktes"
   },
   "austritt": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "austritt",
     "name_cs": "austritt",
     "variable": "austritt",
@@ -387,7 +387,7 @@
     "label_de": "Jahr des letzten Kontaktes"
   },
   "todjahr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "todjahr",
     "name_cs": "todjahr",
     "variable": "todjahr",
@@ -427,7 +427,7 @@
     "label_de": "Todesjahr -4Steller-"
   },
   "todinfo": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "todinfo",
     "name_cs": "todinfo",
     "variable": "todinfo",
@@ -534,7 +534,7 @@
     "label_de": "Todesjahr - Infoquelle"
   },
   "immiyear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "immiyear",
     "name_cs": "immiyear",
     "variable": "immiyear",
@@ -574,7 +574,7 @@
     "label_de": "Year Of Immigration To Germany"
   },
   "germborn": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "germborn",
     "name_cs": "germborn",
     "variable": "germborn",
@@ -651,7 +651,7 @@
     "label_de": "Born In Germany"
   },
   "loc1989": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "loc1989",
     "name_cs": "loc1989",
     "variable": "loc1989",
@@ -733,7 +733,7 @@
     "label_de": "Where did you live in 1989?"
   },
   "corigin": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "corigin",
     "name_cs": "corigin",
     "variable": "corigin",
@@ -1720,7 +1720,7 @@
     "label_de": "Country of Origin"
   },
   "migback": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "migback",
     "name_cs": "migback",
     "variable": "migback",
@@ -1807,7 +1807,7 @@
     "label_de": "Migrationshintergrund"
   },
   "miginfo": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "miginfo",
     "name_cs": "miginfo",
     "variable": "miginfo",
@@ -1899,7 +1899,7 @@
     "label_de": "Informationsquellen von MIGBACK"
   },
   "psample": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "psample",
     "name_cs": "psample",
     "variable": "psample",
@@ -2046,7 +2046,7 @@
     "label_de": "Stichprobenart"
   },
   "gebmonat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "gebmonat",
     "name_cs": "gebmonat",
     "variable": "gebmonat",
@@ -2173,7 +2173,7 @@
     "label_de": "Geburtsmonat"
   },
   "gebmoval": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "gebmoval",
     "name_cs": "gebmoval",
     "variable": "gebmoval",
@@ -2275,7 +2275,7 @@
     "label_de": "Geburtsmonat, Datenquelle"
   },
   "wave": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wave",
     "name_cs": "wave",
     "variable": "wave",
@@ -2315,7 +2315,7 @@
     "label_de": "Erhebungswelle"
   },
   "hid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -2355,7 +2355,7 @@
     "label_de": "ID Haushalt"
   },
   "netto": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "netto",
     "name_cs": "netto",
     "variable": "netto",
@@ -2612,7 +2612,7 @@
     "label_de": "Aktueller Befragungsstatus"
   },
   "nett1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "nett1",
     "name_cs": "nett1",
     "variable": "nett1",
@@ -2709,7 +2709,7 @@
     "label_de": "Aktueller Befragungsstatus (Netold)"
   },
   "casemat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "casemat",
     "name_cs": "casemat",
     "variable": "casemat",
@@ -2876,7 +2876,7 @@
     "label_de": "Case-Match, zusammengezogene Panelhaushalte"
   },
   "sampreg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sampreg",
     "name_cs": "sampreg",
     "variable": "sampreg",
@@ -2953,7 +2953,7 @@
     "label_de": "Aktuelle Stichprobenregion (Berlin West-Ost)"
   },
   "pop": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pop",
     "name_cs": "pop",
     "variable": "pop",
@@ -3060,7 +3060,7 @@
     "label_de": "Aktuelle Populationszugehoerigkeit"
   },
   "iyear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "iyear",
     "name_cs": "iyear",
     "variable": "iyear",
@@ -3098,7 +3098,7 @@
     "label_de": "Interview Year"
   },
   "parid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "parid",
     "name_cs": "parid",
     "variable": "parid",
@@ -3138,7 +3138,7 @@
     "label_de": "PID des Ehe-,Lebenspartners"
   },
   "partner": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "partner",
     "name_cs": "partner",
     "variable": "partner",
@@ -3230,7 +3230,7 @@
     "label_de": "Art der Partnerschaft"
   },
   "prgroup": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "prgroup",
     "name_cs": "prgroup",
     "variable": "prgroup",
@@ -3268,7 +3268,7 @@
     "label_de": "Random Groups"
   },
   "pbleib": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pbleib",
     "name_cs": "pbleib",
     "variable": "pbleib",
@@ -3308,7 +3308,7 @@
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "phrf": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrf",
     "name_cs": "phrf",
     "variable": "phrf",
@@ -3346,7 +3346,7 @@
     "label_de": "Hochrechnungsfaktor"
   },
   "phrf0": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrf0",
     "name_cs": "phrf0",
     "variable": "phrf0",
@@ -3384,7 +3384,7 @@
     "label_de": "Hochrechnungsfaktor fuer Ursprungsstichproben (Welle 1)"
   },
   "phrf1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrf1",
     "name_cs": "phrf1",
     "variable": "phrf1",
@@ -3422,7 +3422,7 @@
     "label_de": "Hochrechnungsfaktor ohne Ursprungsstichproben (Welle 1)"
   },
   "phrfe": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrfe",
     "name_cs": "phrfe",
     "variable": "phrfe",
@@ -3460,7 +3460,7 @@
     "label_de": "Hochrechnungsfaktor mit Haushaltsbezug (enumerated weights)"
   },
   "pbleibe": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pbleibe",
     "name_cs": "pbleibe",
     "variable": "pbleibe",
@@ -3498,7 +3498,7 @@
     "label_de": "Inverse Bleibewahrscheinlichkeit (enum.)"
   },
   "phrfe0": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrfe0",
     "name_cs": "phrfe0",
     "variable": "phrfe0",
@@ -3536,7 +3536,7 @@
     "label_de": "Hochrechnungsfaktor (enum.), nur fuer Ursprungsstichproben (Welle 1)"
   },
   "phrfe1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "phrfe1",
     "name_cs": "phrfe1",
     "variable": "phrfe1",

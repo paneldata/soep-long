@@ -1,6 +1,6 @@
 {
   "cid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -38,7 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -76,7 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -114,7 +114,7 @@
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "sample1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sample1",
     "name_cs": "sample1",
     "variable": "sample1",
@@ -331,7 +331,7 @@
     "label_de": "Stichprobenkennzeichen"
   },
   "sampreg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sampreg",
     "name_cs": "sampreg",
     "variable": "sampreg",
@@ -408,7 +408,7 @@
     "label_de": "Aktuelle Stichprobenregion (Berlin West-Ost)"
   },
   "htyp": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "htyp",
     "name_cs": "htyp",
     "variable": "htyp",
@@ -500,7 +500,7 @@
     "label_de": "Haushaltstyp"
   },
   "hand": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hand",
     "name_cs": "hand",
     "variable": "hand",
@@ -592,7 +592,7 @@
     "label_de": "Handakte;Besonderheiten"
   },
   "hpmax": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hpmax",
     "name_cs": "hpmax",
     "variable": "hpmax",
@@ -632,7 +632,7 @@
     "label_de": "Hoechste vergebene Personennummer im HH"
   },
   "datumtg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "datumtg",
     "name_cs": "datumtg",
     "variable": "datumtg",
@@ -859,7 +859,7 @@
     "label_de": "Tag letzter HH-Kontakt"
   },
   "datummo": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "datummo",
     "name_cs": "datummo",
     "variable": "datummo",
@@ -991,7 +991,7 @@
     "label_de": "Monat letzter HH-Kontakt"
   },
   "bula": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "bula",
     "name_cs": "bula",
     "variable": "bula",
@@ -1138,7 +1138,7 @@
     "label_de": "Bundesland"
   },
   "hader": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hader",
     "name_cs": "hader",
     "variable": "hader",
@@ -1245,7 +1245,7 @@
     "label_de": "Adressenermittlung Haushalt"
   },
   "hadq": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hadq",
     "name_cs": "hadq",
     "variable": "hadq",
@@ -1332,7 +1332,7 @@
     "label_de": "Informationsquelle"
   },
   "intza": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intza",
     "name_cs": "intza",
     "variable": "intza",
@@ -1429,7 +1429,7 @@
     "label_de": "Zahl der eingesetzten Interviewer"
   },
   "intk": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intk",
     "name_cs": "intk",
     "variable": "intk",
@@ -1546,7 +1546,7 @@
     "label_de": "Interviewerkontakte"
   },
   "telk1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "telk1",
     "name_cs": "telk1",
     "variable": "telk1",
@@ -1633,7 +1633,7 @@
     "label_de": "Telefonkontakte 1, Bearbeitung"
   },
   "telk2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "telk2",
     "name_cs": "telk2",
     "variable": "telk2",
@@ -1715,7 +1715,7 @@
     "label_de": "Telefonkontakte 2, Nacherhebung"
   },
   "schk": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "schk",
     "name_cs": "schk",
     "variable": "schk",
@@ -1792,7 +1792,7 @@
     "label_de": "Schriftliche Kontakte"
   },
   "hform1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hform1",
     "name_cs": "hform1",
     "variable": "hform1",
@@ -1909,7 +1909,7 @@
     "label_de": "Hauptb.Bearbeitungsform"
   },
   "herg1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "herg1",
     "name_cs": "herg1",
     "variable": "herg1",
@@ -2031,7 +2031,7 @@
     "label_de": "Hauptb.Bearbeitungsergebnis"
   },
   "hforms": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hforms",
     "name_cs": "hforms",
     "variable": "hforms",
@@ -2148,7 +2148,7 @@
     "label_de": "Schlusscode Bearbeitungsform"
   },
   "hergs": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hergs",
     "name_cs": "hergs",
     "variable": "hergs",
@@ -2460,7 +2460,7 @@
     "label_de": "Schlusscode Bearbeitungsergebnis"
   },
   "hstu": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hstu",
     "name_cs": "hstu",
     "variable": "hstu",
@@ -2547,7 +2547,7 @@
     "label_de": "Bearbeitungsstufen Haushalt"
   },
   "split": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "split",
     "name_cs": "split",
     "variable": "split",
@@ -2729,7 +2729,7 @@
     "label_de": "Startbearbeitungsform"
   },
   "hhgr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hhgr",
     "name_cs": "hhgr",
     "variable": "hhgr",
@@ -2767,7 +2767,7 @@
     "label_de": "Zahl der Personen im Haushalt"
   },
   "wum1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wum1",
     "name_cs": "wum1",
     "variable": "wum1",
@@ -2879,7 +2879,7 @@
     "label_de": "Wohnumfeld 1 - Haustyp"
   },
   "wum2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wum2",
     "name_cs": "wum2",
     "variable": "wum2",
@@ -2991,7 +2991,7 @@
     "label_de": "Wohnumfeld 2 - Privat-,Anstaltshaushalt"
   },
   "wum3": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wum3",
     "name_cs": "wum3",
     "variable": "wum3",
@@ -3093,7 +3093,7 @@
     "label_de": "Wohnumfeld 3 - Quartier"
   },
   "wein": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wein",
     "name_cs": "wein",
     "variable": "wein",
@@ -3133,7 +3133,7 @@
     "label_de": "Welle Einzug an diese Adresse"
   },
   "htel": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "htel",
     "name_cs": "htel",
     "variable": "htel",
@@ -3205,7 +3205,7 @@
     "label_de": "Telefon"
   },
   "email": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "email",
     "name_cs": "email",
     "variable": "email",
@@ -3277,7 +3277,7 @@
     "label_de": "Haushalt mit e-mail-Anschluss"
   },
   "spielhh": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "spielhh",
     "name_cs": "spielhh",
     "variable": "spielhh",
@@ -3364,7 +3364,7 @@
     "label_de": "Haushalt im Brutto fuer Experiment"
   },
   "hdatrep": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hdatrep",
     "name_cs": "hdatrep",
     "variable": "hdatrep",
@@ -3436,7 +3436,7 @@
     "label_de": "Datenreport"
   },
   "hd": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hd",
     "name_cs": "hd",
     "variable": "hd",
@@ -3513,7 +3513,7 @@
     "label_de": "Stichprobenzugehoerigkeit"
   },
   "hgruppe": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hgruppe",
     "name_cs": "hgruppe",
     "variable": "hgruppe",
@@ -3620,7 +3620,7 @@
     "label_de": "Gruppenzugehoerigkeit"
   },
   "hergsz": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hergsz",
     "name_cs": "hergsz",
     "variable": "hergsz",
@@ -3872,7 +3872,7 @@
     "label_de": "Schlusscode Bearbeitungsergeb. 2-Steller"
   },
   "waus": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "waus",
     "name_cs": "waus",
     "variable": "waus",
@@ -3892,7 +3892,7 @@
     "label_de": "Welle Auszug"
   },
   "wohn": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wohn",
     "name_cs": "wohn",
     "variable": "wohn",
@@ -3932,7 +3932,7 @@
     "label_de": "Wohn"
   },
   "welle": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "welle",
     "name_cs": "welle",
     "variable": "welle",
@@ -3972,7 +3972,7 @@
     "label_de": "Befragungswelle"
   },
   "listl": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "listl",
     "name_cs": "listl",
     "variable": "listl",
@@ -4012,7 +4012,7 @@
     "label_de": "Listen- und lfd. Nummer im laufend. Jahr"
   },
   "haderq": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "haderq",
     "name_cs": "haderq",
     "variable": "haderq",
@@ -4052,7 +4052,7 @@
     "label_de": "Adressenermittlung zweistellig"
   },
   "bulaold": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "bulaold",
     "name_cs": "bulaold",
     "variable": "bulaold",
@@ -4169,7 +4169,7 @@
     "label_de": "Bundeslaender"
   },
   "hform2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hform2",
     "name_cs": "hform2",
     "variable": "hform2",
@@ -4276,7 +4276,7 @@
     "label_de": "1.Nachb.,Bearbeitungsform"
   },
   "herg2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "herg2",
     "name_cs": "herg2",
     "variable": "herg2",
@@ -4393,7 +4393,7 @@
     "label_de": "1.Nachb.,Bearbeitungsergebnis"
   },
   "luecke": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "luecke",
     "name_cs": "luecke",
     "variable": "luecke",
@@ -4505,7 +4505,7 @@
     "label_de": "Luecken-Definition"
   },
   "hformv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hformv",
     "name_cs": "hformv",
     "variable": "hformv",
@@ -4612,7 +4612,7 @@
     "label_de": "Bearbeitungsform Vorjahr"
   },
   "hergv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hergv",
     "name_cs": "hergv",
     "variable": "hergv",
@@ -4839,7 +4839,7 @@
     "label_de": "Bearbeitungsergebnis Vorjahr"
   },
   "auskv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "auskv",
     "name_cs": "auskv",
     "variable": "auskv",
@@ -4879,7 +4879,7 @@
     "label_de": "Auskunftsperson im Vorjahr"
   },
   "wum4": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wum4",
     "name_cs": "wum4",
     "variable": "wum4",
@@ -4966,7 +4966,7 @@
     "label_de": "Wohnumfeld 4 - Siedlungsform"
   },
   "ausk": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ausk",
     "name_cs": "ausk",
     "variable": "ausk",
@@ -5006,7 +5006,7 @@
     "label_de": "Auskunftsperson"
   },
   "vmb": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "vmb",
     "name_cs": "vmb",
     "variable": "vmb",
@@ -5098,7 +5098,7 @@
     "label_de": "Ergebnis der Vermoegensbilanz"
   },
   "sonder": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sonder",
     "name_cs": "sonder",
     "variable": "sonder",
@@ -5170,7 +5170,7 @@
     "label_de": "vorab - Besonderheiten bei vorablieferung"
   },
   "vorab": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "vorab",
     "name_cs": "vorab",
     "variable": "vorab",
@@ -5247,7 +5247,7 @@
     "label_de": "Vorab - Vollstaendigkeit"
   },
   "datumy": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "datumy",
     "name_cs": "datumy",
     "variable": "datumy",
@@ -5287,7 +5287,7 @@
     "label_de": "Interviewjahr"
   },
   "regtyp": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "regtyp",
     "name_cs": "regtyp",
     "variable": "regtyp",
@@ -5364,7 +5364,7 @@
     "label_de": "Siedlungsstruktureller Regionsgrundtyp des BBSR"
   },
   "intid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intid",
     "name_cs": "intid",
     "variable": "intid",
@@ -5404,7 +5404,7 @@
     "label_de": "Interviewer-Nummer"
   },
   "inckontr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "inckontr",
     "name_cs": "inckontr",
     "variable": "inckontr",
@@ -5486,7 +5486,7 @@
     "label_de": "Incentivierungshaushalte"
   },
   "vodere": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "vodere",
     "name_cs": "vodere",
     "variable": "vodere",
@@ -5568,7 +5568,7 @@
     "label_de": "Wahl der Incentivierung"
   },
   "intid1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intid1",
     "name_cs": "intid1",
     "variable": "intid1",
@@ -5608,7 +5608,7 @@
     "label_de": "ID des zuerst eingesetzten Interviewers"
   },
   "mkz1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "mkz1",
     "name_cs": "mkz1",
     "variable": "mkz1",
@@ -5690,7 +5690,7 @@
     "label_de": "Migrantenkennzeichen 1 (FiD)"
   },
   "mkz2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "mkz2",
     "name_cs": "mkz2",
     "variable": "mkz2",
@@ -5772,7 +5772,7 @@
     "label_de": "Migrantenkennzeichen 2 (FiD)"
   },
   "catierg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "catierg",
     "name_cs": "catierg",
     "variable": "catierg",
@@ -5884,7 +5884,7 @@
     "label_de": "CATI-Ergebnis"
   },
   "cawierg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cawierg",
     "name_cs": "cawierg",
     "variable": "cawierg",
@@ -5961,7 +5961,7 @@
     "label_de": "CAWI-Ergebnis"
   },
   "capierg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "capierg",
     "name_cs": "capierg",
     "variable": "capierg",

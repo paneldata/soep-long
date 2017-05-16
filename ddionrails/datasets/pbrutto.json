@@ -1,6 +1,6 @@
 {
   "cid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -38,7 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -76,7 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -114,7 +114,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -152,7 +152,7 @@
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "geburt": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "geburt",
     "name_cs": "geburt",
     "variable": "geburt",
@@ -192,7 +192,7 @@
     "label_de": "Geburtsjahr"
   },
   "sex": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sex",
     "name_cs": "sex",
     "variable": "sex",
@@ -274,7 +274,7 @@
     "label_de": "Geschlecht"
   },
   "pnat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnat",
     "name_cs": "pnat",
     "variable": "pnat",
@@ -1241,7 +1241,7 @@
     "label_de": "Staatsangehoerigkeit"
   },
   "stistat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "stistat",
     "name_cs": "stistat",
     "variable": "stistat",
@@ -1328,7 +1328,7 @@
     "label_de": "Stichprobenstatus"
   },
   "befstat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "befstat",
     "name_cs": "befstat",
     "variable": "befstat",
@@ -1435,7 +1435,7 @@
     "label_de": "Befragungsstatus"
   },
   "lint": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "lint",
     "name_cs": "lint",
     "variable": "lint",
@@ -1807,7 +1807,7 @@
     "label_de": "Letztes Interview in Welle"
   },
   "luecke": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "luecke",
     "name_cs": "luecke",
     "variable": "luecke",
@@ -1894,7 +1894,7 @@
     "label_de": "Lueckenbearbeitung"
   },
   "zupan": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "zupan",
     "name_cs": "zupan",
     "variable": "zupan",
@@ -2261,7 +2261,7 @@
     "label_de": "Zugangswelle zum Panel"
   },
   "pnrakt": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnrakt",
     "name_cs": "pnrakt",
     "variable": "pnrakt",
@@ -2301,7 +2301,7 @@
     "label_de": "lfd. Personen-Nr. im HH"
   },
   "stell": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "stell",
     "name_cs": "stell",
     "variable": "stell",
@@ -2543,7 +2543,7 @@
     "label_de": "Stellung zum HV, Bezugsperson"
   },
   "pzug": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pzug",
     "name_cs": "pzug",
     "variable": "pzug",
@@ -2835,7 +2835,7 @@
     "label_de": "Zugehoerigkeit zum HH"
   },
   "pform": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pform",
     "name_cs": "pform",
     "variable": "pform",
@@ -2947,7 +2947,7 @@
     "label_de": "Bearbeitungsform"
   },
   "perg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "perg",
     "name_cs": "perg",
     "variable": "perg",
@@ -3059,7 +3059,7 @@
     "label_de": "Bearbeitungsergebnis 1-Steller"
   },
   "pergz": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pergz",
     "name_cs": "pergz",
     "variable": "pergz",
@@ -3266,7 +3266,7 @@
     "label_de": "Bearbeitungsergebnis 2-Steller"
   },
   "hhnrold": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hhnrold",
     "name_cs": "hhnrold",
     "variable": "hhnrold",
@@ -3306,7 +3306,7 @@
     "label_de": "HH-Nummer Vorjahr mit Pfkz."
   },
   "pnrold": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnrold",
     "name_cs": "pnrold",
     "variable": "pnrold",
@@ -3346,7 +3346,7 @@
     "label_de": "lfd. Personen-Nr. im HH im Vorjahr"
   },
   "pzugv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pzugv",
     "name_cs": "pzugv",
     "variable": "pzugv",
@@ -3638,7 +3638,7 @@
     "label_de": "Zugehoerigkeit zum HH im Vorjahr"
   },
   "pformv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pformv",
     "name_cs": "pformv",
     "variable": "pformv",
@@ -3755,7 +3755,7 @@
     "label_de": "Bearbeitungsform im Vorjahr"
   },
   "pergzv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pergzv",
     "name_cs": "pergzv",
     "variable": "pergzv",
@@ -3967,7 +3967,7 @@
     "label_de": "Bearbeitungsergebnis im Vorjahr"
   },
   "pader": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pader",
     "name_cs": "pader",
     "variable": "pader",
@@ -4074,7 +4074,7 @@
     "label_de": "Adressermittlung"
   },
   "paderq": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "paderq",
     "name_cs": "paderq",
     "variable": "paderq",
@@ -4161,7 +4161,7 @@
     "label_de": "Info-Quelle fuer Adressermittlung"
   },
   "auszugm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "auszugm",
     "name_cs": "auszugm",
     "variable": "auszugm",
@@ -4288,7 +4288,7 @@
     "label_de": "Monat des Auszugs"
   },
   "auszugj": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "auszugj",
     "name_cs": "auszugj",
     "variable": "auszugj",
@@ -4328,7 +4328,7 @@
     "label_de": "Jahr des Auszugs"
   },
   "einzugm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "einzugm",
     "name_cs": "einzugm",
     "variable": "einzugm",
@@ -4460,7 +4460,7 @@
     "label_de": "Monat des Einzugs"
   },
   "einzugj": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "einzugj",
     "name_cs": "einzugj",
     "variable": "einzugj",
@@ -4500,7 +4500,7 @@
     "label_de": "Jahr des Einzugs"
   },
   "abwesm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "abwesm",
     "name_cs": "abwesm",
     "variable": "abwesm",
@@ -4632,7 +4632,7 @@
     "label_de": "Monat der temp. Abwesenheit"
   },
   "abwesj": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "abwesj",
     "name_cs": "abwesj",
     "variable": "abwesj",
@@ -4672,7 +4672,7 @@
     "label_de": "Jahr der temp. Abwesenheit"
   },
   "pbio": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pbio",
     "name_cs": "pbio",
     "variable": "pbio",
@@ -4794,7 +4794,7 @@
     "label_de": "Bearbeitungsergebnis Biographie"
   },
   "ber": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ber",
     "name_cs": "ber",
     "variable": "ber",
@@ -4881,7 +4881,7 @@
     "label_de": "Teilnahmebereitchaft"
   },
   "perge": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "perge",
     "name_cs": "perge",
     "variable": "perge",
@@ -4963,7 +4963,7 @@
     "label_de": "Bearbeitungscode STP E"
   },
   "pnat0": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnat0",
     "name_cs": "pnat0",
     "variable": "pnat0",
@@ -5075,7 +5075,7 @@
     "label_de": "Staatsangehoerigkeit 85-95"
   },
   "umzug": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "umzug",
     "name_cs": "umzug",
     "variable": "umzug",
@@ -5115,7 +5115,7 @@
     "label_de": "Umzug von Ost nach West"
   },
   "pzugm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pzugm",
     "name_cs": "pzugm",
     "variable": "pzugm",
@@ -5247,7 +5247,7 @@
     "label_de": "Monat Zugang, Abgang"
   },
   "pzugj": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pzugj",
     "name_cs": "pzugj",
     "variable": "pzugj",
@@ -5464,7 +5464,7 @@
     "label_de": "Jahr Zugang, Abgang"
   },
   "padq": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "padq",
     "name_cs": "padq",
     "variable": "padq",
@@ -5545,7 +5545,7 @@
     "label_de": "Adressenermittlung, Informationsquelle"
   },
   "part": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "part",
     "name_cs": "part",
     "variable": "part",
@@ -5632,7 +5632,7 @@
     "label_de": "Art des Personendatensatzes"
   },
   "pzweitv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pzweitv",
     "name_cs": "pzweitv",
     "variable": "pzweitv",
@@ -5704,7 +5704,7 @@
     "label_de": "Zweitwohnsitz im Vorjahr"
   },
   "wstatus": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "wstatus",
     "name_cs": "wstatus",
     "variable": "wstatus",
@@ -5796,7 +5796,7 @@
     "label_de": "Weiterverfolgungsstatus"
   },
   "zuhau": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "zuhau",
     "name_cs": "zuhau",
     "variable": "zuhau",
@@ -5903,7 +5903,7 @@
     "label_de": "Zugangswelle Haushalt"
   },
   "abhau": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "abhau",
     "name_cs": "abhau",
     "variable": "abhau",
@@ -6000,7 +6000,7 @@
     "label_de": "Abgangswelle Haushalt"
   },
   "sample1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sample1",
     "name_cs": "sample1",
     "variable": "sample1",
@@ -6217,7 +6217,7 @@
     "label_de": "Stichprobenkennzeichen"
   },
   "ewstatu": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ewstatu",
     "name_cs": "ewstatu",
     "variable": "ewstatu",
@@ -6314,7 +6314,7 @@
     "label_de": "Erwerbsstatus von Nicht-Teilnehmern"
   },
   "intdabei": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intdabei",
     "name_cs": "intdabei",
     "variable": "intdabei",
@@ -6391,7 +6391,7 @@
     "label_de": "Vorab - Personeninterviews erfasst"
   },
   "dj": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "dj",
     "name_cs": "dj",
     "variable": "dj",
@@ -6473,7 +6473,7 @@
     "label_de": "Kognitiver Test - Lust auf DJ"
   },
   "stell1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "stell1",
     "name_cs": "stell1",
     "variable": "stell1",
@@ -6615,7 +6615,7 @@
     "label_de": "[bis 2011] Stellung zum HV, Bezugsperson"
   },
   "e1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e1",
     "name_cs": "e1",
     "variable": "e1",
@@ -6712,7 +6712,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 1 (0-1 Jahre)"
   },
   "e2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e2",
     "name_cs": "e2",
     "variable": "e2",
@@ -6809,7 +6809,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 2 (1-2 Jahre)"
   },
   "e3": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e3",
     "name_cs": "e3",
     "variable": "e3",
@@ -6906,7 +6906,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 3 (2-3 Jahre)"
   },
   "e4": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e4",
     "name_cs": "e4",
     "variable": "e4",
@@ -7003,7 +7003,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 4 (5-6 Jahre)"
   },
   "e5": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e5",
     "name_cs": "e5",
     "variable": "e5",
@@ -7100,7 +7100,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 5 (7-8 Jahre)"
   },
   "e6": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "e6",
     "name_cs": "e6",
     "variable": "e6",
@@ -7197,7 +7197,7 @@
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 6 (9-10 Jahre)"
   },
   "panker": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "panker",
     "name_cs": "panker",
     "variable": "panker",
@@ -7269,7 +7269,7 @@
     "label_de": "Ankerperson"
   },
   "ic": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ic",
     "name_cs": "ic",
     "variable": "ic",
@@ -7411,7 +7411,7 @@
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
   "sv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sv",
     "name_cs": "sv",
     "variable": "sv",
@@ -7503,7 +7503,7 @@
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage"
   },
   "hk": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hk",
     "name_cs": "hk",
     "variable": "hk",
@@ -7575,7 +7575,7 @@
     "label_de": "Greifkrafttest"
   },
   "kogtier": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kogtier",
     "name_cs": "kogtier",
     "variable": "kogtier",
@@ -7647,7 +7647,7 @@
     "label_de": "Teilnahme am Test Tiere nennen [2012]"
   },
   "kogzahl": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kogzahl",
     "name_cs": "kogzahl",
     "variable": "kogzahl",
@@ -7719,7 +7719,7 @@
     "label_de": "Teilnahme am Test Zahlen-Zeichen [2012]"
   },
   "kogwort": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kogwort",
     "name_cs": "kogwort",
     "variable": "kogwort",
@@ -7791,7 +7791,7 @@
     "label_de": "Teilnahme am Test Worte identifizieren [2012]"
   },
   "berv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "berv",
     "name_cs": "berv",
     "variable": "berv",
@@ -7878,7 +7878,7 @@
     "label_de": "Teilnahmebereitschaft Vorjahr [2002]"
   },
   "pd": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pd",
     "name_cs": "pd",
     "variable": "pd",
@@ -7955,7 +7955,7 @@
     "label_de": "Stichprobenkennzeichen D1/D2 [1996/97]"
   },
   "pgruppe": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pgruppe",
     "name_cs": "pgruppe",
     "variable": "pgruppe",
@@ -8072,7 +8072,7 @@
     "label_de": "Gruppierung Nationalitaet [1995]"
   },
   "pherkft": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pherkft",
     "name_cs": "pherkft",
     "variable": "pherkft",
@@ -8644,7 +8644,7 @@
     "label_de": "Herkunftsland [1994/5]"
   },
   "pnrneu": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnrneu",
     "name_cs": "pnrneu",
     "variable": "pnrneu",
@@ -8684,7 +8684,7 @@
     "label_de": "Neue Haushalts- Und Personennummer [1991]"
   },
   "pergv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pergv",
     "name_cs": "pergv",
     "variable": "pergv",
@@ -8801,7 +8801,7 @@
     "label_de": "Bearbeitungsergebnis im Vorj.[1985-1991]"
   },
   "pup": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pup",
     "name_cs": "pup",
     "variable": "pup",
@@ -8928,7 +8928,7 @@
     "label_de": "Letztes Updating Person [1985/86]"
   },
   "tagin": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "tagin",
     "name_cs": "tagin",
     "variable": "tagin",
@@ -8968,7 +8968,7 @@
     "label_de": "Tag der Befragung [1984]"
   },
   "monin": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "monin",
     "name_cs": "monin",
     "variable": "monin",
@@ -9008,7 +9008,7 @@
     "label_de": "Monat der Befragung [1984]"
   },
   "intid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intid",
     "name_cs": "intid",
     "variable": "intid",
@@ -9048,7 +9048,7 @@
     "label_de": "Interviewer ID [1984]"
   },
   "reclin_mltreat": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "reclin_mltreat",
     "name_cs": "reclin_mltreat",
     "variable": "reclin_mltreat",
@@ -9125,7 +9125,7 @@
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin_mlgroup": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "reclin_mlgroup",
     "name_cs": "reclin_mlgroup",
     "variable": "reclin_mlgroup",
@@ -9212,7 +9212,7 @@
     "label_de": "Gruppen fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin_mlerg": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "reclin_mlerg",
     "name_cs": "reclin_mlerg",
     "variable": "reclin_mlerg",
@@ -9299,7 +9299,7 @@
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "reclin",
     "name_cs": "reclin",
     "variable": "reclin",

@@ -1,6 +1,6 @@
 {
   "cid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -38,7 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "syear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -76,7 +76,7 @@
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "hid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -114,7 +114,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -152,7 +152,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "pnr": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pnr",
     "name_cs": "pnr",
     "variable": "pnr",
@@ -190,7 +190,7 @@
     "label_de": "Laufende Nummer der Auskunftsperson"
   },
   "sample1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "sample1",
     "name_cs": "sample1",
     "variable": "sample1",
@@ -407,7 +407,7 @@
     "label_de": "Stichprobenkennzeichen"
   },
   "welle": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "welle",
     "name_cs": "welle",
     "variable": "welle",
@@ -447,7 +447,7 @@
     "label_de": "Erhebungsjahr"
   },
   "iyear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "iyear",
     "name_cs": "iyear",
     "variable": "iyear",
@@ -487,7 +487,7 @@
     "label_de": "Jahr des Interviews"
   },
   "imonth": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "imonth",
     "name_cs": "imonth",
     "variable": "imonth",
@@ -614,7 +614,7 @@
     "label_de": "Interviewmonat"
   },
   "iday": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "iday",
     "name_cs": "iday",
     "variable": "iday",
@@ -652,7 +652,7 @@
     "label_de": "Interviewtag"
   },
   "ihour": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ihour",
     "name_cs": "ihour",
     "variable": "ihour",
@@ -692,7 +692,7 @@
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "iminute": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "iminute",
     "name_cs": "iminute",
     "variable": "iminute",
@@ -732,7 +732,7 @@
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "jlanw": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jlanw",
     "name_cs": "jlanw",
     "variable": "jlanw",
@@ -814,7 +814,7 @@
     "label_de": "weitere anwesende Personen"
   },
   "jlinda1": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jlinda1",
     "name_cs": "jlinda1",
     "variable": "jlinda1",
@@ -854,7 +854,7 @@
     "label_de": "muendliche Interviewdauer (Minuten)"
   },
   "jlinda2": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jlinda2",
     "name_cs": "jlinda2",
     "variable": "jlinda2",
@@ -894,7 +894,7 @@
     "label_de": "Selbstausfuellen schriftlich (Minuten)"
   },
   "jlinta": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jlinta",
     "name_cs": "jlinta",
     "variable": "jlinta",
@@ -1016,7 +1016,7 @@
     "label_de": "Befragungsart/Befragungsdurchfuehrung"
   },
   "intid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "intid",
     "name_cs": "intid",
     "variable": "intid",
@@ -1056,7 +1056,7 @@
     "label_de": "Interviewernummer"
   },
   "jl0005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0005",
     "name_cs": "jl0005",
     "variable": "jl0005",
@@ -1133,7 +1133,7 @@
     "label_de": "Wohnt im elterl. HH.?"
   },
   "jl0006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0006",
     "name_cs": "jl0006",
     "variable": "jl0006",
@@ -1210,7 +1210,7 @@
     "label_de": "hat eigenes Zimmer?"
   },
   "jl0007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0007",
     "name_cs": "jl0007",
     "variable": "jl0007",
@@ -1250,7 +1250,7 @@
     "label_de": "Vorstellung vom Alter des Auszugs"
   },
   "jl0008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0008",
     "name_cs": "jl0008",
     "variable": "jl0008",
@@ -1322,7 +1322,7 @@
     "label_de": "keine Vorstellung vom Auszugsalter"
   },
   "jl0009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0009",
     "name_cs": "jl0009",
     "variable": "jl0009",
@@ -1399,7 +1399,7 @@
     "label_de": "weiteres Zimmer ausser bei Eltern"
   },
   "jl0010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0010",
     "name_cs": "jl0010",
     "variable": "jl0010",
@@ -1476,7 +1476,7 @@
     "label_de": "von Wohnung zu Schule,Arbeit"
   },
   "jl0011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0011",
     "name_cs": "jl0011",
     "variable": "jl0011",
@@ -1573,7 +1573,7 @@
     "label_de": "Was fuer andere Whg"
   },
   "jl0012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0012",
     "name_cs": "jl0012",
     "variable": "jl0012",
@@ -1650,7 +1650,7 @@
     "label_de": "Zugehoerigkeit Gruppe"
   },
   "jl0013": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0013",
     "name_cs": "jl0013",
     "variable": "jl0013",
@@ -1727,7 +1727,7 @@
     "label_de": "eigener Verdienst"
   },
   "jl0014": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0014",
     "name_cs": "jl0014",
     "variable": "jl0014",
@@ -1809,7 +1809,7 @@
     "label_de": "Art Verdienst"
   },
   "jl0015": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0015",
     "name_cs": "jl0015",
     "variable": "jl0015",
@@ -1891,7 +1891,7 @@
     "label_de": "1. Job: Ausuebung"
   },
   "jl0016": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0016",
     "name_cs": "jl0016",
     "variable": "jl0016",
@@ -1973,7 +1973,7 @@
     "label_de": "2. Job: Ausuebung"
   },
   "jl0017": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0017",
     "name_cs": "jl0017",
     "variable": "jl0017",
@@ -2050,7 +2050,7 @@
     "label_de": "frueher schon gejobbt"
   },
   "jl0018": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0018",
     "name_cs": "jl0018",
     "variable": "jl0018",
@@ -2090,7 +2090,7 @@
     "label_de": "Alter erster Job"
   },
   "jl0019": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0019",
     "name_cs": "jl0019",
     "variable": "jl0019",
@@ -2172,7 +2172,7 @@
     "label_de": "Gruende fuer Jobben"
   },
   "jl0020": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0020",
     "name_cs": "jl0020",
     "variable": "jl0020",
@@ -2249,7 +2249,7 @@
     "label_de": "Taschengeld, Zuschuss"
   },
   "jl0021": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0021",
     "name_cs": "jl0021",
     "variable": "jl0021",
@@ -2289,7 +2289,7 @@
     "label_de": "Taschengeld pro Woche"
   },
   "jl0022": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0022",
     "name_cs": "jl0022",
     "variable": "jl0022",
@@ -2329,7 +2329,7 @@
     "label_de": "Taschengeld pro Monat"
   },
   "jl0023": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0023",
     "name_cs": "jl0023",
     "variable": "jl0023",
@@ -2411,7 +2411,7 @@
     "label_de": "Geld sparen"
   },
   "jl0024": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0024",
     "name_cs": "jl0024",
     "variable": "jl0024",
@@ -2451,7 +2451,7 @@
     "label_de": "Sparen pro Monat"
   },
   "jl0025": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0025",
     "name_cs": "jl0025",
     "variable": "jl0025",
@@ -2523,7 +2523,7 @@
     "label_de": "Sparen unregelm."
   },
   "jl0026": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0026",
     "name_cs": "jl0026",
     "variable": "jl0026",
@@ -2615,7 +2615,7 @@
     "label_de": "Wichtigkeit Vater"
   },
   "jl0027": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0027",
     "name_cs": "jl0027",
     "variable": "jl0027",
@@ -2707,7 +2707,7 @@
     "label_de": "Wichtigkeit Mutter"
   },
   "jl0028": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0028",
     "name_cs": "jl0028",
     "variable": "jl0028",
@@ -2799,7 +2799,7 @@
     "label_de": "Wichtigkeit Bruder, Schwester"
   },
   "jl0029": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0029",
     "name_cs": "jl0029",
     "variable": "jl0029",
@@ -2891,7 +2891,7 @@
     "label_de": "Wichtigkeit andere verwandte Person"
   },
   "jl0030": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0030",
     "name_cs": "jl0030",
     "variable": "jl0030",
@@ -2983,7 +2983,7 @@
     "label_de": "Wichtigkeit feste Freundin, fester Freund"
   },
   "jl0031": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0031",
     "name_cs": "jl0031",
     "variable": "jl0031",
@@ -3075,7 +3075,7 @@
     "label_de": "Wichtigkeit beste Freundin, bester Freund"
   },
   "jl0032": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0032",
     "name_cs": "jl0032",
     "variable": "jl0032",
@@ -3167,7 +3167,7 @@
     "label_de": "Wichtigkeit Lehrer, Lehrerin"
   },
   "jl0033": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0033",
     "name_cs": "jl0033",
     "variable": "jl0033",
@@ -3259,7 +3259,7 @@
     "label_de": "Wichtigkeit Clique"
   },
   "jl0034": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0034",
     "name_cs": "jl0034",
     "variable": "jl0034",
@@ -3351,7 +3351,7 @@
     "label_de": "Wichtigkeit sonstige Person"
   },
   "jl0035": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0035",
     "name_cs": "jl0035",
     "variable": "jl0035",
@@ -3448,7 +3448,7 @@
     "label_de": "Streit mit Vater"
   },
   "jl0036": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0036",
     "name_cs": "jl0036",
     "variable": "jl0036",
@@ -3545,7 +3545,7 @@
     "label_de": "Streit mit Mutter"
   },
   "jl0037": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0037",
     "name_cs": "jl0037",
     "variable": "jl0037",
@@ -3642,7 +3642,7 @@
     "label_de": "Streit mit Bruder, Schwester"
   },
   "jl0038": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0038",
     "name_cs": "jl0038",
     "variable": "jl0038",
@@ -3739,7 +3739,7 @@
     "label_de": "Streit mit fester Freundin, festem Freund"
   },
   "jl0039": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0039",
     "name_cs": "jl0039",
     "variable": "jl0039",
@@ -3836,7 +3836,7 @@
     "label_de": "Streit mit bestem Freund, bester Freundin"
   },
   "jl0040": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0040",
     "name_cs": "jl0040",
     "variable": "jl0040",
@@ -3928,7 +3928,7 @@
     "label_de": "Reden mit Mutter ueber eigene Erlebnisse"
   },
   "jl0041": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0041",
     "name_cs": "jl0041",
     "variable": "jl0041",
@@ -4020,7 +4020,7 @@
     "label_de": "Reden mit Vater ueber eigene Erlebnisse"
   },
   "jl0043": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0043",
     "name_cs": "jl0043",
     "variable": "jl0043",
@@ -4112,7 +4112,7 @@
     "label_de": "Mutter spricht Probleme an"
   },
   "jl0044": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0044",
     "name_cs": "jl0044",
     "variable": "jl0044",
@@ -4204,7 +4204,7 @@
     "label_de": "Mutter fragt nach Meinung vor Entscheidungen"
   },
   "jl0045": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0045",
     "name_cs": "jl0045",
     "variable": "jl0045",
@@ -4296,7 +4296,7 @@
     "label_de": "Vater fragt nach Meinung vor Entscheidungen"
   },
   "jl0046": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0046",
     "name_cs": "jl0046",
     "variable": "jl0046",
@@ -4388,7 +4388,7 @@
     "label_de": "Mutter zeigt Anerkennung"
   },
   "jl0047": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0047",
     "name_cs": "jl0047",
     "variable": "jl0047",
@@ -4480,7 +4480,7 @@
     "label_de": "Vater zeigt Anerkennung"
   },
   "jl0048": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0048",
     "name_cs": "jl0048",
     "variable": "jl0048",
@@ -4572,7 +4572,7 @@
     "label_de": "Probleme mit Mutter werden gemeinsam geloest"
   },
   "jl0049": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0049",
     "name_cs": "jl0049",
     "variable": "jl0049",
@@ -4664,7 +4664,7 @@
     "label_de": "Probleme mit Vater werden gemeinsam geloest"
   },
   "jl0050": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0050",
     "name_cs": "jl0050",
     "variable": "jl0050",
@@ -4756,7 +4756,7 @@
     "label_de": "Mutter zeigt Vertrauen"
   },
   "jl0051": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0051",
     "name_cs": "jl0051",
     "variable": "jl0051",
@@ -4848,7 +4848,7 @@
     "label_de": "Vater zeigt Vertrauen"
   },
   "jl0052": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0052",
     "name_cs": "jl0052",
     "variable": "jl0052",
@@ -4940,7 +4940,7 @@
     "label_de": "Mutter fragt nach Meinung zu Familienangeleg."
   },
   "jl0053": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0053",
     "name_cs": "jl0053",
     "variable": "jl0053",
@@ -5032,7 +5032,7 @@
     "label_de": "Vater fragt nach Meinung zu Familienangeleg."
   },
   "jl0054": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0054",
     "name_cs": "jl0054",
     "variable": "jl0054",
@@ -5124,7 +5124,7 @@
     "label_de": "Mutter begruendet Entscheidungen"
   },
   "jl0055": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0055",
     "name_cs": "jl0055",
     "variable": "jl0055",
@@ -5216,7 +5216,7 @@
     "label_de": "Vater begruendet Entscheidungen"
   },
   "jl0056": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0056",
     "name_cs": "jl0056",
     "variable": "jl0056",
@@ -5308,7 +5308,7 @@
     "label_de": "Mutter zeigt Liebe"
   },
   "jl0057": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0057",
     "name_cs": "jl0057",
     "variable": "jl0057",
@@ -5400,7 +5400,7 @@
     "label_de": "Vater zeigt Liebe"
   },
   "jl0058": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0058",
     "name_cs": "jl0058",
     "variable": "jl0058",
@@ -5492,7 +5492,7 @@
     "label_de": "Haeufigkeit Fernsehen, Video"
   },
   "jl0059": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0059",
     "name_cs": "jl0059",
     "variable": "jl0059",
@@ -5584,7 +5584,7 @@
     "label_de": "Haeufigkeit Computerspiele"
   },
   "jl0060": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0060",
     "name_cs": "jl0060",
     "variable": "jl0060",
@@ -5676,7 +5676,7 @@
     "label_de": "Haeufigkeit sonstiges Surfen im Internet"
   },
   "jl0061": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0061",
     "name_cs": "jl0061",
     "variable": "jl0061",
@@ -5768,7 +5768,7 @@
     "label_de": "Haeufigkeit Musik hoeren"
   },
   "jl0062": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0062",
     "name_cs": "jl0062",
     "variable": "jl0062",
@@ -5860,7 +5860,7 @@
     "label_de": "Haeufigkeit Musik machen"
   },
   "jl0063": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0063",
     "name_cs": "jl0063",
     "variable": "jl0063",
@@ -5952,7 +5952,7 @@
     "label_de": "Haeufigkeit Sport treiben"
   },
   "jl0064": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0064",
     "name_cs": "jl0064",
     "variable": "jl0064",
@@ -6044,7 +6044,7 @@
     "label_de": "Haeufigkeit tanzen, Theater spielen"
   },
   "jl0065": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0065",
     "name_cs": "jl0065",
     "variable": "jl0065",
@@ -6136,7 +6136,7 @@
     "label_de": "Haeufigkeit technische Arbeiten, programmieren"
   },
   "jl0066": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0066",
     "name_cs": "jl0066",
     "variable": "jl0066",
@@ -6228,7 +6228,7 @@
     "label_de": "Haeufigkeit lesen"
   },
   "jl0067": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0067",
     "name_cs": "jl0067",
     "variable": "jl0067",
@@ -6320,7 +6320,7 @@
     "label_de": "Haeufigkeit nichts tun, traeumen"
   },
   "jl0068": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0068",
     "name_cs": "jl0068",
     "variable": "jl0068",
@@ -6412,7 +6412,7 @@
     "label_de": "Haeufigkeit mit festem Freund,-in zusammensein"
   },
   "jl0069": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0069",
     "name_cs": "jl0069",
     "variable": "jl0069",
@@ -6504,7 +6504,7 @@
     "label_de": "Haeufigkeit mit bestem Freund,-in zusammensein"
   },
   "jl0070": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0070",
     "name_cs": "jl0070",
     "variable": "jl0070",
@@ -6596,7 +6596,7 @@
     "label_de": "Haeufigkeit mit Clique zusammensein"
   },
   "jl0071": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0071",
     "name_cs": "jl0071",
     "variable": "jl0071",
@@ -6688,7 +6688,7 @@
     "label_de": "Haeufigkeit Jugendzentrum, Freizeitheim"
   },
   "jl0072": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0072",
     "name_cs": "jl0072",
     "variable": "jl0072",
@@ -6780,7 +6780,7 @@
     "label_de": "Haeufigkeit ehrenamtliche Taetigkeit"
   },
   "jl0073": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0073",
     "name_cs": "jl0073",
     "variable": "jl0073",
@@ -6872,7 +6872,7 @@
     "label_de": "Haeufigkeit Kirchgang, religioese Veranstaltungen"
   },
   "jl0074": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0074",
     "name_cs": "jl0074",
     "variable": "jl0074",
@@ -6949,7 +6949,7 @@
     "label_de": "Aktives Musizieren"
   },
   "jl0075": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0075",
     "name_cs": "jl0075",
     "variable": "jl0075",
@@ -7031,7 +7031,7 @@
     "label_de": "Stilrichtung der Musikausuebung"
   },
   "jl0076": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0076",
     "name_cs": "jl0076",
     "variable": "jl0076",
@@ -7118,7 +7118,7 @@
     "label_de": "Musizieren allein, in Orchester oder Band"
   },
   "jl0077": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0077",
     "name_cs": "jl0077",
     "variable": "jl0077",
@@ -7205,7 +7205,7 @@
     "label_de": "Freizeit TV, Video"
   },
   "jl0078": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0078",
     "name_cs": "jl0078",
     "variable": "jl0078",
@@ -7292,7 +7292,7 @@
     "label_de": "Freizeit Comp.spiele"
   },
   "jl0079": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0079",
     "name_cs": "jl0079",
     "variable": "jl0079",
@@ -7379,7 +7379,7 @@
     "label_de": "Freizeit Musik hoeren"
   },
   "jl0080": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0080",
     "name_cs": "jl0080",
     "variable": "jl0080",
@@ -7466,7 +7466,7 @@
     "label_de": "Freizeit Musik machen"
   },
   "jl0081": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0081",
     "name_cs": "jl0081",
     "variable": "jl0081",
@@ -7553,7 +7553,7 @@
     "label_de": "Freizeit Sport treiben"
   },
   "jl0082": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0082",
     "name_cs": "jl0082",
     "variable": "jl0082",
@@ -7640,7 +7640,7 @@
     "label_de": "Freizeit spez. Hobby"
   },
   "jl0083": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0083",
     "name_cs": "jl0083",
     "variable": "jl0083",
@@ -7727,7 +7727,7 @@
     "label_de": "Freizeit mit Freund(in)"
   },
   "jl0084": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0084",
     "name_cs": "jl0084",
     "variable": "jl0084",
@@ -7814,7 +7814,7 @@
     "label_de": "Freiz. Gruppe,Clique"
   },
   "jl0085": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0085",
     "name_cs": "jl0085",
     "variable": "jl0085",
@@ -7901,7 +7901,7 @@
     "label_de": "Freizeit Lesen"
   },
   "jl0086": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0086",
     "name_cs": "jl0086",
     "variable": "jl0086",
@@ -7988,7 +7988,7 @@
     "label_de": "Freizeit nichts tun"
   },
   "jl0087": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0087",
     "name_cs": "jl0087",
     "variable": "jl0087",
@@ -8028,7 +8028,7 @@
     "label_de": "Alter Beginn Musikunterricht"
   },
   "jl0088": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0088",
     "name_cs": "jl0088",
     "variable": "jl0088",
@@ -8100,7 +8100,7 @@
     "label_de": "Fernsehnutzung"
   },
   "jl0089": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0089",
     "name_cs": "jl0089",
     "variable": "jl0089",
@@ -8140,7 +8140,7 @@
     "label_de": "TV werktags Std-Tag"
   },
   "jl0090": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0090",
     "name_cs": "jl0090",
     "variable": "jl0090",
@@ -8180,7 +8180,7 @@
     "label_de": "TV wochend Std-Tag"
   },
   "jl0091": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0091",
     "name_cs": "jl0091",
     "variable": "jl0091",
@@ -8252,7 +8252,7 @@
     "label_de": "Radio,CD,Cass.nutzung"
   },
   "jl0092": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0092",
     "name_cs": "jl0092",
     "variable": "jl0092",
@@ -8292,7 +8292,7 @@
     "label_de": "Radio werktags Std-Tag"
   },
   "jl0093": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0093",
     "name_cs": "jl0093",
     "variable": "jl0093",
@@ -8332,7 +8332,7 @@
     "label_de": "Radio wochend Std-Tag"
   },
   "jl0094": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0094",
     "name_cs": "jl0094",
     "variable": "jl0094",
@@ -8404,7 +8404,7 @@
     "label_de": "Computer,Internetnutzg"
   },
   "jl0095": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0095",
     "name_cs": "jl0095",
     "variable": "jl0095",
@@ -8444,7 +8444,7 @@
     "label_de": "Comp. werktags Std-Tag"
   },
   "jl0096": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0096",
     "name_cs": "jl0096",
     "variable": "jl0096",
@@ -8484,7 +8484,7 @@
     "label_de": "Comp. wochend Std-Tag"
   },
   "jl0097": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0097",
     "name_cs": "jl0097",
     "variable": "jl0097",
@@ -8556,7 +8556,7 @@
     "label_de": "Zeitungsnutzung"
   },
   "jl0098": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0098",
     "name_cs": "jl0098",
     "variable": "jl0098",
@@ -8596,7 +8596,7 @@
     "label_de": "Zeitg werktags Std-Tag"
   },
   "jl0099": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0099",
     "name_cs": "jl0099",
     "variable": "jl0099",
@@ -8636,7 +8636,7 @@
     "label_de": "Zeitg wochenend Std-Tag"
   },
   "jl0100": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0100",
     "name_cs": "jl0100",
     "variable": "jl0100",
@@ -8708,7 +8708,7 @@
     "label_de": "Zeitschriftennutzung"
   },
   "jl0101": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0101",
     "name_cs": "jl0101",
     "variable": "jl0101",
@@ -8748,7 +8748,7 @@
     "label_de": "Zeitschr werktag Std-Tag"
   },
   "jl0102": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0102",
     "name_cs": "jl0102",
     "variable": "jl0102",
@@ -8788,7 +8788,7 @@
     "label_de": "Zeitschr wochend Std-Tag"
   },
   "jl0103": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0103",
     "name_cs": "jl0103",
     "variable": "jl0103",
@@ -8860,7 +8860,7 @@
     "label_de": "nichts davon nutzen"
   },
   "jl0104": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0104",
     "name_cs": "jl0104",
     "variable": "jl0104",
@@ -8937,7 +8937,7 @@
     "label_de": "Bezahlter Musikunterricht"
   },
   "jl0105": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0105",
     "name_cs": "jl0105",
     "variable": "jl0105",
@@ -9014,7 +9014,7 @@
     "label_de": "Sportarten ausueben"
   },
   "jl0106": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0106",
     "name_cs": "jl0106",
     "variable": "jl0106",
@@ -9091,7 +9091,7 @@
     "label_de": "Sportarten ausueben"
   },
   "jl0109": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0109",
     "name_cs": "jl0109",
     "variable": "jl0109",
@@ -9338,7 +9338,7 @@
     "label_de": "Wichtigste Sportart, Code"
   },
   "jl0111": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0111",
     "name_cs": "jl0111",
     "variable": "jl0111",
@@ -9410,7 +9410,7 @@
     "label_de": "Keine zweite Sportart"
   },
   "jl0112": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0112",
     "name_cs": "jl0112",
     "variable": "jl0112",
@@ -9450,7 +9450,7 @@
     "label_de": "Alter Beginn wichtigste Sportart"
   },
   "jl0114": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0114",
     "name_cs": "jl0114",
     "variable": "jl0114",
@@ -9537,7 +9537,7 @@
     "label_de": "Wie haeufig 1.Sportart"
   },
   "jl0115": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0115",
     "name_cs": "jl0115",
     "variable": "jl0115",
@@ -9577,7 +9577,7 @@
     "label_de": "Seit wann 1.Sportart"
   },
   "jl0116": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0116",
     "name_cs": "jl0116",
     "variable": "jl0116",
@@ -9674,7 +9674,7 @@
     "label_de": "Wo, mit wem 1.Sportart"
   },
   "jl0117": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0117",
     "name_cs": "jl0117",
     "variable": "jl0117",
@@ -9751,7 +9751,7 @@
     "label_de": "Wettkaempfe 1.Sportart"
   },
   "jl0119": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0119",
     "name_cs": "jl0119",
     "variable": "jl0119",
@@ -9838,7 +9838,7 @@
     "label_de": "Wie haeufig 2.Sportart"
   },
   "jl0120": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0120",
     "name_cs": "jl0120",
     "variable": "jl0120",
@@ -9878,7 +9878,7 @@
     "label_de": "Seit wann 2.Sportart"
   },
   "jl0121": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0121",
     "name_cs": "jl0121",
     "variable": "jl0121",
@@ -9975,7 +9975,7 @@
     "label_de": "Wo, mit wem 2.Sportart"
   },
   "jl0122": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0122",
     "name_cs": "jl0122",
     "variable": "jl0122",
@@ -10052,7 +10052,7 @@
     "label_de": "Wettkaempfe 2.Sportart"
   },
   "jl0123": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0123",
     "name_cs": "jl0123",
     "variable": "jl0123",
@@ -10149,7 +10149,7 @@
     "label_de": "Wo, mit wem wichtigste Sportart"
   },
   "jl0124": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0124",
     "name_cs": "jl0124",
     "variable": "jl0124",
@@ -10226,7 +10226,7 @@
     "label_de": "Wettkaempfe 1. Sportart"
   },
   "jl0125": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0125",
     "name_cs": "jl0125",
     "variable": "jl0125",
@@ -10333,7 +10333,7 @@
     "label_de": "Schulbesuch"
   },
   "jl0126": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0126",
     "name_cs": "jl0126",
     "variable": "jl0126",
@@ -10373,7 +10373,7 @@
     "label_de": "Jahr Schulende"
   },
   "jl0127": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0127",
     "name_cs": "jl0127",
     "variable": "jl0127",
@@ -10470,7 +10470,7 @@
     "label_de": "Art Schulabschluss"
   },
   "jl0130": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0130",
     "name_cs": "jl0130",
     "variable": "jl0130",
@@ -10552,7 +10552,7 @@
     "label_de": "weiterer Schulabschluss"
   },
   "jl0131": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0131",
     "name_cs": "jl0131",
     "variable": "jl0131",
@@ -10639,7 +10639,7 @@
     "label_de": "Art praef. Schulabschl."
   },
   "jl0132": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0132",
     "name_cs": "jl0132",
     "variable": "jl0132",
@@ -10746,7 +10746,7 @@
     "label_de": "1. Fremdspr."
   },
   "jl0133": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0133",
     "name_cs": "jl0133",
     "variable": "jl0133",
@@ -10858,7 +10858,7 @@
     "label_de": "2. Fremdspr."
   },
   "jl0134": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0134",
     "name_cs": "jl0134",
     "variable": "jl0134",
@@ -10970,7 +10970,7 @@
     "label_de": "3.Fremdspr."
   },
   "jl0135": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0135",
     "name_cs": "jl0135",
     "variable": "jl0135",
@@ -11010,7 +11010,7 @@
     "label_de": "Ausland Schuljahre"
   },
   "jl0136": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0136",
     "name_cs": "jl0136",
     "variable": "jl0136",
@@ -11092,7 +11092,7 @@
     "label_de": "Ausland Schulabschl."
   },
   "jl0137": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0137",
     "name_cs": "jl0137",
     "variable": "jl0137",
@@ -11174,7 +11174,7 @@
     "label_de": "Ausland Schulbesuch"
   },
   "jl0138": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0138",
     "name_cs": "jl0138",
     "variable": "jl0138",
@@ -11256,7 +11256,7 @@
     "label_de": "Privatschulbesuch"
   },
   "jl0139": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0139",
     "name_cs": "jl0139",
     "variable": "jl0139",
@@ -11328,7 +11328,7 @@
     "label_de": "Engag. Klassensprecher"
   },
   "jl0140": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0140",
     "name_cs": "jl0140",
     "variable": "jl0140",
@@ -11400,7 +11400,7 @@
     "label_de": "Engag. Schulsprecher"
   },
   "jl0141": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0141",
     "name_cs": "jl0141",
     "variable": "jl0141",
@@ -11472,7 +11472,7 @@
     "label_de": "Engag. Schuelerzeitung"
   },
   "jl0142": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0142",
     "name_cs": "jl0142",
     "variable": "jl0142",
@@ -11544,7 +11544,7 @@
     "label_de": "Engag. Theater, Tanz"
   },
   "jl0143": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0143",
     "name_cs": "jl0143",
     "variable": "jl0143",
@@ -11616,7 +11616,7 @@
     "label_de": "Engag. Chor, Musik"
   },
   "jl0144": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0144",
     "name_cs": "jl0144",
     "variable": "jl0144",
@@ -11688,7 +11688,7 @@
     "label_de": "Engag. Sport-AG"
   },
   "jl0145": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0145",
     "name_cs": "jl0145",
     "variable": "jl0145",
@@ -11760,7 +11760,7 @@
     "label_de": "Engag. sonst. Gruppe"
   },
   "jl0146": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0146",
     "name_cs": "jl0146",
     "variable": "jl0146",
@@ -11832,7 +11832,7 @@
     "label_de": "kein Engagement"
   },
   "jl0147": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0147",
     "name_cs": "jl0147",
     "variable": "jl0147",
@@ -11954,7 +11954,7 @@
     "label_de": "Zufriedenheit mit Schulleistg gesamt"
   },
   "jl0148": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0148",
     "name_cs": "jl0148",
     "variable": "jl0148",
@@ -12076,7 +12076,7 @@
     "label_de": "Zufriedenheit mit Deutschleistg"
   },
   "jl0149": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0149",
     "name_cs": "jl0149",
     "variable": "jl0149",
@@ -12198,7 +12198,7 @@
     "label_de": "Zufriedenheit mit Matheleistg"
   },
   "jl0150": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0150",
     "name_cs": "jl0150",
     "variable": "jl0150",
@@ -12320,7 +12320,7 @@
     "label_de": "Zufriedenheit mit 1. Fremdspr.leistg"
   },
   "jl0151": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0151",
     "name_cs": "jl0151",
     "variable": "jl0151",
@@ -12407,7 +12407,7 @@
     "label_de": "Empfehlung nach der Grundschule"
   },
   "jl0152": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0152",
     "name_cs": "jl0152",
     "variable": "jl0152",
@@ -12504,7 +12504,7 @@
     "label_de": "Note Deutsch"
   },
   "jl0153": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0153",
     "name_cs": "jl0153",
     "variable": "jl0153",
@@ -12544,7 +12544,7 @@
     "label_de": "Punkte Deutsch"
   },
   "jl0154": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0154",
     "name_cs": "jl0154",
     "variable": "jl0154",
@@ -12641,7 +12641,7 @@
     "label_de": "Note 1. Fremdspr."
   },
   "jl0155": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0155",
     "name_cs": "jl0155",
     "variable": "jl0155",
@@ -12723,7 +12723,7 @@
     "label_de": "GK,LK Deutsch"
   },
   "jl0156": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0156",
     "name_cs": "jl0156",
     "variable": "jl0156",
@@ -12820,7 +12820,7 @@
     "label_de": "Note Mathe"
   },
   "jl0157": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0157",
     "name_cs": "jl0157",
     "variable": "jl0157",
@@ -12860,7 +12860,7 @@
     "label_de": "Punkte Mathe"
   },
   "jl0161": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0161",
     "name_cs": "jl0161",
     "variable": "jl0161",
@@ -12900,7 +12900,7 @@
     "label_de": "Punkte 1. Fremdspr."
   },
   "jl0162": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0162",
     "name_cs": "jl0162",
     "variable": "jl0162",
@@ -12982,7 +12982,7 @@
     "label_de": "GK,LK Mathe"
   },
   "jl0163": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0163",
     "name_cs": "jl0163",
     "variable": "jl0163",
@@ -13064,7 +13064,7 @@
     "label_de": "GK, LK 1. Fremdspr."
   },
   "jl0164": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0164",
     "name_cs": "jl0164",
     "variable": "jl0164",
@@ -13141,7 +13141,7 @@
     "label_de": "Klasse wiederholt"
   },
   "jl0165": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0165",
     "name_cs": "jl0165",
     "variable": "jl0165",
@@ -13181,7 +13181,7 @@
     "label_de": "Klassenstufe 1. Wdhg."
   },
   "jl0166": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0166",
     "name_cs": "jl0166",
     "variable": "jl0166",
@@ -13221,7 +13221,7 @@
     "label_de": "Klassenstufe 2. Wdhg."
   },
   "jl0167": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0167",
     "name_cs": "jl0167",
     "variable": "jl0167",
@@ -13298,7 +13298,7 @@
     "label_de": "bezahlte Nachhilfe"
   },
   "jl0168": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0168",
     "name_cs": "jl0168",
     "variable": "jl0168",
@@ -13385,7 +13385,7 @@
     "label_de": "Eltern kuemmern sich um Leistg"
   },
   "jl0169": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0169",
     "name_cs": "jl0169",
     "variable": "jl0169",
@@ -13472,7 +13472,7 @@
     "label_de": "Eltern unterst. Lernen"
   },
   "jl0170": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0170",
     "name_cs": "jl0170",
     "variable": "jl0170",
@@ -13559,7 +13559,7 @@
     "label_de": "Probleme mit Elt. Wegen Schulleistg"
   },
   "jl0171": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0171",
     "name_cs": "jl0171",
     "variable": "jl0171",
@@ -13631,7 +13631,7 @@
     "label_de": "Eltern besuchen Elternabende"
   },
   "jl0172": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0172",
     "name_cs": "jl0172",
     "variable": "jl0172",
@@ -13703,7 +13703,7 @@
     "label_de": "Eltern besuchen Sprechtage"
   },
   "jl0173": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0173",
     "name_cs": "jl0173",
     "variable": "jl0173",
@@ -13775,7 +13775,7 @@
     "label_de": "Eltern suchen Lehrer auf"
   },
   "jl0174": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0174",
     "name_cs": "jl0174",
     "variable": "jl0174",
@@ -13847,7 +13847,7 @@
     "label_de": "Eltern sind Elternvertreter"
   },
   "jl0175": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0175",
     "name_cs": "jl0175",
     "variable": "jl0175",
@@ -13919,7 +13919,7 @@
     "label_de": "Eltern machen nichts davon"
   },
   "jl0176": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0176",
     "name_cs": "jl0176",
     "variable": "jl0176",
@@ -14021,7 +14021,7 @@
     "label_de": "Anzahl auslaend. Mitschueler"
   },
   "jl0177": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0177",
     "name_cs": "jl0177",
     "variable": "jl0177",
@@ -14098,7 +14098,7 @@
     "label_de": "Berufl. Ausbildung, Praktikum, Lehrgang"
   },
   "jl0178": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0178",
     "name_cs": "jl0178",
     "variable": "jl0178",
@@ -14175,7 +14175,7 @@
     "label_de": "Berufsgrundschuljahr"
   },
   "jl0179": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0179",
     "name_cs": "jl0179",
     "variable": "jl0179",
@@ -14252,7 +14252,7 @@
     "label_de": "Berufsschuljahr reg. beendet"
   },
   "jl0180": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0180",
     "name_cs": "jl0180",
     "variable": "jl0180",
@@ -14329,7 +14329,7 @@
     "label_de": "Berufl. Eingliederungslehrgang"
   },
   "jl0181": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0181",
     "name_cs": "jl0181",
     "variable": "jl0181",
@@ -14406,7 +14406,7 @@
     "label_de": "Berufl. Eingliederungslehrgang regulaer beendet"
   },
   "jl0182": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0182",
     "name_cs": "jl0182",
     "variable": "jl0182",
@@ -14483,7 +14483,7 @@
     "label_de": "Berufsausbildung, Lehre"
   },
   "jl0183": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0183",
     "name_cs": "jl0183",
     "variable": "jl0183",
@@ -14560,7 +14560,7 @@
     "label_de": "Berufsausbildung, Lehre regulaer beendet"
   },
   "jl0184": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0184",
     "name_cs": "jl0184",
     "variable": "jl0184",
@@ -14637,7 +14637,7 @@
     "label_de": "Berufsfachschule"
   },
   "jl0185": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0185",
     "name_cs": "jl0185",
     "variable": "jl0185",
@@ -14714,7 +14714,7 @@
     "label_de": "Berufsfachschule regulaer beendet"
   },
   "jl0186": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0186",
     "name_cs": "jl0186",
     "variable": "jl0186",
@@ -14791,7 +14791,7 @@
     "label_de": "Praktikum, Volontariat"
   },
   "jl0187": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0187",
     "name_cs": "jl0187",
     "variable": "jl0187",
@@ -14868,7 +14868,7 @@
     "label_de": "Praktikum, Volontariat regulaer beendet"
   },
   "jl0188": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0188",
     "name_cs": "jl0188",
     "variable": "jl0188",
@@ -14950,7 +14950,7 @@
     "label_de": "Ausbildungs,Hochschulabschluss - angestrebt"
   },
   "jl0189": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0189",
     "name_cs": "jl0189",
     "variable": "jl0189",
@@ -15022,7 +15022,7 @@
     "label_de": "Abschluss einer Lehre"
   },
   "jl0190": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0190",
     "name_cs": "jl0190",
     "variable": "jl0190",
@@ -15094,7 +15094,7 @@
     "label_de": "Berufsfachschule"
   },
   "jl0191": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0191",
     "name_cs": "jl0191",
     "variable": "jl0191",
@@ -15166,7 +15166,7 @@
     "label_de": "Fachschule, Meister-, Technikerschule"
   },
   "jl0192": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0192",
     "name_cs": "jl0192",
     "variable": "jl0192",
@@ -15238,7 +15238,7 @@
     "label_de": "Beamtenausbildung"
   },
   "jl0193": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0193",
     "name_cs": "jl0193",
     "variable": "jl0193",
@@ -15310,7 +15310,7 @@
     "label_de": "Anerkannte Berufsakademie"
   },
   "jl0194": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0194",
     "name_cs": "jl0194",
     "variable": "jl0194",
@@ -15382,7 +15382,7 @@
     "label_de": "Fachhochschule"
   },
   "jl0195": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0195",
     "name_cs": "jl0195",
     "variable": "jl0195",
@@ -15454,7 +15454,7 @@
     "label_de": "Universitaet"
   },
   "jl0196": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0196",
     "name_cs": "jl0196",
     "variable": "jl0196",
@@ -15520,7 +15520,7 @@
     "label_de": "Angestrebte Ausbildung Gesamt k.A."
   },
   "jl0197": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0197",
     "name_cs": "jl0197",
     "variable": "jl0197",
@@ -15560,7 +15560,7 @@
     "label_de": "Alter wirtschtliche Unabhaengigkt."
   },
   "jl0198": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0198",
     "name_cs": "jl0198",
     "variable": "jl0198",
@@ -15632,7 +15632,7 @@
     "label_de": "bereits wirtschlich unabhaengig?"
   },
   "jl0199": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0199",
     "name_cs": "jl0199",
     "variable": "jl0199",
@@ -15714,7 +15714,7 @@
     "label_de": "Berufswunsch vorhanden?"
   },
   "jl0201": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0201",
     "name_cs": "jl0201",
     "variable": "jl0201",
@@ -15801,7 +15801,7 @@
     "label_de": "wie gut ueber angestrebten Beruf informiert"
   },
   "jl0202": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0202",
     "name_cs": "jl0202",
     "variable": "jl0202",
@@ -15888,7 +15888,7 @@
     "label_de": "Berufswahl, Vorschlaege der Eltern wichtig"
   },
   "jl0203": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0203",
     "name_cs": "jl0203",
     "variable": "jl0203",
@@ -15975,7 +15975,7 @@
     "label_de": "Berufswahl, kein bestimmter Beruf vor Augen"
   },
   "jl0204": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0204",
     "name_cs": "jl0204",
     "variable": "jl0204",
@@ -16062,7 +16062,7 @@
     "label_de": "Berufswahl, mit versch. Moeglichkeiten besch"
   },
   "jl0205": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0205",
     "name_cs": "jl0205",
     "variable": "jl0205",
@@ -16149,7 +16149,7 @@
     "label_de": "Berufswahl, noch dabei Faehigkeiten rauszufinden"
   },
   "jl0206": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0206",
     "name_cs": "jl0206",
     "variable": "jl0206",
@@ -16236,7 +16236,7 @@
     "label_de": "sichere Stellung wichtig"
   },
   "jl0207": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0207",
     "name_cs": "jl0207",
     "variable": "jl0207",
@@ -16323,7 +16323,7 @@
     "label_de": "hohes Einkommen wichtig"
   },
   "jl0208": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0208",
     "name_cs": "jl0208",
     "variable": "jl0208",
@@ -16410,7 +16410,7 @@
     "label_de": "Aufstiegsmoeglichkeit wichtig"
   },
   "jl0209": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0209",
     "name_cs": "jl0209",
     "variable": "jl0209",
@@ -16497,7 +16497,7 @@
     "label_de": "anerkannter Beruf wichtig"
   },
   "jl0210": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0210",
     "name_cs": "jl0210",
     "variable": "jl0210",
@@ -16584,7 +16584,7 @@
     "label_de": "Freizeit wichtig"
   },
   "jl0211": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0211",
     "name_cs": "jl0211",
     "variable": "jl0211",
@@ -16671,7 +16671,7 @@
     "label_de": "interessante Taetigkeit wichtig"
   },
   "jl0212": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0212",
     "name_cs": "jl0212",
     "variable": "jl0212",
@@ -16758,7 +16758,7 @@
     "label_de": "selbstaendiges Arbeiten wichtig"
   },
   "jl0213": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0213",
     "name_cs": "jl0213",
     "variable": "jl0213",
@@ -16845,7 +16845,7 @@
     "label_de": "Kontakt wichtig"
   },
   "jl0214": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0214",
     "name_cs": "jl0214",
     "variable": "jl0214",
@@ -16932,7 +16932,7 @@
     "label_de": "fuer Gesellschaft wichtig"
   },
   "jl0215": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0215",
     "name_cs": "jl0215",
     "variable": "jl0215",
@@ -17019,7 +17019,7 @@
     "label_de": "Arbeitsbedingungen  wichtig"
   },
   "jl0216": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0216",
     "name_cs": "jl0216",
     "variable": "jl0216",
@@ -17106,7 +17106,7 @@
     "label_de": "Zeit fuer Familie wichtig"
   },
   "jl0217": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0217",
     "name_cs": "jl0217",
     "variable": "jl0217",
@@ -17193,7 +17193,7 @@
     "label_de": "anderen Helfen wichtig"
   },
   "jl0218": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0218",
     "name_cs": "jl0218",
     "variable": "jl0218",
@@ -17285,7 +17285,7 @@
     "label_de": "Gesundheitszustand"
   },
   "jl0219": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0219",
     "name_cs": "jl0219",
     "variable": "jl0219",
@@ -17325,7 +17325,7 @@
     "label_de": "Koerpergroesse (cm)"
   },
   "jl0220": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0220",
     "name_cs": "jl0220",
     "variable": "jl0220",
@@ -17365,7 +17365,7 @@
     "label_de": "Gewicht (kg)"
   },
   "jl0221": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0221",
     "name_cs": "jl0221",
     "variable": "jl0221",
@@ -17487,7 +17487,7 @@
     "label_de": "Wahrscheinlichkeit in %: gewuenschter Ausbildungs-, Studienplatz"
   },
   "jl0222": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0222",
     "name_cs": "jl0222",
     "variable": "jl0222",
@@ -17609,7 +17609,7 @@
     "label_de": "Wahrscheinlichkeit in %: Abschluss Ausbildungs-, Studienplatz"
   },
   "jl0223": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0223",
     "name_cs": "jl0223",
     "variable": "jl0223",
@@ -17731,7 +17731,7 @@
     "label_de": "Wahrscheinlichkeit in %: Arbeitsplatz"
   },
   "jl0224": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0224",
     "name_cs": "jl0224",
     "variable": "jl0224",
@@ -17853,7 +17853,7 @@
     "label_de": "Wahrscheinlichkeit in %: beruflicher Erfolg"
   },
   "jl0225": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0225",
     "name_cs": "jl0225",
     "variable": "jl0225",
@@ -17975,7 +17975,7 @@
     "label_de": "Wahrscheinlichkeit in %: arbeitslos"
   },
   "jl0226": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0226",
     "name_cs": "jl0226",
     "variable": "jl0226",
@@ -18097,7 +18097,7 @@
     "label_de": "Wahrscheinlichkeit in %: Einschraenkung Familie"
   },
   "jl0227": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0227",
     "name_cs": "jl0227",
     "variable": "jl0227",
@@ -18219,7 +18219,7 @@
     "label_de": "Wahrscheinlichkeit in %: Selbstaendigkeit"
   },
   "jl0228": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0228",
     "name_cs": "jl0228",
     "variable": "jl0228",
@@ -18341,7 +18341,7 @@
     "label_de": "Wahrscheinlichkeit in %: Ausland arbeiten"
   },
   "jl0229": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0229",
     "name_cs": "jl0229",
     "variable": "jl0229",
@@ -18463,7 +18463,7 @@
     "label_de": "Wahrscheinlichkeit in %: Heirat"
   },
   "jl0230": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0230",
     "name_cs": "jl0230",
     "variable": "jl0230",
@@ -18585,7 +18585,7 @@
     "label_de": "Wahrscheinlichkeit in %: mit Partner"
   },
   "jl0231": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0231",
     "name_cs": "jl0231",
     "variable": "jl0231",
@@ -18707,7 +18707,7 @@
     "label_de": "Wahrscheinlichkeit in %: ein Kind"
   },
   "jl0232": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0232",
     "name_cs": "jl0232",
     "variable": "jl0232",
@@ -18829,7 +18829,7 @@
     "label_de": "Wahrscheinlichkeit in %: mehrere Kinder"
   },
   "jl0233": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0233",
     "name_cs": "jl0233",
     "variable": "jl0233",
@@ -18867,7 +18867,7 @@
     "label_de": "Geburtsjahr"
   },
   "jl0234": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0234",
     "name_cs": "jl0234",
     "variable": "jl0234",
@@ -18994,7 +18994,7 @@
     "label_de": "Geburtsmonat"
   },
   "jl0235": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0235",
     "name_cs": "jl0235",
     "variable": "jl0235",
@@ -19081,7 +19081,7 @@
     "label_de": "in Deutschland geboren"
   },
   "jl0236": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0236",
     "name_cs": "jl0236",
     "variable": "jl0236",
@@ -19158,7 +19158,7 @@
     "label_de": "deutsche Staatsangehoerigkeit"
   },
   "jl0238": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0238",
     "name_cs": "jl0238",
     "variable": "jl0238",
@@ -20125,7 +20125,7 @@
     "label_de": "Geburtsland Code"
   },
   "jl0239": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0239",
     "name_cs": "jl0239",
     "variable": "jl0239",
@@ -20165,7 +20165,7 @@
     "label_de": "Zuzug nach Deutschland"
   },
   "jl0240": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0240",
     "name_cs": "jl0240",
     "variable": "jl0240",
@@ -20272,7 +20272,7 @@
     "label_de": "Status bei Einwanderung in Deutschland"
   },
   "jl0241": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0241",
     "name_cs": "jl0241",
     "variable": "jl0241",
@@ -20349,7 +20349,7 @@
     "label_de": "heute deutsche Staatsangehoerigkeit"
   },
   "jl0242": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0242",
     "name_cs": "jl0242",
     "variable": "jl0242",
@@ -20426,7 +20426,7 @@
     "label_de": "zweite Staatsangehoerigkeit"
   },
   "jl0243": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0243",
     "name_cs": "jl0243",
     "variable": "jl0243",
@@ -21393,7 +21393,7 @@
     "label_de": "zweite Staatsangehoerigkeit (Code)"
   },
   "jl0244": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0244",
     "name_cs": "jl0244",
     "variable": "jl0244",
@@ -21470,7 +21470,7 @@
     "label_de": "deutsche Staatsangehoerigkeit seit Geburt oder spaeter erworben"
   },
   "jl0245": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0245",
     "name_cs": "jl0245",
     "variable": "jl0245",
@@ -22437,7 +22437,7 @@
     "label_de": "Staatsangehoerigkeit (Code)"
   },
   "jl0246": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0246",
     "name_cs": "jl0246",
     "variable": "jl0246",
@@ -22519,7 +22519,7 @@
     "label_de": "Status Aufenthaltserlaubnis"
   },
   "jl0247": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0247",
     "name_cs": "jl0247",
     "variable": "jl0247",
@@ -22596,7 +22596,7 @@
     "label_de": "Muttersprache deutsch: beide Eltern"
   },
   "jl0248": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0248",
     "name_cs": "jl0248",
     "variable": "jl0248",
@@ -22688,7 +22688,7 @@
     "label_de": "Sprechkompetenz: deutsch"
   },
   "jl0249": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0249",
     "name_cs": "jl0249",
     "variable": "jl0249",
@@ -22780,7 +22780,7 @@
     "label_de": "Schreibkompetenz: deutsch"
   },
   "jl0250": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0250",
     "name_cs": "jl0250",
     "variable": "jl0250",
@@ -22872,7 +22872,7 @@
     "label_de": "Sprechkompetenz: Herkunfts-,Elternsprache"
   },
   "jl0251": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0251",
     "name_cs": "jl0251",
     "variable": "jl0251",
@@ -22964,7 +22964,7 @@
     "label_de": "Schreibkompetenz: Herkunfts-,Elternsprache"
   },
   "jl0252": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0252",
     "name_cs": "jl0252",
     "variable": "jl0252",
@@ -23046,7 +23046,7 @@
     "label_de": "Status Aufenthaltserlaubnis"
   },
   "jl0253": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0253",
     "name_cs": "jl0253",
     "variable": "jl0253",
@@ -23123,7 +23123,7 @@
     "label_de": "Aufenthalt im Aufnahmelager"
   },
   "jl0254": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0254",
     "name_cs": "jl0254",
     "variable": "jl0254",
@@ -23163,7 +23163,7 @@
     "label_de": "Aufenthalt im Aufnahmelager, Wochen"
   },
   "jl0255": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0255",
     "name_cs": "jl0255",
     "variable": "jl0255",
@@ -23203,7 +23203,7 @@
     "label_de": "Aufenthalt im Aufnahmelager, Monate"
   },
   "jl0256": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0256",
     "name_cs": "jl0256",
     "variable": "jl0256",
@@ -23280,7 +23280,7 @@
     "label_de": "eingereist als Familienangehoeriger?"
   },
   "jl0257": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0257",
     "name_cs": "jl0257",
     "variable": "jl0257",
@@ -23357,7 +23357,7 @@
     "label_de": "vor Einreise Kontakte mit Pers. In Dt.?"
   },
   "jl0258": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0258",
     "name_cs": "jl0258",
     "variable": "jl0258",
@@ -23434,7 +23434,7 @@
     "label_de": "Zuzug in Wohnort der Bekannten"
   },
   "jl0259": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0259",
     "name_cs": "jl0259",
     "variable": "jl0259",
@@ -23511,7 +23511,7 @@
     "label_de": "Schulbesuch in Dt."
   },
   "jl0260": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0260",
     "name_cs": "jl0260",
     "variable": "jl0260",
@@ -23551,7 +23551,7 @@
     "label_de": "Schuleintritt in Dt., welche Klasse"
   },
   "jl0261": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0261",
     "name_cs": "jl0261",
     "variable": "jl0261",
@@ -23628,7 +23628,7 @@
     "label_de": "Besuch spezieller Vorbereitungsklasse"
   },
   "jl0262": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0262",
     "name_cs": "jl0262",
     "variable": "jl0262",
@@ -23705,7 +23705,7 @@
     "label_de": "In Heimatland Familienmitglieder?"
   },
   "jl0263": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0263",
     "name_cs": "jl0263",
     "variable": "jl0263",
@@ -23777,7 +23777,7 @@
     "label_de": "Eltern"
   },
   "jl0264": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0264",
     "name_cs": "jl0264",
     "variable": "jl0264",
@@ -23849,7 +23849,7 @@
     "label_de": "Grosseltern"
   },
   "jl0265": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0265",
     "name_cs": "jl0265",
     "variable": "jl0265",
@@ -23915,7 +23915,7 @@
     "label_de": "Kinder"
   },
   "jl0266": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0266",
     "name_cs": "jl0266",
     "variable": "jl0266",
@@ -23987,7 +23987,7 @@
     "label_de": "Bruder, Schwester"
   },
   "jl0267": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0267",
     "name_cs": "jl0267",
     "variable": "jl0267",
@@ -24059,7 +24059,7 @@
     "label_de": "Entferntere Verwandte"
   },
   "jl0268": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0268",
     "name_cs": "jl0268",
     "variable": "jl0268",
@@ -24125,7 +24125,7 @@
     "label_de": "Ehepartner, Verlobte(r)"
   },
   "jl0269": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0269",
     "name_cs": "jl0269",
     "variable": "jl0269",
@@ -24197,7 +24197,7 @@
     "label_de": "Persoenliche Bekannte"
   },
   "jl0270": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0270",
     "name_cs": "jl0270",
     "variable": "jl0270",
@@ -24274,7 +24274,7 @@
     "label_de": "Personen gern nach Dt. holen?"
   },
   "jl0271": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0271",
     "name_cs": "jl0271",
     "variable": "jl0271",
@@ -24361,7 +24361,7 @@
     "label_de": "Rueckkehr in Herkunftsland"
   },
   "jl0272": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0272",
     "name_cs": "jl0272",
     "variable": "jl0272",
@@ -24448,7 +24448,7 @@
     "label_de": "Ort der Kindheit"
   },
   "jl0273": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0273",
     "name_cs": "jl0273",
     "variable": "jl0273",
@@ -24530,7 +24530,7 @@
     "label_de": "Ortswechsel seit Kindheit"
   },
   "jl0274": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0274",
     "name_cs": "jl0274",
     "variable": "jl0274",
@@ -24607,7 +24607,7 @@
     "label_de": "Geschwister ja/nein"
   },
   "jl0275": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0275",
     "name_cs": "jl0275",
     "variable": "jl0275",
@@ -24647,7 +24647,7 @@
     "label_de": "Anzahl Brueder"
   },
   "jl0276": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0276",
     "name_cs": "jl0276",
     "variable": "jl0276",
@@ -24687,7 +24687,7 @@
     "label_de": "Anzahl Schwestern"
   },
   "jl0277": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0277",
     "name_cs": "jl0277",
     "variable": "jl0277",
@@ -24769,7 +24769,7 @@
     "label_de": "Zwillingsschwester, -bruder"
   },
   "jl0278": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0278",
     "name_cs": "jl0278",
     "variable": "jl0278",
@@ -24840,7 +24840,7 @@
     "label_de": "Geschwister: Gesamt k.A."
   },
   "jl0279": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0279",
     "name_cs": "jl0279",
     "variable": "jl0279",
@@ -24880,7 +24880,7 @@
     "label_de": "Anz. Jahre leben b. leiblichen Eltern"
   },
   "jl0280": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0280",
     "name_cs": "jl0280",
     "variable": "jl0280",
@@ -24920,7 +24920,7 @@
     "label_de": "Anz. Jahre leben b. alleinstehende Mutter"
   },
   "jl0281": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0281",
     "name_cs": "jl0281",
     "variable": "jl0281",
@@ -24960,7 +24960,7 @@
     "label_de": "Anz. Jahre leben b. Mutter m. Partner"
   },
   "jl0282": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0282",
     "name_cs": "jl0282",
     "variable": "jl0282",
@@ -25000,7 +25000,7 @@
     "label_de": "Anz. Jahre leben b. alleinst. Vater"
   },
   "jl0283": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0283",
     "name_cs": "jl0283",
     "variable": "jl0283",
@@ -25040,7 +25040,7 @@
     "label_de": "Anz. Jahre leben b. Vater mit Partnerin"
   },
   "jl0284": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0284",
     "name_cs": "jl0284",
     "variable": "jl0284",
@@ -25080,7 +25080,7 @@
     "label_de": "Anz. Jahre leben b. anderen Verwandten"
   },
   "jl0285": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0285",
     "name_cs": "jl0285",
     "variable": "jl0285",
@@ -25120,7 +25120,7 @@
     "label_de": "Anz. Jahre leben b. Pflegeeltern"
   },
   "jl0286": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0286",
     "name_cs": "jl0286",
     "variable": "jl0286",
@@ -25160,7 +25160,7 @@
     "label_de": "Anz. Jahre leben im Heim"
   },
   "jl0287": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0287",
     "name_cs": "jl0287",
     "variable": "jl0287",
@@ -25180,7 +25180,7 @@
     "label_de": "Anz. Jahre leben b.: Gesamt k.A."
   },
   "jl0288": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0288",
     "name_cs": "jl0288",
     "variable": "jl0288",
@@ -25267,7 +25267,7 @@
     "label_de": "Vater und Mutter leben im HH"
   },
   "jl0289": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0289",
     "name_cs": "jl0289",
     "variable": "jl0289",
@@ -25354,7 +25354,7 @@
     "label_de": "wo lebt der Vater"
   },
   "jl0290": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0290",
     "name_cs": "jl0290",
     "variable": "jl0290",
@@ -25441,7 +25441,7 @@
     "label_de": "wo lebt die Mutter"
   },
   "jl0291": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0291",
     "name_cs": "jl0291",
     "variable": "jl0291",
@@ -25481,7 +25481,7 @@
     "label_de": "Todesjahr - Vater"
   },
   "jl0292": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0292",
     "name_cs": "jl0292",
     "variable": "jl0292",
@@ -25521,7 +25521,7 @@
     "label_de": "Todesjahr - Mutter"
   },
   "jl0293": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0293",
     "name_cs": "jl0293",
     "variable": "jl0293",
@@ -25561,7 +25561,7 @@
     "label_de": "Geburtsjahr - Vater"
   },
   "jl0294": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0294",
     "name_cs": "jl0294",
     "variable": "jl0294",
@@ -25601,7 +25601,7 @@
     "label_de": "Geburtsjahr - Mutter"
   },
   "jl0295": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0295",
     "name_cs": "jl0295",
     "variable": "jl0295",
@@ -25678,7 +25678,7 @@
     "label_de": "Vater in Deutschland geboren"
   },
   "jl0296": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0296",
     "name_cs": "jl0296",
     "variable": "jl0296",
@@ -25750,7 +25750,7 @@
     "label_de": "Mutter in Deutschland geboren"
   },
   "jl0297": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0297",
     "name_cs": "jl0297",
     "variable": "jl0297",
@@ -26717,7 +26717,7 @@
     "label_de": "Geburtsland Vater"
   },
   "jl0298": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0298",
     "name_cs": "jl0298",
     "variable": "jl0298",
@@ -27684,7 +27684,7 @@
     "label_de": "Geburtsland Mutter"
   },
   "jl0299": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0299",
     "name_cs": "jl0299",
     "variable": "jl0299",
@@ -27761,7 +27761,7 @@
     "label_de": "Vater: deutsche Staatsbuergerschaft"
   },
   "jl0300": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0300",
     "name_cs": "jl0300",
     "variable": "jl0300",
@@ -27838,7 +27838,7 @@
     "label_de": "Mutter: deutsche Staatsbuergerschaft"
   },
   "jl0301": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0301",
     "name_cs": "jl0301",
     "variable": "jl0301",
@@ -27935,7 +27935,7 @@
     "label_de": "Schulabschluss Vater"
   },
   "jl0302": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0302",
     "name_cs": "jl0302",
     "variable": "jl0302",
@@ -28032,7 +28032,7 @@
     "label_de": "Schulabschluss Mutter"
   },
   "jl0303": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0303",
     "name_cs": "jl0303",
     "variable": "jl0303",
@@ -28119,7 +28119,7 @@
     "label_de": "Vater: berufliche Ausbildung oder  Studium abgeschlossen"
   },
   "jl0304": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0304",
     "name_cs": "jl0304",
     "variable": "jl0304",
@@ -28206,7 +28206,7 @@
     "label_de": "Mutter: berufliche Ausbildung oder  Studium abgeschlossen"
   },
   "jl0307": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0307",
     "name_cs": "jl0307",
     "variable": "jl0307",
@@ -28298,7 +28298,7 @@
     "label_de": "Vater: Art Arbeiter"
   },
   "jl0308": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0308",
     "name_cs": "jl0308",
     "variable": "jl0308",
@@ -28390,7 +28390,7 @@
     "label_de": "Mutter: Art Arbeiterin"
   },
   "jl0309": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0309",
     "name_cs": "jl0309",
     "variable": "jl0309",
@@ -28487,7 +28487,7 @@
     "label_de": "Vater: Art Angestellter"
   },
   "jl0310": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0310",
     "name_cs": "jl0310",
     "variable": "jl0310",
@@ -28584,7 +28584,7 @@
     "label_de": "Mutter: Art Angestellte"
   },
   "jl0311": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0311",
     "name_cs": "jl0311",
     "variable": "jl0311",
@@ -28671,7 +28671,7 @@
     "label_de": "Vater: Art Beamter"
   },
   "jl0312": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0312",
     "name_cs": "jl0312",
     "variable": "jl0312",
@@ -28758,7 +28758,7 @@
     "label_de": "Mutter: Art Beamte"
   },
   "jl0313": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0313",
     "name_cs": "jl0313",
     "variable": "jl0313",
@@ -28860,7 +28860,7 @@
     "label_de": "Vater: Art Selbstaendiger"
   },
   "jl0314": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0314",
     "name_cs": "jl0314",
     "variable": "jl0314",
@@ -28962,7 +28962,7 @@
     "label_de": "Mutter: Art Selbstaendige"
   },
   "jl0315": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0315",
     "name_cs": "jl0315",
     "variable": "jl0315",
@@ -29034,7 +29034,7 @@
     "label_de": "Vater: nicht erwerbstaetig"
   },
   "jl0316": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0316",
     "name_cs": "jl0316",
     "variable": "jl0316",
@@ -29106,7 +29106,7 @@
     "label_de": "Mutter: nicht erwerbstaetig"
   },
   "jl0317": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0317",
     "name_cs": "jl0317",
     "variable": "jl0317",
@@ -29178,7 +29178,7 @@
     "label_de": "Mutter-kathol.Kirche"
   },
   "jl0318": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0318",
     "name_cs": "jl0318",
     "variable": "jl0318",
@@ -29250,7 +29250,7 @@
     "label_de": "Mutter-evang.Kirche"
   },
   "jl0319": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0319",
     "name_cs": "jl0319",
     "variable": "jl0319",
@@ -29316,7 +29316,7 @@
     "label_de": "Mutter-anderen christl. Gemeinsch."
   },
   "jl0320": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0320",
     "name_cs": "jl0320",
     "variable": "jl0320",
@@ -29388,7 +29388,7 @@
     "label_de": "Mutter-sonst.Religionsgemeinschaft"
   },
   "jl0321": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0321",
     "name_cs": "jl0321",
     "variable": "jl0321",
@@ -29460,7 +29460,7 @@
     "label_de": "Mutter-Konfession"
   },
   "jl0322": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0322",
     "name_cs": "jl0322",
     "variable": "jl0322",
@@ -29532,7 +29532,7 @@
     "label_de": "Vater-kathol.Kirche"
   },
   "jl0323": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0323",
     "name_cs": "jl0323",
     "variable": "jl0323",
@@ -29604,7 +29604,7 @@
     "label_de": "Vater-evang.Kirche"
   },
   "jl0324": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0324",
     "name_cs": "jl0324",
     "variable": "jl0324",
@@ -29676,7 +29676,7 @@
     "label_de": "Vater-anderen christl. Gemeinsch."
   },
   "jl0325": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0325",
     "name_cs": "jl0325",
     "variable": "jl0325",
@@ -29748,7 +29748,7 @@
     "label_de": "Vater-sonst.Religionsgemeinschaft"
   },
   "jl0326": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0326",
     "name_cs": "jl0326",
     "variable": "jl0326",
@@ -29820,7 +29820,7 @@
     "label_de": "Vater-Konfession"
   },
   "jl0327": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0327",
     "name_cs": "jl0327",
     "variable": "jl0327",
@@ -29917,7 +29917,7 @@
     "label_de": "Vater: Religion, Konfession"
   },
   "jl0328": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0328",
     "name_cs": "jl0328",
     "variable": "jl0328",
@@ -30014,7 +30014,7 @@
     "label_de": "Mutter: Religion, Konfession"
   },
   "jl0329": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0329",
     "name_cs": "jl0329",
     "variable": "jl0329",
@@ -30101,7 +30101,7 @@
     "label_de": "Gluecklichsein in welcher Lebensform?"
   },
   "jl0330": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0330",
     "name_cs": "jl0330",
     "variable": "jl0330",
@@ -30188,7 +30188,7 @@
     "label_de": "Gluecklichsein nur mit Kindern?"
   },
   "jl0331": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0331",
     "name_cs": "jl0331",
     "variable": "jl0331",
@@ -30265,7 +30265,7 @@
     "label_de": "Zusammenleben mit Partner"
   },
   "jl0332": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0332",
     "name_cs": "jl0332",
     "variable": "jl0332",
@@ -30305,7 +30305,7 @@
     "label_de": "Anzahl Jahre des Zusammenlebens"
   },
   "jl0333": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0333",
     "name_cs": "jl0333",
     "variable": "jl0333",
@@ -30382,7 +30382,7 @@
     "label_de": "Familienstand"
   },
   "jl0334": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0334",
     "name_cs": "jl0334",
     "variable": "jl0334",
@@ -30402,7 +30402,7 @@
     "label_de": "Anzahl Ehejahre"
   },
   "jl0335": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0335",
     "name_cs": "jl0335",
     "variable": "jl0335",
@@ -30479,7 +30479,7 @@
     "label_de": "Kinder?"
   },
   "jl0336": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0336",
     "name_cs": "jl0336",
     "variable": "jl0336",
@@ -30519,7 +30519,7 @@
     "label_de": "Geburtsjahr 1.Kind"
   },
   "jl0337": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0337",
     "name_cs": "jl0337",
     "variable": "jl0337",
@@ -30606,7 +30606,7 @@
     "label_de": "Erfolg durch: Fleiss"
   },
   "jl0338": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0338",
     "name_cs": "jl0338",
     "variable": "jl0338",
@@ -30693,7 +30693,7 @@
     "label_de": "Erfolg durch: Ausnutzen anderer"
   },
   "jl0339": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0339",
     "name_cs": "jl0339",
     "variable": "jl0339",
@@ -30780,7 +30780,7 @@
     "label_de": "Erfolg durch: Intelligenz"
   },
   "jl0340": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0340",
     "name_cs": "jl0340",
     "variable": "jl0340",
@@ -30867,7 +30867,7 @@
     "label_de": "Erfolg durch: familiare Herkunft"
   },
   "jl0341": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0341",
     "name_cs": "jl0341",
     "variable": "jl0341",
@@ -30954,7 +30954,7 @@
     "label_de": "Erfolg durch: Fachkenntnisse"
   },
   "jl0342": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0342",
     "name_cs": "jl0342",
     "variable": "jl0342",
@@ -31041,7 +31041,7 @@
     "label_de": "Erfolg durch: Geld"
   },
   "jl0343": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0343",
     "name_cs": "jl0343",
     "variable": "jl0343",
@@ -31128,7 +31128,7 @@
     "label_de": "Erfolg durch: Schulabschluss"
   },
   "jl0344": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0344",
     "name_cs": "jl0344",
     "variable": "jl0344",
@@ -31215,7 +31215,7 @@
     "label_de": "Erfolg durch: hart sein"
   },
   "jl0345": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0345",
     "name_cs": "jl0345",
     "variable": "jl0345",
@@ -31302,7 +31302,7 @@
     "label_de": "Erfolg durch: Beziehungen"
   },
   "jl0346": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0346",
     "name_cs": "jl0346",
     "variable": "jl0346",
@@ -31389,7 +31389,7 @@
     "label_de": "Erfolg durch: politisches Engagement"
   },
   "jl0347": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0347",
     "name_cs": "jl0347",
     "variable": "jl0347",
@@ -31476,7 +31476,7 @@
     "label_de": "Erfolg durch: Mann sein"
   },
   "jl0348": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0348",
     "name_cs": "jl0348",
     "variable": "jl0348",
@@ -31563,7 +31563,7 @@
     "label_de": "Erfolg durch: Initiative"
   },
   "jl0349": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0349",
     "name_cs": "jl0349",
     "variable": "jl0349",
@@ -31685,7 +31685,7 @@
     "label_de": "persoenliche Risikobereitschaft"
   },
   "jl0350": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0350",
     "name_cs": "jl0350",
     "variable": "jl0350",
@@ -31787,7 +31787,7 @@
     "label_de": "wie Leben verlaeuft haengt von einem selbst ab"
   },
   "jl0351": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0351",
     "name_cs": "jl0351",
     "variable": "jl0351",
@@ -31889,7 +31889,7 @@
     "label_de": "nicht das erreicht was eigentlich verdient"
   },
   "jl0352": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0352",
     "name_cs": "jl0352",
     "variable": "jl0352",
@@ -31991,7 +31991,7 @@
     "label_de": "was man erreicht ist Frage von Glueck, Schicksal"
   },
   "jl0353": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0353",
     "name_cs": "jl0353",
     "variable": "jl0353",
@@ -32093,7 +32093,7 @@
     "label_de": "andere bestimmen haeufig ueber mein Leben"
   },
   "jl0354": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0354",
     "name_cs": "jl0354",
     "variable": "jl0354",
@@ -32195,7 +32195,7 @@
     "label_de": "Erfolg muss hart erarbeitet werden"
   },
   "jl0355": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0355",
     "name_cs": "jl0355",
     "variable": "jl0355",
@@ -32297,7 +32297,7 @@
     "label_de": "bei Schwierigkeiten Zweifel an einem selber"
   },
   "jl0356": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0356",
     "name_cs": "jl0356",
     "variable": "jl0356",
@@ -32399,7 +32399,7 @@
     "label_de": "soziale Umstaende bestimmen das Leben"
   },
   "jl0357": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0357",
     "name_cs": "jl0357",
     "variable": "jl0357",
@@ -32501,7 +32501,7 @@
     "label_de": "wichtiger als Anstrengung sind gegebene Faehigkt."
   },
   "jl0358": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0358",
     "name_cs": "jl0358",
     "variable": "jl0358",
@@ -32603,7 +32603,7 @@
     "label_de": "wenig Kontrolle ueber Ereignisse im Leben"
   },
   "jl0359": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0359",
     "name_cs": "jl0359",
     "variable": "jl0359",
@@ -32705,7 +32705,7 @@
     "label_de": "Einfluss auf soziale Verhaeltn. Durch soz., pol. Engagement"
   },
   "jl0360": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0360",
     "name_cs": "jl0360",
     "variable": "jl0360",
@@ -32807,7 +32807,7 @@
     "label_de": "heute Verzichten, morgen sich Leisten"
   },
   "jl0361": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0361",
     "name_cs": "jl0361",
     "variable": "jl0361",
@@ -32909,7 +32909,7 @@
     "label_de": "Menschen vertrauen"
   },
   "jl0362": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0362",
     "name_cs": "jl0362",
     "variable": "jl0362",
@@ -33011,7 +33011,7 @@
     "label_de": "auf niemanden mehr velassen"
   },
   "jl0363": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0363",
     "name_cs": "jl0363",
     "variable": "jl0363",
@@ -33113,7 +33113,7 @@
     "label_de": "Fremden misstrauen"
   },
   "jl0364": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0364",
     "name_cs": "jl0364",
     "variable": "jl0364",
@@ -33215,7 +33215,7 @@
     "label_de": "heute Spass, nicht an morgen denken"
   },
   "jl0365": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0365",
     "name_cs": "jl0365",
     "variable": "jl0365",
@@ -33317,7 +33317,7 @@
     "label_de": "Persoenliche Eigenschaften: gruendlich Arbeiten"
   },
   "jl0366": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0366",
     "name_cs": "jl0366",
     "variable": "jl0366",
@@ -33419,7 +33419,7 @@
     "label_de": "Persoenliche Eigenschaften: kommunikativ"
   },
   "jl0367": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0367",
     "name_cs": "jl0367",
     "variable": "jl0367",
@@ -33521,7 +33521,7 @@
     "label_de": "Persoenliche Eigenschaften: grob zu anderen"
   },
   "jl0368": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0368",
     "name_cs": "jl0368",
     "variable": "jl0368",
@@ -33623,7 +33623,7 @@
     "label_de": "Persoenliche Eigenschaften: neue Ideen einbringen"
   },
   "jl0369": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0369",
     "name_cs": "jl0369",
     "variable": "jl0369",
@@ -33725,7 +33725,7 @@
     "label_de": "Persoenliche Eigenschaften: oft Sorgen machen"
   },
   "jl0370": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0370",
     "name_cs": "jl0370",
     "variable": "jl0370",
@@ -33827,7 +33827,7 @@
     "label_de": "Persoenliche Eigenschaften: kann verzeihen"
   },
   "jl0371": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0371",
     "name_cs": "jl0371",
     "variable": "jl0371",
@@ -33929,7 +33929,7 @@
     "label_de": "Persoenliche Eigenschaften: faul sein"
   },
   "jl0372": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0372",
     "name_cs": "jl0372",
     "variable": "jl0372",
@@ -34031,7 +34031,7 @@
     "label_de": "Persoenliche Eigenschaften: gesellig sein"
   },
   "jl0373": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0373",
     "name_cs": "jl0373",
     "variable": "jl0373",
@@ -34133,7 +34133,7 @@
     "label_de": "Persoenliche Eigenschaften: Aesthetik schaetzen"
   },
   "jl0374": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0374",
     "name_cs": "jl0374",
     "variable": "jl0374",
@@ -34235,7 +34235,7 @@
     "label_de": "Persoenliche Eigenschaften: nervoes sein"
   },
   "jl0375": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0375",
     "name_cs": "jl0375",
     "variable": "jl0375",
@@ -34337,7 +34337,7 @@
     "label_de": "Persoenliche Eigenschaften: Aufgaben effizient erledigen"
   },
   "jl0376": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0376",
     "name_cs": "jl0376",
     "variable": "jl0376",
@@ -34439,7 +34439,7 @@
     "label_de": "Persoenliche Eigenschaften: zurueckhaltend"
   },
   "jl0377": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0377",
     "name_cs": "jl0377",
     "variable": "jl0377",
@@ -34541,7 +34541,7 @@
     "label_de": "Persoenliche Eigenschaften: ruecksichtsvoll, freundlich"
   },
   "jl0378": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0378",
     "name_cs": "jl0378",
     "variable": "jl0378",
@@ -34643,7 +34643,7 @@
     "label_de": "Persoenliche Eigenschaften: lebhafte Phantasie"
   },
   "jl0379": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0379",
     "name_cs": "jl0379",
     "variable": "jl0379",
@@ -34745,7 +34745,7 @@
     "label_de": "Persoenliche Eigenschaften: entspannt sein, kein Stress"
   },
   "jl0380": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0380",
     "name_cs": "jl0380",
     "variable": "jl0380",
@@ -34847,7 +34847,7 @@
     "label_de": "Persoenliche Eigenschaften: wissbegierig"
   },
   "jl0381": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0381",
     "name_cs": "jl0381",
     "variable": "jl0381",
@@ -34939,7 +34939,7 @@
     "label_de": "Haeufigkeit aergerlich letzte 4 Wochen"
   },
   "jl0382": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0382",
     "name_cs": "jl0382",
     "variable": "jl0382",
@@ -35031,7 +35031,7 @@
     "label_de": "Haeufigkeit aengstlich letzte 4 Wochen"
   },
   "jl0383": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0383",
     "name_cs": "jl0383",
     "variable": "jl0383",
@@ -35123,7 +35123,7 @@
     "label_de": "Haeufigkeit gleucklich letzte 4 Wochen"
   },
   "jl0384": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0384",
     "name_cs": "jl0384",
     "variable": "jl0384",
@@ -35215,7 +35215,7 @@
     "label_de": "Haeufigkeit traurig letzte 4 Wochen"
   },
   "jl0385": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0385",
     "name_cs": "jl0385",
     "variable": "jl0385",
@@ -35292,7 +35292,7 @@
     "label_de": "Bezahlte Arbeit ausgeuebt (diese Woche)"
   },
   "jl0386": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0386",
     "name_cs": "jl0386",
     "variable": "jl0386",
@@ -35369,7 +35369,7 @@
     "label_de": "aktiv nach Stelle gesucht (diesen Monat)"
   },
   "jl0387": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0387",
     "name_cs": "jl0387",
     "variable": "jl0387",
@@ -35446,7 +35446,7 @@
     "label_de": "Arbeitslos gemeldet"
   },
   "jl0388": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0388",
     "name_cs": "jl0388",
     "variable": "jl0388",
@@ -35533,7 +35533,7 @@
     "label_de": "Interesse fuer Politik"
   },
   "jl0389": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0389",
     "name_cs": "jl0389",
     "variable": "jl0389",
@@ -35610,7 +35610,7 @@
     "label_de": "Allgemeine Parteienpraeferenz"
   },
   "jl0390": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0390",
     "name_cs": "jl0390",
     "variable": "jl0390",
@@ -35822,7 +35822,7 @@
     "label_de": "Parteipraeferenz"
   },
   "jl0391": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0391",
     "name_cs": "jl0391",
     "variable": "jl0391",
@@ -35914,7 +35914,7 @@
     "label_de": "Parteipraeferenz-Intensitaet"
   },
   "jl0392": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0392",
     "name_cs": "jl0392",
     "variable": "jl0392",
@@ -36036,7 +36036,7 @@
     "label_de": "Lebenszufriedenheit gegenwaertig"
   },
   "jl0406": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0406",
     "name_cs": "jl0406",
     "variable": "jl0406",
@@ -36108,7 +36108,7 @@
     "label_de": "Nachhilfe Deutsch"
   },
   "jl0407": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0407",
     "name_cs": "jl0407",
     "variable": "jl0407",
@@ -36148,7 +36148,7 @@
     "label_de": "Deutschhilfe Klasse"
   },
   "jl0408": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0408",
     "name_cs": "jl0408",
     "variable": "jl0408",
@@ -36220,7 +36220,7 @@
     "label_de": "Nachhilfe Mathe"
   },
   "jl0409": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0409",
     "name_cs": "jl0409",
     "variable": "jl0409",
@@ -36260,7 +36260,7 @@
     "label_de": "Mathehilfe Klasse"
   },
   "jl0410": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0410",
     "name_cs": "jl0410",
     "variable": "jl0410",
@@ -36332,7 +36332,7 @@
     "label_de": "Nachhilfe Fremdspr."
   },
   "jl0411": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0411",
     "name_cs": "jl0411",
     "variable": "jl0411",
@@ -36372,7 +36372,7 @@
     "label_de": "Fremdspr.hilfe Klasse"
   },
   "jl0412": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0412",
     "name_cs": "jl0412",
     "variable": "jl0412",
@@ -36444,7 +36444,7 @@
     "label_de": "Nachhilfe sonst.Fach"
   },
   "jl0413": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0413",
     "name_cs": "jl0413",
     "variable": "jl0413",
@@ -36484,7 +36484,7 @@
     "label_de": "Sonst.Fachhilfe Klasse"
   },
   "jl0414": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0414",
     "name_cs": "jl0414",
     "variable": "jl0414",
@@ -36556,7 +36556,7 @@
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0415": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0415",
     "name_cs": "jl0415",
     "variable": "jl0415",
@@ -36628,7 +36628,7 @@
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0416": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0416",
     "name_cs": "jl0416",
     "variable": "jl0416",
@@ -36700,7 +36700,7 @@
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0417": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0417",
     "name_cs": "jl0417",
     "variable": "jl0417",
@@ -36772,7 +36772,7 @@
     "label_de": "kein Zwillingsbruder/-schwester"
   },
   "jl0418": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0418",
     "name_cs": "jl0418",
     "variable": "jl0418",
@@ -37739,7 +37739,7 @@
     "label_de": "welche Staatsangehoerigkeit vorher (Code)"
   },
   "jl0419": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0419",
     "name_cs": "jl0419",
     "variable": "jl0419",
@@ -37779,7 +37779,7 @@
     "label_de": "deutsche Staatsangehoerigkeit in welchem Jahr erworben"
   },
   "jl0420": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0420",
     "name_cs": "jl0420",
     "variable": "jl0420",
@@ -37856,7 +37856,7 @@
     "label_de": "Leben hier im Haushalt"
   },
   "jl0421": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0421",
     "name_cs": "jl0421",
     "variable": "jl0421",
@@ -37922,7 +37922,7 @@
     "label_de": "Sonst. Wohnort Eig. Wohnung/Zimmer in WG"
   },
   "jl0422": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0422",
     "name_cs": "jl0422",
     "variable": "jl0422",
@@ -37988,7 +37988,7 @@
     "label_de": "Sonst. Wohnort FreundIn/PartnerIn"
   },
   "jl0423": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0423",
     "name_cs": "jl0423",
     "variable": "jl0423",
@@ -38054,7 +38054,7 @@
     "label_de": "Sonst. Wohnort Unterkunft bei Arbeitsort"
   },
   "jl0424": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0424",
     "name_cs": "jl0424",
     "variable": "jl0424",
@@ -38126,7 +38126,7 @@
     "label_de": "Sonst. Wohnort Bei anderem Elternteil"
   },
   "jl0425": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0425",
     "name_cs": "jl0425",
     "variable": "jl0425",
@@ -38192,7 +38192,7 @@
     "label_de": "Sonst. Wohnort Schueler-/Studentenwohnheim"
   },
   "jl0426": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0426",
     "name_cs": "jl0426",
     "variable": "jl0426",
@@ -38258,7 +38258,7 @@
     "label_de": "Sonst. Wohnort Internat"
   },
   "jl0427": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0427",
     "name_cs": "jl0427",
     "variable": "jl0427",
@@ -38324,7 +38324,7 @@
     "label_de": "Sonst. Wohnort Kinderheim"
   },
   "jl0428": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0428",
     "name_cs": "jl0428",
     "variable": "jl0428",
@@ -38390,7 +38390,7 @@
     "label_de": "Sonst. Wohnort Pflegeheim"
   },
   "jl0429": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0429",
     "name_cs": "jl0429",
     "variable": "jl0429",
@@ -38456,7 +38456,7 @@
     "label_de": "Sonst. Wohnort Sonstiges"
   },
   "jl0430": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0430",
     "name_cs": "jl0430",
     "variable": "jl0430",
@@ -38553,7 +38553,7 @@
     "label_de": "Haeufigkeit leben hier im Haushalt"
   },
   "jl0431": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0431",
     "name_cs": "jl0431",
     "variable": "jl0431",
@@ -38630,7 +38630,7 @@
     "label_de": "Hauptwohnsitz"
   },
   "jl0432": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0432",
     "name_cs": "jl0432",
     "variable": "jl0432",
@@ -38701,7 +38701,7 @@
     "label_de": "Hier: gemeld. Zweitwohnsitz"
   },
   "jl0433": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0433",
     "name_cs": "jl0433",
     "variable": "jl0433",
@@ -38793,7 +38793,7 @@
     "label_de": "Haeufigkeit soziale Online-Netzwerke"
   },
   "jl0434": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0434",
     "name_cs": "jl0434",
     "variable": "jl0434",
@@ -38833,7 +38833,7 @@
     "label_de": "Klasse"
   },
   "jl0435": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0435",
     "name_cs": "jl0435",
     "variable": "jl0435",
@@ -38873,7 +38873,7 @@
     "label_de": "Schule Ausland Alter Beginn"
   },
   "jl0436": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0436",
     "name_cs": "jl0436",
     "variable": "jl0436",
@@ -38913,7 +38913,7 @@
     "label_de": "Schule Ausland Alter Ende"
   },
   "jl0437": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0437",
     "name_cs": "jl0437",
     "variable": "jl0437",
@@ -38995,7 +38995,7 @@
     "label_de": "Schulart"
   },
   "jl0438": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0438",
     "name_cs": "jl0438",
     "variable": "jl0438",
@@ -39066,7 +39066,7 @@
     "label_de": "Duales Studium/Berufsakademie"
   },
   "jl0439": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0439",
     "name_cs": "jl0439",
     "variable": "jl0439",
@@ -39137,7 +39137,7 @@
     "label_de": "Duales Studium/Berufsakademie abgeschlossen"
   },
   "jl0440": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0440",
     "name_cs": "jl0440",
     "variable": "jl0440",
@@ -39208,7 +39208,7 @@
     "label_de": "Fachhochschule/Uni"
   },
   "jl0441": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0441",
     "name_cs": "jl0441",
     "variable": "jl0441",
@@ -39279,7 +39279,7 @@
     "label_de": "Fachhochschule/Uni abgeschlossen"
   },
   "jl0442": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0442",
     "name_cs": "jl0442",
     "variable": "jl0442",
@@ -39371,7 +39371,7 @@
     "label_de": "Vor Zuzug Deutsch sprechen"
   },
   "jl0443": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0443",
     "name_cs": "jl0443",
     "variable": "jl0443",
@@ -39463,7 +39463,7 @@
     "label_de": "Vor Zuzug Deutsch schreiben"
   },
   "jl0444": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0444",
     "name_cs": "jl0444",
     "variable": "jl0444",
@@ -39555,7 +39555,7 @@
     "label_de": "Vor Zuzug Deutsch lesen"
   },
   "jl0445": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0445",
     "name_cs": "jl0445",
     "variable": "jl0445",
@@ -39647,7 +39647,7 @@
     "label_de": "Aufenthaltsstatus"
   },
   "jl0446": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0446",
     "name_cs": "jl0446",
     "variable": "jl0446",
@@ -39687,7 +39687,7 @@
     "label_de": "Anzahl Geschwister"
   },
   "jl0447": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0447",
     "name_cs": "jl0447",
     "variable": "jl0447",
@@ -39759,7 +39759,7 @@
     "label_de": "keine Geschwister"
   },
   "jl0448": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0448",
     "name_cs": "jl0448",
     "variable": "jl0448",
@@ -39799,7 +39799,7 @@
     "label_de": "1. Geschw. Geb.Jahr"
   },
   "jl0449": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0449",
     "name_cs": "jl0449",
     "variable": "jl0449",
@@ -39926,7 +39926,7 @@
     "label_de": "1. Geschw. Geb.Monat"
   },
   "jl0450": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0450",
     "name_cs": "jl0450",
     "variable": "jl0450",
@@ -40003,7 +40003,7 @@
     "label_de": "1. Geschw. Geschlecht"
   },
   "jl0451": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0451",
     "name_cs": "jl0451",
     "variable": "jl0451",
@@ -40100,7 +40100,7 @@
     "label_de": "1. Geschw. Art"
   },
   "jl0452": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0452",
     "name_cs": "jl0452",
     "variable": "jl0452",
@@ -40172,7 +40172,7 @@
     "label_de": "1. Geschw. bis 15J zusammen"
   },
   "jl0453": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0453",
     "name_cs": "jl0453",
     "variable": "jl0453",
@@ -40212,7 +40212,7 @@
     "label_de": "1. Geschw. Jahre zusammen"
   },
   "jl0454": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0454",
     "name_cs": "jl0454",
     "variable": "jl0454",
@@ -40252,7 +40252,7 @@
     "label_de": "2. Geschw. Geb.Jahr"
   },
   "jl0455": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0455",
     "name_cs": "jl0455",
     "variable": "jl0455",
@@ -40379,7 +40379,7 @@
     "label_de": "2. Geschw. Geb.Monat"
   },
   "jl0456": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0456",
     "name_cs": "jl0456",
     "variable": "jl0456",
@@ -40456,7 +40456,7 @@
     "label_de": "2. Geschw. Geschlecht"
   },
   "jl0457": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0457",
     "name_cs": "jl0457",
     "variable": "jl0457",
@@ -40553,7 +40553,7 @@
     "label_de": "2. Geschw. Art"
   },
   "jl0458": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0458",
     "name_cs": "jl0458",
     "variable": "jl0458",
@@ -40625,7 +40625,7 @@
     "label_de": "2. Geschw. bis 15J zusammen"
   },
   "jl0459": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0459",
     "name_cs": "jl0459",
     "variable": "jl0459",
@@ -40665,7 +40665,7 @@
     "label_de": "2. Geschw. Jahre zusammen"
   },
   "jl0460": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0460",
     "name_cs": "jl0460",
     "variable": "jl0460",
@@ -40705,7 +40705,7 @@
     "label_de": "3. Geschw. Geb.Jahr"
   },
   "jl0461": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0461",
     "name_cs": "jl0461",
     "variable": "jl0461",
@@ -40832,7 +40832,7 @@
     "label_de": "3. Geschw. Geb.Monat"
   },
   "jl0462": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0462",
     "name_cs": "jl0462",
     "variable": "jl0462",
@@ -40909,7 +40909,7 @@
     "label_de": "3. Geschw. Geschlecht"
   },
   "jl0463": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0463",
     "name_cs": "jl0463",
     "variable": "jl0463",
@@ -41006,7 +41006,7 @@
     "label_de": "3. Geschw. Art"
   },
   "jl0464": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0464",
     "name_cs": "jl0464",
     "variable": "jl0464",
@@ -41078,7 +41078,7 @@
     "label_de": "3. Geschw. bis 15J zusammen"
   },
   "jl0465": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0465",
     "name_cs": "jl0465",
     "variable": "jl0465",
@@ -41118,7 +41118,7 @@
     "label_de": "3. Geschw. Jahre zusammen"
   },
   "jl0466": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0466",
     "name_cs": "jl0466",
     "variable": "jl0466",
@@ -41158,7 +41158,7 @@
     "label_de": "4. Geschw. Geb.Jahr"
   },
   "jl0467": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0467",
     "name_cs": "jl0467",
     "variable": "jl0467",
@@ -41285,7 +41285,7 @@
     "label_de": "4. Geschw. Geb.Monat"
   },
   "jl0468": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0468",
     "name_cs": "jl0468",
     "variable": "jl0468",
@@ -41362,7 +41362,7 @@
     "label_de": "4. Geschw. Geschlecht"
   },
   "jl0469": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0469",
     "name_cs": "jl0469",
     "variable": "jl0469",
@@ -41459,7 +41459,7 @@
     "label_de": "4. Geschw. Art"
   },
   "jl0470": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0470",
     "name_cs": "jl0470",
     "variable": "jl0470",
@@ -41531,7 +41531,7 @@
     "label_de": "4. Geschw. bis 15J zusammen"
   },
   "jl0471": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0471",
     "name_cs": "jl0471",
     "variable": "jl0471",
@@ -41571,7 +41571,7 @@
     "label_de": "4. Geschw. Jahre zusammen"
   },
   "jl0472": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0472",
     "name_cs": "jl0472",
     "variable": "jl0472",
@@ -41611,7 +41611,7 @@
     "label_de": "5. Geschw. Geb.Jahr"
   },
   "jl0473": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0473",
     "name_cs": "jl0473",
     "variable": "jl0473",
@@ -41738,7 +41738,7 @@
     "label_de": "5. Geschw. Geb.Monat"
   },
   "jl0474": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0474",
     "name_cs": "jl0474",
     "variable": "jl0474",
@@ -41815,7 +41815,7 @@
     "label_de": "5. Geschw. Geschlecht"
   },
   "jl0475": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0475",
     "name_cs": "jl0475",
     "variable": "jl0475",
@@ -41912,7 +41912,7 @@
     "label_de": "5. Geschw. Art"
   },
   "jl0476": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0476",
     "name_cs": "jl0476",
     "variable": "jl0476",
@@ -41984,7 +41984,7 @@
     "label_de": "5. Geschw. bis 15J zusammen"
   },
   "jl0477": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0477",
     "name_cs": "jl0477",
     "variable": "jl0477",
@@ -42024,7 +42024,7 @@
     "label_de": "5. Geschw. Jahre zusammen"
   },
   "jl0478": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0478",
     "name_cs": "jl0478",
     "variable": "jl0478",
@@ -42064,7 +42064,7 @@
     "label_de": "6. Geschw. Geb.Jahr"
   },
   "jl0479": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0479",
     "name_cs": "jl0479",
     "variable": "jl0479",
@@ -42191,7 +42191,7 @@
     "label_de": "6. Geschw. Geb.Monat"
   },
   "jl0480": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0480",
     "name_cs": "jl0480",
     "variable": "jl0480",
@@ -42268,7 +42268,7 @@
     "label_de": "6. Geschw. Geschlecht"
   },
   "jl0481": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0481",
     "name_cs": "jl0481",
     "variable": "jl0481",
@@ -42365,7 +42365,7 @@
     "label_de": "6. Geschw. Art"
   },
   "jl0482": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0482",
     "name_cs": "jl0482",
     "variable": "jl0482",
@@ -42437,7 +42437,7 @@
     "label_de": "6. Geschw. bis 15J zusammen"
   },
   "jl0483": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0483",
     "name_cs": "jl0483",
     "variable": "jl0483",
@@ -42477,7 +42477,7 @@
     "label_de": "6. Geschw. Jahre zusammen"
   },
   "jl0484": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0484",
     "name_cs": "jl0484",
     "variable": "jl0484",
@@ -42517,7 +42517,7 @@
     "label_de": "7. Geschw. Geb.Jahr"
   },
   "jl0485": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0485",
     "name_cs": "jl0485",
     "variable": "jl0485",
@@ -42644,7 +42644,7 @@
     "label_de": "7. Geschw. Geb.Monat"
   },
   "jl0486": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0486",
     "name_cs": "jl0486",
     "variable": "jl0486",
@@ -42721,7 +42721,7 @@
     "label_de": "7. Geschw. Geschlecht"
   },
   "jl0487": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0487",
     "name_cs": "jl0487",
     "variable": "jl0487",
@@ -42818,7 +42818,7 @@
     "label_de": "7. Geschw. Art"
   },
   "jl0488": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0488",
     "name_cs": "jl0488",
     "variable": "jl0488",
@@ -42890,7 +42890,7 @@
     "label_de": "7. Geschw. bis 15J zusammen"
   },
   "jl0489": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0489",
     "name_cs": "jl0489",
     "variable": "jl0489",
@@ -42930,7 +42930,7 @@
     "label_de": "7. Geschw. Jahre zusammen"
   },
   "jl0490": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0490",
     "name_cs": "jl0490",
     "variable": "jl0490",
@@ -42970,7 +42970,7 @@
     "label_de": "8. Geschw. Geb.Jahr"
   },
   "jl0491": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0491",
     "name_cs": "jl0491",
     "variable": "jl0491",
@@ -43097,7 +43097,7 @@
     "label_de": "8. Geschw. Geb.Monat"
   },
   "jl0492": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0492",
     "name_cs": "jl0492",
     "variable": "jl0492",
@@ -43174,7 +43174,7 @@
     "label_de": "8. Geschw. Geschlecht"
   },
   "jl0493": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0493",
     "name_cs": "jl0493",
     "variable": "jl0493",
@@ -43271,7 +43271,7 @@
     "label_de": "8. Geschw. Art"
   },
   "jl0494": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0494",
     "name_cs": "jl0494",
     "variable": "jl0494",
@@ -43343,7 +43343,7 @@
     "label_de": "8. Geschw. bis 15J zusammen"
   },
   "jl0495": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0495",
     "name_cs": "jl0495",
     "variable": "jl0495",
@@ -43383,7 +43383,7 @@
     "label_de": "8. Geschw. Jahre zusammen"
   },
   "jl0498": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0498",
     "name_cs": "jl0498",
     "variable": "jl0498",
@@ -43460,7 +43460,7 @@
     "label_de": "Einwilligung Verknuepfung Soz.vers.Daten"
   },
   "jl0499": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0499",
     "name_cs": "jl0499",
     "variable": "jl0499",
@@ -43557,7 +43557,7 @@
     "label_de": "Zusammensetzung Freundeskreis: Nicht aus D"
   },
   "jl0500": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0500",
     "name_cs": "jl0500",
     "variable": "jl0500",
@@ -43634,7 +43634,7 @@
     "label_de": "Abschluss in D oder Ausland"
   },
   "jl0501": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0501",
     "name_cs": "jl0501",
     "variable": "jl0501",
@@ -43716,7 +43716,7 @@
     "label_de": "Angebot Deutsch als Fremdsprache"
   },
   "jl0502": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0502",
     "name_cs": "jl0502",
     "variable": "jl0502",
@@ -43798,7 +43798,7 @@
     "label_de": "Teilnahme an Deutsch als Fremdsprache"
   },
   "jl0503": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0503",
     "name_cs": "jl0503",
     "variable": "jl0503",
@@ -43874,7 +43874,7 @@
     "label_de": "Muttersprache"
   },
   "jl0504": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0504",
     "name_cs": "jl0504",
     "variable": "jl0504",
@@ -43951,7 +43951,7 @@
     "label_de": "Ausbildung in einem anderen Land"
   },
   "jl0505": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0505",
     "name_cs": "jl0505",
     "variable": "jl0505",
@@ -44028,7 +44028,7 @@
     "label_de": "Beide Eltern in D geboren"
   },
   "jl0506": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0506",
     "name_cs": "jl0506",
     "variable": "jl0506",
@@ -44068,7 +44068,7 @@
     "label_de": "Vater: Jahr des Zuzugs nach D"
   },
   "jl0507": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0507",
     "name_cs": "jl0507",
     "variable": "jl0507",
@@ -44088,7 +44088,7 @@
     "label_de": "Mutter: Jahr des Zuzugs nach D"
   },
   "jl0508": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0508",
     "name_cs": "jl0508",
     "variable": "jl0508",
@@ -44175,7 +44175,7 @@
     "label_de": "Vater: Deutsche Staatsbuergerschaft"
   },
   "jl0509": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0509",
     "name_cs": "jl0509",
     "variable": "jl0509",
@@ -44262,7 +44262,7 @@
     "label_de": "Mutter: Deutsche Staatsbuergerschaft"
   },
   "jl0510": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0510",
     "name_cs": "jl0510",
     "variable": "jl0510",
@@ -45244,7 +45244,7 @@
     "label_de": "Vater: Code aktuelle/fruehere Staatsbuergerschaft"
   },
   "jl0511": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0511",
     "name_cs": "jl0511",
     "variable": "jl0511",
@@ -46220,7 +46220,7 @@
     "label_de": "Mutter: Code aktuelle/fruehere Staatsbuergerschaft"
   },
   "jl0512": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0512",
     "name_cs": "jl0512",
     "variable": "jl0512",
@@ -46302,7 +46302,7 @@
     "label_de": "Vater Schulabschluss Ausland oder D"
   },
   "jl0513": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0513",
     "name_cs": "jl0513",
     "variable": "jl0513",
@@ -46384,7 +46384,7 @@
     "label_de": "Mutter Schulabschluss Ausland oder D"
   },
   "jl0514": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0514",
     "name_cs": "jl0514",
     "variable": "jl0514",
@@ -46476,7 +46476,7 @@
     "label_de": "Vater: Art Schulabschluss in D"
   },
   "jl0515": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0515",
     "name_cs": "jl0515",
     "variable": "jl0515",
@@ -46562,7 +46562,7 @@
     "label_de": "Mutter: Art Schulabschluss in D"
   },
   "jl0516": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0516",
     "name_cs": "jl0516",
     "variable": "jl0516",
@@ -46644,7 +46644,7 @@
     "label_de": "Vater: Art Schulabschluss im Ausland"
   },
   "jl0517": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0517",
     "name_cs": "jl0517",
     "variable": "jl0517",
@@ -46726,7 +46726,7 @@
     "label_de": "Mutter: Art Schulabschluss im Ausland"
   },
   "jl0518": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0518",
     "name_cs": "jl0518",
     "variable": "jl0518",
@@ -46813,7 +46813,7 @@
     "label_de": "Religionsgemeinschaft Vater"
   },
   "jl0519": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0519",
     "name_cs": "jl0519",
     "variable": "jl0519",
@@ -46900,7 +46900,7 @@
     "label_de": "Religionsgemeinschaft Mutter"
   },
   "jl0520": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0520",
     "name_cs": "jl0520",
     "variable": "jl0520",
@@ -46987,7 +46987,7 @@
     "label_de": "Christl. Religionsgemeinschaft Vater"
   },
   "jl0521": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0521",
     "name_cs": "jl0521",
     "variable": "jl0521",
@@ -47074,7 +47074,7 @@
     "label_de": "Christl. Religionsgemeinschaft Mutter"
   },
   "jl0522": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0522",
     "name_cs": "jl0522",
     "variable": "jl0522",
@@ -47161,7 +47161,7 @@
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl0523": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0523",
     "name_cs": "jl0523",
     "variable": "jl0523",
@@ -47242,7 +47242,7 @@
     "label_de": "Islam. Religionsgemeinschaft Mutter"
   },
   "jl0524": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0524",
     "name_cs": "jl0524",
     "variable": "jl0524",
@@ -47282,7 +47282,7 @@
     "label_de": "Ankerperson"
   },
   "jl0525": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0525",
     "name_cs": "jl0525",
     "variable": "jl0525",
@@ -47322,7 +47322,7 @@
     "label_de": "Uebersetzung: Deutsch-sprechende Person im HH"
   },
   "jl0526": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0526",
     "name_cs": "jl0526",
     "variable": "jl0526",
@@ -47342,7 +47342,7 @@
     "label_de": "Uebersetzung: Deutsch-sprechende Person ausserhalb HH"
   },
   "jl0527": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0527",
     "name_cs": "jl0527",
     "variable": "jl0527",
@@ -47382,7 +47382,7 @@
     "label_de": "Keine Ue-Hilfe verwendet"
   },
   "jl0528": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0528",
     "name_cs": "jl0528",
     "variable": "jl0528",
@@ -47469,7 +47469,7 @@
     "label_de": "Folgebefragungen erwuenscht"
   },
   "jl0532": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0532",
     "name_cs": "jl0532",
     "variable": "jl0532",
@@ -47566,7 +47566,7 @@
     "label_de": "Vater: Art Selbstaendiger"
   },
   "jl0533": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl0533",
     "name_cs": "jl0533",
     "variable": "jl0533",
@@ -47663,7 +47663,7 @@
     "label_de": "Mutter: Art Selbstaendige"
   },
   "jl1026": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1026",
     "name_cs": "jl1026",
     "variable": "jl1026",
@@ -47735,7 +47735,7 @@
     "label_de": "Wichtig Vater"
   },
   "jl1027": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1027",
     "name_cs": "jl1027",
     "variable": "jl1027",
@@ -47807,7 +47807,7 @@
     "label_de": "Wichtig Mutter"
   },
   "jl1028": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1028",
     "name_cs": "jl1028",
     "variable": "jl1028",
@@ -47879,7 +47879,7 @@
     "label_de": "Wichtig Bruder-Schwester"
   },
   "jl1029": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1029",
     "name_cs": "jl1029",
     "variable": "jl1029",
@@ -47951,7 +47951,7 @@
     "label_de": "Wichtig Verwandte"
   },
   "jl1030": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1030",
     "name_cs": "jl1030",
     "variable": "jl1030",
@@ -48023,7 +48023,7 @@
     "label_de": "Wichtig fester Freund"
   },
   "jl1031": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1031",
     "name_cs": "jl1031",
     "variable": "jl1031",
@@ -48095,7 +48095,7 @@
     "label_de": "Wichtig fester Freund"
   },
   "jl1032": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1032",
     "name_cs": "jl1032",
     "variable": "jl1032",
@@ -48167,7 +48167,7 @@
     "label_de": "Wichtig Lehrer"
   },
   "jl1034": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1034",
     "name_cs": "jl1034",
     "variable": "jl1034",
@@ -48239,7 +48239,7 @@
     "label_de": "Wichtig Sonstige"
   },
   "jl1043": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1043",
     "name_cs": "jl1043",
     "variable": "jl1043",
@@ -48331,7 +48331,7 @@
     "label_de": "Vater spricht Probleme an"
   },
   "jl1249": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1249",
     "name_cs": "jl1249",
     "variable": "jl1249",
@@ -48423,7 +48423,7 @@
     "label_de": "Lesekompetenz: deutsch"
   },
   "jl1251": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1251",
     "name_cs": "jl1251",
     "variable": "jl1251",
@@ -48515,7 +48515,7 @@
     "label_de": "Lesekompetenz: Herkunfts-, Elternsprache"
   },
   "jl1380": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1380",
     "name_cs": "jl1380",
     "variable": "jl1380",
@@ -48617,7 +48617,7 @@
     "label_de": "Persoenliche Eigenschaften: positive Einstellung zu sich"
   },
   "jl1400": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1400",
     "name_cs": "jl1400",
     "variable": "jl1400",
@@ -48709,7 +48709,7 @@
     "label_de": "Haeufigkeit soziale Online-Netzwerke"
   },
   "jl1401": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1401",
     "name_cs": "jl1401",
     "variable": "jl1401",
@@ -48791,7 +48791,7 @@
     "label_de": "Schulart"
   },
   "jl1402": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1402",
     "name_cs": "jl1402",
     "variable": "jl1402",
@@ -48868,7 +48868,7 @@
     "label_de": "Fachhochschule/Uni"
   },
   "jl1403": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1403",
     "name_cs": "jl1403",
     "variable": "jl1403",
@@ -48939,7 +48939,7 @@
     "label_de": "Fachhochschule/Uni abgeschlossen"
   },
   "jl1404": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1404",
     "name_cs": "jl1404",
     "variable": "jl1404",
@@ -48979,7 +48979,7 @@
     "label_de": "Anzahl Geschwister"
   },
   "jl1405": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1405",
     "name_cs": "jl1405",
     "variable": "jl1405",
@@ -49051,7 +49051,7 @@
     "label_de": "keine Geschwister"
   },
   "jl1406": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1406",
     "name_cs": "jl1406",
     "variable": "jl1406",
@@ -49091,7 +49091,7 @@
     "label_de": "1. Geschw. Geb.Jahr"
   },
   "jl1407": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1407",
     "name_cs": "jl1407",
     "variable": "jl1407",
@@ -49218,7 +49218,7 @@
     "label_de": "1. Geschw. Geb.Monat"
   },
   "jl1408": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1408",
     "name_cs": "jl1408",
     "variable": "jl1408",
@@ -49295,7 +49295,7 @@
     "label_de": "1. Geschw. Geschlecht"
   },
   "jl1409": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1409",
     "name_cs": "jl1409",
     "variable": "jl1409",
@@ -49392,7 +49392,7 @@
     "label_de": "1. Geschw. Art"
   },
   "jl1410": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1410",
     "name_cs": "jl1410",
     "variable": "jl1410",
@@ -49464,7 +49464,7 @@
     "label_de": "1. Geschw. bis 15J zusammen"
   },
   "jl1411": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1411",
     "name_cs": "jl1411",
     "variable": "jl1411",
@@ -49504,7 +49504,7 @@
     "label_de": "1. Geschw. Jahre zusammen"
   },
   "jl1412": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1412",
     "name_cs": "jl1412",
     "variable": "jl1412",
@@ -49544,7 +49544,7 @@
     "label_de": "2. Geschw. Geb.Jahr"
   },
   "jl1413": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1413",
     "name_cs": "jl1413",
     "variable": "jl1413",
@@ -49671,7 +49671,7 @@
     "label_de": "2. Geschw. Geb.Monat"
   },
   "jl1414": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1414",
     "name_cs": "jl1414",
     "variable": "jl1414",
@@ -49748,7 +49748,7 @@
     "label_de": "2. Geschw. Geschlecht"
   },
   "jl1415": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1415",
     "name_cs": "jl1415",
     "variable": "jl1415",
@@ -49845,7 +49845,7 @@
     "label_de": "2. Geschw. Art"
   },
   "jl1416": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1416",
     "name_cs": "jl1416",
     "variable": "jl1416",
@@ -49917,7 +49917,7 @@
     "label_de": "2. Geschw. bis 15J zusammen"
   },
   "jl1417": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1417",
     "name_cs": "jl1417",
     "variable": "jl1417",
@@ -49957,7 +49957,7 @@
     "label_de": "2. Geschw. Jahre zusammen"
   },
   "jl1418": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1418",
     "name_cs": "jl1418",
     "variable": "jl1418",
@@ -49997,7 +49997,7 @@
     "label_de": "3. Geschw. Geb.Jahr"
   },
   "jl1419": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1419",
     "name_cs": "jl1419",
     "variable": "jl1419",
@@ -50124,7 +50124,7 @@
     "label_de": "3. Geschw. Geb.Monat"
   },
   "jl1420": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1420",
     "name_cs": "jl1420",
     "variable": "jl1420",
@@ -50201,7 +50201,7 @@
     "label_de": "3. Geschw. Geschlecht"
   },
   "jl1421": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1421",
     "name_cs": "jl1421",
     "variable": "jl1421",
@@ -50298,7 +50298,7 @@
     "label_de": "3. Geschw. Art"
   },
   "jl1422": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1422",
     "name_cs": "jl1422",
     "variable": "jl1422",
@@ -50370,7 +50370,7 @@
     "label_de": "3. Geschw. bis 15J zusammen"
   },
   "jl1423": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1423",
     "name_cs": "jl1423",
     "variable": "jl1423",
@@ -50410,7 +50410,7 @@
     "label_de": "3. Geschw. Jahre zusammen"
   },
   "jl1424": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1424",
     "name_cs": "jl1424",
     "variable": "jl1424",
@@ -50450,7 +50450,7 @@
     "label_de": "4. Geschw. Geb.Jahr"
   },
   "jl1425": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1425",
     "name_cs": "jl1425",
     "variable": "jl1425",
@@ -50577,7 +50577,7 @@
     "label_de": "4. Geschw. Geb.Monat"
   },
   "jl1426": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1426",
     "name_cs": "jl1426",
     "variable": "jl1426",
@@ -50654,7 +50654,7 @@
     "label_de": "4. Geschw. Geschlecht"
   },
   "jl1427": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1427",
     "name_cs": "jl1427",
     "variable": "jl1427",
@@ -50751,7 +50751,7 @@
     "label_de": "4. Geschw. Art"
   },
   "jl1428": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1428",
     "name_cs": "jl1428",
     "variable": "jl1428",
@@ -50823,7 +50823,7 @@
     "label_de": "4. Geschw. bis 15J zusammen"
   },
   "jl1429": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1429",
     "name_cs": "jl1429",
     "variable": "jl1429",
@@ -50863,7 +50863,7 @@
     "label_de": "4. Geschw. Jahre zusammen"
   },
   "jl1430": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1430",
     "name_cs": "jl1430",
     "variable": "jl1430",
@@ -50903,7 +50903,7 @@
     "label_de": "5. Geschw. Geb.Jahr"
   },
   "jl1431": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1431",
     "name_cs": "jl1431",
     "variable": "jl1431",
@@ -51030,7 +51030,7 @@
     "label_de": "5. Geschw. Geb.Monat"
   },
   "jl1432": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1432",
     "name_cs": "jl1432",
     "variable": "jl1432",
@@ -51107,7 +51107,7 @@
     "label_de": "5. Geschw. Geschlecht"
   },
   "jl1433": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1433",
     "name_cs": "jl1433",
     "variable": "jl1433",
@@ -51204,7 +51204,7 @@
     "label_de": "5. Geschw. Art"
   },
   "jl1434": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1434",
     "name_cs": "jl1434",
     "variable": "jl1434",
@@ -51276,7 +51276,7 @@
     "label_de": "5. Geschw. bis 15J zusammen"
   },
   "jl1435": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1435",
     "name_cs": "jl1435",
     "variable": "jl1435",
@@ -51316,7 +51316,7 @@
     "label_de": "5. Geschw. Jahre zusammen"
   },
   "jl1436": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1436",
     "name_cs": "jl1436",
     "variable": "jl1436",
@@ -51356,7 +51356,7 @@
     "label_de": "6. Geschw. Geb.Jahr"
   },
   "jl1437": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1437",
     "name_cs": "jl1437",
     "variable": "jl1437",
@@ -51483,7 +51483,7 @@
     "label_de": "6. Geschw. Geb.Monat"
   },
   "jl1438": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1438",
     "name_cs": "jl1438",
     "variable": "jl1438",
@@ -51560,7 +51560,7 @@
     "label_de": "6. Geschw. Geschlecht"
   },
   "jl1439": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1439",
     "name_cs": "jl1439",
     "variable": "jl1439",
@@ -51657,7 +51657,7 @@
     "label_de": "6. Geschw. Art"
   },
   "jl1440": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1440",
     "name_cs": "jl1440",
     "variable": "jl1440",
@@ -51729,7 +51729,7 @@
     "label_de": "6. Geschw. bis 15J zusammen"
   },
   "jl1441": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1441",
     "name_cs": "jl1441",
     "variable": "jl1441",
@@ -51769,7 +51769,7 @@
     "label_de": "6. Geschw. Jahre zusammen"
   },
   "jl1442": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1442",
     "name_cs": "jl1442",
     "variable": "jl1442",
@@ -51809,7 +51809,7 @@
     "label_de": "7. Geschw. Geb.Jahr"
   },
   "jl1443": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1443",
     "name_cs": "jl1443",
     "variable": "jl1443",
@@ -51936,7 +51936,7 @@
     "label_de": "7. Geschw. Geb.Monat"
   },
   "jl1444": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1444",
     "name_cs": "jl1444",
     "variable": "jl1444",
@@ -52013,7 +52013,7 @@
     "label_de": "7. Geschw. Geschlecht"
   },
   "jl1445": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1445",
     "name_cs": "jl1445",
     "variable": "jl1445",
@@ -52110,7 +52110,7 @@
     "label_de": "7. Geschw. Art"
   },
   "jl1446": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1446",
     "name_cs": "jl1446",
     "variable": "jl1446",
@@ -52182,7 +52182,7 @@
     "label_de": "7. Geschw. bis 15J zusammen"
   },
   "jl1447": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1447",
     "name_cs": "jl1447",
     "variable": "jl1447",
@@ -52222,7 +52222,7 @@
     "label_de": "7. Geschw. Jahre zusammen"
   },
   "jl1448": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1448",
     "name_cs": "jl1448",
     "variable": "jl1448",
@@ -52262,7 +52262,7 @@
     "label_de": "8. Geschw. Geb.Jahr"
   },
   "jl1449": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1449",
     "name_cs": "jl1449",
     "variable": "jl1449",
@@ -52389,7 +52389,7 @@
     "label_de": "8. Geschw. Geb.Monat"
   },
   "jl1450": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1450",
     "name_cs": "jl1450",
     "variable": "jl1450",
@@ -52466,7 +52466,7 @@
     "label_de": "8. Geschw. Geschlecht"
   },
   "jl1451": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1451",
     "name_cs": "jl1451",
     "variable": "jl1451",
@@ -52563,7 +52563,7 @@
     "label_de": "8. Geschw. Art"
   },
   "jl1452": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1452",
     "name_cs": "jl1452",
     "variable": "jl1452",
@@ -52635,7 +52635,7 @@
     "label_de": "8. Geschw. bis 15J zusammen"
   },
   "jl1453": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1453",
     "name_cs": "jl1453",
     "variable": "jl1453",
@@ -52675,7 +52675,7 @@
     "label_de": "8. Geschw. Jahre zusammen"
   },
   "jl1454": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1454",
     "name_cs": "jl1454",
     "variable": "jl1454",
@@ -52715,7 +52715,7 @@
     "label_de": "Klasse"
   },
   "jl1455": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1455",
     "name_cs": "jl1455",
     "variable": "jl1455",
@@ -52755,7 +52755,7 @@
     "label_de": "Schule Ausland Alter Beginn"
   },
   "jl1456": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1456",
     "name_cs": "jl1456",
     "variable": "jl1456",
@@ -52795,7 +52795,7 @@
     "label_de": "Schule Ausland Alter Ende"
   },
   "jl1457": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1457",
     "name_cs": "jl1457",
     "variable": "jl1457",
@@ -52872,7 +52872,7 @@
     "label_de": "Duales Studium/Berufsakademie"
   },
   "jl1458": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1458",
     "name_cs": "jl1458",
     "variable": "jl1458",
@@ -52892,7 +52892,7 @@
     "label_de": "Duales Studium/Berufsakademie abgeschlossen"
   },
   "jl1459": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1459",
     "name_cs": "jl1459",
     "variable": "jl1459",
@@ -52984,7 +52984,7 @@
     "label_de": "Vor Zuzug Deutsch sprechen"
   },
   "jl1460": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1460",
     "name_cs": "jl1460",
     "variable": "jl1460",
@@ -53076,7 +53076,7 @@
     "label_de": "Vor Zuzug Deutsch schreiben"
   },
   "jl1461": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1461",
     "name_cs": "jl1461",
     "variable": "jl1461",
@@ -53168,7 +53168,7 @@
     "label_de": "Vor Zuzug Deutsch lesen"
   },
   "jl1462": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1462",
     "name_cs": "jl1462",
     "variable": "jl1462",
@@ -53260,7 +53260,7 @@
     "label_de": "Aufenthaltsstatus"
   },
   "jl1463": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1463",
     "name_cs": "jl1463",
     "variable": "jl1463",
@@ -53337,7 +53337,7 @@
     "label_de": "Einwilligung Abgleich Sozialversicherungsdaten"
   },
   "jl1464": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1464",
     "name_cs": "jl1464",
     "variable": "jl1464",
@@ -53434,7 +53434,7 @@
     "label_de": "Freunde nicht aus Deutschland"
   },
   "jl1465": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1465",
     "name_cs": "jl1465",
     "variable": "jl1465",
@@ -53511,7 +53511,7 @@
     "label_de": "Schulabschluss Land"
   },
   "jl1466": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1466",
     "name_cs": "jl1466",
     "variable": "jl1466",
@@ -53593,7 +53593,7 @@
     "label_de": "Angebot Deutsch als Fremdsprache"
   },
   "jl1467": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1467",
     "name_cs": "jl1467",
     "variable": "jl1467",
@@ -53675,7 +53675,7 @@
     "label_de": "Teilnahme Deutsch als Fremdsprache"
   },
   "jl1468": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1468",
     "name_cs": "jl1468",
     "variable": "jl1468",
@@ -53791,7 +53791,7 @@
     "label_de": "Zufriedenheit mit Leistungen in Muttersprache"
   },
   "jl1469": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1469",
     "name_cs": "jl1469",
     "variable": "jl1469",
@@ -53868,7 +53868,7 @@
     "label_de": "Vorstellung Ausbildung Ausland"
   },
   "jl1470": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1470",
     "name_cs": "jl1470",
     "variable": "jl1470",
@@ -53945,7 +53945,7 @@
     "label_de": "Geburtsland beider Eltern D"
   },
   "jl1471": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1471",
     "name_cs": "jl1471",
     "variable": "jl1471",
@@ -53985,7 +53985,7 @@
     "label_de": "Jahr Zuzug Vater"
   },
   "jl1472": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1472",
     "name_cs": "jl1472",
     "variable": "jl1472",
@@ -54005,7 +54005,7 @@
     "label_de": "Jahr Zuzug Mutter"
   },
   "jl1473": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1473",
     "name_cs": "jl1473",
     "variable": "jl1473",
@@ -54092,7 +54092,7 @@
     "label_de": "Vater dtsch. Staatsb."
   },
   "jl1474": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1474",
     "name_cs": "jl1474",
     "variable": "jl1474",
@@ -54179,7 +54179,7 @@
     "label_de": "Mutter dtsch. Staatsb."
   },
   "jl1475": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1475",
     "name_cs": "jl1475",
     "variable": "jl1475",
@@ -54219,7 +54219,7 @@
     "label_de": "Vater Code Staatsbuergerschaft"
   },
   "jl1476": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1476",
     "name_cs": "jl1476",
     "variable": "jl1476",
@@ -54259,7 +54259,7 @@
     "label_de": "Mutter Code Staatsbuergerschaft"
   },
   "jl1477": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1477",
     "name_cs": "jl1477",
     "variable": "jl1477",
@@ -54341,7 +54341,7 @@
     "label_de": "Vater Schulabschluss in D"
   },
   "jl1478": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1478",
     "name_cs": "jl1478",
     "variable": "jl1478",
@@ -54423,7 +54423,7 @@
     "label_de": "Mutter Schulabschluss in D"
   },
   "jl1479": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1479",
     "name_cs": "jl1479",
     "variable": "jl1479",
@@ -54515,7 +54515,7 @@
     "label_de": "Schulabschluss Vater in D"
   },
   "jl1480": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1480",
     "name_cs": "jl1480",
     "variable": "jl1480",
@@ -54607,7 +54607,7 @@
     "label_de": "Schulabschluss Mutter in D"
   },
   "jl1481": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1481",
     "name_cs": "jl1481",
     "variable": "jl1481",
@@ -54689,7 +54689,7 @@
     "label_de": "Schulabschluss Vater im Ausl."
   },
   "jl1482": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1482",
     "name_cs": "jl1482",
     "variable": "jl1482",
@@ -54771,7 +54771,7 @@
     "label_de": "Schulabschluss Mutter im Ausl."
   },
   "jl1483": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1483",
     "name_cs": "jl1483",
     "variable": "jl1483",
@@ -54858,7 +54858,7 @@
     "label_de": "Religionsgemeinschaft Vater"
   },
   "jl1484": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1484",
     "name_cs": "jl1484",
     "variable": "jl1484",
@@ -54945,7 +54945,7 @@
     "label_de": "Religionsgemeinschaft Mutter"
   },
   "jl1485": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1485",
     "name_cs": "jl1485",
     "variable": "jl1485",
@@ -55032,7 +55032,7 @@
     "label_de": "Christl. Religionsgemeinschaft Vater"
   },
   "jl1486": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1486",
     "name_cs": "jl1486",
     "variable": "jl1486",
@@ -55113,7 +55113,7 @@
     "label_de": "Christl. Religionsgemeinschaft Mutter"
   },
   "jl1487": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1487",
     "name_cs": "jl1487",
     "variable": "jl1487",
@@ -55200,7 +55200,7 @@
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl1488": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1488",
     "name_cs": "jl1488",
     "variable": "jl1488",
@@ -55287,7 +55287,7 @@
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl1489": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1489",
     "name_cs": "jl1489",
     "variable": "jl1489",
@@ -55359,7 +55359,7 @@
     "label_de": "Uebersetzungshilfe deutschsprechende Pers. im HH."
   },
   "jl1490": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1490",
     "name_cs": "jl1490",
     "variable": "jl1490",
@@ -55425,7 +55425,7 @@
     "label_de": "Uebersetzungshilfe deutschsprechende Pers. ausserhalb HH."
   },
   "jl1491": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jl1491",
     "name_cs": "jl1491",
     "variable": "jl1491",
@@ -55497,7 +55497,7 @@
     "label_de": "Keine Uebersetzungshilfe"
   },
   "jc0001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jc0001",
     "name_cs": "jc0001",
     "variable": "jc0001",
@@ -55574,7 +55574,7 @@
     "label_de": "Schulbesuch"
   },
   "jc0002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jc0002",
     "name_cs": "jc0002",
     "variable": "jc0002",
@@ -55656,7 +55656,7 @@
     "label_de": "Schulbesuch"
   },
   "jc0003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jc0003",
     "name_cs": "jc0003",
     "variable": "jc0003",
@@ -55738,7 +55738,7 @@
     "label_de": "In Deutschland geboren"
   },
   "ja0001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0001",
     "name_cs": "ja0001",
     "variable": "ja0001",
@@ -55764,7 +55764,7 @@
     "label_de": "Wichtigste Sportart"
   },
   "ja0002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0002",
     "name_cs": "ja0002",
     "variable": "ja0002",
@@ -55790,7 +55790,7 @@
     "label_de": "Zweite Sportart"
   },
   "ja0003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0003",
     "name_cs": "ja0003",
     "variable": "ja0003",
@@ -55816,7 +55816,7 @@
     "label_de": "Wichtigste Sportart"
   },
   "ja0004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0004",
     "name_cs": "ja0004",
     "variable": "ja0004",
@@ -55842,7 +55842,7 @@
     "label_de": "Zweite Sportart"
   },
   "ja0007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0007",
     "name_cs": "ja0007",
     "variable": "ja0007",
@@ -55868,7 +55868,7 @@
     "label_de": "Gesamtschul-Niveau Deutsch (TEXT)"
   },
   "ja0008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0008",
     "name_cs": "ja0008",
     "variable": "ja0008",
@@ -55894,7 +55894,7 @@
     "label_de": "Gesamtschul-Niveau Mathe (TEXT)"
   },
   "ja0009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "ja0009",
     "name_cs": "ja0009",
     "variable": "ja0009",
@@ -55920,7 +55920,7 @@
     "label_de": "Gesamtschul.Niveau 1. Fremdsprache (TEXT)"
   },
   "j_isco88_a": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_isco88_a",
     "name_cs": "j_isco88_a",
     "variable": "j_isco88_a",
@@ -58307,7 +58307,7 @@
     "label_de": "ISCO88, Angestrebter Beruf"
   },
   "j_isco88_lm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_isco88_lm",
     "name_cs": "j_isco88_lm",
     "variable": "j_isco88_lm",
@@ -60694,7 +60694,7 @@
     "label_de": "ISCO88, letzte Berufstaetigkeit der Mutter"
   },
   "j_isco88_lv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_isco88_lv",
     "name_cs": "j_isco88_lv",
     "variable": "j_isco88_lv",
@@ -63081,7 +63081,7 @@
     "label_de": "ISCO88, letzte Berufstaetigkeit des Vaters"
   },
   "j_kldb92_a": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_kldb92_a",
     "name_cs": "j_kldb92_a",
     "variable": "j_kldb92_a",
@@ -75463,7 +75463,7 @@
     "label_de": "Klassifikation Beruf nach StaBu 92, Angestrebter Beruf"
   },
   "j_kldb92_lm": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_kldb92_lm",
     "name_cs": "j_kldb92_lm",
     "variable": "j_kldb92_lm",
@@ -87845,7 +87845,7 @@
     "label_de": "Klassifikation Beruf nach StaBu 92, letzte Berufstaetigkeit der Mutter"
   },
   "j_kldb92_lv": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "j_kldb92_lv",
     "name_cs": "j_kldb92_lv",
     "variable": "j_kldb92_lv",
@@ -100227,7 +100227,7 @@
     "label_de": "Klassifikation Beruf nach StaBu 92, letzte Berufstaetigkeit des Vaters"
   },
   "jpop": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "jpop",
     "name_cs": "jpop",
     "variable": "jpop",

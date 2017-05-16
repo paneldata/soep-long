@@ -1,6 +1,6 @@
 {
   "cid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -38,7 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -76,7 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -114,7 +114,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -152,7 +152,7 @@
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "kal1a01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a01",
     "name_cs": "kal1a01",
     "variable": "kal1a01",
@@ -229,7 +229,7 @@
     "label_de": "Vollzeit Erwerbstaetig im Jahr  Vorjahr"
   },
   "kal1a02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a02",
     "name_cs": "kal1a02",
     "variable": "kal1a02",
@@ -269,7 +269,7 @@
     "label_de": "Vollzeit Erwerbstaetig N-Monate Vorjahr"
   },
   "kal1b01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b01",
     "name_cs": "kal1b01",
     "variable": "kal1b01",
@@ -346,7 +346,7 @@
     "label_de": "Teilzeit Erwerbstaetig im Jahr  Vorjahr"
   },
   "kal1b02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b02",
     "name_cs": "kal1b02",
     "variable": "kal1b02",
@@ -386,7 +386,7 @@
     "label_de": "Teilzeit Erwerbstaetig N-Monate Vorjahr"
   },
   "kal1c01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c01",
     "name_cs": "kal1c01",
     "variable": "kal1c01",
@@ -463,7 +463,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre im Jahr  Vorjahr"
   },
   "kal1c02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c02",
     "name_cs": "kal1c02",
     "variable": "kal1c02",
@@ -503,7 +503,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre N-Monate Vorjahr"
   },
   "kal1d01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d01",
     "name_cs": "kal1d01",
     "variable": "kal1d01",
@@ -580,7 +580,7 @@
     "label_de": "Arbeitslos gemeldet    im Jahr  Vorjahr"
   },
   "kal1d02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d02",
     "name_cs": "kal1d02",
     "variable": "kal1d02",
@@ -620,7 +620,7 @@
     "label_de": "Arbeitslos gemeldet    N-Monate Vorjahr"
   },
   "kal1e01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e01",
     "name_cs": "kal1e01",
     "variable": "kal1e01",
@@ -697,7 +697,7 @@
     "label_de": "Rente, Pension       im Jahr  Vorjahr"
   },
   "kal1e02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e02",
     "name_cs": "kal1e02",
     "variable": "kal1e02",
@@ -737,7 +737,7 @@
     "label_de": "Rente, Pension       N-Monate Vorjahr"
   },
   "kal1f01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f01",
     "name_cs": "kal1f01",
     "variable": "kal1f01",
@@ -814,7 +814,7 @@
     "label_de": "In Mutterschaft       im Jahr  Vorjahr"
   },
   "kal1f02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f02",
     "name_cs": "kal1f02",
     "variable": "kal1f02",
@@ -854,7 +854,7 @@
     "label_de": "In Mutterschaft       N-Monate Vorjahr"
   },
   "kal1g01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g01",
     "name_cs": "kal1g01",
     "variable": "kal1g01",
@@ -931,7 +931,7 @@
     "label_de": "Schule, Hochschule     im Jahr  Vorjahr"
   },
   "kal1g02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g02",
     "name_cs": "kal1g02",
     "variable": "kal1g02",
@@ -971,7 +971,7 @@
     "label_de": "Schule, Hochschule     N-Monate Vorjahr"
   },
   "kal1h01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h01",
     "name_cs": "kal1h01",
     "variable": "kal1h01",
@@ -1063,7 +1063,7 @@
     "label_de": "Wehr-, Zivildienst     im Jahr  Vorjahr"
   },
   "kal1h02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h02",
     "name_cs": "kal1h02",
     "variable": "kal1h02",
@@ -1103,7 +1103,7 @@
     "label_de": "Wehr-, Zivildienst     N-Monate Vorjahr"
   },
   "kal1i01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i01",
     "name_cs": "kal1i01",
     "variable": "kal1i01",
@@ -1180,7 +1180,7 @@
     "label_de": "Im Haushalt taetig     im Jahr  Vorjahr"
   },
   "kal1i02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i02",
     "name_cs": "kal1i02",
     "variable": "kal1i02",
@@ -1220,7 +1220,7 @@
     "label_de": "Im Haushalt taetig     N-Monate Vorjahr"
   },
   "kal1j01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j01",
     "name_cs": "kal1j01",
     "variable": "kal1j01",
@@ -1297,7 +1297,7 @@
     "label_de": "Sonstiges               im Jahr  Vorjahr"
   },
   "kal1j02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j02",
     "name_cs": "kal1j02",
     "variable": "kal1j02",
@@ -1337,7 +1337,7 @@
     "label_de": "Sonstiges               N-Monate Vorjahr"
   },
   "kal1k01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k01",
     "name_cs": "kal1k01",
     "variable": "kal1k01",
@@ -1414,7 +1414,7 @@
     "label_de": "In Kurzarbeit          im Jahr  Vorjahr"
   },
   "kal1k02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k02",
     "name_cs": "kal1k02",
     "variable": "kal1k02",
@@ -1454,7 +1454,7 @@
     "label_de": "In Kurzarbeit          N-Monate Vorjahr"
   },
   "kal1m01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m01",
     "name_cs": "kal1m01",
     "variable": "kal1m01",
@@ -1531,7 +1531,7 @@
     "label_de": "Berufl Fortbildg,Umsch im Jahr  Vorjahr"
   },
   "kal1m02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m02",
     "name_cs": "kal1m02",
     "variable": "kal1m02",
@@ -1571,7 +1571,7 @@
     "label_de": "Berufl Fortbildg,Umsch N-Monate Vorjahr"
   },
   "kal1n01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n01",
     "name_cs": "kal1n01",
     "variable": "kal1n01",
@@ -1648,7 +1648,7 @@
     "label_de": "Mini-Job (bis 400 EUR) im Jahr  Vorjahr"
   },
   "kal1n02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n02",
     "name_cs": "kal1n02",
     "variable": "kal1n02",
@@ -1688,7 +1688,7 @@
     "label_de": "Mini-Job (bis 400 EUR) N-Monate Vorjahr"
   },
   "kal1a001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a001",
     "name_cs": "kal1a001",
     "variable": "kal1a001",
@@ -1765,7 +1765,7 @@
     "label_de": "Vollzeit Erwerbstaetig Jan Vorjahr"
   },
   "kal1a002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a002",
     "name_cs": "kal1a002",
     "variable": "kal1a002",
@@ -1842,7 +1842,7 @@
     "label_de": "Vollzeit Erwerbstaetig Feb Vorjahr"
   },
   "kal1a003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a003",
     "name_cs": "kal1a003",
     "variable": "kal1a003",
@@ -1919,7 +1919,7 @@
     "label_de": "Vollzeit Erwerbstaetig Mar Vorjahr"
   },
   "kal1a004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a004",
     "name_cs": "kal1a004",
     "variable": "kal1a004",
@@ -1996,7 +1996,7 @@
     "label_de": "Vollzeit Erwerbstaetig Apr Vorjahr"
   },
   "kal1a005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a005",
     "name_cs": "kal1a005",
     "variable": "kal1a005",
@@ -2073,7 +2073,7 @@
     "label_de": "Vollzeit Erwerbstaetig Mai Vorjahr"
   },
   "kal1a006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a006",
     "name_cs": "kal1a006",
     "variable": "kal1a006",
@@ -2150,7 +2150,7 @@
     "label_de": "Vollzeit Erwerbstaetig Jun Vorjahr"
   },
   "kal1a007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a007",
     "name_cs": "kal1a007",
     "variable": "kal1a007",
@@ -2227,7 +2227,7 @@
     "label_de": "Vollzeit Erwerbstaetig Jul Vorjahr"
   },
   "kal1a008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a008",
     "name_cs": "kal1a008",
     "variable": "kal1a008",
@@ -2304,7 +2304,7 @@
     "label_de": "Vollzeit Erwerbstaetig Aug Vorjahr"
   },
   "kal1a009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a009",
     "name_cs": "kal1a009",
     "variable": "kal1a009",
@@ -2381,7 +2381,7 @@
     "label_de": "Vollzeit Erwerbstaetig Sep Vorjahr"
   },
   "kal1a010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a010",
     "name_cs": "kal1a010",
     "variable": "kal1a010",
@@ -2458,7 +2458,7 @@
     "label_de": "Vollzeit Erwerbstaetig Okt Vorjahr"
   },
   "kal1a011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a011",
     "name_cs": "kal1a011",
     "variable": "kal1a011",
@@ -2535,7 +2535,7 @@
     "label_de": "Vollzeit Erwerbstaetig Nov Vorjahr"
   },
   "kal1a012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a012",
     "name_cs": "kal1a012",
     "variable": "kal1a012",
@@ -2612,7 +2612,7 @@
     "label_de": "Vollzeit Erwerbstaetig Dez Vorjahr"
   },
   "kal1b001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b001",
     "name_cs": "kal1b001",
     "variable": "kal1b001",
@@ -2689,7 +2689,7 @@
     "label_de": "Teilzeit Erwerbstaetig Jan Vorjahr"
   },
   "kal1b002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b002",
     "name_cs": "kal1b002",
     "variable": "kal1b002",
@@ -2766,7 +2766,7 @@
     "label_de": "Teilzeit Erwerbstaetig Feb Vorjahr"
   },
   "kal1b003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b003",
     "name_cs": "kal1b003",
     "variable": "kal1b003",
@@ -2843,7 +2843,7 @@
     "label_de": "Teilzeit Erwerbstaetig Mar Vorjahr"
   },
   "kal1b004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b004",
     "name_cs": "kal1b004",
     "variable": "kal1b004",
@@ -2920,7 +2920,7 @@
     "label_de": "Teilzeit Erwerbstaetig Apr Vorjahr"
   },
   "kal1b005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b005",
     "name_cs": "kal1b005",
     "variable": "kal1b005",
@@ -2997,7 +2997,7 @@
     "label_de": "Teilzeit Erwerbstaetig Mai Vorjahr"
   },
   "kal1b006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b006",
     "name_cs": "kal1b006",
     "variable": "kal1b006",
@@ -3074,7 +3074,7 @@
     "label_de": "Teilzeit Erwerbstaetig Jun Vorjahr"
   },
   "kal1b007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b007",
     "name_cs": "kal1b007",
     "variable": "kal1b007",
@@ -3151,7 +3151,7 @@
     "label_de": "Teilzeit Erwerbstaetig Jul Vorjahr"
   },
   "kal1b008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b008",
     "name_cs": "kal1b008",
     "variable": "kal1b008",
@@ -3228,7 +3228,7 @@
     "label_de": "Teilzeit Erwerbstaetig Aug Vorjahr"
   },
   "kal1b009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b009",
     "name_cs": "kal1b009",
     "variable": "kal1b009",
@@ -3305,7 +3305,7 @@
     "label_de": "Teilzeit Erwerbstaetig Sep Vorjahr"
   },
   "kal1b010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b010",
     "name_cs": "kal1b010",
     "variable": "kal1b010",
@@ -3382,7 +3382,7 @@
     "label_de": "Teilzeit Erwerbstaetig Okt Vorjahr"
   },
   "kal1b011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b011",
     "name_cs": "kal1b011",
     "variable": "kal1b011",
@@ -3459,7 +3459,7 @@
     "label_de": "Teilzeit Erwerbstaetig Nov Vorjahr"
   },
   "kal1b012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b012",
     "name_cs": "kal1b012",
     "variable": "kal1b012",
@@ -3536,7 +3536,7 @@
     "label_de": "Teilzeit Erwerbstaetig Dez Vorjahr"
   },
   "kal1c001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c001",
     "name_cs": "kal1c001",
     "variable": "kal1c001",
@@ -3576,7 +3576,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Jan Vorjahr"
   },
   "kal1c002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c002",
     "name_cs": "kal1c002",
     "variable": "kal1c002",
@@ -3616,7 +3616,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Feb Vorjahr"
   },
   "kal1c003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c003",
     "name_cs": "kal1c003",
     "variable": "kal1c003",
@@ -3656,7 +3656,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Mar Vorjahr"
   },
   "kal1c004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c004",
     "name_cs": "kal1c004",
     "variable": "kal1c004",
@@ -3696,7 +3696,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Apr Vorjahr"
   },
   "kal1c005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c005",
     "name_cs": "kal1c005",
     "variable": "kal1c005",
@@ -3736,7 +3736,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Mai Vorjahr"
   },
   "kal1c006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c006",
     "name_cs": "kal1c006",
     "variable": "kal1c006",
@@ -3776,7 +3776,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Jun Vorjahr"
   },
   "kal1c007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c007",
     "name_cs": "kal1c007",
     "variable": "kal1c007",
@@ -3816,7 +3816,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Jul Vorjahr"
   },
   "kal1c008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c008",
     "name_cs": "kal1c008",
     "variable": "kal1c008",
@@ -3856,7 +3856,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Aug Vorjahr"
   },
   "kal1c009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c009",
     "name_cs": "kal1c009",
     "variable": "kal1c009",
@@ -3896,7 +3896,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Sep Vorjahr"
   },
   "kal1c010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c010",
     "name_cs": "kal1c010",
     "variable": "kal1c010",
@@ -3936,7 +3936,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Okt Vorjahr"
   },
   "kal1c011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c011",
     "name_cs": "kal1c011",
     "variable": "kal1c011",
@@ -3976,7 +3976,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Nov Vorjahr"
   },
   "kal1c012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c012",
     "name_cs": "kal1c012",
     "variable": "kal1c012",
@@ -4016,7 +4016,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Dez Vorjahr"
   },
   "kal1d001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d001",
     "name_cs": "kal1d001",
     "variable": "kal1d001",
@@ -4056,7 +4056,7 @@
     "label_de": "Arbeitslos gemeldet    Jan Vorjahr"
   },
   "kal1d002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d002",
     "name_cs": "kal1d002",
     "variable": "kal1d002",
@@ -4096,7 +4096,7 @@
     "label_de": "Arbeitslos gemeldet    Feb Vorjahr"
   },
   "kal1d003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d003",
     "name_cs": "kal1d003",
     "variable": "kal1d003",
@@ -4136,7 +4136,7 @@
     "label_de": "Arbeitslos gemeldet    Mar Vorjahr"
   },
   "kal1d004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d004",
     "name_cs": "kal1d004",
     "variable": "kal1d004",
@@ -4176,7 +4176,7 @@
     "label_de": "Arbeitslos gemeldet    Apr Vorjahr"
   },
   "kal1d005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d005",
     "name_cs": "kal1d005",
     "variable": "kal1d005",
@@ -4216,7 +4216,7 @@
     "label_de": "Arbeitslos gemeldet    Mai Vorjahr"
   },
   "kal1d006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d006",
     "name_cs": "kal1d006",
     "variable": "kal1d006",
@@ -4256,7 +4256,7 @@
     "label_de": "Arbeitslos gemeldet    Jun Vorjahr"
   },
   "kal1d007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d007",
     "name_cs": "kal1d007",
     "variable": "kal1d007",
@@ -4296,7 +4296,7 @@
     "label_de": "Arbeitslos gemeldet    Jul Vorjahr"
   },
   "kal1d008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d008",
     "name_cs": "kal1d008",
     "variable": "kal1d008",
@@ -4336,7 +4336,7 @@
     "label_de": "Arbeitslos gemeldet    Aug Vorjahr"
   },
   "kal1d009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d009",
     "name_cs": "kal1d009",
     "variable": "kal1d009",
@@ -4376,7 +4376,7 @@
     "label_de": "Arbeitslos gemeldet    Sep Vorjahr"
   },
   "kal1d010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d010",
     "name_cs": "kal1d010",
     "variable": "kal1d010",
@@ -4416,7 +4416,7 @@
     "label_de": "Arbeitslos gemeldet    Okt Vorjahr"
   },
   "kal1d011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d011",
     "name_cs": "kal1d011",
     "variable": "kal1d011",
@@ -4456,7 +4456,7 @@
     "label_de": "Arbeitslos gemeldet    Nov Vorjahr"
   },
   "kal1d012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d012",
     "name_cs": "kal1d012",
     "variable": "kal1d012",
@@ -4496,7 +4496,7 @@
     "label_de": "Arbeitslos gemeldet    Dez Vorjahr"
   },
   "kal1e001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e001",
     "name_cs": "kal1e001",
     "variable": "kal1e001",
@@ -4536,7 +4536,7 @@
     "label_de": "Rente, Pension      Jan Vorjahr"
   },
   "kal1e002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e002",
     "name_cs": "kal1e002",
     "variable": "kal1e002",
@@ -4576,7 +4576,7 @@
     "label_de": "Rente, Pension      Feb Vorjahr"
   },
   "kal1e003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e003",
     "name_cs": "kal1e003",
     "variable": "kal1e003",
@@ -4616,7 +4616,7 @@
     "label_de": "Rente, Pension      Mar Vorjahr"
   },
   "kal1e004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e004",
     "name_cs": "kal1e004",
     "variable": "kal1e004",
@@ -4656,7 +4656,7 @@
     "label_de": "Rente, Pension      Apr Vorjahr"
   },
   "kal1e005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e005",
     "name_cs": "kal1e005",
     "variable": "kal1e005",
@@ -4696,7 +4696,7 @@
     "label_de": "Rente, Pension      Mai Vorjahr"
   },
   "kal1e006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e006",
     "name_cs": "kal1e006",
     "variable": "kal1e006",
@@ -4736,7 +4736,7 @@
     "label_de": "Rente, Pension      Jun Vorjahr"
   },
   "kal1e007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e007",
     "name_cs": "kal1e007",
     "variable": "kal1e007",
@@ -4776,7 +4776,7 @@
     "label_de": "Rente, Pension      Jul Vorjahr"
   },
   "kal1e008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e008",
     "name_cs": "kal1e008",
     "variable": "kal1e008",
@@ -4816,7 +4816,7 @@
     "label_de": "Rente, Pension      Aug Vorjahr"
   },
   "kal1e009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e009",
     "name_cs": "kal1e009",
     "variable": "kal1e009",
@@ -4856,7 +4856,7 @@
     "label_de": "Rente, Pension      Sep Vorjahr"
   },
   "kal1e010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e010",
     "name_cs": "kal1e010",
     "variable": "kal1e010",
@@ -4896,7 +4896,7 @@
     "label_de": "Rente, Pension      Okt Vorjahr"
   },
   "kal1e011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e011",
     "name_cs": "kal1e011",
     "variable": "kal1e011",
@@ -4936,7 +4936,7 @@
     "label_de": "Rente, Pension      Nov Vorjahr"
   },
   "kal1e012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e012",
     "name_cs": "kal1e012",
     "variable": "kal1e012",
@@ -4976,7 +4976,7 @@
     "label_de": "Rente, Pension      Dez Vorjahr"
   },
   "kal1f001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f001",
     "name_cs": "kal1f001",
     "variable": "kal1f001",
@@ -5016,7 +5016,7 @@
     "label_de": "In Mutterschaft       Jan Vorjahr"
   },
   "kal1f002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f002",
     "name_cs": "kal1f002",
     "variable": "kal1f002",
@@ -5056,7 +5056,7 @@
     "label_de": "In Mutterschaft       Feb Vorjahr"
   },
   "kal1f003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f003",
     "name_cs": "kal1f003",
     "variable": "kal1f003",
@@ -5096,7 +5096,7 @@
     "label_de": "In Mutterschaft       Mar Vorjahr"
   },
   "kal1f004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f004",
     "name_cs": "kal1f004",
     "variable": "kal1f004",
@@ -5136,7 +5136,7 @@
     "label_de": "In Mutterschaft       Apr Vorjahr"
   },
   "kal1f005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f005",
     "name_cs": "kal1f005",
     "variable": "kal1f005",
@@ -5176,7 +5176,7 @@
     "label_de": "In Mutterschaft       Mai Vorjahr"
   },
   "kal1f006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f006",
     "name_cs": "kal1f006",
     "variable": "kal1f006",
@@ -5216,7 +5216,7 @@
     "label_de": "In Mutterschaft       Jun Vorjahr"
   },
   "kal1f007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f007",
     "name_cs": "kal1f007",
     "variable": "kal1f007",
@@ -5256,7 +5256,7 @@
     "label_de": "In Mutterschaft       Jul Vorjahr"
   },
   "kal1f008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f008",
     "name_cs": "kal1f008",
     "variable": "kal1f008",
@@ -5296,7 +5296,7 @@
     "label_de": "In Mutterschaft       Aug Vorjahr"
   },
   "kal1f009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f009",
     "name_cs": "kal1f009",
     "variable": "kal1f009",
@@ -5336,7 +5336,7 @@
     "label_de": "In Mutterschaft       Sep Vorjahr"
   },
   "kal1f010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f010",
     "name_cs": "kal1f010",
     "variable": "kal1f010",
@@ -5376,7 +5376,7 @@
     "label_de": "In Mutterschaft       Okt Vorjahr"
   },
   "kal1f011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f011",
     "name_cs": "kal1f011",
     "variable": "kal1f011",
@@ -5416,7 +5416,7 @@
     "label_de": "In Mutterschaft       Nov Vorjahr"
   },
   "kal1f012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f012",
     "name_cs": "kal1f012",
     "variable": "kal1f012",
@@ -5456,7 +5456,7 @@
     "label_de": "In Mutterschaft       Dez Vorjahr"
   },
   "kal1g001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g001",
     "name_cs": "kal1g001",
     "variable": "kal1g001",
@@ -5496,7 +5496,7 @@
     "label_de": "Schule, Hochschule     Jan Vorjahr"
   },
   "kal1g002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g002",
     "name_cs": "kal1g002",
     "variable": "kal1g002",
@@ -5536,7 +5536,7 @@
     "label_de": "Schule, Hochschule     Feb Vorjahr"
   },
   "kal1g003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g003",
     "name_cs": "kal1g003",
     "variable": "kal1g003",
@@ -5576,7 +5576,7 @@
     "label_de": "Schule, Hochschule     Mar Vorjahr"
   },
   "kal1g004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g004",
     "name_cs": "kal1g004",
     "variable": "kal1g004",
@@ -5616,7 +5616,7 @@
     "label_de": "Schule, Hochschule     Apr Vorjahr"
   },
   "kal1g005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g005",
     "name_cs": "kal1g005",
     "variable": "kal1g005",
@@ -5656,7 +5656,7 @@
     "label_de": "Schule, Hochschule     Mai Vorjahr"
   },
   "kal1g006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g006",
     "name_cs": "kal1g006",
     "variable": "kal1g006",
@@ -5696,7 +5696,7 @@
     "label_de": "Schule, Hochschule     Jun Vorjahr"
   },
   "kal1g007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g007",
     "name_cs": "kal1g007",
     "variable": "kal1g007",
@@ -5736,7 +5736,7 @@
     "label_de": "Schule, Hochschule     Jul Vorjahr"
   },
   "kal1g008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g008",
     "name_cs": "kal1g008",
     "variable": "kal1g008",
@@ -5776,7 +5776,7 @@
     "label_de": "Schule, Hochschule     Aug Vorjahr"
   },
   "kal1g009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g009",
     "name_cs": "kal1g009",
     "variable": "kal1g009",
@@ -5816,7 +5816,7 @@
     "label_de": "Schule, Hochschule     Sep Vorjahr"
   },
   "kal1g010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g010",
     "name_cs": "kal1g010",
     "variable": "kal1g010",
@@ -5856,7 +5856,7 @@
     "label_de": "Schule, Hochschule     Okt Vorjahr"
   },
   "kal1g011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g011",
     "name_cs": "kal1g011",
     "variable": "kal1g011",
@@ -5896,7 +5896,7 @@
     "label_de": "Schule, Hochschule     Nov Vorjahr"
   },
   "kal1g012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g012",
     "name_cs": "kal1g012",
     "variable": "kal1g012",
@@ -5936,7 +5936,7 @@
     "label_de": "Schule, Hochschule     Dez Vorjahr"
   },
   "kal1h001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h001",
     "name_cs": "kal1h001",
     "variable": "kal1h001",
@@ -6023,7 +6023,7 @@
     "label_de": "Wehr-, Zivildienst     Jan Vorjahr"
   },
   "kal1h002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h002",
     "name_cs": "kal1h002",
     "variable": "kal1h002",
@@ -6110,7 +6110,7 @@
     "label_de": "Wehr-, Zivildienst     Feb Vorjahr"
   },
   "kal1h003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h003",
     "name_cs": "kal1h003",
     "variable": "kal1h003",
@@ -6197,7 +6197,7 @@
     "label_de": "Wehr-, Zivildienst     Mar Vorjahr"
   },
   "kal1h004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h004",
     "name_cs": "kal1h004",
     "variable": "kal1h004",
@@ -6284,7 +6284,7 @@
     "label_de": "Wehr-, Zivildienst     Apr Vorjahr"
   },
   "kal1h005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h005",
     "name_cs": "kal1h005",
     "variable": "kal1h005",
@@ -6371,7 +6371,7 @@
     "label_de": "Wehr-, Zivildienst     Mai Vorjahr"
   },
   "kal1h006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h006",
     "name_cs": "kal1h006",
     "variable": "kal1h006",
@@ -6458,7 +6458,7 @@
     "label_de": "Wehr-, Zivildienst     Jun Vorjahr"
   },
   "kal1h007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h007",
     "name_cs": "kal1h007",
     "variable": "kal1h007",
@@ -6545,7 +6545,7 @@
     "label_de": "Wehr-, Zivildienst     Jul Vorjahr"
   },
   "kal1h008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h008",
     "name_cs": "kal1h008",
     "variable": "kal1h008",
@@ -6632,7 +6632,7 @@
     "label_de": "Wehr-, Zivildienst     Aug Vorjahr"
   },
   "kal1h009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h009",
     "name_cs": "kal1h009",
     "variable": "kal1h009",
@@ -6719,7 +6719,7 @@
     "label_de": "Wehr-, Zivildienst     Sep Vorjahr"
   },
   "kal1h010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h010",
     "name_cs": "kal1h010",
     "variable": "kal1h010",
@@ -6806,7 +6806,7 @@
     "label_de": "Wehr-, Zivildienst     Okt Vorjahr"
   },
   "kal1h011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h011",
     "name_cs": "kal1h011",
     "variable": "kal1h011",
@@ -6893,7 +6893,7 @@
     "label_de": "Wehr-, Zivildienst     Nov Vorjahr"
   },
   "kal1h012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h012",
     "name_cs": "kal1h012",
     "variable": "kal1h012",
@@ -6980,7 +6980,7 @@
     "label_de": "Wehr-, Zivildienst     Dez Vorjahr"
   },
   "kal1i001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i001",
     "name_cs": "kal1i001",
     "variable": "kal1i001",
@@ -7020,7 +7020,7 @@
     "label_de": "Im Haushalt taetig     Jan Vorjahr"
   },
   "kal1i002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i002",
     "name_cs": "kal1i002",
     "variable": "kal1i002",
@@ -7060,7 +7060,7 @@
     "label_de": "Im Haushalt taetig     Feb Vorjahr"
   },
   "kal1i003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i003",
     "name_cs": "kal1i003",
     "variable": "kal1i003",
@@ -7100,7 +7100,7 @@
     "label_de": "Im Haushalt taetig     Mar Vorjahr"
   },
   "kal1i004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i004",
     "name_cs": "kal1i004",
     "variable": "kal1i004",
@@ -7140,7 +7140,7 @@
     "label_de": "Im Haushalt taetig     Apr Vorjahr"
   },
   "kal1i005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i005",
     "name_cs": "kal1i005",
     "variable": "kal1i005",
@@ -7180,7 +7180,7 @@
     "label_de": "Im Haushalt taetig     Mai Vorjahr"
   },
   "kal1i006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i006",
     "name_cs": "kal1i006",
     "variable": "kal1i006",
@@ -7220,7 +7220,7 @@
     "label_de": "Im Haushalt taetig     Jun Vorjahr"
   },
   "kal1i007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i007",
     "name_cs": "kal1i007",
     "variable": "kal1i007",
@@ -7260,7 +7260,7 @@
     "label_de": "Im Haushalt taetig     Jul Vorjahr"
   },
   "kal1i008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i008",
     "name_cs": "kal1i008",
     "variable": "kal1i008",
@@ -7300,7 +7300,7 @@
     "label_de": "Im Haushalt taetig     Aug Vorjahr"
   },
   "kal1i009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i009",
     "name_cs": "kal1i009",
     "variable": "kal1i009",
@@ -7340,7 +7340,7 @@
     "label_de": "Im Haushalt taetig     Sep Vorjahr"
   },
   "kal1i010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i010",
     "name_cs": "kal1i010",
     "variable": "kal1i010",
@@ -7380,7 +7380,7 @@
     "label_de": "Im Haushalt taetig     Okt Vorjahr"
   },
   "kal1i011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i011",
     "name_cs": "kal1i011",
     "variable": "kal1i011",
@@ -7420,7 +7420,7 @@
     "label_de": "Im Haushalt taetig     Nov Vorjahr"
   },
   "kal1i012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i012",
     "name_cs": "kal1i012",
     "variable": "kal1i012",
@@ -7460,7 +7460,7 @@
     "label_de": "Im Haushalt taetig     Dez Vorjahr"
   },
   "kal1j001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j001",
     "name_cs": "kal1j001",
     "variable": "kal1j001",
@@ -7577,7 +7577,7 @@
     "label_de": "Sonstiges           Jan Vorjahr"
   },
   "kal1j002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j002",
     "name_cs": "kal1j002",
     "variable": "kal1j002",
@@ -7694,7 +7694,7 @@
     "label_de": "Sonstiges           Feb Vorjahr"
   },
   "kal1j003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j003",
     "name_cs": "kal1j003",
     "variable": "kal1j003",
@@ -7811,7 +7811,7 @@
     "label_de": "Sonstiges           Mar Vorjahr"
   },
   "kal1j004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j004",
     "name_cs": "kal1j004",
     "variable": "kal1j004",
@@ -7928,7 +7928,7 @@
     "label_de": "Sonstiges           Apr Vorjahr"
   },
   "kal1j005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j005",
     "name_cs": "kal1j005",
     "variable": "kal1j005",
@@ -8045,7 +8045,7 @@
     "label_de": "Sonstiges           Mai Vorjahr"
   },
   "kal1j006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j006",
     "name_cs": "kal1j006",
     "variable": "kal1j006",
@@ -8162,7 +8162,7 @@
     "label_de": "Sonstiges           Jun Vorjahr"
   },
   "kal1j007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j007",
     "name_cs": "kal1j007",
     "variable": "kal1j007",
@@ -8279,7 +8279,7 @@
     "label_de": "Sonstiges           Jul Vorjahr"
   },
   "kal1j008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j008",
     "name_cs": "kal1j008",
     "variable": "kal1j008",
@@ -8396,7 +8396,7 @@
     "label_de": "Sonstiges           Aug Vorjahr"
   },
   "kal1j009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j009",
     "name_cs": "kal1j009",
     "variable": "kal1j009",
@@ -8513,7 +8513,7 @@
     "label_de": "Sonstiges           Sep Vorjahr"
   },
   "kal1j010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j010",
     "name_cs": "kal1j010",
     "variable": "kal1j010",
@@ -8630,7 +8630,7 @@
     "label_de": "Sonstiges           Okt Vorjahr"
   },
   "kal1j011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j011",
     "name_cs": "kal1j011",
     "variable": "kal1j011",
@@ -8747,7 +8747,7 @@
     "label_de": "Sonstiges           Nov Vorjahr"
   },
   "kal1j012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j012",
     "name_cs": "kal1j012",
     "variable": "kal1j012",
@@ -8864,7 +8864,7 @@
     "label_de": "Sonstiges           Dez Vorjahr"
   },
   "kal1k001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k001",
     "name_cs": "kal1k001",
     "variable": "kal1k001",
@@ -8904,7 +8904,7 @@
     "label_de": "In Kurzarbeit      Jan Vorjahr"
   },
   "kal1k002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k002",
     "name_cs": "kal1k002",
     "variable": "kal1k002",
@@ -8944,7 +8944,7 @@
     "label_de": "In Kurzarbeit      Feb Vorjahr"
   },
   "kal1k003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k003",
     "name_cs": "kal1k003",
     "variable": "kal1k003",
@@ -8984,7 +8984,7 @@
     "label_de": "In Kurzarbeit      Mar Vorjahr"
   },
   "kal1k004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k004",
     "name_cs": "kal1k004",
     "variable": "kal1k004",
@@ -9024,7 +9024,7 @@
     "label_de": "In Kurzarbeit      Apr Vorjahr"
   },
   "kal1k005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k005",
     "name_cs": "kal1k005",
     "variable": "kal1k005",
@@ -9064,7 +9064,7 @@
     "label_de": "In Kurzarbeit      Mai Vorjahr"
   },
   "kal1k006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k006",
     "name_cs": "kal1k006",
     "variable": "kal1k006",
@@ -9104,7 +9104,7 @@
     "label_de": "In Kurzarbeit      Jun Vorjahr"
   },
   "kal1k007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k007",
     "name_cs": "kal1k007",
     "variable": "kal1k007",
@@ -9144,7 +9144,7 @@
     "label_de": "In Kurzarbeit      Jul Vorjahr"
   },
   "kal1k008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k008",
     "name_cs": "kal1k008",
     "variable": "kal1k008",
@@ -9184,7 +9184,7 @@
     "label_de": "In Kurzarbeit      Aug Vorjahr"
   },
   "kal1k009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k009",
     "name_cs": "kal1k009",
     "variable": "kal1k009",
@@ -9224,7 +9224,7 @@
     "label_de": "In Kurzarbeit      Sep Vorjahr"
   },
   "kal1k010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k010",
     "name_cs": "kal1k010",
     "variable": "kal1k010",
@@ -9264,7 +9264,7 @@
     "label_de": "In Kurzarbeit      Okt Vorjahr"
   },
   "kal1k011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k011",
     "name_cs": "kal1k011",
     "variable": "kal1k011",
@@ -9304,7 +9304,7 @@
     "label_de": "In Kurzarbeit      Nov Vorjahr"
   },
   "kal1k012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k012",
     "name_cs": "kal1k012",
     "variable": "kal1k012",
@@ -9344,7 +9344,7 @@
     "label_de": "In Kurzarbeit      Dez Vorjahr"
   },
   "kal1m001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m001",
     "name_cs": "kal1m001",
     "variable": "kal1m001",
@@ -9384,7 +9384,7 @@
     "label_de": "Berufl Fortbildg,Umsch Jan Vorjahr"
   },
   "kal1m002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m002",
     "name_cs": "kal1m002",
     "variable": "kal1m002",
@@ -9424,7 +9424,7 @@
     "label_de": "Berufl Fortbildg,Umsch Feb Vorjahr"
   },
   "kal1m003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m003",
     "name_cs": "kal1m003",
     "variable": "kal1m003",
@@ -9464,7 +9464,7 @@
     "label_de": "Berufl Fortbildg,Umsch Mar Vorjahr"
   },
   "kal1m004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m004",
     "name_cs": "kal1m004",
     "variable": "kal1m004",
@@ -9504,7 +9504,7 @@
     "label_de": "Berufl Fortbildg,Umsch Apr Vorjahr"
   },
   "kal1m005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m005",
     "name_cs": "kal1m005",
     "variable": "kal1m005",
@@ -9544,7 +9544,7 @@
     "label_de": "Berufl Fortbildg,Umsch Mai Vorjahr"
   },
   "kal1m006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m006",
     "name_cs": "kal1m006",
     "variable": "kal1m006",
@@ -9584,7 +9584,7 @@
     "label_de": "Berufl Fortbildg,Umsch Jun Vorjahr"
   },
   "kal1m007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m007",
     "name_cs": "kal1m007",
     "variable": "kal1m007",
@@ -9624,7 +9624,7 @@
     "label_de": "Berufl Fortbildg,Umsch Jul Vorjahr"
   },
   "kal1m008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m008",
     "name_cs": "kal1m008",
     "variable": "kal1m008",
@@ -9664,7 +9664,7 @@
     "label_de": "Berufl Fortbildg,Umsch Aug Vorjahr"
   },
   "kal1m009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m009",
     "name_cs": "kal1m009",
     "variable": "kal1m009",
@@ -9704,7 +9704,7 @@
     "label_de": "Berufl Fortbildg,Umsch Sep Vorjahr"
   },
   "kal1m010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m010",
     "name_cs": "kal1m010",
     "variable": "kal1m010",
@@ -9744,7 +9744,7 @@
     "label_de": "Berufl Fortbildg,Umsch Okt Vorjahr"
   },
   "kal1m011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m011",
     "name_cs": "kal1m011",
     "variable": "kal1m011",
@@ -9784,7 +9784,7 @@
     "label_de": "Berufl Fortbildg,Umsch Nov Vorjahr"
   },
   "kal1m012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m012",
     "name_cs": "kal1m012",
     "variable": "kal1m012",
@@ -9824,7 +9824,7 @@
     "label_de": "Berufl Fortbildg,Umsch Dez Vorjahr"
   },
   "kal1n001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n001",
     "name_cs": "kal1n001",
     "variable": "kal1n001",
@@ -9864,7 +9864,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Jan Vorjahr"
   },
   "kal1n002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n002",
     "name_cs": "kal1n002",
     "variable": "kal1n002",
@@ -9904,7 +9904,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Feb Vorjahr"
   },
   "kal1n003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n003",
     "name_cs": "kal1n003",
     "variable": "kal1n003",
@@ -9944,7 +9944,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Mar Vorjahr"
   },
   "kal1n004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n004",
     "name_cs": "kal1n004",
     "variable": "kal1n004",
@@ -9984,7 +9984,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Apr Vorjahr"
   },
   "kal1n005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n005",
     "name_cs": "kal1n005",
     "variable": "kal1n005",
@@ -10024,7 +10024,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Mai Vorjahr"
   },
   "kal1n006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n006",
     "name_cs": "kal1n006",
     "variable": "kal1n006",
@@ -10064,7 +10064,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Jun Vorjahr"
   },
   "kal1n007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n007",
     "name_cs": "kal1n007",
     "variable": "kal1n007",
@@ -10104,7 +10104,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Jul Vorjahr"
   },
   "kal1n008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n008",
     "name_cs": "kal1n008",
     "variable": "kal1n008",
@@ -10144,7 +10144,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Aug Vorjahr"
   },
   "kal1n009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n009",
     "name_cs": "kal1n009",
     "variable": "kal1n009",
@@ -10184,7 +10184,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Sep Vorjahr"
   },
   "kal1n010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n010",
     "name_cs": "kal1n010",
     "variable": "kal1n010",
@@ -10224,7 +10224,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Okt Vorjahr"
   },
   "kal1n011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n011",
     "name_cs": "kal1n011",
     "variable": "kal1n011",
@@ -10264,7 +10264,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Nov Vorjahr"
   },
   "kal1n012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n012",
     "name_cs": "kal1n012",
     "variable": "kal1n012",
@@ -10304,7 +10304,7 @@
     "label_de": "Mini-Job (bis 400 EUR) Dez Vorjahr"
   },
   "kal1a": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1a",
     "name_cs": "kal1a",
     "variable": "kal1a",
@@ -10330,7 +10330,7 @@
     "label_de": "Vollzeit Erwerbstaetig Jan-Dez Vorjahr"
   },
   "kal1b": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1b",
     "name_cs": "kal1b",
     "variable": "kal1b",
@@ -10356,7 +10356,7 @@
     "label_de": "Teilzeit Erwerbstaetig Jan-Dez Vorjahr"
   },
   "kal1c": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1c",
     "name_cs": "kal1c",
     "variable": "kal1c",
@@ -10382,7 +10382,7 @@
     "label_de": "Betrbl 1.Ausbild,Lehre Jan-Dez Vorjahr"
   },
   "kal1d": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1d",
     "name_cs": "kal1d",
     "variable": "kal1d",
@@ -10408,7 +10408,7 @@
     "label_de": "Arbeitslos gemeldet      Jan-Dez Vorjahr"
   },
   "kal1e": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1e",
     "name_cs": "kal1e",
     "variable": "kal1e",
@@ -10434,7 +10434,7 @@
     "label_de": "Rente, Pension         Jan-Dez Vorjahr"
   },
   "kal1f": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1f",
     "name_cs": "kal1f",
     "variable": "kal1f",
@@ -10460,7 +10460,7 @@
     "label_de": "In Mutterschaft         Jan-Dez Vorjahr"
   },
   "kal1g": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1g",
     "name_cs": "kal1g",
     "variable": "kal1g",
@@ -10486,7 +10486,7 @@
     "label_de": "Schule, Hochschule       Jan-Dez Vorjahr"
   },
   "kal1h": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1h",
     "name_cs": "kal1h",
     "variable": "kal1h",
@@ -10512,7 +10512,7 @@
     "label_de": "Wehr-, Zivildienst       Jan-Dez Vorjahr"
   },
   "kal1i": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1i",
     "name_cs": "kal1i",
     "variable": "kal1i",
@@ -10538,7 +10538,7 @@
     "label_de": "Im Haushalt taetig       Jan-Dez Vorjahr"
   },
   "kal1j": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1j",
     "name_cs": "kal1j",
     "variable": "kal1j",
@@ -10564,7 +10564,7 @@
     "label_de": "Sonstiges                 Jan-Dez Vorjahr"
   },
   "kal1k": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1k",
     "name_cs": "kal1k",
     "variable": "kal1k",
@@ -10590,7 +10590,7 @@
     "label_de": "In Kurzarbeit            Jan-Dez Vorjahr"
   },
   "kal1m": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1m",
     "name_cs": "kal1m",
     "variable": "kal1m",
@@ -10616,7 +10616,7 @@
     "label_de": "Berufl Fortbildg,Umsch   Jan-Dez Vorjahr"
   },
   "kal1n": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal1n",
     "name_cs": "kal1n",
     "variable": "kal1n",
@@ -10642,7 +10642,7 @@
     "label_de": "Mini-Job (bis 400 EUR)   Jan-Dez Vorjahr"
   },
   "kal2a01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a01",
     "name_cs": "kal2a01",
     "variable": "kal2a01",
@@ -10719,7 +10719,7 @@
     "label_de": "Lohn als Arbeitnehmer    Bezogen Vorjahr"
   },
   "kal2a02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a02",
     "name_cs": "kal2a02",
     "variable": "kal2a02",
@@ -10759,7 +10759,7 @@
     "label_de": "Lohn als Arbeitnehmer    Monate  Vorjahr"
   },
   "kal2a03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a03",
     "name_cs": "kal2a03",
     "variable": "kal2a03",
@@ -10799,7 +10799,7 @@
     "label_de": "Lohn als Arbeitnehmer    Betrag  Vorjahr"
   },
   "kal2a04": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a04",
     "name_cs": "kal2a04",
     "variable": "kal2a04",
@@ -10839,7 +10839,7 @@
     "label_de": "Lohn als Arbeitnehmer    (Netto) Vorjahr"
   },
   "kal2b01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b01",
     "name_cs": "kal2b01",
     "variable": "kal2b01",
@@ -10916,7 +10916,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Bezogen Vorjahr"
   },
   "kal2b02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b02",
     "name_cs": "kal2b02",
     "variable": "kal2b02",
@@ -10956,7 +10956,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Monate  Vorjahr"
   },
   "kal2b03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b03",
     "name_cs": "kal2b03",
     "variable": "kal2b03",
@@ -10996,7 +10996,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Betrag  Vorjahr"
   },
   "kal2b04": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b04",
     "name_cs": "kal2b04",
     "variable": "kal2b04",
@@ -11036,7 +11036,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. (Netto) Vorjahr"
   },
   "kal2c01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c01",
     "name_cs": "kal2c01",
     "variable": "kal2c01",
@@ -11113,7 +11113,7 @@
     "label_de": "Einkommen a. Nebenerwerb Bezogen Vorjahr"
   },
   "kal2c02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c02",
     "name_cs": "kal2c02",
     "variable": "kal2c02",
@@ -11153,7 +11153,7 @@
     "label_de": "Einkommen a. Nebenerwerb Monate  Vorjahr"
   },
   "kal2c03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c03",
     "name_cs": "kal2c03",
     "variable": "kal2c03",
@@ -11193,7 +11193,7 @@
     "label_de": "Einkommen a. Nebenerwerb Betrag  Vorjahr"
   },
   "kal2d01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d01",
     "name_cs": "kal2d01",
     "variable": "kal2d01",
@@ -11270,7 +11270,7 @@
     "label_de": "Altersrente, Pension     Bezogen Vorjahr"
   },
   "kal2d02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d02",
     "name_cs": "kal2d02",
     "variable": "kal2d02",
@@ -11310,7 +11310,7 @@
     "label_de": "Altersrente, Pension     Monate  Vorjahr"
   },
   "kal2d03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d03",
     "name_cs": "kal2d03",
     "variable": "kal2d03",
@@ -11350,7 +11350,7 @@
     "label_de": "Altersrente, Pension     Betrag  Vorjahr"
   },
   "kal2e01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e01",
     "name_cs": "kal2e01",
     "variable": "kal2e01",
@@ -11427,7 +11427,7 @@
     "label_de": "Witwen-, Waisenrente     Bezogen Vorjahr"
   },
   "kal2e02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e02",
     "name_cs": "kal2e02",
     "variable": "kal2e02",
@@ -11467,7 +11467,7 @@
     "label_de": "Witwen-, Waisenrente     Monate  Vorjahr"
   },
   "kal2e03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e03",
     "name_cs": "kal2e03",
     "variable": "kal2e03",
@@ -11507,7 +11507,7 @@
     "label_de": "Witwen-, Waisenrente     Betrag  Vorjahr"
   },
   "kal2f01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f01",
     "name_cs": "kal2f01",
     "variable": "kal2f01",
@@ -11584,7 +11584,7 @@
     "label_de": "Arbeitslosengeld         Bezogen Vorjahr"
   },
   "kal2f02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f02",
     "name_cs": "kal2f02",
     "variable": "kal2f02",
@@ -11624,7 +11624,7 @@
     "label_de": "Arbeitslosengeld         Monate  Vorjahr"
   },
   "kal2f03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f03",
     "name_cs": "kal2f03",
     "variable": "kal2f03",
@@ -11664,7 +11664,7 @@
     "label_de": "Arbeitslosengeld         Betrag  Vorjahr"
   },
   "kal2g01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g01",
     "name_cs": "kal2g01",
     "variable": "kal2g01",
@@ -11741,7 +11741,7 @@
     "label_de": "Arbeitslosenhilfe         Bezogen Vorjahr"
   },
   "kal2g02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g02",
     "name_cs": "kal2g02",
     "variable": "kal2g02",
@@ -11781,7 +11781,7 @@
     "label_de": "Arbeitslosenhilfe         Monate  Vorjahr"
   },
   "kal2g03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g03",
     "name_cs": "kal2g03",
     "variable": "kal2g03",
@@ -11821,7 +11821,7 @@
     "label_de": "Arbeitslosenhilfe         Betrag  Vorjahr"
   },
   "kal2h01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h01",
     "name_cs": "kal2h01",
     "variable": "kal2h01",
@@ -11903,7 +11903,7 @@
     "label_de": "Unterhalts-, Uebergsgeld Bezogen Vorjahr"
   },
   "kal2h02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h02",
     "name_cs": "kal2h02",
     "variable": "kal2h02",
@@ -11943,7 +11943,7 @@
     "label_de": "Unterhalts-, Uebergsgeld Monate  Vorjahr"
   },
   "kal2h03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h03",
     "name_cs": "kal2h03",
     "variable": "kal2h03",
@@ -11983,7 +11983,7 @@
     "label_de": "Unterhalts-, Uebergsgeld Betrag  Vorjahr"
   },
   "kal2i01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2i01",
     "name_cs": "kal2i01",
     "variable": "kal2i01",
@@ -12060,7 +12060,7 @@
     "label_de": "Altersuebergangsgeld     Bezogen Vorjahr"
   },
   "kal2i02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2i02",
     "name_cs": "kal2i02",
     "variable": "kal2i02",
@@ -12100,7 +12100,7 @@
     "label_de": "Altersuebergangsgeld     Monate  Vorjahr"
   },
   "kal2i03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2i03",
     "name_cs": "kal2i03",
     "variable": "kal2i03",
@@ -12140,7 +12140,7 @@
     "label_de": "Altersuebergangsgeld     Betrag  Vorjahr"
   },
   "kal2j01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j01",
     "name_cs": "kal2j01",
     "variable": "kal2j01",
@@ -12217,7 +12217,7 @@
     "label_de": "Mutterschaftsgeld         Bezogen Vorjahr"
   },
   "kal2j02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j02",
     "name_cs": "kal2j02",
     "variable": "kal2j02",
@@ -12257,7 +12257,7 @@
     "label_de": "Mutterschaftsgeld         Monate  Vorjahr"
   },
   "kal2j03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j03",
     "name_cs": "kal2j03",
     "variable": "kal2j03",
@@ -12297,7 +12297,7 @@
     "label_de": "Mutterschaftsgeld         Betrag  Vorjahr"
   },
   "kal2k01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k01",
     "name_cs": "kal2k01",
     "variable": "kal2k01",
@@ -12374,7 +12374,7 @@
     "label_de": "BAFOEG, Stipendium       Bezogen Vorjahr"
   },
   "kal2k02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k02",
     "name_cs": "kal2k02",
     "variable": "kal2k02",
@@ -12414,7 +12414,7 @@
     "label_de": "BAFOEG, Stipendium       Monate  Vorjahr"
   },
   "kal2k03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k03",
     "name_cs": "kal2k03",
     "variable": "kal2k03",
@@ -12454,7 +12454,7 @@
     "label_de": "BAFOEG, Stipendium       Betrag  Vorjahr"
   },
   "kal2l01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2l01",
     "name_cs": "kal2l01",
     "variable": "kal2l01",
@@ -12531,7 +12531,7 @@
     "label_de": "Wehr-,Zivildienstsold    Bezogen Vorjahr"
   },
   "kal2l02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2l02",
     "name_cs": "kal2l02",
     "variable": "kal2l02",
@@ -12571,7 +12571,7 @@
     "label_de": "Wehr-,Zivildienstsold    Monate  Vorjahr"
   },
   "kal2l03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2l03",
     "name_cs": "kal2l03",
     "variable": "kal2l03",
@@ -12611,7 +12611,7 @@
     "label_de": "Wehr-,Zivildienstsold    Betrag  Vorjahr"
   },
   "kal2m01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m01",
     "name_cs": "kal2m01",
     "variable": "kal2m01",
@@ -12688,7 +12688,7 @@
     "label_de": "Unterstuetzung a. des HH Bezogen Vorjahr"
   },
   "kal2m02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m02",
     "name_cs": "kal2m02",
     "variable": "kal2m02",
@@ -12728,7 +12728,7 @@
     "label_de": "Unterstuetzung a. des HH Monate  Vorjahr"
   },
   "kal2m03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m03",
     "name_cs": "kal2m03",
     "variable": "kal2m03",
@@ -12768,7 +12768,7 @@
     "label_de": "Unterstuetzung a. des HH Betrag  Vorjahr"
   },
   "kal2o01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2o01",
     "name_cs": "kal2o01",
     "variable": "kal2o01",
@@ -12845,7 +12845,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen Vorjahr"
   },
   "kal2o02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2o02",
     "name_cs": "kal2o02",
     "variable": "kal2o02",
@@ -12885,7 +12885,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  Vorjahr"
   },
   "kal2o03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2o03",
     "name_cs": "kal2o03",
     "variable": "kal2o03",
@@ -12925,7 +12925,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  Vorjahr"
   },
   "kal2p01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2p01",
     "name_cs": "kal2p01",
     "variable": "kal2p01",
@@ -13002,7 +13002,7 @@
     "label_de": "Betriebsrente, auch Htbl Bezogen Vorjahr"
   },
   "kal2p02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2p02",
     "name_cs": "kal2p02",
     "variable": "kal2p02",
@@ -13042,7 +13042,7 @@
     "label_de": "Betriebsrente, auch Htbl Monate  Vorjahr"
   },
   "kal2p03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2p03",
     "name_cs": "kal2p03",
     "variable": "kal2p03",
@@ -13082,7 +13082,7 @@
     "label_de": "Betriebsrente, auch Htbl Betrag  Vorjahr"
   },
   "kal2q01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2q01",
     "name_cs": "kal2q01",
     "variable": "kal2q01",
@@ -13159,7 +13159,7 @@
     "label_de": "Rente aus privater Vers. Bezogen Vorjahr"
   },
   "kal2q02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2q02",
     "name_cs": "kal2q02",
     "variable": "kal2q02",
@@ -13199,7 +13199,7 @@
     "label_de": "Rente aus privater Vers. Monate  Vorjahr"
   },
   "kal2q03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2q03",
     "name_cs": "kal2q03",
     "variable": "kal2q03",
@@ -13239,7 +13239,7 @@
     "label_de": "Rente aus privater Vers. Betrag  Vorjahr"
   },
   "kal2n01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n01",
     "name_cs": "kal2n01",
     "variable": "kal2n01",
@@ -13316,7 +13316,7 @@
     "label_de": "Keine dieser Einkuenfte  Bezogen Vorjahr"
   },
   "kal2r01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2r01",
     "name_cs": "kal2r01",
     "variable": "kal2r01",
@@ -13393,7 +13393,7 @@
     "label_de": "ALG II, Sozialgeld       Bezogen Vorjahr"
   },
   "kal2r02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2r02",
     "name_cs": "kal2r02",
     "variable": "kal2r02",
@@ -13433,7 +13433,7 @@
     "label_de": "ALG II, Sozialgeld       Monate  Vorjahr"
   },
   "kal2s01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2s01",
     "name_cs": "kal2s01",
     "variable": "kal2s01",
@@ -13510,7 +13510,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen Vorjahr"
   },
   "kal2s02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2s02",
     "name_cs": "kal2s02",
     "variable": "kal2s02",
@@ -13550,7 +13550,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  Vorjahr"
   },
   "kal2s03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2s03",
     "name_cs": "kal2s03",
     "variable": "kal2s03",
@@ -13590,7 +13590,7 @@
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  Vorjahr"
   },
   "kal2t01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2t01",
     "name_cs": "kal2t01",
     "variable": "kal2t01",
@@ -13667,7 +13667,7 @@
     "label_de": "Unterhaltsvorschusskasse Bezogen Vorjahr"
   },
   "kal2t02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2t02",
     "name_cs": "kal2t02",
     "variable": "kal2t02",
@@ -13707,7 +13707,7 @@
     "label_de": "Unterhaltsvorschusskasse Monate  Vorjahr"
   },
   "kal2t03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2t03",
     "name_cs": "kal2t03",
     "variable": "kal2t03",
@@ -13747,7 +13747,7 @@
     "label_de": "Unterhaltsvorschusskasse Betrag  Vorjahr"
   },
   "kal2u01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2u01",
     "name_cs": "kal2u01",
     "variable": "kal2u01",
@@ -13824,7 +13824,7 @@
     "label_de": "Kindesunterhalt          Bezogen Vorjahr"
   },
   "kal2u02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2u02",
     "name_cs": "kal2u02",
     "variable": "kal2u02",
@@ -13864,7 +13864,7 @@
     "label_de": "Kindesunterhalt          Monate  Vorjahr"
   },
   "kal2u03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2u03",
     "name_cs": "kal2u03",
     "variable": "kal2u03",
@@ -13904,7 +13904,7 @@
     "label_de": "Kindesunterhalt          Betrag  Vorjahr"
   },
   "kal2v01": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2v01",
     "name_cs": "kal2v01",
     "variable": "kal2v01",
@@ -13981,7 +13981,7 @@
     "label_de": "Nachehelicher Unterhalt  Bezogen Vorjahr"
   },
   "kal2v02": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2v02",
     "name_cs": "kal2v02",
     "variable": "kal2v02",
@@ -14021,7 +14021,7 @@
     "label_de": "Nachehelicher Unterhalt  Monate  Vorjahr"
   },
   "kal2v03": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2v03",
     "name_cs": "kal2v03",
     "variable": "kal2v03",
@@ -14061,7 +14061,7 @@
     "label_de": "Nachehelicher Unterhalt  Betrag  Vorjahr"
   },
   "kal2a001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a001",
     "name_cs": "kal2a001",
     "variable": "kal2a001",
@@ -14133,7 +14133,7 @@
     "label_de": "Lohn als Arbeitnehmer    Jan Vorjahr"
   },
   "kal2a002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a002",
     "name_cs": "kal2a002",
     "variable": "kal2a002",
@@ -14205,7 +14205,7 @@
     "label_de": "Lohn als Arbeitnehmer    Feb Vorjahr"
   },
   "kal2a003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a003",
     "name_cs": "kal2a003",
     "variable": "kal2a003",
@@ -14277,7 +14277,7 @@
     "label_de": "Lohn als Arbeitnehmer    Mar Vorjahr"
   },
   "kal2a004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a004",
     "name_cs": "kal2a004",
     "variable": "kal2a004",
@@ -14349,7 +14349,7 @@
     "label_de": "Lohn als Arbeitnehmer    Apr Vorjahr"
   },
   "kal2a005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a005",
     "name_cs": "kal2a005",
     "variable": "kal2a005",
@@ -14421,7 +14421,7 @@
     "label_de": "Lohn als Arbeitnehmer    Mai Vorjahr"
   },
   "kal2a006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a006",
     "name_cs": "kal2a006",
     "variable": "kal2a006",
@@ -14493,7 +14493,7 @@
     "label_de": "Lohn als Arbeitnehmer    Jun Vorjahr"
   },
   "kal2a007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a007",
     "name_cs": "kal2a007",
     "variable": "kal2a007",
@@ -14565,7 +14565,7 @@
     "label_de": "Lohn als Arbeitnehmer    Jul Vorjahr"
   },
   "kal2a008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a008",
     "name_cs": "kal2a008",
     "variable": "kal2a008",
@@ -14637,7 +14637,7 @@
     "label_de": "Lohn als Arbeitnehmer    Aug Vorjahr"
   },
   "kal2a009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a009",
     "name_cs": "kal2a009",
     "variable": "kal2a009",
@@ -14709,7 +14709,7 @@
     "label_de": "Lohn als Arbeitnehmer    Sep Vorjahr"
   },
   "kal2a010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a010",
     "name_cs": "kal2a010",
     "variable": "kal2a010",
@@ -14781,7 +14781,7 @@
     "label_de": "Lohn als Arbeitnehmer    Okt Vorjahr"
   },
   "kal2a011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a011",
     "name_cs": "kal2a011",
     "variable": "kal2a011",
@@ -14853,7 +14853,7 @@
     "label_de": "Lohn als Arbeitnehmer    Nov Vorjahr"
   },
   "kal2a012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a012",
     "name_cs": "kal2a012",
     "variable": "kal2a012",
@@ -14925,7 +14925,7 @@
     "label_de": "Lohn als Arbeitnehmer    Dez Vorjahr"
   },
   "kal2b001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b001",
     "name_cs": "kal2b001",
     "variable": "kal2b001",
@@ -14997,7 +14997,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Jan Vorjahr"
   },
   "kal2b002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b002",
     "name_cs": "kal2b002",
     "variable": "kal2b002",
@@ -15069,7 +15069,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Feb Vorjahr"
   },
   "kal2b003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b003",
     "name_cs": "kal2b003",
     "variable": "kal2b003",
@@ -15141,7 +15141,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Mar Vorjahr"
   },
   "kal2b004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b004",
     "name_cs": "kal2b004",
     "variable": "kal2b004",
@@ -15213,7 +15213,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Apr Vorjahr"
   },
   "kal2b005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b005",
     "name_cs": "kal2b005",
     "variable": "kal2b005",
@@ -15285,7 +15285,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Mai Vorjahr"
   },
   "kal2b006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b006",
     "name_cs": "kal2b006",
     "variable": "kal2b006",
@@ -15357,7 +15357,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Jun Vorjahr"
   },
   "kal2b007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b007",
     "name_cs": "kal2b007",
     "variable": "kal2b007",
@@ -15429,7 +15429,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Jul Vorjahr"
   },
   "kal2b008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b008",
     "name_cs": "kal2b008",
     "variable": "kal2b008",
@@ -15501,7 +15501,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Aug Vorjahr"
   },
   "kal2b009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b009",
     "name_cs": "kal2b009",
     "variable": "kal2b009",
@@ -15573,7 +15573,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Sep Vorjahr"
   },
   "kal2b010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b010",
     "name_cs": "kal2b010",
     "variable": "kal2b010",
@@ -15645,7 +15645,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Okt Vorjahr"
   },
   "kal2b011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b011",
     "name_cs": "kal2b011",
     "variable": "kal2b011",
@@ -15717,7 +15717,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Nov Vorjahr"
   },
   "kal2b012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b012",
     "name_cs": "kal2b012",
     "variable": "kal2b012",
@@ -15789,7 +15789,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Dez Vorjahr"
   },
   "kal2c001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c001",
     "name_cs": "kal2c001",
     "variable": "kal2c001",
@@ -15861,7 +15861,7 @@
     "label_de": "Einkommen a. Nebenerwerb Jan Vorjahr"
   },
   "kal2c002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c002",
     "name_cs": "kal2c002",
     "variable": "kal2c002",
@@ -15933,7 +15933,7 @@
     "label_de": "Einkommen a. Nebenerwerb Feb Vorjahr"
   },
   "kal2c003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c003",
     "name_cs": "kal2c003",
     "variable": "kal2c003",
@@ -16005,7 +16005,7 @@
     "label_de": "Einkommen a. Nebenerwerb Mar Vorjahr"
   },
   "kal2c004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c004",
     "name_cs": "kal2c004",
     "variable": "kal2c004",
@@ -16077,7 +16077,7 @@
     "label_de": "Einkommen a. Nebenerwerb Apr Vorjahr"
   },
   "kal2c005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c005",
     "name_cs": "kal2c005",
     "variable": "kal2c005",
@@ -16149,7 +16149,7 @@
     "label_de": "Einkommen a. Nebenerwerb Mai Vorjahr"
   },
   "kal2c006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c006",
     "name_cs": "kal2c006",
     "variable": "kal2c006",
@@ -16221,7 +16221,7 @@
     "label_de": "Einkommen a. Nebenerwerb Jun Vorjahr"
   },
   "kal2c007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c007",
     "name_cs": "kal2c007",
     "variable": "kal2c007",
@@ -16293,7 +16293,7 @@
     "label_de": "Einkommen a. Nebenerwerb Jul Vorjahr"
   },
   "kal2c008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c008",
     "name_cs": "kal2c008",
     "variable": "kal2c008",
@@ -16365,7 +16365,7 @@
     "label_de": "Einkommen a. Nebenerwerb Aug Vorjahr"
   },
   "kal2c009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c009",
     "name_cs": "kal2c009",
     "variable": "kal2c009",
@@ -16437,7 +16437,7 @@
     "label_de": "Einkommen a. Nebenerwerb Sep Vorjahr"
   },
   "kal2c010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c010",
     "name_cs": "kal2c010",
     "variable": "kal2c010",
@@ -16509,7 +16509,7 @@
     "label_de": "Einkommen a. Nebenerwerb Okt Vorjahr"
   },
   "kal2c011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c011",
     "name_cs": "kal2c011",
     "variable": "kal2c011",
@@ -16581,7 +16581,7 @@
     "label_de": "Einkommen a. Nebenerwerb Nov Vorjahr"
   },
   "kal2c012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c012",
     "name_cs": "kal2c012",
     "variable": "kal2c012",
@@ -16653,7 +16653,7 @@
     "label_de": "Einkommen a. Nebenerwerb Dez Vorjahr"
   },
   "kal2d001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d001",
     "name_cs": "kal2d001",
     "variable": "kal2d001",
@@ -16725,7 +16725,7 @@
     "label_de": "Altersrente, Pension     Jan Vorjahr"
   },
   "kal2d002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d002",
     "name_cs": "kal2d002",
     "variable": "kal2d002",
@@ -16797,7 +16797,7 @@
     "label_de": "Altersrente, Pension     Feb Vorjahr"
   },
   "kal2d003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d003",
     "name_cs": "kal2d003",
     "variable": "kal2d003",
@@ -16869,7 +16869,7 @@
     "label_de": "Altersrente, Pension     Mar Vorjahr"
   },
   "kal2d004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d004",
     "name_cs": "kal2d004",
     "variable": "kal2d004",
@@ -16941,7 +16941,7 @@
     "label_de": "Altersrente, Pension     Apr Vorjahr"
   },
   "kal2d005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d005",
     "name_cs": "kal2d005",
     "variable": "kal2d005",
@@ -17013,7 +17013,7 @@
     "label_de": "Altersrente, Pension     Mai Vorjahr"
   },
   "kal2d006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d006",
     "name_cs": "kal2d006",
     "variable": "kal2d006",
@@ -17085,7 +17085,7 @@
     "label_de": "Altersrente, Pension     Jun Vorjahr"
   },
   "kal2d007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d007",
     "name_cs": "kal2d007",
     "variable": "kal2d007",
@@ -17157,7 +17157,7 @@
     "label_de": "Altersrente, Pension     Jul Vorjahr"
   },
   "kal2d008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d008",
     "name_cs": "kal2d008",
     "variable": "kal2d008",
@@ -17229,7 +17229,7 @@
     "label_de": "Altersrente, Pension     Aug Vorjahr"
   },
   "kal2d009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d009",
     "name_cs": "kal2d009",
     "variable": "kal2d009",
@@ -17301,7 +17301,7 @@
     "label_de": "Altersrente, Pension     Sep Vorjahr"
   },
   "kal2d010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d010",
     "name_cs": "kal2d010",
     "variable": "kal2d010",
@@ -17373,7 +17373,7 @@
     "label_de": "Altersrente, Pension     Okt Vorjahr"
   },
   "kal2d011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d011",
     "name_cs": "kal2d011",
     "variable": "kal2d011",
@@ -17445,7 +17445,7 @@
     "label_de": "Altersrente, Pension     Nov Vorjahr"
   },
   "kal2d012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d012",
     "name_cs": "kal2d012",
     "variable": "kal2d012",
@@ -17517,7 +17517,7 @@
     "label_de": "Altersrente, Pension     Dez Vorjahr"
   },
   "kal2e001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e001",
     "name_cs": "kal2e001",
     "variable": "kal2e001",
@@ -17589,7 +17589,7 @@
     "label_de": "Witwen-, Waisenrente     Jan Vorjahr"
   },
   "kal2e002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e002",
     "name_cs": "kal2e002",
     "variable": "kal2e002",
@@ -17661,7 +17661,7 @@
     "label_de": "Witwen-, Waisenrente     Feb Vorjahr"
   },
   "kal2e003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e003",
     "name_cs": "kal2e003",
     "variable": "kal2e003",
@@ -17733,7 +17733,7 @@
     "label_de": "Witwen-, Waisenrente     Mar Vorjahr"
   },
   "kal2e004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e004",
     "name_cs": "kal2e004",
     "variable": "kal2e004",
@@ -17805,7 +17805,7 @@
     "label_de": "Witwen-, Waisenrente     Apr Vorjahr"
   },
   "kal2e005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e005",
     "name_cs": "kal2e005",
     "variable": "kal2e005",
@@ -17877,7 +17877,7 @@
     "label_de": "Witwen-, Waisenrente     Mai Vorjahr"
   },
   "kal2e006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e006",
     "name_cs": "kal2e006",
     "variable": "kal2e006",
@@ -17949,7 +17949,7 @@
     "label_de": "Witwen-, Waisenrente     Jun Vorjahr"
   },
   "kal2e007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e007",
     "name_cs": "kal2e007",
     "variable": "kal2e007",
@@ -18021,7 +18021,7 @@
     "label_de": "Witwen-, Waisenrente     Jul Vorjahr"
   },
   "kal2e008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e008",
     "name_cs": "kal2e008",
     "variable": "kal2e008",
@@ -18093,7 +18093,7 @@
     "label_de": "Witwen-, Waisenrente     Aug Vorjahr"
   },
   "kal2e009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e009",
     "name_cs": "kal2e009",
     "variable": "kal2e009",
@@ -18165,7 +18165,7 @@
     "label_de": "Witwen-, Waisenrente     Sep Vorjahr"
   },
   "kal2e010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e010",
     "name_cs": "kal2e010",
     "variable": "kal2e010",
@@ -18237,7 +18237,7 @@
     "label_de": "Witwen-, Waisenrente     Okt Vorjahr"
   },
   "kal2e011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e011",
     "name_cs": "kal2e011",
     "variable": "kal2e011",
@@ -18309,7 +18309,7 @@
     "label_de": "Witwen-, Waisenrente     Nov Vorjahr"
   },
   "kal2e012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e012",
     "name_cs": "kal2e012",
     "variable": "kal2e012",
@@ -18381,7 +18381,7 @@
     "label_de": "Witwen-, Waisenrente     Dez Vorjahr"
   },
   "kal2f001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f001",
     "name_cs": "kal2f001",
     "variable": "kal2f001",
@@ -18453,7 +18453,7 @@
     "label_de": "Arbeitslosengeld         Jan Vorjahr"
   },
   "kal2f002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f002",
     "name_cs": "kal2f002",
     "variable": "kal2f002",
@@ -18525,7 +18525,7 @@
     "label_de": "Arbeitslosengeld         Feb Vorjahr"
   },
   "kal2f003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f003",
     "name_cs": "kal2f003",
     "variable": "kal2f003",
@@ -18597,7 +18597,7 @@
     "label_de": "Arbeitslosengeld         Mar Vorjahr"
   },
   "kal2f004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f004",
     "name_cs": "kal2f004",
     "variable": "kal2f004",
@@ -18669,7 +18669,7 @@
     "label_de": "Arbeitslosengeld         Apr Vorjahr"
   },
   "kal2f005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f005",
     "name_cs": "kal2f005",
     "variable": "kal2f005",
@@ -18741,7 +18741,7 @@
     "label_de": "Arbeitslosengeld         Mai Vorjahr"
   },
   "kal2f006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f006",
     "name_cs": "kal2f006",
     "variable": "kal2f006",
@@ -18813,7 +18813,7 @@
     "label_de": "Arbeitslosengeld         Jun Vorjahr"
   },
   "kal2f007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f007",
     "name_cs": "kal2f007",
     "variable": "kal2f007",
@@ -18885,7 +18885,7 @@
     "label_de": "Arbeitslosengeld         Jul Vorjahr"
   },
   "kal2f008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f008",
     "name_cs": "kal2f008",
     "variable": "kal2f008",
@@ -18957,7 +18957,7 @@
     "label_de": "Arbeitslosengeld         Aug Vorjahr"
   },
   "kal2f009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f009",
     "name_cs": "kal2f009",
     "variable": "kal2f009",
@@ -19029,7 +19029,7 @@
     "label_de": "Arbeitslosengeld         Sep Vorjahr"
   },
   "kal2f010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f010",
     "name_cs": "kal2f010",
     "variable": "kal2f010",
@@ -19101,7 +19101,7 @@
     "label_de": "Arbeitslosengeld         Okt Vorjahr"
   },
   "kal2f011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f011",
     "name_cs": "kal2f011",
     "variable": "kal2f011",
@@ -19173,7 +19173,7 @@
     "label_de": "Arbeitslosengeld         Nov Vorjahr"
   },
   "kal2f012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f012",
     "name_cs": "kal2f012",
     "variable": "kal2f012",
@@ -19245,7 +19245,7 @@
     "label_de": "Arbeitslosengeld         Dez Vorjahr"
   },
   "kal2g001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g001",
     "name_cs": "kal2g001",
     "variable": "kal2g001",
@@ -19317,7 +19317,7 @@
     "label_de": "Arbeitslosenhilfe        Jan Vorjahr"
   },
   "kal2g002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g002",
     "name_cs": "kal2g002",
     "variable": "kal2g002",
@@ -19389,7 +19389,7 @@
     "label_de": "Arbeitslosenhilfe        Feb Vorjahr"
   },
   "kal2g003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g003",
     "name_cs": "kal2g003",
     "variable": "kal2g003",
@@ -19461,7 +19461,7 @@
     "label_de": "Arbeitslosenhilfe        Mar Vorjahr"
   },
   "kal2g004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g004",
     "name_cs": "kal2g004",
     "variable": "kal2g004",
@@ -19533,7 +19533,7 @@
     "label_de": "Arbeitslosenhilfe        Apr Vorjahr"
   },
   "kal2g005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g005",
     "name_cs": "kal2g005",
     "variable": "kal2g005",
@@ -19605,7 +19605,7 @@
     "label_de": "Arbeitslosenhilfe        Mai Vorjahr"
   },
   "kal2g006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g006",
     "name_cs": "kal2g006",
     "variable": "kal2g006",
@@ -19677,7 +19677,7 @@
     "label_de": "Arbeitslosenhilfe        Jun Vorjahr"
   },
   "kal2g007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g007",
     "name_cs": "kal2g007",
     "variable": "kal2g007",
@@ -19749,7 +19749,7 @@
     "label_de": "Arbeitslosenhilfe        Jul Vorjahr"
   },
   "kal2g008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g008",
     "name_cs": "kal2g008",
     "variable": "kal2g008",
@@ -19821,7 +19821,7 @@
     "label_de": "Arbeitslosenhilfe        Aug Vorjahr"
   },
   "kal2g009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g009",
     "name_cs": "kal2g009",
     "variable": "kal2g009",
@@ -19893,7 +19893,7 @@
     "label_de": "Arbeitslosenhilfe        Sep Vorjahr"
   },
   "kal2g010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g010",
     "name_cs": "kal2g010",
     "variable": "kal2g010",
@@ -19965,7 +19965,7 @@
     "label_de": "Arbeitslosenhilfe        Okt Vorjahr"
   },
   "kal2g011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g011",
     "name_cs": "kal2g011",
     "variable": "kal2g011",
@@ -20037,7 +20037,7 @@
     "label_de": "Arbeitslosenhilfe        Nov Vorjahr"
   },
   "kal2g012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g012",
     "name_cs": "kal2g012",
     "variable": "kal2g012",
@@ -20109,7 +20109,7 @@
     "label_de": "Arbeitslosenhilfe        Dez Vorjahr"
   },
   "kal2h001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h001",
     "name_cs": "kal2h001",
     "variable": "kal2h001",
@@ -20181,7 +20181,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Jan Vorjahr"
   },
   "kal2h002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h002",
     "name_cs": "kal2h002",
     "variable": "kal2h002",
@@ -20253,7 +20253,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Feb Vorjahr"
   },
   "kal2h003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h003",
     "name_cs": "kal2h003",
     "variable": "kal2h003",
@@ -20325,7 +20325,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Mar Vorjahr"
   },
   "kal2h004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h004",
     "name_cs": "kal2h004",
     "variable": "kal2h004",
@@ -20397,7 +20397,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Apr Vorjahr"
   },
   "kal2h005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h005",
     "name_cs": "kal2h005",
     "variable": "kal2h005",
@@ -20469,7 +20469,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Mai Vorjahr"
   },
   "kal2h006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h006",
     "name_cs": "kal2h006",
     "variable": "kal2h006",
@@ -20541,7 +20541,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Jun Vorjahr"
   },
   "kal2h007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h007",
     "name_cs": "kal2h007",
     "variable": "kal2h007",
@@ -20613,7 +20613,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Jul Vorjahr"
   },
   "kal2h008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h008",
     "name_cs": "kal2h008",
     "variable": "kal2h008",
@@ -20685,7 +20685,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Aug Vorjahr"
   },
   "kal2h009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h009",
     "name_cs": "kal2h009",
     "variable": "kal2h009",
@@ -20757,7 +20757,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Sep Vorjahr"
   },
   "kal2h010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h010",
     "name_cs": "kal2h010",
     "variable": "kal2h010",
@@ -20829,7 +20829,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Okt Vorjahr"
   },
   "kal2h011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h011",
     "name_cs": "kal2h011",
     "variable": "kal2h011",
@@ -20901,7 +20901,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Nov Vorjahr"
   },
   "kal2h012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h012",
     "name_cs": "kal2h012",
     "variable": "kal2h012",
@@ -20973,7 +20973,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Dez Vorjahr"
   },
   "kal2j001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j001",
     "name_cs": "kal2j001",
     "variable": "kal2j001",
@@ -21050,7 +21050,7 @@
     "label_de": "Mutterschafts-, Erzggeld Jan Vorjahr"
   },
   "kal2j002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j002",
     "name_cs": "kal2j002",
     "variable": "kal2j002",
@@ -21127,7 +21127,7 @@
     "label_de": "Mutterschafts-, Erzggeld Feb Vorjahr"
   },
   "kal2j003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j003",
     "name_cs": "kal2j003",
     "variable": "kal2j003",
@@ -21204,7 +21204,7 @@
     "label_de": "Mutterschafts-, Erzggeld Mar Vorjahr"
   },
   "kal2j004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j004",
     "name_cs": "kal2j004",
     "variable": "kal2j004",
@@ -21281,7 +21281,7 @@
     "label_de": "Mutterschafts-, Erzggeld Apr Vorjahr"
   },
   "kal2j005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j005",
     "name_cs": "kal2j005",
     "variable": "kal2j005",
@@ -21358,7 +21358,7 @@
     "label_de": "Mutterschafts-, Erzggeld Mai Vorjahr"
   },
   "kal2j006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j006",
     "name_cs": "kal2j006",
     "variable": "kal2j006",
@@ -21435,7 +21435,7 @@
     "label_de": "Mutterschafts-, Erzggeld Jun Vorjahr"
   },
   "kal2j007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j007",
     "name_cs": "kal2j007",
     "variable": "kal2j007",
@@ -21512,7 +21512,7 @@
     "label_de": "Mutterschafts-, Erzggeld Jul Vorjahr"
   },
   "kal2j008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j008",
     "name_cs": "kal2j008",
     "variable": "kal2j008",
@@ -21589,7 +21589,7 @@
     "label_de": "Mutterschafts-, Erzggeld Aug Vorjahr"
   },
   "kal2j009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j009",
     "name_cs": "kal2j009",
     "variable": "kal2j009",
@@ -21666,7 +21666,7 @@
     "label_de": "Mutterschafts-, Erzggeld Sep Vorjahr"
   },
   "kal2j010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j010",
     "name_cs": "kal2j010",
     "variable": "kal2j010",
@@ -21743,7 +21743,7 @@
     "label_de": "Mutterschafts-, Erzggeld Okt Vorjahr"
   },
   "kal2j011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j011",
     "name_cs": "kal2j011",
     "variable": "kal2j011",
@@ -21820,7 +21820,7 @@
     "label_de": "Mutterschafts-, Erzggeld Nov Vorjahr"
   },
   "kal2j012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j012",
     "name_cs": "kal2j012",
     "variable": "kal2j012",
@@ -21897,7 +21897,7 @@
     "label_de": "Mutterschafts-, Erzggeld Dez Vorjahr"
   },
   "kal2k001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k001",
     "name_cs": "kal2k001",
     "variable": "kal2k001",
@@ -21969,7 +21969,7 @@
     "label_de": "BAFOEG, Stipendium       Jan Vorjahr"
   },
   "kal2k002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k002",
     "name_cs": "kal2k002",
     "variable": "kal2k002",
@@ -22041,7 +22041,7 @@
     "label_de": "BAFOEG, Stipendium       Feb Vorjahr"
   },
   "kal2k003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k003",
     "name_cs": "kal2k003",
     "variable": "kal2k003",
@@ -22113,7 +22113,7 @@
     "label_de": "BAFOEG, Stipendium       Mar Vorjahr"
   },
   "kal2k004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k004",
     "name_cs": "kal2k004",
     "variable": "kal2k004",
@@ -22185,7 +22185,7 @@
     "label_de": "BAFOEG, Stipendium       Apr Vorjahr"
   },
   "kal2k005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k005",
     "name_cs": "kal2k005",
     "variable": "kal2k005",
@@ -22257,7 +22257,7 @@
     "label_de": "BAFOEG, Stipendium       Mai Vorjahr"
   },
   "kal2k006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k006",
     "name_cs": "kal2k006",
     "variable": "kal2k006",
@@ -22329,7 +22329,7 @@
     "label_de": "BAFOEG, Stipendium       Jun Vorjahr"
   },
   "kal2k007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k007",
     "name_cs": "kal2k007",
     "variable": "kal2k007",
@@ -22401,7 +22401,7 @@
     "label_de": "BAFOEG, Stipendium       Jul Vorjahr"
   },
   "kal2k008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k008",
     "name_cs": "kal2k008",
     "variable": "kal2k008",
@@ -22473,7 +22473,7 @@
     "label_de": "BAFOEG, Stipendium       Aug Vorjahr"
   },
   "kal2k009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k009",
     "name_cs": "kal2k009",
     "variable": "kal2k009",
@@ -22545,7 +22545,7 @@
     "label_de": "BAFOEG, Stipendium       Sep Vorjahr"
   },
   "kal2k010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k010",
     "name_cs": "kal2k010",
     "variable": "kal2k010",
@@ -22617,7 +22617,7 @@
     "label_de": "BAFOEG, Stipendium       Okt Vorjahr"
   },
   "kal2k011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k011",
     "name_cs": "kal2k011",
     "variable": "kal2k011",
@@ -22689,7 +22689,7 @@
     "label_de": "BAFOEG, Stipendium       Nov Vorjahr"
   },
   "kal2k012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k012",
     "name_cs": "kal2k012",
     "variable": "kal2k012",
@@ -22761,7 +22761,7 @@
     "label_de": "BAFOEG, Stipendium       Dez Vorjahr"
   },
   "kal2m001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m001",
     "name_cs": "kal2m001",
     "variable": "kal2m001",
@@ -22833,7 +22833,7 @@
     "label_de": "Unterstuetzung a. des HH Jan Vorjahr"
   },
   "kal2m002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m002",
     "name_cs": "kal2m002",
     "variable": "kal2m002",
@@ -22905,7 +22905,7 @@
     "label_de": "Unterstuetzung a. des HH Feb Vorjahr"
   },
   "kal2m003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m003",
     "name_cs": "kal2m003",
     "variable": "kal2m003",
@@ -22977,7 +22977,7 @@
     "label_de": "Unterstuetzung a. des HH Mar Vorjahr"
   },
   "kal2m004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m004",
     "name_cs": "kal2m004",
     "variable": "kal2m004",
@@ -23049,7 +23049,7 @@
     "label_de": "Unterstuetzung a. des HH Apr Vorjahr"
   },
   "kal2m005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m005",
     "name_cs": "kal2m005",
     "variable": "kal2m005",
@@ -23121,7 +23121,7 @@
     "label_de": "Unterstuetzung a. des HH Mai Vorjahr"
   },
   "kal2m006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m006",
     "name_cs": "kal2m006",
     "variable": "kal2m006",
@@ -23193,7 +23193,7 @@
     "label_de": "Unterstuetzung a. des HH Jun Vorjahr"
   },
   "kal2m007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m007",
     "name_cs": "kal2m007",
     "variable": "kal2m007",
@@ -23265,7 +23265,7 @@
     "label_de": "Unterstuetzung a. des HH Jul Vorjahr"
   },
   "kal2m008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m008",
     "name_cs": "kal2m008",
     "variable": "kal2m008",
@@ -23337,7 +23337,7 @@
     "label_de": "Unterstuetzung a. des HH Aug Vorjahr"
   },
   "kal2m009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m009",
     "name_cs": "kal2m009",
     "variable": "kal2m009",
@@ -23409,7 +23409,7 @@
     "label_de": "Unterstuetzung a. des HH Sep Vorjahr"
   },
   "kal2m010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m010",
     "name_cs": "kal2m010",
     "variable": "kal2m010",
@@ -23481,7 +23481,7 @@
     "label_de": "Unterstuetzung a. des HH Okt Vorjahr"
   },
   "kal2m011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m011",
     "name_cs": "kal2m011",
     "variable": "kal2m011",
@@ -23553,7 +23553,7 @@
     "label_de": "Unterstuetzung a. des HH Nov Vorjahr"
   },
   "kal2m012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m012",
     "name_cs": "kal2m012",
     "variable": "kal2m012",
@@ -23625,7 +23625,7 @@
     "label_de": "Unterstuetzung a. des HH Dez Vorjahr"
   },
   "kal2n001": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n001",
     "name_cs": "kal2n001",
     "variable": "kal2n001",
@@ -23697,7 +23697,7 @@
     "label_de": "Keine dieser Einkuenfte  Jan Vorjahr"
   },
   "kal2n002": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n002",
     "name_cs": "kal2n002",
     "variable": "kal2n002",
@@ -23769,7 +23769,7 @@
     "label_de": "Keine dieser Einkuenfte  Feb Vorjahr"
   },
   "kal2n003": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n003",
     "name_cs": "kal2n003",
     "variable": "kal2n003",
@@ -23841,7 +23841,7 @@
     "label_de": "Keine dieser Einkuenfte  Mar Vorjahr"
   },
   "kal2n004": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n004",
     "name_cs": "kal2n004",
     "variable": "kal2n004",
@@ -23913,7 +23913,7 @@
     "label_de": "Keine dieser Einkuenfte  Apr Vorjahr"
   },
   "kal2n005": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n005",
     "name_cs": "kal2n005",
     "variable": "kal2n005",
@@ -23985,7 +23985,7 @@
     "label_de": "Keine dieser Einkuenfte  Mai Vorjahr"
   },
   "kal2n006": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n006",
     "name_cs": "kal2n006",
     "variable": "kal2n006",
@@ -24057,7 +24057,7 @@
     "label_de": "Keine dieser Einkuenfte  Jun Vorjahr"
   },
   "kal2n007": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n007",
     "name_cs": "kal2n007",
     "variable": "kal2n007",
@@ -24129,7 +24129,7 @@
     "label_de": "Keine dieser Einkuenfte  Jul Vorjahr"
   },
   "kal2n008": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n008",
     "name_cs": "kal2n008",
     "variable": "kal2n008",
@@ -24201,7 +24201,7 @@
     "label_de": "Keine dieser Einkuenfte  Aug Vorjahr"
   },
   "kal2n009": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n009",
     "name_cs": "kal2n009",
     "variable": "kal2n009",
@@ -24273,7 +24273,7 @@
     "label_de": "Keine dieser Einkuenfte  Sep Vorjahr"
   },
   "kal2n010": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n010",
     "name_cs": "kal2n010",
     "variable": "kal2n010",
@@ -24345,7 +24345,7 @@
     "label_de": "Keine dieser Einkuenfte  Okt Vorjahr"
   },
   "kal2n011": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n011",
     "name_cs": "kal2n011",
     "variable": "kal2n011",
@@ -24417,7 +24417,7 @@
     "label_de": "Keine dieser Einkuenfte  Nov Vorjahr"
   },
   "kal2n012": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n012",
     "name_cs": "kal2n012",
     "variable": "kal2n012",
@@ -24489,7 +24489,7 @@
     "label_de": "Keine dieser Einkuenfte  Dez Vorjahr"
   },
   "kal2a": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2a",
     "name_cs": "kal2a",
     "variable": "kal2a",
@@ -24515,7 +24515,7 @@
     "label_de": "Lohn als Arbeitnehmer    Jan-Dez Vorjahr"
   },
   "kal2b": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2b",
     "name_cs": "kal2b",
     "variable": "kal2b",
@@ -24541,7 +24541,7 @@
     "label_de": "Eink.a.selbstdg.Taetigk. Jan-Dez Vorjahr"
   },
   "kal2c": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2c",
     "name_cs": "kal2c",
     "variable": "kal2c",
@@ -24567,7 +24567,7 @@
     "label_de": "Einkommen a. Nebenerwerb Jan-Dez Vorjahr"
   },
   "kal2d": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d",
     "name_cs": "kal2d",
     "variable": "kal2d",
@@ -24593,7 +24593,7 @@
     "label_de": "Altersrente, Pension     Jan-Dez Vorjahr"
   },
   "kal2e": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e",
     "name_cs": "kal2e",
     "variable": "kal2e",
@@ -24619,7 +24619,7 @@
     "label_de": "Witwen-, Waisenrente     Jan-Dez Vorjahr"
   },
   "kal2f": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2f",
     "name_cs": "kal2f",
     "variable": "kal2f",
@@ -24645,7 +24645,7 @@
     "label_de": "Arbeitslosengeld         Jan-Dez Vorjahr"
   },
   "kal2g": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2g",
     "name_cs": "kal2g",
     "variable": "kal2g",
@@ -24671,7 +24671,7 @@
     "label_de": "Arbeitslosenhilfe        Jan-Dez Vorjahr"
   },
   "kal2h": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2h",
     "name_cs": "kal2h",
     "variable": "kal2h",
@@ -24697,7 +24697,7 @@
     "label_de": "Unterhaltsgeld v.Arbamt  Jan-Dez Vorjahr"
   },
   "kal2j": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2j",
     "name_cs": "kal2j",
     "variable": "kal2j",
@@ -24723,7 +24723,7 @@
     "label_de": "Mutterschafts-, Erzggeld Jan-Dez Vorjahr"
   },
   "kal2k": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2k",
     "name_cs": "kal2k",
     "variable": "kal2k",
@@ -24749,7 +24749,7 @@
     "label_de": "BAFOEG, Stipendium       Jan-Dez Vorjahr"
   },
   "kal2m": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2m",
     "name_cs": "kal2m",
     "variable": "kal2m",
@@ -24775,7 +24775,7 @@
     "label_de": "Unterstuetzung a. des HH Jan-Dez Vorjahr"
   },
   "kal2n": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2n",
     "name_cs": "kal2n",
     "variable": "kal2n",
@@ -24801,7 +24801,7 @@
     "label_de": "Keine dieser Einkuenfte  Jan-Dez Vorjahr"
   },
   "kal2d03z": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2d03z",
     "name_cs": "kal2d03z",
     "variable": "kal2d03z",
@@ -24841,7 +24841,7 @@
     "label_de": "[1985]_D03: dar.Zusatzversorg. Betrag  Vj"
   },
   "kal2e03z": {
-    "study": "soep-core",
+    "study": "soep-long",
     "name": "kal2e03z",
     "name_cs": "kal2e03z",
     "variable": "kal2e03z",
