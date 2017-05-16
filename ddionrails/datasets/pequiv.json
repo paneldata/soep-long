@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "Current Wave HH Number"
   },
   "pid": {
+    "study": "soep-core",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -111,6 +114,7 @@
     "label_de": "Never Changing Person ID"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -148,6 +152,7 @@
     "label_de": "Survey Year"
   },
   "x11101ll": {
+    "study": "soep-core",
     "name": "x11101ll",
     "name_cs": "x11101ll",
     "variable": "x11101ll",
@@ -185,6 +190,7 @@
     "label_de": "Person Identification Number"
   },
   "d11102ll": {
+    "study": "soep-core",
     "name": "d11102ll",
     "name_cs": "d11102ll",
     "variable": "d11102ll",
@@ -261,6 +267,7 @@
     "label_de": "Gender of Individual"
   },
   "x11104ll": {
+    "study": "soep-core",
     "name": "x11104ll",
     "name_cs": "x11104ll",
     "variable": "x11104ll",
@@ -407,6 +414,7 @@
     "label_de": "Subsample Identifier"
   },
   "x11102": {
+    "study": "soep-core",
     "name": "x11102",
     "name_cs": "x11102",
     "variable": "x11102",
@@ -444,6 +452,7 @@
     "label_de": "HH Identification Number"
   },
   "x11103": {
+    "study": "soep-core",
     "name": "x11103",
     "name_cs": "x11103",
     "variable": "x11103",
@@ -520,6 +529,7 @@
     "label_de": "Individual in HH at Survey"
   },
   "x11105": {
+    "study": "soep-core",
     "name": "x11105",
     "name_cs": "x11105",
     "variable": "x11105",
@@ -596,6 +606,7 @@
     "label_de": "Individual responded to Survey"
   },
   "d11101": {
+    "study": "soep-core",
     "name": "d11101",
     "name_cs": "d11101",
     "variable": "d11101",
@@ -635,6 +646,7 @@
     "label_de": "Age of Individual"
   },
   "d11103": {
+    "study": "soep-core",
     "name": "d11103",
     "name_cs": "d11103",
     "variable": "d11103",
@@ -710,6 +722,7 @@
     "label_de": "Race of HH Head"
   },
   "d11104": {
+    "study": "soep-core",
     "name": "d11104",
     "name_cs": "d11104",
     "variable": "d11104",
@@ -811,6 +824,7 @@
     "label_de": "Marital Status of Individual"
   },
   "d11105": {
+    "study": "soep-core",
     "name": "d11105",
     "name_cs": "d11105",
     "variable": "d11105",
@@ -902,6 +916,7 @@
     "label_de": "Relationship to HH Head"
   },
   "d11106": {
+    "study": "soep-core",
     "name": "d11106",
     "name_cs": "d11106",
     "variable": "d11106",
@@ -939,6 +954,7 @@
     "label_de": "Number of Persons in HH"
   },
   "d11107": {
+    "study": "soep-core",
     "name": "d11107",
     "name_cs": "d11107",
     "variable": "d11107",
@@ -976,6 +992,7 @@
     "label_de": "Number of Children in HH"
   },
   "d11108": {
+    "study": "soep-core",
     "name": "d11108",
     "name_cs": "d11108",
     "variable": "d11108",
@@ -1057,6 +1074,7 @@
     "label_de": "Education With Respect to High School"
   },
   "d11109": {
+    "study": "soep-core",
     "name": "d11109",
     "name_cs": "d11109",
     "variable": "d11109",
@@ -1096,6 +1114,7 @@
     "label_de": "Number of Years of Education"
   },
   "e11101": {
+    "study": "soep-core",
     "name": "e11101",
     "name_cs": "e11101",
     "variable": "e11101",
@@ -1135,6 +1154,7 @@
     "label_de": "Annual Work Hours of Individual"
   },
   "e11102": {
+    "study": "soep-core",
     "name": "e11102",
     "name_cs": "e11102",
     "variable": "e11102",
@@ -1211,6 +1231,7 @@
     "label_de": "Employment Status of Individual"
   },
   "e11103": {
+    "study": "soep-core",
     "name": "e11103",
     "name_cs": "e11103",
     "variable": "e11103",
@@ -1292,6 +1313,7 @@
     "label_de": "Employment Level of Individual"
   },
   "e11104": {
+    "study": "soep-core",
     "name": "e11104",
     "name_cs": "e11104",
     "variable": "e11104",
@@ -1368,6 +1390,7 @@
     "label_de": "Primary Activity of Individual"
   },
   "e11105": {
+    "study": "soep-core",
     "name": "e11105",
     "name_cs": "e11105",
     "variable": "e11105",
@@ -3764,6 +3787,7 @@
     "label_de": "Occupation of Individual"
   },
   "e11106": {
+    "study": "soep-core",
     "name": "e11106",
     "name_cs": "e11106",
     "variable": "e11106",
@@ -3885,6 +3909,7 @@
     "label_de": "1 Digit Industry Code of Individual"
   },
   "e11107": {
+    "study": "soep-core",
     "name": "e11107",
     "name_cs": "e11107",
     "variable": "e11107",
@@ -4131,6 +4156,7 @@
     "label_de": "2 Digit Industry Code of Individual"
   },
   "i11101": {
+    "study": "soep-core",
     "name": "i11101",
     "name_cs": "i11101",
     "variable": "i11101",
@@ -4170,6 +4196,7 @@
     "label_de": "HH Pre-Government Income"
   },
   "i11102": {
+    "study": "soep-core",
     "name": "i11102",
     "name_cs": "i11102",
     "variable": "i11102",
@@ -4209,6 +4236,7 @@
     "label_de": "HH Post-Government Income"
   },
   "i11103": {
+    "study": "soep-core",
     "name": "i11103",
     "name_cs": "i11103",
     "variable": "i11103",
@@ -4248,6 +4276,7 @@
     "label_de": "HH Labor Income"
   },
   "i11104": {
+    "study": "soep-core",
     "name": "i11104",
     "name_cs": "i11104",
     "variable": "i11104",
@@ -4287,6 +4316,7 @@
     "label_de": "HH Income From Asset Flows"
   },
   "i11105": {
+    "study": "soep-core",
     "name": "i11105",
     "name_cs": "i11105",
     "variable": "i11105",
@@ -4326,6 +4356,7 @@
     "label_de": "HH Imputed Rent"
   },
   "i11106": {
+    "study": "soep-core",
     "name": "i11106",
     "name_cs": "i11106",
     "variable": "i11106",
@@ -4365,6 +4396,7 @@
     "label_de": "HH Private Transfers"
   },
   "i11107": {
+    "study": "soep-core",
     "name": "i11107",
     "name_cs": "i11107",
     "variable": "i11107",
@@ -4404,6 +4436,7 @@
     "label_de": "HH Public Transfers"
   },
   "i11108": {
+    "study": "soep-core",
     "name": "i11108",
     "name_cs": "i11108",
     "variable": "i11108",
@@ -4443,6 +4476,7 @@
     "label_de": "HH Social Security Pensions"
   },
   "i11109": {
+    "study": "soep-core",
     "name": "i11109",
     "name_cs": "i11109",
     "variable": "i11109",
@@ -4482,6 +4516,7 @@
     "label_de": "Total HH Taxes"
   },
   "i11110": {
+    "study": "soep-core",
     "name": "i11110",
     "name_cs": "i11110",
     "variable": "i11110",
@@ -4521,6 +4556,7 @@
     "label_de": "Individual Labor Earnings"
   },
   "i11111": {
+    "study": "soep-core",
     "name": "i11111",
     "name_cs": "i11111",
     "variable": "i11111",
@@ -4560,6 +4596,7 @@
     "label_de": "HH Federal Taxes"
   },
   "i11112": {
+    "study": "soep-core",
     "name": "i11112",
     "name_cs": "i11112",
     "variable": "i11112",
@@ -4599,6 +4636,7 @@
     "label_de": "HH Social Security Taxes"
   },
   "i11113": {
+    "study": "soep-core",
     "name": "i11113",
     "name_cs": "i11113",
     "variable": "i11113",
@@ -4618,6 +4656,7 @@
     "label_de": "HH Post-Government Income (TAXSIM)"
   },
   "i11114": {
+    "study": "soep-core",
     "name": "i11114",
     "name_cs": "i11114",
     "variable": "i11114",
@@ -4637,6 +4676,7 @@
     "label_de": "Total HH Taxes (TAXSIM)"
   },
   "i11115": {
+    "study": "soep-core",
     "name": "i11115",
     "name_cs": "i11115",
     "variable": "i11115",
@@ -4656,6 +4696,7 @@
     "label_de": "HH State Taxes (TAXSIM)"
   },
   "i11116": {
+    "study": "soep-core",
     "name": "i11116",
     "name_cs": "i11116",
     "variable": "i11116",
@@ -4675,6 +4716,7 @@
     "label_de": "HH Federal Taxes (TAXSIM)"
   },
   "i11117": {
+    "study": "soep-core",
     "name": "i11117",
     "name_cs": "i11117",
     "variable": "i11117",
@@ -4714,6 +4756,7 @@
     "label_de": "HH Private Retirement Income"
   },
   "i11201": {
+    "study": "soep-core",
     "name": "i11201",
     "name_cs": "i11201",
     "variable": "i11201",
@@ -5285,6 +5328,7 @@
     "label_de": "Share of imputed HH Pre-Government Income"
   },
   "i11202": {
+    "study": "soep-core",
     "name": "i11202",
     "name_cs": "i11202",
     "variable": "i11202",
@@ -5856,6 +5900,7 @@
     "label_de": "Share of imputed HH Post-Government Income"
   },
   "i11203": {
+    "study": "soep-core",
     "name": "i11203",
     "name_cs": "i11203",
     "variable": "i11203",
@@ -6427,6 +6472,7 @@
     "label_de": "Share of imputed HH Labour Income"
   },
   "i11204": {
+    "study": "soep-core",
     "name": "i11204",
     "name_cs": "i11204",
     "variable": "i11204",
@@ -6998,6 +7044,7 @@
     "label_de": "Share of imputed HH Income From Asset Flows"
   },
   "i11206": {
+    "study": "soep-core",
     "name": "i11206",
     "name_cs": "i11206",
     "variable": "i11206",
@@ -7374,6 +7421,7 @@
     "label_de": "Share of imputed HH Private Transfers"
   },
   "i11207": {
+    "study": "soep-core",
     "name": "i11207",
     "name_cs": "i11207",
     "variable": "i11207",
@@ -7945,6 +7993,7 @@
     "label_de": "Share of imputed HH Public Transfers"
   },
   "i11208": {
+    "study": "soep-core",
     "name": "i11208",
     "name_cs": "i11208",
     "variable": "i11208",
@@ -8516,6 +8565,7 @@
     "label_de": "Share of imputed HH Social Security Pensions"
   },
   "i11210": {
+    "study": "soep-core",
     "name": "i11210",
     "name_cs": "i11210",
     "variable": "i11210",
@@ -9087,6 +9137,7 @@
     "label_de": "Share of imputed Individual Labor Earnings"
   },
   "i11217": {
+    "study": "soep-core",
     "name": "i11217",
     "name_cs": "i11217",
     "variable": "i11217",
@@ -9173,6 +9224,7 @@
     "label_de": "Share of imputed HH Private Retirement Income"
   },
   "w11101": {
+    "study": "soep-core",
     "name": "w11101",
     "name_cs": "w11101",
     "variable": "w11101",
@@ -9210,6 +9262,7 @@
     "label_de": "Individuals Cross-sectional Weight - without 1st wave of a subsample"
   },
   "w11102": {
+    "study": "soep-core",
     "name": "w11102",
     "name_cs": "w11102",
     "variable": "w11102",
@@ -9247,6 +9300,7 @@
     "label_de": "HH Weight"
   },
   "w11103": {
+    "study": "soep-core",
     "name": "w11103",
     "name_cs": "w11103",
     "variable": "w11103",
@@ -9284,6 +9338,7 @@
     "label_de": "Longitudinal Weight - Respondent Individual"
   },
   "w11105": {
+    "study": "soep-core",
     "name": "w11105",
     "name_cs": "w11105",
     "variable": "w11105",
@@ -9321,6 +9376,7 @@
     "label_de": "Cross-sectional Weight - all samples"
   },
   "w11107": {
+    "study": "soep-core",
     "name": "w11107",
     "name_cs": "w11107",
     "variable": "w11107",
@@ -9340,6 +9396,7 @@
     "label_de": "X-Sectional Weight - Enumerated Individual"
   },
   "w11108": {
+    "study": "soep-core",
     "name": "w11108",
     "name_cs": "w11108",
     "variable": "w11108",
@@ -9359,6 +9416,7 @@
     "label_de": "Longitudinal Weight - Enumerated Individual"
   },
   "w11109": {
+    "study": "soep-core",
     "name": "w11109",
     "name_cs": "w11109",
     "variable": "w11109",
@@ -9378,6 +9436,7 @@
     "label_de": "Population Factor for w11103$$"
   },
   "w11110": {
+    "study": "soep-core",
     "name": "w11110",
     "name_cs": "w11110",
     "variable": "w11110",
@@ -9397,6 +9456,7 @@
     "label_de": "Population Factor for w11107$$"
   },
   "w11111": {
+    "study": "soep-core",
     "name": "w11111",
     "name_cs": "w11111",
     "variable": "w11111",
@@ -9416,6 +9476,7 @@
     "label_de": "Population Factor for w11108$$"
   },
   "h11101": {
+    "study": "soep-core",
     "name": "h11101",
     "name_cs": "h11101",
     "variable": "h11101",
@@ -9453,6 +9514,7 @@
     "label_de": "Number of hh members age 0-14"
   },
   "h11102": {
+    "study": "soep-core",
     "name": "h11102",
     "name_cs": "h11102",
     "variable": "h11102",
@@ -9490,6 +9552,7 @@
     "label_de": "Number of hh members age 15-18"
   },
   "h11103": {
+    "study": "soep-core",
     "name": "h11103",
     "name_cs": "h11103",
     "variable": "h11103",
@@ -9527,6 +9590,7 @@
     "label_de": "Number of hh members age 0-1"
   },
   "h11104": {
+    "study": "soep-core",
     "name": "h11104",
     "name_cs": "h11104",
     "variable": "h11104",
@@ -9564,6 +9628,7 @@
     "label_de": "Number of hh members age 2-4"
   },
   "h11105": {
+    "study": "soep-core",
     "name": "h11105",
     "name_cs": "h11105",
     "variable": "h11105",
@@ -9601,6 +9666,7 @@
     "label_de": "Number of hh members age 5-7"
   },
   "h11106": {
+    "study": "soep-core",
     "name": "h11106",
     "name_cs": "h11106",
     "variable": "h11106",
@@ -9638,6 +9704,7 @@
     "label_de": "Number of hh members age 8-10"
   },
   "h11107": {
+    "study": "soep-core",
     "name": "h11107",
     "name_cs": "h11107",
     "variable": "h11107",
@@ -9675,6 +9742,7 @@
     "label_de": "Number of hh members age 11-12"
   },
   "h11108": {
+    "study": "soep-core",
     "name": "h11108",
     "name_cs": "h11108",
     "variable": "h11108",
@@ -9712,6 +9780,7 @@
     "label_de": "Number of hh members age 13-15"
   },
   "h11109": {
+    "study": "soep-core",
     "name": "h11109",
     "name_cs": "h11109",
     "variable": "h11109",
@@ -9749,6 +9818,7 @@
     "label_de": "Number of hh members age 16-18"
   },
   "h11110": {
+    "study": "soep-core",
     "name": "h11110",
     "name_cs": "h11110",
     "variable": "h11110",
@@ -9786,6 +9856,7 @@
     "label_de": "No. hh members 19 and above or 16-18,ind"
   },
   "h11112": {
+    "study": "soep-core",
     "name": "h11112",
     "name_cs": "h11112",
     "variable": "h11112",
@@ -9823,6 +9894,7 @@
     "label_de": "Indicator-wife in HH"
   },
   "y11101": {
+    "study": "soep-core",
     "name": "y11101",
     "name_cs": "y11101",
     "variable": "y11101",
@@ -9862,6 +9934,7 @@
     "label_de": "Consumer Price Index"
   },
   "l11101": {
+    "study": "soep-core",
     "name": "l11101",
     "name_cs": "l11101",
     "variable": "l11101",
@@ -10008,6 +10081,7 @@
     "label_de": "State of Residence"
   },
   "l11102": {
+    "study": "soep-core",
     "name": "l11102",
     "name_cs": "l11102",
     "variable": "l11102",
@@ -10084,6 +10158,7 @@
     "label_de": "Region"
   },
   "i11118": {
+    "study": "soep-core",
     "name": "i11118",
     "name_cs": "i11118",
     "variable": "i11118",
@@ -10123,6 +10198,7 @@
     "label_de": "Household Windfall Income"
   },
   "i11218": {
+    "study": "soep-core",
     "name": "i11218",
     "name_cs": "i11218",
     "variable": "i11218",
@@ -10199,6 +10275,7 @@
     "label_de": "Impute Household Windfall Income"
   },
   "h11111": {
+    "study": "soep-core",
     "name": "h11111",
     "name_cs": "h11111",
     "variable": "h11111",
@@ -10218,6 +10295,7 @@
     "label_de": "Indicator - Head in HH"
   },
   "i11205": {
+    "study": "soep-core",
     "name": "i11205",
     "name_cs": "i11205",
     "variable": "i11205",
@@ -10294,6 +10372,7 @@
     "label_de": "Impute HH Imputed Rental Value"
   },
   "i11209": {
+    "study": "soep-core",
     "name": "i11209",
     "name_cs": "i11209",
     "variable": "i11209",
@@ -10370,6 +10449,7 @@
     "label_de": "Impute Total HH Taxes"
   },
   "w11104": {
+    "study": "soep-core",
     "name": "w11104",
     "name_cs": "w11104",
     "variable": "w11104",
@@ -10389,6 +10469,7 @@
     "label_de": "Individuals Cross-sectional Weight - without 1st wave of a subsample"
   },
   "e11201": {
+    "study": "soep-core",
     "name": "e11201",
     "name_cs": "e11201",
     "variable": "e11201",
@@ -10408,6 +10489,7 @@
     "label_de": "Impute Annual Work Hours of Individual"
   },
   "ijob1": {
+    "study": "soep-core",
     "name": "ijob1",
     "name_cs": "ijob1",
     "variable": "ijob1",
@@ -10447,6 +10529,7 @@
     "label_de": "Wages,Salary from main job"
   },
   "ijob2": {
+    "study": "soep-core",
     "name": "ijob2",
     "name_cs": "ijob2",
     "variable": "ijob2",
@@ -10486,6 +10569,7 @@
     "label_de": "Income from secondary employment"
   },
   "iself": {
+    "study": "soep-core",
     "name": "iself",
     "name_cs": "iself",
     "variable": "iself",
@@ -10525,6 +10609,7 @@
     "label_de": "Income from self-employment"
   },
   "ioldy": {
+    "study": "soep-core",
     "name": "ioldy",
     "name_cs": "ioldy",
     "variable": "ioldy",
@@ -10564,6 +10649,7 @@
     "label_de": "old-age,disability and civil serv. pensions"
   },
   "iwidy": {
+    "study": "soep-core",
     "name": "iwidy",
     "name_cs": "iwidy",
     "variable": "iwidy",
@@ -10603,6 +10689,7 @@
     "label_de": "widows and/or orphans pension"
   },
   "iunby": {
+    "study": "soep-core",
     "name": "iunby",
     "name_cs": "iunby",
     "variable": "iunby",
@@ -10642,6 +10729,7 @@
     "label_de": "Unemployment benefit"
   },
   "iunay": {
+    "study": "soep-core",
     "name": "iunay",
     "name_cs": "iunay",
     "variable": "iunay",
@@ -10681,6 +10769,7 @@
     "label_de": "Unemployment assistance"
   },
   "isuby": {
+    "study": "soep-core",
     "name": "isuby",
     "name_cs": "isuby",
     "variable": "isuby",
@@ -10720,6 +10809,7 @@
     "label_de": "Subsistence allowance"
   },
   "ieret": {
+    "study": "soep-core",
     "name": "ieret",
     "name_cs": "ieret",
     "variable": "ieret",
@@ -10759,6 +10849,7 @@
     "label_de": "Old-age transition benefit"
   },
   "imaty": {
+    "study": "soep-core",
     "name": "imaty",
     "name_cs": "imaty",
     "variable": "imaty",
@@ -10798,6 +10889,7 @@
     "label_de": "Maternity benefit"
   },
   "istuy": {
+    "study": "soep-core",
     "name": "istuy",
     "name_cs": "istuy",
     "variable": "istuy",
@@ -10837,6 +10929,7 @@
     "label_de": "Student grants"
   },
   "imilt": {
+    "study": "soep-core",
     "name": "imilt",
     "name_cs": "imilt",
     "variable": "imilt",
@@ -10876,6 +10969,7 @@
     "label_de": "Military/community service pay"
   },
   "ialim": {
+    "study": "soep-core",
     "name": "ialim",
     "name_cs": "ialim",
     "variable": "ialim",
@@ -10915,6 +11009,7 @@
     "label_de": "Alimony"
   },
   "ielse": {
+    "study": "soep-core",
     "name": "ielse",
     "name_cs": "ielse",
     "variable": "ielse",
@@ -10954,6 +11049,7 @@
     "label_de": "Private Transfers received"
   },
   "icomp": {
+    "study": "soep-core",
     "name": "icomp",
     "name_cs": "icomp",
     "variable": "icomp",
@@ -10993,6 +11089,7 @@
     "label_de": "Company pension (surviving dependants c.p.)"
   },
   "iprvp": {
+    "study": "soep-core",
     "name": "iprvp",
     "name_cs": "iprvp",
     "variable": "iprvp",
@@ -11032,6 +11129,7 @@
     "label_de": "Private pension (old-age,accid.,disability)"
   },
   "i13ly": {
+    "study": "soep-core",
     "name": "i13ly",
     "name_cs": "i13ly",
     "variable": "i13ly",
@@ -11071,6 +11169,7 @@
     "label_de": "13th monthly salary"
   },
   "i14ly": {
+    "study": "soep-core",
     "name": "i14ly",
     "name_cs": "i14ly",
     "variable": "i14ly",
@@ -11110,6 +11209,7 @@
     "label_de": "14th monthly salary"
   },
   "ixmas": {
+    "study": "soep-core",
     "name": "ixmas",
     "name_cs": "ixmas",
     "variable": "ixmas",
@@ -11149,6 +11249,7 @@
     "label_de": "Christmas bonus"
   },
   "iholy": {
+    "study": "soep-core",
     "name": "iholy",
     "name_cs": "iholy",
     "variable": "iholy",
@@ -11188,6 +11289,7 @@
     "label_de": "Vacation bonus"
   },
   "igray": {
+    "study": "soep-core",
     "name": "igray",
     "name_cs": "igray",
     "variable": "igray",
@@ -11227,6 +11329,7 @@
     "label_de": "Profit-sharing"
   },
   "iothy": {
+    "study": "soep-core",
     "name": "iothy",
     "name_cs": "iothy",
     "variable": "iothy",
@@ -11266,6 +11369,7 @@
     "label_de": "Other bonuses"
   },
   "igrv1": {
+    "study": "soep-core",
     "name": "igrv1",
     "name_cs": "igrv1",
     "variable": "igrv1",
@@ -11305,6 +11409,7 @@
     "label_de": "Retirement pay: stat. pension insurance"
   },
   "igrv2": {
+    "study": "soep-core",
     "name": "igrv2",
     "name_cs": "igrv2",
     "variable": "igrv2",
@@ -11344,6 +11449,7 @@
     "label_de": "Widows pension: stat pension insurance"
   },
   "renty": {
+    "study": "soep-core",
     "name": "renty",
     "name_cs": "renty",
     "variable": "renty",
@@ -11381,6 +11487,7 @@
     "label_de": "Income from rental and leasing"
   },
   "opery": {
+    "study": "soep-core",
     "name": "opery",
     "name_cs": "opery",
     "variable": "opery",
@@ -11418,6 +11525,7 @@
     "label_de": "Operation, maintenance costs"
   },
   "divdy": {
+    "study": "soep-core",
     "name": "divdy",
     "name_cs": "divdy",
     "variable": "divdy",
@@ -11457,6 +11565,7 @@
     "label_de": "Interest, dividend income"
   },
   "chspt": {
+    "study": "soep-core",
     "name": "chspt",
     "name_cs": "chspt",
     "variable": "chspt",
@@ -11494,6 +11603,7 @@
     "label_de": "Child allowance"
   },
   "house": {
+    "study": "soep-core",
     "name": "house",
     "name_cs": "house",
     "variable": "house",
@@ -11531,6 +11641,7 @@
     "label_de": "Housing benefit"
   },
   "nursh": {
+    "study": "soep-core",
     "name": "nursh",
     "name_cs": "nursh",
     "variable": "nursh",
@@ -11568,6 +11679,7 @@
     "label_de": "Compulsory long term care insurance"
   },
   "subst": {
+    "study": "soep-core",
     "name": "subst",
     "name_cs": "subst",
     "variable": "subst",
@@ -11605,6 +11717,7 @@
     "label_de": "Social assistance(living expenses etc)"
   },
   "sphlp": {
+    "study": "soep-core",
     "name": "sphlp",
     "name_cs": "sphlp",
     "variable": "sphlp",
@@ -11644,6 +11757,7 @@
     "label_de": "Social assistance f. spec. circumstances"
   },
   "hsup": {
+    "study": "soep-core",
     "name": "hsup",
     "name_cs": "hsup",
     "variable": "hsup",
@@ -11681,6 +11795,7 @@
     "label_de": "Housing support for owner-occupiers"
   },
   "fjob1": {
+    "study": "soep-core",
     "name": "fjob1",
     "name_cs": "fjob1",
     "variable": "fjob1",
@@ -11757,6 +11872,7 @@
     "label_de": "Imp.flag:Wages,Salary from main job"
   },
   "fjob2": {
+    "study": "soep-core",
     "name": "fjob2",
     "name_cs": "fjob2",
     "variable": "fjob2",
@@ -11833,6 +11949,7 @@
     "label_de": "Imp.flag:Income from secondary job"
   },
   "fself": {
+    "study": "soep-core",
     "name": "fself",
     "name_cs": "fself",
     "variable": "fself",
@@ -11909,6 +12026,7 @@
     "label_de": "Imp.flag:Income from self-employment"
   },
   "funby": {
+    "study": "soep-core",
     "name": "funby",
     "name_cs": "funby",
     "variable": "funby",
@@ -11985,6 +12103,7 @@
     "label_de": "Imp.flag:Unemployment benefit"
   },
   "foldy": {
+    "study": "soep-core",
     "name": "foldy",
     "name_cs": "foldy",
     "variable": "foldy",
@@ -12061,6 +12180,7 @@
     "label_de": "Imp.flag:old-age,civil serv. pensions"
   },
   "fwidy": {
+    "study": "soep-core",
     "name": "fwidy",
     "name_cs": "fwidy",
     "variable": "fwidy",
@@ -12137,6 +12257,7 @@
     "label_de": "Imp.flag:widows/orphans pension"
   },
   "funay": {
+    "study": "soep-core",
     "name": "funay",
     "name_cs": "funay",
     "variable": "funay",
@@ -12213,6 +12334,7 @@
     "label_de": "Imp.flag:Unemployment assistance"
   },
   "fsuby": {
+    "study": "soep-core",
     "name": "fsuby",
     "name_cs": "fsuby",
     "variable": "fsuby",
@@ -12289,6 +12411,7 @@
     "label_de": "Imp.flag:Subsistence allowance"
   },
   "feret": {
+    "study": "soep-core",
     "name": "feret",
     "name_cs": "feret",
     "variable": "feret",
@@ -12365,6 +12488,7 @@
     "label_de": "Imp.flag:Old-age transition benefit"
   },
   "fmaty": {
+    "study": "soep-core",
     "name": "fmaty",
     "name_cs": "fmaty",
     "variable": "fmaty",
@@ -12441,6 +12565,7 @@
     "label_de": "Imp.flag:Maternity benefit"
   },
   "fstuy": {
+    "study": "soep-core",
     "name": "fstuy",
     "name_cs": "fstuy",
     "variable": "fstuy",
@@ -12517,6 +12642,7 @@
     "label_de": "Imp.flag:Student grants"
   },
   "fmilt": {
+    "study": "soep-core",
     "name": "fmilt",
     "name_cs": "fmilt",
     "variable": "fmilt",
@@ -12593,6 +12719,7 @@
     "label_de": "Imp.flag:Military/community service pay"
   },
   "falim": {
+    "study": "soep-core",
     "name": "falim",
     "name_cs": "falim",
     "variable": "falim",
@@ -12669,6 +12796,7 @@
     "label_de": "Imp.flag:Alimony"
   },
   "felse": {
+    "study": "soep-core",
     "name": "felse",
     "name_cs": "felse",
     "variable": "felse",
@@ -12745,6 +12873,7 @@
     "label_de": "Imp.flag:Private Transfers received"
   },
   "fcomp": {
+    "study": "soep-core",
     "name": "fcomp",
     "name_cs": "fcomp",
     "variable": "fcomp",
@@ -12821,6 +12950,7 @@
     "label_de": "Imp.flag:Company pension"
   },
   "fprvp": {
+    "study": "soep-core",
     "name": "fprvp",
     "name_cs": "fprvp",
     "variable": "fprvp",
@@ -12897,6 +13027,7 @@
     "label_de": "Imp.flag:Private pension(old-age,accid.)"
   },
   "f13ly": {
+    "study": "soep-core",
     "name": "f13ly",
     "name_cs": "f13ly",
     "variable": "f13ly",
@@ -12973,6 +13104,7 @@
     "label_de": "Imp.flag:13th monthly salary"
   },
   "f14ly": {
+    "study": "soep-core",
     "name": "f14ly",
     "name_cs": "f14ly",
     "variable": "f14ly",
@@ -13049,6 +13181,7 @@
     "label_de": "Imp.flag:14th monthly salary"
   },
   "fxmas": {
+    "study": "soep-core",
     "name": "fxmas",
     "name_cs": "fxmas",
     "variable": "fxmas",
@@ -13125,6 +13258,7 @@
     "label_de": "Imp.flag:Christmas bonus"
   },
   "fholy": {
+    "study": "soep-core",
     "name": "fholy",
     "name_cs": "fholy",
     "variable": "fholy",
@@ -13201,6 +13335,7 @@
     "label_de": "Imp.flag:Vacation bonus"
   },
   "fgray": {
+    "study": "soep-core",
     "name": "fgray",
     "name_cs": "fgray",
     "variable": "fgray",
@@ -13277,6 +13412,7 @@
     "label_de": "Imp.flag:Profit-sharing"
   },
   "fothy": {
+    "study": "soep-core",
     "name": "fothy",
     "name_cs": "fothy",
     "variable": "fothy",
@@ -13353,6 +13489,7 @@
     "label_de": "Imp.flag:Other bonuses"
   },
   "fgrv1": {
+    "study": "soep-core",
     "name": "fgrv1",
     "name_cs": "fgrv1",
     "variable": "fgrv1",
@@ -13429,6 +13566,7 @@
     "label_de": "Imp.flag:retirement pay from stat.insurance"
   },
   "fgrv2": {
+    "study": "soep-core",
     "name": "fgrv2",
     "name_cs": "fgrv2",
     "variable": "fgrv2",
@@ -13505,6 +13643,7 @@
     "label_de": "Imp.flag:widows pension from stat.insurance"
   },
   "frenty": {
+    "study": "soep-core",
     "name": "frenty",
     "name_cs": "frenty",
     "variable": "frenty",
@@ -13581,6 +13720,7 @@
     "label_de": "Imp.flag:Income from rental and leasing"
   },
   "fopery": {
+    "study": "soep-core",
     "name": "fopery",
     "name_cs": "fopery",
     "variable": "fopery",
@@ -13657,6 +13797,7 @@
     "label_de": "Imp.flag:Operation, maintenance costs"
   },
   "fdivdy": {
+    "study": "soep-core",
     "name": "fdivdy",
     "name_cs": "fdivdy",
     "variable": "fdivdy",
@@ -13733,6 +13874,7 @@
     "label_de": "Imp.flag:Interest, dividend income"
   },
   "fchspt": {
+    "study": "soep-core",
     "name": "fchspt",
     "name_cs": "fchspt",
     "variable": "fchspt",
@@ -13809,6 +13951,7 @@
     "label_de": "Imp.flag:Child allowance"
   },
   "fhouse": {
+    "study": "soep-core",
     "name": "fhouse",
     "name_cs": "fhouse",
     "variable": "fhouse",
@@ -13885,6 +14028,7 @@
     "label_de": "Imp.flag:Housing benefit"
   },
   "fnursh": {
+    "study": "soep-core",
     "name": "fnursh",
     "name_cs": "fnursh",
     "variable": "fnursh",
@@ -13961,6 +14105,7 @@
     "label_de": "Imp.flag:Compuls. long term care insurance"
   },
   "fsubst": {
+    "study": "soep-core",
     "name": "fsubst",
     "name_cs": "fsubst",
     "variable": "fsubst",
@@ -14037,6 +14182,7 @@
     "label_de": "Imp.flag:Social assist.(living expenses ..)"
   },
   "fsphlp": {
+    "study": "soep-core",
     "name": "fsphlp",
     "name_cs": "fsphlp",
     "variable": "fsphlp",
@@ -14113,6 +14259,7 @@
     "label_de": "Imp.flag:Soc. assist. for spec. circumstan."
   },
   "fhsup": {
+    "study": "soep-core",
     "name": "fhsup",
     "name_cs": "fhsup",
     "variable": "fhsup",
@@ -14189,6 +14336,7 @@
     "label_de": "Imp.flag:Housing support f. owner-occupiers"
   },
   "ismp1": {
+    "study": "soep-core",
     "name": "ismp1",
     "name_cs": "ismp1",
     "variable": "ismp1",
@@ -14228,6 +14376,7 @@
     "label_de": "Social miners insurance pension"
   },
   "iciv1": {
+    "study": "soep-core",
     "name": "iciv1",
     "name_cs": "iciv1",
     "variable": "iciv1",
@@ -14267,6 +14416,7 @@
     "label_de": "Civil servant pension"
   },
   "iwar1": {
+    "study": "soep-core",
     "name": "iwar1",
     "name_cs": "iwar1",
     "variable": "iwar1",
@@ -14306,6 +14456,7 @@
     "label_de": "War victim pension"
   },
   "iagr1": {
+    "study": "soep-core",
     "name": "iagr1",
     "name_cs": "iagr1",
     "variable": "iagr1",
@@ -14345,6 +14496,7 @@
     "label_de": "Farmer Pension"
   },
   "iguv1": {
+    "study": "soep-core",
     "name": "iguv1",
     "name_cs": "iguv1",
     "variable": "iguv1",
@@ -14384,6 +14536,7 @@
     "label_de": "Statutory accident insurance"
   },
   "ivbl1": {
+    "study": "soep-core",
     "name": "ivbl1",
     "name_cs": "ivbl1",
     "variable": "ivbl1",
@@ -14423,6 +14576,7 @@
     "label_de": "Supplementary benefits for civil servants"
   },
   "icom1": {
+    "study": "soep-core",
     "name": "icom1",
     "name_cs": "icom1",
     "variable": "icom1",
@@ -14462,6 +14616,7 @@
     "label_de": "Company pension"
   },
   "iprv1": {
+    "study": "soep-core",
     "name": "iprv1",
     "name_cs": "iprv1",
     "variable": "iprv1",
@@ -14501,6 +14656,7 @@
     "label_de": "Private pension"
   },
   "ison1": {
+    "study": "soep-core",
     "name": "ison1",
     "name_cs": "ison1",
     "variable": "ison1",
@@ -14540,6 +14696,7 @@
     "label_de": "Other pension"
   },
   "ismp2": {
+    "study": "soep-core",
     "name": "ismp2",
     "name_cs": "ismp2",
     "variable": "ismp2",
@@ -14579,6 +14736,7 @@
     "label_de": "Widows social miners insurance pension"
   },
   "iciv2": {
+    "study": "soep-core",
     "name": "iciv2",
     "name_cs": "iciv2",
     "variable": "iciv2",
@@ -14618,6 +14776,7 @@
     "label_de": "Widows civil servant pension"
   },
   "iwar2": {
+    "study": "soep-core",
     "name": "iwar2",
     "name_cs": "iwar2",
     "variable": "iwar2",
@@ -14657,6 +14816,7 @@
     "label_de": "Widows war victim pension"
   },
   "iagr2": {
+    "study": "soep-core",
     "name": "iagr2",
     "name_cs": "iagr2",
     "variable": "iagr2",
@@ -14696,6 +14856,7 @@
     "label_de": "Widows farmer Pension"
   },
   "iguv2": {
+    "study": "soep-core",
     "name": "iguv2",
     "name_cs": "iguv2",
     "variable": "iguv2",
@@ -14735,6 +14896,7 @@
     "label_de": "Widows statutory accident insurance"
   },
   "ivbl2": {
+    "study": "soep-core",
     "name": "ivbl2",
     "name_cs": "ivbl2",
     "variable": "ivbl2",
@@ -14774,6 +14936,7 @@
     "label_de": "Widows supplement. benefits(civil servants)"
   },
   "icom2": {
+    "study": "soep-core",
     "name": "icom2",
     "name_cs": "icom2",
     "variable": "icom2",
@@ -14813,6 +14976,7 @@
     "label_de": "Widows company pension"
   },
   "ison2": {
+    "study": "soep-core",
     "name": "ison2",
     "name_cs": "ison2",
     "variable": "ison2",
@@ -14852,6 +15016,7 @@
     "label_de": "Other widows pension"
   },
   "iprv2": {
+    "study": "soep-core",
     "name": "iprv2",
     "name_cs": "iprv2",
     "variable": "iprv2",
@@ -14891,6 +15056,7 @@
     "label_de": "Widows private pension"
   },
   "m11101": {
+    "study": "soep-core",
     "name": "m11101",
     "name_cs": "m11101",
     "variable": "m11101",
@@ -14967,6 +15133,7 @@
     "label_de": "Overnight hosp stay"
   },
   "m11102": {
+    "study": "soep-core",
     "name": "m11102",
     "name_cs": "m11102",
     "variable": "m11102",
@@ -15006,6 +15173,7 @@
     "label_de": "Inpatient nights in hosp"
   },
   "m11103": {
+    "study": "soep-core",
     "name": "m11103",
     "name_cs": "m11103",
     "variable": "m11103",
@@ -15082,6 +15250,7 @@
     "label_de": "Work accident required treatment"
   },
   "m11104": {
+    "study": "soep-core",
     "name": "m11104",
     "name_cs": "m11104",
     "variable": "m11104",
@@ -15168,6 +15337,7 @@
     "label_de": "Frequency of sport or exercise"
   },
   "m11105": {
+    "study": "soep-core",
     "name": "m11105",
     "name_cs": "m11105",
     "variable": "m11105",
@@ -15207,6 +15377,7 @@
     "label_de": "Have had stroke"
   },
   "m11106": {
+    "study": "soep-core",
     "name": "m11106",
     "name_cs": "m11106",
     "variable": "m11106",
@@ -15246,6 +15417,7 @@
     "label_de": "High blood pressure/circulation problems"
   },
   "m11107": {
+    "study": "soep-core",
     "name": "m11107",
     "name_cs": "m11107",
     "variable": "m11107",
@@ -15285,6 +15457,7 @@
     "label_de": "Have or had diabetes"
   },
   "m11108": {
+    "study": "soep-core",
     "name": "m11108",
     "name_cs": "m11108",
     "variable": "m11108",
@@ -15324,6 +15497,7 @@
     "label_de": "Have or had cancer"
   },
   "m11109": {
+    "study": "soep-core",
     "name": "m11109",
     "name_cs": "m11109",
     "variable": "m11109",
@@ -15363,6 +15537,7 @@
     "label_de": "Psychiatric problems"
   },
   "m11110": {
+    "study": "soep-core",
     "name": "m11110",
     "name_cs": "m11110",
     "variable": "m11110",
@@ -15382,6 +15557,7 @@
     "label_de": "Arthritis"
   },
   "m11111": {
+    "study": "soep-core",
     "name": "m11111",
     "name_cs": "m11111",
     "variable": "m11111",
@@ -15421,6 +15597,7 @@
     "label_de": "Angina or heart condition"
   },
   "m11112": {
+    "study": "soep-core",
     "name": "m11112",
     "name_cs": "m11112",
     "variable": "m11112",
@@ -15440,6 +15617,7 @@
     "label_de": "Difficulties breathing"
   },
   "m11113": {
+    "study": "soep-core",
     "name": "m11113",
     "name_cs": "m11113",
     "variable": "m11113",
@@ -15516,6 +15694,7 @@
     "label_de": "Have trouble climbing stairs"
   },
   "m11114": {
+    "study": "soep-core",
     "name": "m11114",
     "name_cs": "m11114",
     "variable": "m11114",
@@ -15535,6 +15714,7 @@
     "label_de": "Need help or have difficulty bathing alone"
   },
   "m11115": {
+    "study": "soep-core",
     "name": "m11115",
     "name_cs": "m11115",
     "variable": "m11115",
@@ -15611,6 +15791,7 @@
     "label_de": "Dressing difficult alone"
   },
   "m11116": {
+    "study": "soep-core",
     "name": "m11116",
     "name_cs": "m11116",
     "variable": "m11116",
@@ -15687,6 +15868,7 @@
     "label_de": "Difficulty/need help getting in/out bed"
   },
   "m11117": {
+    "study": "soep-core",
     "name": "m11117",
     "name_cs": "m11117",
     "variable": "m11117",
@@ -15763,6 +15945,7 @@
     "label_de": "Need help with shopping"
   },
   "m11118": {
+    "study": "soep-core",
     "name": "m11118",
     "name_cs": "m11118",
     "variable": "m11118",
@@ -15782,6 +15965,7 @@
     "label_de": "Walk 10+ min alone difficult"
   },
   "m11119": {
+    "study": "soep-core",
     "name": "m11119",
     "name_cs": "m11119",
     "variable": "m11119",
@@ -15858,6 +16042,7 @@
     "label_de": "Housework difficult alone"
   },
   "m11120": {
+    "study": "soep-core",
     "name": "m11120",
     "name_cs": "m11120",
     "variable": "m11120",
@@ -15877,6 +16062,7 @@
     "label_de": "Health limits kneeling"
   },
   "m11121": {
+    "study": "soep-core",
     "name": "m11121",
     "name_cs": "m11121",
     "variable": "m11121",
@@ -15896,6 +16082,7 @@
     "label_de": "Health limits vigorous activities"
   },
   "m11122": {
+    "study": "soep-core",
     "name": "m11122",
     "name_cs": "m11122",
     "variable": "m11122",
@@ -15935,6 +16122,7 @@
     "label_de": "Body height"
   },
   "m11123": {
+    "study": "soep-core",
     "name": "m11123",
     "name_cs": "m11123",
     "variable": "m11123",
@@ -15974,6 +16162,7 @@
     "label_de": "Body weight"
   },
   "m11124": {
+    "study": "soep-core",
     "name": "m11124",
     "name_cs": "m11124",
     "variable": "m11124",
@@ -16050,6 +16239,7 @@
     "label_de": "Disability Status of Individual"
   },
   "m11125": {
+    "study": "soep-core",
     "name": "m11125",
     "name_cs": "m11125",
     "variable": "m11125",
@@ -16171,6 +16361,7 @@
     "label_de": "Satisfaction with Health"
   },
   "m11126": {
+    "study": "soep-core",
     "name": "m11126",
     "name_cs": "m11126",
     "variable": "m11126",
@@ -16262,6 +16453,7 @@
     "label_de": "Current Self-Rated Health Status"
   },
   "m11127": {
+    "study": "soep-core",
     "name": "m11127",
     "name_cs": "m11127",
     "variable": "m11127",
@@ -16301,6 +16493,7 @@
     "label_de": "Number of annual doctor visits"
   },
   "d11112ll": {
+    "study": "soep-core",
     "name": "d11112ll",
     "name_cs": "d11112ll",
     "variable": "d11112ll",
@@ -16320,6 +16513,7 @@
     "label_de": "Race of individual"
   },
   "ssold": {
+    "study": "soep-core",
     "name": "ssold",
     "name_cs": "ssold",
     "variable": "ssold",
@@ -16357,6 +16551,7 @@
     "label_de": "Social assistance for elderly"
   },
   "lossr": {
+    "study": "soep-core",
     "name": "lossr",
     "name_cs": "lossr",
     "variable": "lossr",
@@ -16394,6 +16589,7 @@
     "label_de": "Losses from renting and leasing"
   },
   "lossc": {
+    "study": "soep-core",
     "name": "lossc",
     "name_cs": "lossc",
     "variable": "lossc",
@@ -16431,6 +16627,7 @@
     "label_de": "Losses from capital investment"
   },
   "fssold": {
+    "study": "soep-core",
     "name": "fssold",
     "name_cs": "fssold",
     "variable": "fssold",
@@ -16507,6 +16704,7 @@
     "label_de": "Imp.flag: Social assistance for elderly"
   },
   "flossr": {
+    "study": "soep-core",
     "name": "flossr",
     "name_cs": "flossr",
     "variable": "flossr",
@@ -16583,6 +16781,7 @@
     "label_de": "Imp.flag: Losses from renting and leasing"
   },
   "flossc": {
+    "study": "soep-core",
     "name": "flossc",
     "name_cs": "flossc",
     "variable": "flossc",
@@ -16659,6 +16858,7 @@
     "label_de": "Imp.flag: Losses from capital investment"
   },
   "itray": {
+    "study": "soep-core",
     "name": "itray",
     "name_cs": "itray",
     "variable": "itray",
@@ -16698,6 +16898,7 @@
     "label_de": "Commuting,travel grant"
   },
   "ftray": {
+    "study": "soep-core",
     "name": "ftray",
     "name_cs": "ftray",
     "variable": "ftray",
@@ -16774,6 +16975,7 @@
     "label_de": "Imp.flag: Commuting, travel grant"
   },
   "idemy": {
+    "study": "soep-core",
     "name": "idemy",
     "name_cs": "idemy",
     "variable": "idemy",
@@ -16813,6 +17015,7 @@
     "label_de": "Indemnity"
   },
   "fdemy": {
+    "study": "soep-core",
     "name": "fdemy",
     "name_cs": "fdemy",
     "variable": "fdemy",
@@ -16889,6 +17092,7 @@
     "label_de": "Imp.flag: indemnity"
   },
   "alg2": {
+    "study": "soep-core",
     "name": "alg2",
     "name_cs": "alg2",
     "variable": "alg2",
@@ -16926,6 +17130,7 @@
     "label_de": "Unemployment benefit II"
   },
   "falg2": {
+    "study": "soep-core",
     "name": "falg2",
     "name_cs": "falg2",
     "variable": "falg2",
@@ -17002,6 +17207,7 @@
     "label_de": "Imp.flag: Unemployment benefit II"
   },
   "p11101": {
+    "study": "soep-core",
     "name": "p11101",
     "name_cs": "p11101",
     "variable": "p11101",
@@ -17123,6 +17329,7 @@
     "label_de": "Overall life satisfaction"
   },
   "adchb": {
+    "study": "soep-core",
     "name": "adchb",
     "name_cs": "adchb",
     "variable": "adchb",
@@ -17160,6 +17367,7 @@
     "label_de": "Additional child benefit"
   },
   "fadchb": {
+    "study": "soep-core",
     "name": "fadchb",
     "name_cs": "fadchb",
     "variable": "fadchb",
@@ -17197,6 +17405,7 @@
     "label_de": "Imp.flag: Additional child benefit"
   },
   "iachm": {
+    "study": "soep-core",
     "name": "iachm",
     "name_cs": "iachm",
     "variable": "iachm",
@@ -17236,6 +17445,7 @@
     "label_de": "Advance child maintenance payment"
   },
   "fachm": {
+    "study": "soep-core",
     "name": "fachm",
     "name_cs": "fachm",
     "variable": "fachm",
@@ -17312,6 +17522,7 @@
     "label_de": "Imp.flag: Advance child maintenance payment"
   },
   "chsub": {
+    "study": "soep-core",
     "name": "chsub",
     "name_cs": "chsub",
     "variable": "chsub",
@@ -17349,6 +17560,7 @@
     "label_de": "Child Care Subsidy"
   },
   "fchsub": {
+    "study": "soep-core",
     "name": "fchsub",
     "name_cs": "fchsub",
     "variable": "fchsub",
@@ -17425,6 +17637,7 @@
     "label_de": "Imputation flag: Child care Subsidy"
   },
   "ichsu": {
+    "study": "soep-core",
     "name": "ichsu",
     "name_cs": "ichsu",
     "variable": "ichsu",
@@ -17464,6 +17677,7 @@
     "label_de": "Child support, caregiver alimony"
   },
   "fchsu": {
+    "study": "soep-core",
     "name": "fchsu",
     "name_cs": "fchsu",
     "variable": "fchsu",
@@ -17540,6 +17754,7 @@
     "label_de": "Imp.flag: Child support, caregiver alimony"
   },
   "ispou": {
+    "study": "soep-core",
     "name": "ispou",
     "name_cs": "ispou",
     "variable": "ispou",
@@ -17579,6 +17794,7 @@
     "label_de": "Divorce alimony, during separation"
   },
   "fspou": {
+    "study": "soep-core",
     "name": "fspou",
     "name_cs": "fspou",
     "variable": "fspou",
@@ -17655,6 +17871,7 @@
     "label_de": "Imp.flag: Divorce alimony, during separation"
   },
   "irie1": {
+    "study": "soep-core",
     "name": "irie1",
     "name_cs": "irie1",
     "variable": "irie1",
@@ -17694,6 +17911,7 @@
     "label_de": "Riester pension plan"
   },
   "irie2": {
+    "study": "soep-core",
     "name": "irie2",
     "name_cs": "irie2",
     "variable": "irie2",

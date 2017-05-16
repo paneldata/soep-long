@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -111,6 +114,7 @@
     "label_de": "Survey-Year, Erhebungsjahr"
   },
   "hgowner": {
+    "study": "soep-core",
     "name": "hgowner",
     "name_cs": "hgowner",
     "variable": "hgowner",
@@ -202,6 +206,7 @@
     "label_de": "Eigentuemer, Mieter"
   },
   "hgmoveyr": {
+    "study": "soep-core",
     "name": "hgmoveyr",
     "name_cs": "hgmoveyr",
     "variable": "hgmoveyr",
@@ -241,6 +246,7 @@
     "label_de": "Jahr des Einzugs"
   },
   "hgcnstyrmin": {
+    "study": "soep-core",
     "name": "hgcnstyrmin",
     "name_cs": "hgcnstyrmin",
     "variable": "hgcnstyrmin",
@@ -280,6 +286,7 @@
     "label_de": "Fruehestmoegliches Baujahr des Hauses"
   },
   "hgcnstyrmax": {
+    "study": "soep-core",
     "name": "hgcnstyrmax",
     "name_cs": "hgcnstyrmax",
     "variable": "hgcnstyrmax",
@@ -319,6 +326,7 @@
     "label_de": "Spaetestmoegliches Baujahr des Hauses"
   },
   "hgcondit": {
+    "study": "soep-core",
     "name": "hgcondit",
     "name_cs": "hgcondit",
     "variable": "hgcondit",
@@ -405,6 +413,7 @@
     "label_de": "Renovierungsbeduerftigkeit"
   },
   "hgacquis": {
+    "study": "soep-core",
     "name": "hgacquis",
     "name_cs": "hgacquis",
     "variable": "hgacquis",
@@ -491,6 +500,7 @@
     "label_de": "Art des Eigentumerwerbs"
   },
   "hgreval": {
+    "study": "soep-core",
     "name": "hgreval",
     "name_cs": "hgreval",
     "variable": "hgreval",
@@ -582,6 +592,7 @@
     "label_de": "Beurteilung Miethoehe"
   },
   "hgseval": {
+    "study": "soep-core",
     "name": "hgseval",
     "name_cs": "hgseval",
     "variable": "hgseval",
@@ -673,6 +684,7 @@
     "label_de": "Beurteilung der Wohnungsgroesse"
   },
   "hgeqpkit": {
+    "study": "soep-core",
     "name": "hgeqpkit",
     "name_cs": "hgeqpkit",
     "variable": "hgeqpkit",
@@ -749,6 +761,7 @@
     "label_de": "Ausstattung: Kueche"
   },
   "hgeqpshw": {
+    "study": "soep-core",
     "name": "hgeqpshw",
     "name_cs": "hgeqpshw",
     "variable": "hgeqpshw",
@@ -825,6 +838,7 @@
     "label_de": "Ausstattung: Bad, Dusche"
   },
   "hgeqpiwc": {
+    "study": "soep-core",
     "name": "hgeqpiwc",
     "name_cs": "hgeqpiwc",
     "variable": "hgeqpiwc",
@@ -901,6 +915,7 @@
     "label_de": "Ausstattung: WC in Wohnung"
   },
   "hgeqphea": {
+    "study": "soep-core",
     "name": "hgeqphea",
     "name_cs": "hgeqphea",
     "variable": "hgeqphea",
@@ -977,6 +992,7 @@
     "label_de": "Ausstattung: Zentral-, Etagenheizung"
   },
   "hgeqpter": {
+    "study": "soep-core",
     "name": "hgeqpter",
     "name_cs": "hgeqpter",
     "variable": "hgeqpter",
@@ -1053,6 +1069,7 @@
     "label_de": "Ausstattung: Balkon, Terrasse"
   },
   "hgeqpbas": {
+    "study": "soep-core",
     "name": "hgeqpbas",
     "name_cs": "hgeqpbas",
     "variable": "hgeqpbas",
@@ -1129,6 +1146,7 @@
     "label_de": "Ausstattung: Keller"
   },
   "hgeqpgar": {
+    "study": "soep-core",
     "name": "hgeqpgar",
     "name_cs": "hgeqpgar",
     "variable": "hgeqpgar",
@@ -1205,6 +1223,7 @@
     "label_de": "Ausstattung: Garten"
   },
   "hgeqpwat": {
+    "study": "soep-core",
     "name": "hgeqpwat",
     "name_cs": "hgeqpwat",
     "variable": "hgeqpwat",
@@ -1281,6 +1300,7 @@
     "label_de": "Ausstattung: Fl. Warmwasser, Boiler"
   },
   "hgeqptel": {
+    "study": "soep-core",
     "name": "hgeqptel",
     "name_cs": "hgeqptel",
     "variable": "hgeqptel",
@@ -1357,6 +1377,7 @@
     "label_de": "Ausstattung: Telefon oder Handy"
   },
   "hgeqpalm": {
+    "study": "soep-core",
     "name": "hgeqpalm",
     "name_cs": "hgeqpalm",
     "variable": "hgeqpalm",
@@ -1433,6 +1454,7 @@
     "label_de": "Ausstattung: Alarmanlage"
   },
   "hgeqpsol": {
+    "study": "soep-core",
     "name": "hgeqpsol",
     "name_cs": "hgeqpsol",
     "variable": "hgeqpsol",
@@ -1509,6 +1531,7 @@
     "label_de": "Ausstattung: Solaranlage"
   },
   "hgeqpair": {
+    "study": "soep-core",
     "name": "hgeqpair",
     "name_cs": "hgeqpair",
     "variable": "hgeqpair",
@@ -1585,6 +1608,7 @@
     "label_de": "Ausstattung: Klimaanlage"
   },
   "hgeqplif": {
+    "study": "soep-core",
     "name": "hgeqplif",
     "name_cs": "hgeqplif",
     "variable": "hgeqplif",
@@ -1661,6 +1685,7 @@
     "label_de": "Ausstattung: Aufzug, Lift"
   },
   "hgeqpnrj": {
+    "study": "soep-core",
     "name": "hgeqpnrj",
     "name_cs": "hgeqpnrj",
     "variable": "hgeqpnrj",
@@ -1737,6 +1762,7 @@
     "label_de": "Ausstattung: Andere Alternative Energiequelle"
   },
   "hgsize": {
+    "study": "soep-core",
     "name": "hgsize",
     "name_cs": "hgsize",
     "variable": "hgsize",
@@ -1776,6 +1802,7 @@
     "label_de": "Wohnflaeche in qm"
   },
   "hgroom": {
+    "study": "soep-core",
     "name": "hgroom",
     "name_cs": "hgroom",
     "variable": "hgroom",
@@ -1815,6 +1842,7 @@
     "label_de": "Zahl der Wohnraeume ueber 6 qm"
   },
   "hgrent": {
+    "study": "soep-core",
     "name": "hgrent",
     "name_cs": "hgrent",
     "variable": "hgrent",
@@ -1854,6 +1882,7 @@
     "label_de": "Monatl. Bruttokaltmiete (EUR)"
   },
   "hgheat": {
+    "study": "soep-core",
     "name": "hgheat",
     "name_cs": "hgheat",
     "variable": "hgheat",
@@ -1893,6 +1922,7 @@
     "label_de": "Monatl. Heiz- und Warmwasserkosten (EUR)"
   },
   "hgutil": {
+    "study": "soep-core",
     "name": "hgutil",
     "name_cs": "hgutil",
     "variable": "hgutil",
@@ -1932,6 +1962,7 @@
     "label_de": "Monatl. Umlagen (EUR)"
   },
   "hgelectr": {
+    "study": "soep-core",
     "name": "hgelectr",
     "name_cs": "hgelectr",
     "variable": "hgelectr",
@@ -1971,6 +2002,7 @@
     "label_de": "Monatl. Stromkosten (EUR)"
   },
   "hggas": {
+    "study": "soep-core",
     "name": "hggas",
     "name_cs": "hggas",
     "variable": "hggas",
@@ -2010,6 +2042,7 @@
     "label_de": "Monatl. Gaskosten (EUR)"
   },
   "hgnorent": {
+    "study": "soep-core",
     "name": "hgnorent",
     "name_cs": "hgnorent",
     "variable": "hgnorent",
@@ -2081,6 +2114,7 @@
     "label_de": "Zahlt keine Miete"
   },
   "hgrentinfo": {
+    "study": "soep-core",
     "name": "hgrentinfo",
     "name_cs": "hgrentinfo",
     "variable": "hgrentinfo",
@@ -2162,6 +2196,7 @@
     "label_de": "Haushalt zahlt Miete und/oder Nebenkosten"
   },
   "hgheatinfo": {
+    "study": "soep-core",
     "name": "hgheatinfo",
     "name_cs": "hgheatinfo",
     "variable": "hgheatinfo",
@@ -2238,6 +2273,7 @@
     "label_de": "Grund fuer fehlende Heizkosten"
   },
   "hgutilinfo": {
+    "study": "soep-core",
     "name": "hgutilinfo",
     "name_cs": "hgutilinfo",
     "variable": "hgutilinfo",
@@ -2314,6 +2350,7 @@
     "label_de": "Grund fuer fehlende Umlagekosten"
   },
   "hgelectrinfo": {
+    "study": "soep-core",
     "name": "hgelectrinfo",
     "name_cs": "hgelectrinfo",
     "variable": "hgelectrinfo",
@@ -2395,6 +2432,7 @@
     "label_de": "Grund fuer fehlende Stromkosten"
   },
   "hggasinfo": {
+    "study": "soep-core",
     "name": "hggasinfo",
     "name_cs": "hggasinfo",
     "variable": "hggasinfo",
@@ -2476,6 +2514,7 @@
     "label_de": "Grund fuer fehlende Gaskosten"
   },
   "hgfsize": {
+    "study": "soep-core",
     "name": "hgfsize",
     "name_cs": "hgfsize",
     "variable": "hgfsize",
@@ -2552,6 +2591,7 @@
     "label_de": "Imputation Flag, Wohnflaeche in qm"
   },
   "hgfroom": {
+    "study": "soep-core",
     "name": "hgfroom",
     "name_cs": "hgfroom",
     "variable": "hgfroom",
@@ -2628,6 +2668,7 @@
     "label_de": "Imputation Flag, Anzahl der Wohnraeume ueber 6 qm"
   },
   "hgfrent": {
+    "study": "soep-core",
     "name": "hgfrent",
     "name_cs": "hgfrent",
     "variable": "hgfrent",
@@ -2714,6 +2755,7 @@
     "label_de": "Imputation Flag, Bruttokaltmiete"
   },
   "hgf2rent": {
+    "study": "soep-core",
     "name": "hgf2rent",
     "name_cs": "hgf2rent",
     "variable": "hgf2rent",
@@ -2870,6 +2912,7 @@
     "label_de": "Detaillierte Imputation Flag, Bruttokaltmiete"
   },
   "hgfheat": {
+    "study": "soep-core",
     "name": "hgfheat",
     "name_cs": "hgfheat",
     "variable": "hgfheat",
@@ -2951,6 +2994,7 @@
     "label_de": "Imputation Flag, Heiz- und Warmwasserkosten"
   },
   "hgfutil": {
+    "study": "soep-core",
     "name": "hgfutil",
     "name_cs": "hgfutil",
     "variable": "hgfutil",
@@ -3032,6 +3076,7 @@
     "label_de": "Imputation Flag, Umlagen"
   },
   "hgfelectr": {
+    "study": "soep-core",
     "name": "hgfelectr",
     "name_cs": "hgfelectr",
     "variable": "hgfelectr",
@@ -3113,6 +3158,7 @@
     "label_de": "Imputation Flag, Stromkosten"
   },
   "hgsubsid": {
+    "study": "soep-core",
     "name": "hgsubsid",
     "name_cs": "hgsubsid",
     "variable": "hgsubsid",
@@ -3189,6 +3235,7 @@
     "label_de": "Eigentumsfoerderung mit oeff. Darlehen"
   },
   "hgosubs": {
+    "study": "soep-core",
     "name": "hgosubs",
     "name_cs": "hgosubs",
     "variable": "hgosubs",
@@ -3265,6 +3312,7 @@
     "label_de": "Foerderung mit oeff. Darlehen letztes Jahr"
   },
   "hgrsubs": {
+    "study": "soep-core",
     "name": "hgrsubs",
     "name_cs": "hgrsubs",
     "variable": "hgrsubs",
@@ -3346,6 +3394,7 @@
     "label_de": "Sozialwohnung"
   },
   "hgreduc": {
+    "study": "soep-core",
     "name": "hgreduc",
     "name_cs": "hgreduc",
     "variable": "hgreduc",
@@ -3422,6 +3471,7 @@
     "label_de": "Verbilligt ueberlassene Wohnung"
   },
   "hgtyp1hh": {
+    "study": "soep-core",
     "name": "hgtyp1hh",
     "name_cs": "hgtyp1hh",
     "variable": "hgtyp1hh",
@@ -3533,6 +3583,7 @@
     "label_de": "Haushalts-Typologie (1-Steller)"
   },
   "hgtyp2hh": {
+    "study": "soep-core",
     "name": "hgtyp2hh",
     "name_cs": "hgtyp2hh",
     "variable": "hgtyp2hh",
@@ -3729,6 +3780,7 @@
     "label_de": "Haushalts-Typologie (2-Steller)"
   },
   "hghinc": {
+    "study": "soep-core",
     "name": "hghinc",
     "name_cs": "hghinc",
     "variable": "hghinc",
@@ -3768,6 +3820,7 @@
     "label_de": "Monatl. Haushaltsnettoeinkommen (EUR)"
   },
   "hgi1hinc": {
+    "study": "soep-core",
     "name": "hgi1hinc",
     "name_cs": "hgi1hinc",
     "variable": "hgi1hinc",
@@ -3807,6 +3860,7 @@
     "label_de": "1.Imput.monatl.HH-Nettoeinkommen (EUR) [1/5]"
   },
   "hgi2hinc": {
+    "study": "soep-core",
     "name": "hgi2hinc",
     "name_cs": "hgi2hinc",
     "variable": "hgi2hinc",
@@ -3846,6 +3900,7 @@
     "label_de": "2.Imput.monatl.HH-Nettoeinkommen (EUR) [2/5]"
   },
   "hgi3hinc": {
+    "study": "soep-core",
     "name": "hgi3hinc",
     "name_cs": "hgi3hinc",
     "variable": "hgi3hinc",
@@ -3885,6 +3940,7 @@
     "label_de": "3.Imput.monatl.HH-Nettoeinkommen (EUR) [3/5]"
   },
   "hgi4hinc": {
+    "study": "soep-core",
     "name": "hgi4hinc",
     "name_cs": "hgi4hinc",
     "variable": "hgi4hinc",
@@ -3924,6 +3980,7 @@
     "label_de": "4.Imput.monatl.HH-Nettoeinkommen (EUR) [4/5]"
   },
   "hgi5hinc": {
+    "study": "soep-core",
     "name": "hgi5hinc",
     "name_cs": "hgi5hinc",
     "variable": "hgi5hinc",
@@ -3963,6 +4020,7 @@
     "label_de": "5.Imput.monatl.HH-Nettoeinkommen (EUR) [5/5]"
   },
   "hgfhinc": {
+    "study": "soep-core",
     "name": "hgfhinc",
     "name_cs": "hgfhinc",
     "variable": "hgfhinc",
@@ -4039,6 +4097,7 @@
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen"
   },
   "hgnuts1": {
+    "study": "soep-core",
     "name": "hgnuts1",
     "name_cs": "hgnuts1",
     "variable": "hgnuts1",
@@ -4185,6 +4244,7 @@
     "label_de": "NUTS-Systematik-1 (Bundesland)"
   },
   "hghmonth": {
+    "study": "soep-core",
     "name": "hghmonth",
     "name_cs": "hghmonth",
     "variable": "hghmonth",
@@ -4311,6 +4371,7 @@
     "label_de": "Monat des Interviews"
   },
   "hghmode": {
+    "study": "soep-core",
     "name": "hghmode",
     "name_cs": "hghmode",
     "variable": "hghmode",
@@ -4447,6 +4508,7 @@
     "label_de": "Interviewmethode"
   },
   "hgeqpfhea": {
+    "study": "soep-core",
     "name": "hgeqpfhea",
     "name_cs": "hgeqpfhea",
     "variable": "hgeqpfhea",
@@ -4523,6 +4585,7 @@
     "label_de": "Ausstattung: Fussbodenheizung"
   },
   "hgeqpinsul": {
+    "study": "soep-core",
     "name": "hgeqpinsul",
     "name_cs": "hgeqpinsul",
     "variable": "hgeqpinsul",
@@ -4599,6 +4662,7 @@
     "label_de": "Ausstattung: Waermedaemmung"
   },
   "hgeqpmglass": {
+    "study": "soep-core",
     "name": "hgeqpmglass",
     "name_cs": "hgeqpmglass",
     "variable": "hgeqpmglass",
@@ -4675,6 +4739,7 @@
     "label_de": "Ausstattung: Mindestens Doppelverglasung"
   },
   "hgeqpnobar": {
+    "study": "soep-core",
     "name": "hgeqpnobar",
     "name_cs": "hgeqpnobar",
     "variable": "hgeqpnobar",
@@ -4751,6 +4816,7 @@
     "label_de": "Ausstattung: Barrierefreie Wohnaust."
   },
   "hgeqppark": {
+    "study": "soep-core",
     "name": "hgeqppark",
     "name_cs": "hgeqppark",
     "variable": "hgeqppark",

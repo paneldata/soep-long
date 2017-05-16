@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "hsample": {
+    "study": "soep-core",
     "name": "hsample",
     "name_cs": "hsample",
     "variable": "hsample",

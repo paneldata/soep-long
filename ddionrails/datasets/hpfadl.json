@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -111,6 +114,7 @@
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "hsample": {
+    "study": "soep-core",
     "name": "hsample",
     "name_cs": "hsample",
     "variable": "hsample",
@@ -257,6 +261,7 @@
     "label_de": "Stichprobenart"
   },
   "hnetto": {
+    "study": "soep-core",
     "name": "hnetto",
     "name_cs": "hnetto",
     "variable": "hnetto",
@@ -333,6 +338,7 @@
     "label_de": "Aktueller Befragungsstatus"
   },
   "sampreg": {
+    "study": "soep-core",
     "name": "sampreg",
     "name_cs": "sampreg",
     "variable": "sampreg",
@@ -409,6 +415,7 @@
     "label_de": "Aktuelle Stichprobenregion"
   },
   "hpop": {
+    "study": "soep-core",
     "name": "hpop",
     "name_cs": "hpop",
     "variable": "hpop",
@@ -495,6 +502,7 @@
     "label_de": "Aktuelle Populationszugehoerigkeit"
   },
   "hrgroup": {
+    "study": "soep-core",
     "name": "hrgroup",
     "name_cs": "hrgroup",
     "variable": "hrgroup",
@@ -532,6 +540,7 @@
     "label_de": "Random Groups"
   },
   "hbleib": {
+    "study": "soep-core",
     "name": "hbleib",
     "name_cs": "hbleib",
     "variable": "hbleib",
@@ -571,6 +580,7 @@
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "hhrf": {
+    "study": "soep-core",
     "name": "hhrf",
     "name_cs": "hhrf",
     "variable": "hhrf",
@@ -608,6 +618,7 @@
     "label_de": "Hochrechnungsfaktor"
   },
   "hhrf0": {
+    "study": "soep-core",
     "name": "hhrf0",
     "name_cs": "hhrf0",
     "variable": "hhrf0",
@@ -645,6 +656,7 @@
     "label_de": "Hochrechnungsfaktor, nur fuer Ursprungsstichproben (Welle 1)"
   },
   "hhrf1": {
+    "study": "soep-core",
     "name": "hhrf1",
     "name_cs": "hhrf1",
     "variable": "hhrf1",

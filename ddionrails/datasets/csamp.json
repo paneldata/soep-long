@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "csample": {
+    "study": "soep-core",
     "name": "csample",
     "name_cs": "csample",
     "variable": "csample",
@@ -188,6 +190,7 @@
     "label_de": "Stichprobenart"
   },
   "sampdet": {
+    "study": "soep-core",
     "name": "sampdet",
     "name_cs": "sampdet",
     "variable": "sampdet",
@@ -814,6 +817,7 @@
     "label_de": "Sample Detailed"
   },
   "sampling": {
+    "study": "soep-core",
     "name": "sampling",
     "name_cs": "sampling",
     "variable": "sampling",
@@ -1210,6 +1214,7 @@
     "label_de": "Sampling, Onomastikverfahren"
   },
   "samsplit": {
+    "study": "soep-core",
     "name": "samsplit",
     "name_cs": "samsplit",
     "variable": "samsplit",
@@ -1306,6 +1311,7 @@
     "label_de": "Samplesplits"
   },
   "psu": {
+    "study": "soep-core",
     "name": "psu",
     "name_cs": "psu",
     "variable": "psu",
@@ -1345,6 +1351,7 @@
     "label_de": "PSU - Primary Sampling Units (gen)"
   },
   "strata": {
+    "study": "soep-core",
     "name": "strata",
     "name_cs": "strata",
     "variable": "strata",
@@ -1566,6 +1573,7 @@
     "label_de": "Schichtung, Stratifizierungseinheiten"
   },
   "sample1": {
+    "study": "soep-core",
     "name": "sample1",
     "name_cs": "sample1",
     "variable": "sample1",
@@ -1782,6 +1790,7 @@
     "label_de": "Stichprobenkennzeichen TNS-Infratest"
   },
   "pi": {
+    "study": "soep-core",
     "name": "pi",
     "name_cs": "pi",
     "variable": "pi",

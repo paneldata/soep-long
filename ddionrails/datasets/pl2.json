@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -74,6 +76,7 @@
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -111,6 +114,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
+    "study": "soep-core",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -148,6 +152,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "intid": {
+    "study": "soep-core",
     "name": "intid",
     "name_cs": "intid",
     "variable": "intid",
@@ -187,6 +192,7 @@
     "label_de": "Interviewer ID"
   },
   "befrper": {
+    "study": "soep-core",
     "name": "befrper",
     "name_cs": "befrper",
     "variable": "befrper",
@@ -224,6 +230,7 @@
     "label_de": "Lfd. Personennummer"
   },
   "sample1": {
+    "study": "soep-core",
     "name": "sample1",
     "name_cs": "sample1",
     "variable": "sample1",
@@ -440,6 +447,7 @@
     "label_de": "Stichprobenkennzeichen"
   },
   "welle": {
+    "study": "soep-core",
     "name": "welle",
     "name_cs": "welle",
     "variable": "welle",
@@ -477,6 +485,7 @@
     "label_de": "Befragungswelle (Erhebungsjahr)"
   },
   "iyear": {
+    "study": "soep-core",
     "name": "iyear",
     "name_cs": "iyear",
     "variable": "iyear",
@@ -516,6 +525,7 @@
     "label_de": "Jahr des Interviews"
   },
   "pmonin": {
+    "study": "soep-core",
     "name": "pmonin",
     "name_cs": "pmonin",
     "variable": "pmonin",
@@ -647,6 +657,7 @@
     "label_de": "Monat des Interviews"
   },
   "ptagin": {
+    "study": "soep-core",
     "name": "ptagin",
     "name_cs": "ptagin",
     "variable": "ptagin",
@@ -686,6 +697,7 @@
     "label_de": "Tag des Interviews"
   },
   "pdatmi": {
+    "study": "soep-core",
     "name": "pdatmi",
     "name_cs": "pdatmi",
     "variable": "pdatmi",
@@ -725,6 +737,7 @@
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "pdatst": {
+    "study": "soep-core",
     "name": "pdatst",
     "name_cs": "pdatst",
     "variable": "pdatst",
@@ -764,6 +777,7 @@
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "pdauer1": {
+    "study": "soep-core",
     "name": "pdauer1",
     "name_cs": "pdauer1",
     "variable": "pdauer1",
@@ -803,6 +817,7 @@
     "label_de": "Interviewdauer muendlich in Minuten"
   },
   "pdauer2": {
+    "study": "soep-core",
     "name": "pdauer2",
     "name_cs": "pdauer2",
     "variable": "pdauer2",
@@ -842,6 +857,7 @@
     "label_de": "Selbstausfuellen schriftlich in Minuten"
   },
   "p_dauer3": {
+    "study": "soep-core",
     "name": "p_dauer3",
     "name_cs": "p_dauer3",
     "variable": "p_dauer3",
@@ -881,6 +897,7 @@
     "label_de": "Interviewdauer"
   },
   "pinta": {
+    "study": "soep-core",
     "name": "pinta",
     "name_cs": "pinta",
     "variable": "pinta",
@@ -1002,6 +1019,7 @@
     "label_de": "Art der Befragung"
   },
   "persbio": {
+    "study": "soep-core",
     "name": "persbio",
     "name_cs": "persbio",
     "variable": "persbio",
@@ -1073,6 +1091,7 @@
     "label_de": "Personenbiografie"
   },
   "p_anker": {
+    "study": "soep-core",
     "name": "p_anker",
     "name_cs": "p_anker",
     "variable": "p_anker",
@@ -1112,6 +1131,7 @@
     "label_de": "Ankerperson"
   },
   "p_anw": {
+    "study": "soep-core",
     "name": "p_anw",
     "name_cs": "p_anw",
     "variable": "p_anw",
@@ -1193,6 +1213,7 @@
     "label_de": "Weitere Personen anwesend"
   },
   "p_buh1": {
+    "study": "soep-core",
     "name": "p_buh1",
     "name_cs": "p_buh1",
     "variable": "p_buh1",
@@ -1264,6 +1285,7 @@
     "label_de": "Englische Uebersetzungshilfe"
   },
   "p_buh2": {
+    "study": "soep-core",
     "name": "p_buh2",
     "name_cs": "p_buh2",
     "variable": "p_buh2",
@@ -1335,6 +1357,7 @@
     "label_de": "Tuerkische Uebersetzungshilfe"
   },
   "p_buh3": {
+    "study": "soep-core",
     "name": "p_buh3",
     "name_cs": "p_buh3",
     "variable": "p_buh3",
@@ -1406,6 +1429,7 @@
     "label_de": "Russische Uebersetzungshilfe"
   },
   "p_buh4": {
+    "study": "soep-core",
     "name": "p_buh4",
     "name_cs": "p_buh4",
     "variable": "p_buh4",
@@ -1477,6 +1501,7 @@
     "label_de": "Rumaenische Uebersetzungshilfe"
   },
   "p_buh5": {
+    "study": "soep-core",
     "name": "p_buh5",
     "name_cs": "p_buh5",
     "variable": "p_buh5",
@@ -1548,6 +1573,7 @@
     "label_de": "Polnische Uebersetzungshilfe"
   },
   "p_buh6": {
+    "study": "soep-core",
     "name": "p_buh6",
     "name_cs": "p_buh6",
     "variable": "p_buh6",
@@ -1619,6 +1645,7 @@
     "label_de": "Deutsch sprechende Person im HH"
   },
   "p_buh7": {
+    "study": "soep-core",
     "name": "p_buh7",
     "name_cs": "p_buh7",
     "variable": "p_buh7",
@@ -1690,6 +1717,7 @@
     "label_de": "Professioneller Dolmetscher"
   },
   "p_buh8": {
+    "study": "soep-core",
     "name": "p_buh8",
     "name_cs": "p_buh8",
     "variable": "p_buh8",
@@ -1761,6 +1789,7 @@
     "label_de": "Deutsch sprechende Person ausserhalb HH"
   },
   "p_buh9": {
+    "study": "soep-core",
     "name": "p_buh9",
     "name_cs": "p_buh9",
     "variable": "p_buh9",
@@ -1832,6 +1861,7 @@
     "label_de": "Keine Uebersetzungshilfe"
   },
   "pbuh": {
+    "study": "soep-core",
     "name": "pbuh",
     "name_cs": "pbuh",
     "variable": "pbuh",
@@ -1918,6 +1948,7 @@
     "label_de": "Uebersetzungshilfe beim Interview"
   },
   "hpmax": {
+    "study": "soep-core",
     "name": "hpmax",
     "name_cs": "hpmax",
     "variable": "hpmax",
@@ -1957,6 +1988,7 @@
     "label_de": "Hoechste Personennummer im HH"
   },
   "p_degree": {
+    "study": "soep-core",
     "name": "p_degree",
     "name_cs": "p_degree",
     "variable": "p_degree",
@@ -2293,6 +2325,7 @@
     "label_de": "Hochschulabschluss (Faechergruppe nach Destatis, FS11)"
   },
   "p_field": {
+    "study": "soep-core",
     "name": "p_field",
     "name_cs": "p_field",
     "variable": "p_field",
@@ -2739,6 +2772,7 @@
     "label_de": "Code Fachrichtung"
   },
   "p_isco08": {
+    "study": "soep-core",
     "name": "p_isco08",
     "name_cs": "p_isco08",
     "variable": "p_isco08",
@@ -4985,6 +5019,7 @@
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "p_isco08n": {
+    "study": "soep-core",
     "name": "p_isco08n",
     "name_cs": "p_isco08n",
     "variable": "p_isco08n",
@@ -7231,6 +7266,7 @@
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-08, 4-Steller)"
   },
   "p_isco88": {
+    "study": "soep-core",
     "name": "p_isco88",
     "name_cs": "p_isco88",
     "variable": "p_isco88",
@@ -9757,6 +9793,7 @@
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "p_isco88n": {
+    "study": "soep-core",
     "name": "p_isco88n",
     "name_cs": "p_isco88n",
     "variable": "p_isco88n",
@@ -12283,6 +12320,7 @@
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-88 COM, 4-Steller)"
   },
   "p_kldb10": {
+    "study": "soep-core",
     "name": "p_kldb10",
     "name_cs": "p_kldb10",
     "variable": "p_kldb10",
@@ -18779,6 +18817,7 @@
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "p_kldb10n": {
+    "study": "soep-core",
     "name": "p_kldb10n",
     "name_cs": "p_kldb10n",
     "variable": "p_kldb10n",
@@ -25275,6 +25314,7 @@
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 2010, 5-Steller)"
   },
   "p_kldb92": {
+    "study": "soep-core",
     "name": "p_kldb92",
     "name_cs": "p_kldb92",
     "variable": "p_kldb92",
@@ -36766,6 +36806,7 @@
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "p_kldb92n": {
+    "study": "soep-core",
     "name": "p_kldb92n",
     "name_cs": "p_kldb92n",
     "variable": "p_kldb92n",
@@ -48257,6 +48298,7 @@
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 92, 4-Steller)"
   },
   "p_nace": {
+    "study": "soep-core",
     "name": "p_nace",
     "name_cs": "p_nace",
     "variable": "p_nace",
@@ -48643,6 +48685,7 @@
     "label_de": "Branche nach NACE"
   },
   "p_train_kldb10": {
+    "study": "soep-core",
     "name": "p_train_kldb10",
     "name_cs": "p_train_kldb10",
     "variable": "p_train_kldb10",
@@ -55144,6 +55187,7 @@
     "label_de": "Ausbildungsabschluss (KldB2010)"
   },
   "p_train_kldb92": {
+    "study": "soep-core",
     "name": "p_train_kldb92",
     "name_cs": "p_train_kldb92",
     "variable": "p_train_kldb92",
@@ -66645,6 +66689,7 @@
     "label_de": "Ausbildungsabschluss (KldB92)"
   },
   "pcb0001": {
+    "study": "soep-core",
     "name": "pcb0001",
     "name_cs": "pcb0001",
     "variable": "pcb0001",
@@ -66721,6 +66766,7 @@
     "label_de": "Frueher erwerbstaetig gewesen? ja,nein"
   },
   "pcb0002": {
+    "study": "soep-core",
     "name": "pcb0002",
     "name_cs": "pcb0002",
     "variable": "pcb0002",
@@ -66822,6 +66868,7 @@
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0003": {
+    "study": "soep-core",
     "name": "pcb0003",
     "name_cs": "pcb0003",
     "variable": "pcb0003",
@@ -66928,6 +66975,7 @@
     "label_de": "Erwerbsstatus"
   },
   "pcb0004": {
+    "study": "soep-core",
     "name": "pcb0004",
     "name_cs": "pcb0004",
     "variable": "pcb0004",
@@ -67029,6 +67077,7 @@
     "label_de": "Erwerbsstatus"
   },
   "pcb0005": {
+    "study": "soep-core",
     "name": "pcb0005",
     "name_cs": "pcb0005",
     "variable": "pcb0005",
@@ -67135,6 +67184,7 @@
     "label_de": "Erwerbsstatus"
   },
   "pcb0006": {
+    "study": "soep-core",
     "name": "pcb0006",
     "name_cs": "pcb0006",
     "variable": "pcb0006",
@@ -67246,6 +67296,7 @@
     "label_de": "Erwerbsstatus"
   },
   "pcb0007": {
+    "study": "soep-core",
     "name": "pcb0007",
     "name_cs": "pcb0007",
     "variable": "pcb0007",
@@ -67342,6 +67393,7 @@
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0008": {
+    "study": "soep-core",
     "name": "pcb0008",
     "name_cs": "pcb0008",
     "variable": "pcb0008",
@@ -67443,6 +67495,7 @@
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0009": {
+    "study": "soep-core",
     "name": "pcb0009",
     "name_cs": "pcb0009",
     "variable": "pcb0009",
@@ -67482,6 +67535,7 @@
     "label_de": "Bei jetzigen Arbeitgeber, Jahr"
   },
   "pcb0010": {
+    "study": "soep-core",
     "name": "pcb0010",
     "name_cs": "pcb0010",
     "variable": "pcb0010",
@@ -67563,6 +67617,7 @@
     "label_de": "Frist d. derz. Beschaeftigung"
   },
   "pcb0011": {
+    "study": "soep-core",
     "name": "pcb0011",
     "name_cs": "pcb0011",
     "variable": "pcb0011",
@@ -67644,6 +67699,7 @@
     "label_de": "Frist der derzeitigen Beschaeftigung"
   },
   "pcb0012": {
+    "study": "soep-core",
     "name": "pcb0012",
     "name_cs": "pcb0012",
     "variable": "pcb0012",
@@ -67720,6 +67776,7 @@
     "label_de": "ABM- oder SAM-Stelle"
   },
   "pcb0013": {
+    "study": "soep-core",
     "name": "pcb0013",
     "name_cs": "pcb0013",
     "variable": "pcb0013",
@@ -67759,6 +67816,7 @@
     "label_de": "Neugruendung Jahr"
   },
   "pcb0014": {
+    "study": "soep-core",
     "name": "pcb0014",
     "name_cs": "pcb0014",
     "variable": "pcb0014",
@@ -67855,6 +67913,7 @@
     "label_de": "Zahl Beschaeftigte im Gesamtunternehmen"
   },
   "pcb0015": {
+    "study": "soep-core",
     "name": "pcb0015",
     "name_cs": "pcb0015",
     "variable": "pcb0015",
@@ -67946,6 +68005,7 @@
     "label_de": "Zahl Beschaeftigte im Gesamtunternehmen"
   },
   "pcb0016": {
+    "study": "soep-core",
     "name": "pcb0016",
     "name_cs": "pcb0016",
     "variable": "pcb0016",
@@ -68042,6 +68102,7 @@
     "label_de": "Anzahl Beschaeftigte"
   },
   "pcb0017": {
+    "study": "soep-core",
     "name": "pcb0017",
     "name_cs": "pcb0017",
     "variable": "pcb0017",
@@ -68143,6 +68204,7 @@
     "label_de": "Anzahl Beschaeftigte"
   },
   "pcb0018": {
+    "study": "soep-core",
     "name": "pcb0018",
     "name_cs": "pcb0018",
     "variable": "pcb0018",
@@ -68234,6 +68296,7 @@
     "label_de": "Selbstaendiger"
   },
   "pcb0019": {
+    "study": "soep-core",
     "name": "pcb0019",
     "name_cs": "pcb0019",
     "variable": "pcb0019",
@@ -68325,6 +68388,7 @@
     "label_de": "Derz. Stellung Selbstaendige"
   },
   "pcb0020": {
+    "study": "soep-core",
     "name": "pcb0020",
     "name_cs": "pcb0020",
     "variable": "pcb0020",
@@ -68406,6 +68470,7 @@
     "label_de": "Auszubildende, Praktikanten"
   },
   "pcb0021": {
+    "study": "soep-core",
     "name": "pcb0021",
     "name_cs": "pcb0021",
     "variable": "pcb0021",
@@ -68482,6 +68547,7 @@
     "label_de": "Derz. Stellung Auszubildende,Praktikant"
   },
   "pcb0022": {
+    "study": "soep-core",
     "name": "pcb0022",
     "name_cs": "pcb0022",
     "variable": "pcb0022",
@@ -68573,6 +68639,7 @@
     "label_de": "Angestellter"
   },
   "pcb0023": {
+    "study": "soep-core",
     "name": "pcb0023",
     "name_cs": "pcb0023",
     "variable": "pcb0023",
@@ -68644,6 +68711,7 @@
     "label_de": "Keine besondere Ausbildung"
   },
   "pcb0024": {
+    "study": "soep-core",
     "name": "pcb0024",
     "name_cs": "pcb0024",
     "variable": "pcb0024",
@@ -68725,6 +68793,7 @@
     "label_de": "Bedeutung der Berufstaetigkeit"
   },
   "pcb0025": {
+    "study": "soep-core",
     "name": "pcb0025",
     "name_cs": "pcb0025",
     "variable": "pcb0025",
@@ -68764,6 +68833,7 @@
     "label_de": "Pendeln seit Jahr"
   },
   "pcb0026": {
+    "study": "soep-core",
     "name": "pcb0026",
     "name_cs": "pcb0026",
     "variable": "pcb0026",
@@ -68845,6 +68915,7 @@
     "label_de": "Art des Arbeitswegs"
   },
   "pcb0027": {
+    "study": "soep-core",
     "name": "pcb0027",
     "name_cs": "pcb0027",
     "variable": "pcb0027",
@@ -68921,6 +68992,7 @@
     "label_de": "Kein Arbeitsweg,wechselnder Arbeitsort"
   },
   "pcb0028": {
+    "study": "soep-core",
     "name": "pcb0028",
     "name_cs": "pcb0028",
     "variable": "pcb0028",
@@ -68960,6 +69032,7 @@
     "label_de": "Wochenstunden vereinbart"
   },
   "pcb0029": {
+    "study": "soep-core",
     "name": "pcb0029",
     "name_cs": "pcb0029",
     "variable": "pcb0029",
@@ -68999,6 +69072,7 @@
     "label_de": "Tatsaechliche Arbeitszeit"
   },
   "pcb0030": {
+    "study": "soep-core",
     "name": "pcb0030",
     "name_cs": "pcb0030",
     "variable": "pcb0030",
@@ -69075,6 +69149,7 @@
     "label_de": "325-EURO-Job"
   },
   "pcb0031": {
+    "study": "soep-core",
     "name": "pcb0031",
     "name_cs": "pcb0031",
     "variable": "pcb0031",
@@ -69166,6 +69241,7 @@
     "label_de": "Abgeltung von Ueberstunden"
   },
   "pcb0032": {
+    "study": "soep-core",
     "name": "pcb0032",
     "name_cs": "pcb0032",
     "variable": "pcb0032",
@@ -69242,6 +69318,7 @@
     "label_de": "Ueberstunden im letzten Monat"
   },
   "pcb0033": {
+    "study": "soep-core",
     "name": "pcb0033",
     "name_cs": "pcb0033",
     "variable": "pcb0033",
@@ -69318,6 +69395,7 @@
     "label_de": "Keine Ueberstd letzten Monat"
   },
   "pcb0034": {
+    "study": "soep-core",
     "name": "pcb0034",
     "name_cs": "pcb0034",
     "variable": "pcb0034",
@@ -69399,6 +69477,7 @@
     "label_de": "Abendarbeit, zwischen 19 und 22 Uhr"
   },
   "pcb0035": {
+    "study": "soep-core",
     "name": "pcb0035",
     "name_cs": "pcb0035",
     "variable": "pcb0035",
@@ -69480,6 +69559,7 @@
     "label_de": "Nachtarbeit, nach 22 Uhr"
   },
   "pcb0036": {
+    "study": "soep-core",
     "name": "pcb0036",
     "name_cs": "pcb0036",
     "variable": "pcb0036",
@@ -69556,6 +69636,7 @@
     "label_de": "Berufsarbeit an Samstagen"
   },
   "pcb0037": {
+    "study": "soep-core",
     "name": "pcb0037",
     "name_cs": "pcb0037",
     "variable": "pcb0037",
@@ -69632,6 +69713,7 @@
     "label_de": "Berufsarbeit an Sonntagen"
   },
   "pcb0038": {
+    "study": "soep-core",
     "name": "pcb0038",
     "name_cs": "pcb0038",
     "variable": "pcb0038",
@@ -69671,6 +69753,7 @@
     "label_de": "Wochenstunden gewuenscht"
   },
   "pcb0039": {
+    "study": "soep-core",
     "name": "pcb0039",
     "name_cs": "pcb0039",
     "variable": "pcb0039",
@@ -69797,6 +69880,7 @@
     "label_de": "Erste Erwerbstaetigkeit Monat 92"
   },
   "pcb0040": {
+    "study": "soep-core",
     "name": "pcb0040",
     "name_cs": "pcb0040",
     "variable": "pcb0040",
@@ -69893,6 +69977,7 @@
     "label_de": "Art der berufliche Veraenderung"
   },
   "pcb0041": {
+    "study": "soep-core",
     "name": "pcb0041",
     "name_cs": "pcb0041",
     "variable": "pcb0041",
@@ -69994,6 +70079,7 @@
     "label_de": "Art Beendigung Beschaeftigungsverhaeltnis"
   },
   "pcb0042": {
+    "study": "soep-core",
     "name": "pcb0042",
     "name_cs": "pcb0042",
     "variable": "pcb0042",
@@ -70100,6 +70186,7 @@
     "label_de": "Ende Befristung"
   },
   "pcb0043": {
+    "study": "soep-core",
     "name": "pcb0043",
     "name_cs": "pcb0043",
     "variable": "pcb0043",
@@ -70201,6 +70288,7 @@
     "label_de": "Von Stelle erfahren durch"
   },
   "pcb0044": {
+    "study": "soep-core",
     "name": "pcb0044",
     "name_cs": "pcb0044",
     "variable": "pcb0044",
@@ -70272,6 +70360,7 @@
     "label_de": "Stellenfindung Arbeitsamt"
   },
   "pcb0045": {
+    "study": "soep-core",
     "name": "pcb0045",
     "name_cs": "pcb0045",
     "variable": "pcb0045",
@@ -70368,6 +70457,7 @@
     "label_de": "Letzte berufliche Stellung: Angestellte"
   },
   "pcb0046": {
+    "study": "soep-core",
     "name": "pcb0046",
     "name_cs": "pcb0046",
     "variable": "pcb0046",
@@ -70454,6 +70544,7 @@
     "label_de": "Bereich Nebentaetigkeit"
   },
   "pcb0047": {
+    "study": "soep-core",
     "name": "pcb0047",
     "name_cs": "pcb0047",
     "variable": "pcb0047",
@@ -70540,6 +70631,7 @@
     "label_de": "Geeignete Stelle finden"
   },
   "pcb0048": {
+    "study": "soep-core",
     "name": "pcb0048",
     "name_cs": "pcb0048",
     "variable": "pcb0048",
@@ -70579,6 +70671,7 @@
     "label_de": "Hoehe Nettoverdienst fuer Stellenannahme"
   },
   "pcb0049": {
+    "study": "soep-core",
     "name": "pcb0049",
     "name_cs": "pcb0049",
     "variable": "pcb0049",
@@ -70665,6 +70758,7 @@
     "label_de": "Von sich aus neue Stelle suchen-naechst 2 J."
   },
   "pcb0050": {
+    "study": "soep-core",
     "name": "pcb0050",
     "name_cs": "pcb0050",
     "variable": "pcb0050",
@@ -70751,6 +70845,7 @@
     "label_de": "Arbeitsplatz verlieren-naechst 2 J."
   },
   "pcb0051": {
+    "study": "soep-core",
     "name": "pcb0051",
     "name_cs": "pcb0051",
     "variable": "pcb0051",
@@ -70837,6 +70932,7 @@
     "label_de": "berufl Aufstieg in Betrieb-naechst 2 J."
   },
   "pcb0052": {
+    "study": "soep-core",
     "name": "pcb0052",
     "name_cs": "pcb0052",
     "variable": "pcb0052",
@@ -70923,6 +71019,7 @@
     "label_de": "Selbstaendig-naechst 2 J."
   },
   "pcb0053": {
+    "study": "soep-core",
     "name": "pcb0053",
     "name_cs": "pcb0053",
     "variable": "pcb0053",
@@ -71009,6 +71106,7 @@
     "label_de": "anderer Beruf-naechst 2 J."
   },
   "pcb0054": {
+    "study": "soep-core",
     "name": "pcb0054",
     "name_cs": "pcb0054",
     "variable": "pcb0054",
@@ -71095,6 +71193,7 @@
     "label_de": "Erwerbstaetigkeit aufgeben-naechst 2 J."
   },
   "pcb0055": {
+    "study": "soep-core",
     "name": "pcb0055",
     "name_cs": "pcb0055",
     "variable": "pcb0055",
@@ -71181,6 +71280,7 @@
     "label_de": "berufl Abstieg in Betrieb-naechst 2 J."
   },
   "pcb0056": {
+    "study": "soep-core",
     "name": "pcb0056",
     "name_cs": "pcb0056",
     "variable": "pcb0056",
@@ -71267,6 +71367,7 @@
     "label_de": "Rente,Vorruhestand-naechst 2 J."
   },
   "pcb0057": {
+    "study": "soep-core",
     "name": "pcb0057",
     "name_cs": "pcb0057",
     "variable": "pcb0057",
@@ -71353,6 +71454,7 @@
     "label_de": "Wechsel Vollzeit-Teilzeit-naechst 2 J."
   },
   "pcb0058": {
+    "study": "soep-core",
     "name": "pcb0058",
     "name_cs": "pcb0058",
     "variable": "pcb0058",
@@ -71439,6 +71541,7 @@
     "label_de": "Weiterqualifizierung-naechst 2 J."
   },
   "pcb0059": {
+    "study": "soep-core",
     "name": "pcb0059",
     "name_cs": "pcb0059",
     "variable": "pcb0059",
@@ -71525,6 +71628,7 @@
     "label_de": "Aussertarifl Gehaltserhoehung-naechst 2"
   },
   "pcb0060": {
+    "study": "soep-core",
     "name": "pcb0060",
     "name_cs": "pcb0060",
     "variable": "pcb0060",
@@ -71564,6 +71668,7 @@
     "label_de": "Bruttolohn als Arbeitnehmer/in Betrag Vorjahr"
   },
   "pcb0061": {
+    "study": "soep-core",
     "name": "pcb0061",
     "name_cs": "pcb0061",
     "variable": "pcb0061",
@@ -71603,6 +71708,7 @@
     "label_de": "Bruttoeinkommen a. selbst. Taetigkeit Vorjahr"
   },
   "pcb0062": {
+    "study": "soep-core",
     "name": "pcb0062",
     "name_cs": "pcb0062",
     "variable": "pcb0062",
@@ -71642,6 +71748,7 @@
     "label_de": "Einkommen aus Nebenerwerb Betrag Vorjahr"
   },
   "pcb0063": {
+    "study": "soep-core",
     "name": "pcb0063",
     "name_cs": "pcb0063",
     "variable": "pcb0063",
@@ -71733,6 +71840,7 @@
     "label_de": "Abgeltung von Ueberstunden"
   },
   "pcb0064": {
+    "study": "soep-core",
     "name": "pcb0064",
     "name_cs": "pcb0064",
     "variable": "pcb0064",
@@ -71772,6 +71880,7 @@
     "label_de": "Arbeitsstd. pro Arbeitstag"
   },
   "pcb0065": {
+    "study": "soep-core",
     "name": "pcb0065",
     "name_cs": "pcb0065",
     "variable": "pcb0065",
@@ -71868,6 +71977,7 @@
     "label_de": "Abendarbeit"
   },
   "pcb0066": {
+    "study": "soep-core",
     "name": "pcb0066",
     "name_cs": "pcb0066",
     "variable": "pcb0066",
@@ -71964,6 +72074,7 @@
     "label_de": "Nachtarbeit"
   },
   "pcb0068": {
+    "study": "soep-core",
     "name": "pcb0068",
     "name_cs": "pcb0068",
     "variable": "pcb0068",
@@ -72090,6 +72201,7 @@
     "label_de": "Von Stelle erfahren durch"
   },
   "pcc0001": {
+    "study": "soep-core",
     "name": "pcc0001",
     "name_cs": "pcc0001",
     "variable": "pcc0001",
@@ -72129,6 +72241,7 @@
     "label_de": "Monatl.Nettobetrag,den HH unbed.braucht"
   },
   "pcc0002": {
+    "study": "soep-core",
     "name": "pcc0002",
     "name_cs": "pcc0002",
     "variable": "pcc0002",
@@ -72168,6 +72281,7 @@
     "label_de": "Bruttoverdienst letzten Monat"
   },
   "pcc0003": {
+    "study": "soep-core",
     "name": "pcc0003",
     "name_cs": "pcc0003",
     "variable": "pcc0003",
@@ -72207,6 +72321,7 @@
     "label_de": "Nettoverdienst letzten Monat"
   },
   "pcc0004": {
+    "study": "soep-core",
     "name": "pcc0004",
     "name_cs": "pcc0004",
     "variable": "pcc0004",
@@ -72246,6 +72361,7 @@
     "label_de": "Nettolohn als Arbeitnehmer/in Betrag Vorjahr"
   },
   "pcc0005": {
+    "study": "soep-core",
     "name": "pcc0005",
     "name_cs": "pcc0005",
     "variable": "pcc0005",
@@ -72285,6 +72401,7 @@
     "label_de": "Monate Schlechtwettergeld"
   },
   "pcc0006": {
+    "study": "soep-core",
     "name": "pcc0006",
     "name_cs": "pcc0006",
     "variable": "pcc0006",
@@ -72324,6 +72441,7 @@
     "label_de": "Abfindung Betrag"
   },
   "pcc0007": {
+    "study": "soep-core",
     "name": "pcc0007",
     "name_cs": "pcc0007",
     "variable": "pcc0007",
@@ -72363,6 +72481,7 @@
     "label_de": "13. Monatsgehalt Betrag"
   },
   "pcc0008": {
+    "study": "soep-core",
     "name": "pcc0008",
     "name_cs": "pcc0008",
     "variable": "pcc0008",
@@ -72402,6 +72521,7 @@
     "label_de": "14. Monatsgehalt Betrag"
   },
   "pcc0009": {
+    "study": "soep-core",
     "name": "pcc0009",
     "name_cs": "pcc0009",
     "variable": "pcc0009",
@@ -72441,6 +72561,7 @@
     "label_de": "Weihnachtsgeld Betrag"
   },
   "pcc0010": {
+    "study": "soep-core",
     "name": "pcc0010",
     "name_cs": "pcc0010",
     "variable": "pcc0010",
@@ -72480,6 +72601,7 @@
     "label_de": "Urlaubsgeld Betrag"
   },
   "pcc0011": {
+    "study": "soep-core",
     "name": "pcc0011",
     "name_cs": "pcc0011",
     "variable": "pcc0011",
@@ -72519,6 +72641,7 @@
     "label_de": "Gewinnbeteiligung Betrag"
   },
   "pcc0012": {
+    "study": "soep-core",
     "name": "pcc0012",
     "name_cs": "pcc0012",
     "variable": "pcc0012",
@@ -72558,6 +72681,7 @@
     "label_de": "Sonstige Sonderverguetung Betrag"
   },
   "pcc0013": {
+    "study": "soep-core",
     "name": "pcc0013",
     "name_cs": "pcc0013",
     "variable": "pcc0013",
@@ -72629,6 +72753,7 @@
     "label_de": "Kurzarbeitergeld erhalten"
   },
   "pcc0014": {
+    "study": "soep-core",
     "name": "pcc0014",
     "name_cs": "pcc0014",
     "variable": "pcc0014",
@@ -72668,6 +72793,7 @@
     "label_de": "Monate Kurzarbeitergeld"
   },
   "pcc0015": {
+    "study": "soep-core",
     "name": "pcc0015",
     "name_cs": "pcc0015",
     "variable": "pcc0015",
@@ -72707,6 +72833,7 @@
     "label_de": "Nebenerwerb Bruttobetrag"
   },
   "pcc0016": {
+    "study": "soep-core",
     "name": "pcc0016",
     "name_cs": "pcc0016",
     "variable": "pcc0016",
@@ -72746,6 +72873,7 @@
     "label_de": "Wehr-, Zivildienstsold Bruttobetrag"
   },
   "pcc0017": {
+    "study": "soep-core",
     "name": "pcc0017",
     "name_cs": "pcc0017",
     "variable": "pcc0017",
@@ -72785,6 +72913,7 @@
     "label_de": "Wehr-, Zivildienstsold Betrag Vorjahr"
   },
   "pcc0018": {
+    "study": "soep-core",
     "name": "pcc0018",
     "name_cs": "pcc0018",
     "variable": "pcc0018",
@@ -72824,6 +72953,7 @@
     "label_de": "Nettoeinkommen aus selbst. Taetigkeit Vorjahr"
   },
   "pcc0019": {
+    "study": "soep-core",
     "name": "pcc0019",
     "name_cs": "pcc0019",
     "variable": "pcc0019",
@@ -72863,6 +72993,7 @@
     "label_de": "Gesamtbetrag Lohn-, Einkommenssteuer"
   },
   "pcc0020": {
+    "study": "soep-core",
     "name": "pcc0020",
     "name_cs": "pcc0020",
     "variable": "pcc0020",
@@ -72902,6 +73033,7 @@
     "label_de": "Betrag des Freibetrages der L.karte"
   },
   "pcc0021": {
+    "study": "soep-core",
     "name": "pcc0021",
     "name_cs": "pcc0021",
     "variable": "pcc0021",
@@ -72973,6 +73105,7 @@
     "label_de": "Steuerklasse I"
   },
   "pcc0022": {
+    "study": "soep-core",
     "name": "pcc0022",
     "name_cs": "pcc0022",
     "variable": "pcc0022",
@@ -73074,6 +73207,7 @@
     "label_de": "Finanz. Absicherung bei Krankheit ist .."
   },
   "pcc0023": {
+    "study": "soep-core",
     "name": "pcc0023",
     "name_cs": "pcc0023",
     "variable": "pcc0023",
@@ -73175,6 +73309,7 @@
     "label_de": "Finanzielle Absicherung b.Arbeitslosigk."
   },
   "pcc0024": {
+    "study": "soep-core",
     "name": "pcc0024",
     "name_cs": "pcc0024",
     "variable": "pcc0024",
@@ -73276,6 +73411,7 @@
     "label_de": "Finanz. Absicherung f. das  Alter ist..."
   },
   "pcc0025": {
+    "study": "soep-core",
     "name": "pcc0025",
     "name_cs": "pcc0025",
     "variable": "pcc0025",
@@ -73315,6 +73451,7 @@
     "label_de": "Arbeitslosenhilfe Bruttobetrag"
   },
   "pcc0026": {
+    "study": "soep-core",
     "name": "pcc0026",
     "name_cs": "pcc0026",
     "variable": "pcc0026",
@@ -73354,6 +73491,7 @@
     "label_de": "Arbeitslosenhilfe Betrag Vorjahr"
   },
   "pcc0027": {
+    "study": "soep-core",
     "name": "pcc0027",
     "name_cs": "pcc0027",
     "variable": "pcc0027",
@@ -73393,6 +73531,7 @@
     "label_de": "Arbeitslosengeld Bruttobetrag"
   },
   "pcc0028": {
+    "study": "soep-core",
     "name": "pcc0028",
     "name_cs": "pcc0028",
     "variable": "pcc0028",
@@ -73432,6 +73571,7 @@
     "label_de": "Unterhaltsgeld Bruttobetrag"
   },
   "pcc0029": {
+    "study": "soep-core",
     "name": "pcc0029",
     "name_cs": "pcc0029",
     "variable": "pcc0029",
@@ -73471,6 +73611,7 @@
     "label_de": "Arbeitslosengeld Betrag Vorjahr"
   },
   "pcc0030": {
+    "study": "soep-core",
     "name": "pcc0030",
     "name_cs": "pcc0030",
     "variable": "pcc0030",
@@ -73510,6 +73651,7 @@
     "label_de": "Unterhaltsgeld Betrag Vorjahr"
   },
   "pcc0031": {
+    "study": "soep-core",
     "name": "pcc0031",
     "name_cs": "pcc0031",
     "variable": "pcc0031",
@@ -73549,6 +73691,7 @@
     "label_de": "Mutterschaftsgeld Bruttobetrag"
   },
   "pcc0032": {
+    "study": "soep-core",
     "name": "pcc0032",
     "name_cs": "pcc0032",
     "variable": "pcc0032",
@@ -73588,6 +73731,7 @@
     "label_de": "Mutterschaftsgeld Betrag Vorjahr"
   },
   "pcc0033": {
+    "study": "soep-core",
     "name": "pcc0033",
     "name_cs": "pcc0033",
     "variable": "pcc0033",
@@ -73627,6 +73771,7 @@
     "label_de": "Uebergangsgeld etc. Betrag Vorjahr"
   },
   "pcc0034": {
+    "study": "soep-core",
     "name": "pcc0034",
     "name_cs": "pcc0034",
     "variable": "pcc0034",
@@ -73666,6 +73811,7 @@
     "label_de": "Vorruhestandszahlungen Bruttobetrag"
   },
   "pcc0035": {
+    "study": "soep-core",
     "name": "pcc0035",
     "name_cs": "pcc0035",
     "variable": "pcc0035",
@@ -73705,6 +73851,7 @@
     "label_de": "Bafoeg, Stipendium Bruttobetrag"
   },
   "pcc0036": {
+    "study": "soep-core",
     "name": "pcc0036",
     "name_cs": "pcc0036",
     "variable": "pcc0036",
@@ -73744,6 +73891,7 @@
     "label_de": "BAFOEG, Stipendium Betrag Vorjahr"
   },
   "pcc0037": {
+    "study": "soep-core",
     "name": "pcc0037",
     "name_cs": "pcc0037",
     "variable": "pcc0037",
@@ -73783,6 +73931,7 @@
     "label_de": "Unterstuetzung ausserhalb des HH Betrag Vorjahr"
   },
   "pcc0038": {
+    "study": "soep-core",
     "name": "pcc0038",
     "name_cs": "pcc0038",
     "variable": "pcc0038",
@@ -73822,6 +73971,7 @@
     "label_de": "Unterstuetzung Bruttobetrag"
   },
   "pcc0039": {
+    "study": "soep-core",
     "name": "pcc0039",
     "name_cs": "pcc0039",
     "variable": "pcc0039",
@@ -73861,6 +74011,7 @@
     "label_de": "Betrag Knappschaft A"
   },
   "pcc0040": {
+    "study": "soep-core",
     "name": "pcc0040",
     "name_cs": "pcc0040",
     "variable": "pcc0040",
@@ -73900,6 +74051,7 @@
     "label_de": "Betrag Zusatz- Sonderversorg.systeme A"
   },
   "pcc0042": {
+    "study": "soep-core",
     "name": "pcc0042",
     "name_cs": "pcc0042",
     "variable": "pcc0042",
@@ -73939,6 +74091,7 @@
     "label_de": "Betrag Renten versich. Arb. u. Angest. A"
   },
   "pcc0043": {
+    "study": "soep-core",
     "name": "pcc0043",
     "name_cs": "pcc0043",
     "variable": "pcc0043",
@@ -73978,6 +74131,7 @@
     "label_de": "Betrag Altershilfe der Landwirte A"
   },
   "pcc0044": {
+    "study": "soep-core",
     "name": "pcc0044",
     "name_cs": "pcc0044",
     "variable": "pcc0044",
@@ -74017,6 +74171,7 @@
     "label_de": "Altersrente etc. Betrag Vorjahr"
   },
   "pcc0045": {
+    "study": "soep-core",
     "name": "pcc0045",
     "name_cs": "pcc0045",
     "variable": "pcc0045",
@@ -74056,6 +74211,7 @@
     "label_de": "Altersrente Bruttobetrag"
   },
   "pcc0046": {
+    "study": "soep-core",
     "name": "pcc0046",
     "name_cs": "pcc0046",
     "variable": "pcc0046",
@@ -74095,6 +74251,7 @@
     "label_de": "Betrag Beamtenversorg. A"
   },
   "pcc0047": {
+    "study": "soep-core",
     "name": "pcc0047",
     "name_cs": "pcc0047",
     "variable": "pcc0047",
@@ -74134,6 +74291,7 @@
     "label_de": "Betrag Zusatzversorg. oefftl. Dienst A"
   },
   "pcc0048": {
+    "study": "soep-core",
     "name": "pcc0048",
     "name_cs": "pcc0048",
     "variable": "pcc0048",
@@ -74173,6 +74331,7 @@
     "label_de": "Betrag Betriebl. Altersversorg. A"
   },
   "pcc0049": {
+    "study": "soep-core",
     "name": "pcc0049",
     "name_cs": "pcc0049",
     "variable": "pcc0049",
@@ -74212,6 +74371,7 @@
     "label_de": "Betrag Kriegsopferversorg. A"
   },
   "pcc0050": {
+    "study": "soep-core",
     "name": "pcc0050",
     "name_cs": "pcc0050",
     "variable": "pcc0050",
@@ -74251,6 +74411,7 @@
     "label_de": "Betrag Kriegsopferversorg. B"
   },
   "pcc0051": {
+    "study": "soep-core",
     "name": "pcc0051",
     "name_cs": "pcc0051",
     "variable": "pcc0051",
@@ -74290,6 +74451,7 @@
     "label_de": "Betrag Sonst. Rente, Pension A"
   },
   "pcc0052": {
+    "study": "soep-core",
     "name": "pcc0052",
     "name_cs": "pcc0052",
     "variable": "pcc0052",
@@ -74329,6 +74491,7 @@
     "label_de": "Betrag Zusatz- Sonderversorg.systeme B"
   },
   "pcc0053": {
+    "study": "soep-core",
     "name": "pcc0053",
     "name_cs": "pcc0053",
     "variable": "pcc0053",
@@ -74368,6 +74531,7 @@
     "label_de": "Betrag Knappschaft B"
   },
   "pcc0054": {
+    "study": "soep-core",
     "name": "pcc0054",
     "name_cs": "pcc0054",
     "variable": "pcc0054",
@@ -74407,6 +74571,7 @@
     "label_de": "Betrag Altershilfe der Landwirte B"
   },
   "pcc0055": {
+    "study": "soep-core",
     "name": "pcc0055",
     "name_cs": "pcc0055",
     "variable": "pcc0055",
@@ -74446,6 +74611,7 @@
     "label_de": "Witwenrente etc. Betrag Vorjahr"
   },
   "pcc0056": {
+    "study": "soep-core",
     "name": "pcc0056",
     "name_cs": "pcc0056",
     "variable": "pcc0056",
@@ -74485,6 +74651,7 @@
     "label_de": "Witwenrente Bruttobetrag"
   },
   "pcc0057": {
+    "study": "soep-core",
     "name": "pcc0057",
     "name_cs": "pcc0057",
     "variable": "pcc0057",
@@ -74524,6 +74691,7 @@
     "label_de": "Betrag Rentenversich. Arb. u. Angest. B"
   },
   "pcc0058": {
+    "study": "soep-core",
     "name": "pcc0058",
     "name_cs": "pcc0058",
     "variable": "pcc0058",
@@ -74563,6 +74731,7 @@
     "label_de": "Betrag Beamtenversorg. B"
   },
   "pcc0059": {
+    "study": "soep-core",
     "name": "pcc0059",
     "name_cs": "pcc0059",
     "variable": "pcc0059",
@@ -74602,6 +74771,7 @@
     "label_de": "Betrag Zusatzversorg. oefftl. Dienst B"
   },
   "pcc0060": {
+    "study": "soep-core",
     "name": "pcc0060",
     "name_cs": "pcc0060",
     "variable": "pcc0060",
@@ -74641,6 +74811,7 @@
     "label_de": "Betrag Betriebl. Altersversorg. B"
   },
   "pcc0061": {
+    "study": "soep-core",
     "name": "pcc0061",
     "name_cs": "pcc0061",
     "variable": "pcc0061",
@@ -74680,6 +74851,7 @@
     "label_de": "Betrag Unfallversicherung B"
   },
   "pcc0062": {
+    "study": "soep-core",
     "name": "pcc0062",
     "name_cs": "pcc0062",
     "variable": "pcc0062",
@@ -74719,6 +74891,7 @@
     "label_de": "Betrag Sonst. Rente, Pension B"
   },
   "pcc0063": {
+    "study": "soep-core",
     "name": "pcc0063",
     "name_cs": "pcc0063",
     "variable": "pcc0063",
@@ -74800,6 +74973,7 @@
     "label_de": "Beitraege z. gesetzl. Rentenversicherung"
   },
   "pcc0064": {
+    "study": "soep-core",
     "name": "pcc0064",
     "name_cs": "pcc0064",
     "variable": "pcc0064",
@@ -74886,6 +75060,7 @@
     "label_de": "Beitraege zur gesetzlichen Rentenvers."
   },
   "pcc0065": {
+    "study": "soep-core",
     "name": "pcc0065",
     "name_cs": "pcc0065",
     "variable": "pcc0065",
@@ -74967,6 +75142,7 @@
     "label_de": "Beitraege zur gesetzlichen Rentenvers."
   },
   "pcc0066": {
+    "study": "soep-core",
     "name": "pcc0066",
     "name_cs": "pcc0066",
     "variable": "pcc0066",
@@ -75006,6 +75182,7 @@
     "label_de": "Freiwilliger bzw. Plichtbeitrag pro Mon."
   },
   "pcc0098": {
+    "study": "soep-core",
     "name": "pcc0098",
     "name_cs": "pcc0098",
     "variable": "pcc0098",
@@ -75077,6 +75254,7 @@
     "label_de": "Unterhaltsvorschuss bezogen Vorjahr"
   },
   "pcc0099": {
+    "study": "soep-core",
     "name": "pcc0099",
     "name_cs": "pcc0099",
     "variable": "pcc0099",
@@ -75116,6 +75294,7 @@
     "label_de": "Unterhaltsvorschuss Monate Vorjahr"
   },
   "pcc0100": {
+    "study": "soep-core",
     "name": "pcc0100",
     "name_cs": "pcc0100",
     "variable": "pcc0100",
@@ -75155,6 +75334,7 @@
     "label_de": "Unterhaltsvorschuss Betrag Vorjahr"
   },
   "pcd0001": {
+    "study": "soep-core",
     "name": "pcd0001",
     "name_cs": "pcd0001",
     "variable": "pcd0001",
@@ -75246,6 +75426,7 @@
     "label_de": "Mutter - Beziehung"
   },
   "pcd0002": {
+    "study": "soep-core",
     "name": "pcd0002",
     "name_cs": "pcd0002",
     "variable": "pcd0002",
@@ -75337,6 +75518,7 @@
     "label_de": "Vater - Beziehung"
   },
   "pcd0003": {
+    "study": "soep-core",
     "name": "pcd0003",
     "name_cs": "pcd0003",
     "variable": "pcd0003",
@@ -75428,6 +75610,7 @@
     "label_de": "Frueherer Ehepartner - Beziehung"
   },
   "pcd0004": {
+    "study": "soep-core",
     "name": "pcd0004",
     "name_cs": "pcd0004",
     "variable": "pcd0004",
@@ -75519,6 +75702,7 @@
     "label_de": "Derz. Ehepartner Bez., falls nicht i.H."
   },
   "pcd0005": {
+    "study": "soep-core",
     "name": "pcd0005",
     "name_cs": "pcd0005",
     "variable": "pcd0005",
@@ -75610,6 +75794,7 @@
     "label_de": "Sohn, Soehne - Beziehung"
   },
   "pcd0006": {
+    "study": "soep-core",
     "name": "pcd0006",
     "name_cs": "pcd0006",
     "variable": "pcd0006",
@@ -75701,6 +75886,7 @@
     "label_de": "Tochter, Toechter - Beziehung"
   },
   "pcd0007": {
+    "study": "soep-core",
     "name": "pcd0007",
     "name_cs": "pcd0007",
     "variable": "pcd0007",
@@ -75792,6 +75978,7 @@
     "label_de": "Bruder, Brueder - Beziehung"
   },
   "pcd0008": {
+    "study": "soep-core",
     "name": "pcd0008",
     "name_cs": "pcd0008",
     "variable": "pcd0008",
@@ -75883,6 +76070,7 @@
     "label_de": "Schwester, Schwestern - Beziehung"
   },
   "pcd0009": {
+    "study": "soep-core",
     "name": "pcd0009",
     "name_cs": "pcd0009",
     "variable": "pcd0009",
@@ -75974,6 +76162,7 @@
     "label_de": "Enkel - Beziehung"
   },
   "pcd0010": {
+    "study": "soep-core",
     "name": "pcd0010",
     "name_cs": "pcd0010",
     "variable": "pcd0010",
@@ -76065,6 +76254,7 @@
     "label_de": "Grosseltern - Beziehung"
   },
   "pcd0011": {
+    "study": "soep-core",
     "name": "pcd0011",
     "name_cs": "pcd0011",
     "variable": "pcd0011",
@@ -76156,6 +76346,7 @@
     "label_de": "Sonstige Verwandte - Beziehung"
   },
   "pcd0012": {
+    "study": "soep-core",
     "name": "pcd0012",
     "name_cs": "pcd0012",
     "variable": "pcd0012",
@@ -76247,6 +76438,7 @@
     "label_de": "Wie eng ist Beziehung zu Verwandten"
   },
   "pcd0013": {
+    "study": "soep-core",
     "name": "pcd0013",
     "name_cs": "pcd0013",
     "variable": "pcd0013",
@@ -76286,6 +76478,7 @@
     "label_de": "Gesamtbetrag Heimat"
   },
   "pcd0014": {
+    "study": "soep-core",
     "name": "pcd0014",
     "name_cs": "pcd0014",
     "variable": "pcd0014",
@@ -76325,6 +76518,7 @@
     "label_de": "Betr. fuer Familie"
   },
   "pcd0015": {
+    "study": "soep-core",
     "name": "pcd0015",
     "name_cs": "pcd0015",
     "variable": "pcd0015",
@@ -76364,6 +76558,7 @@
     "label_de": "Betr. Ruecklagen"
   },
   "pcd0016": {
+    "study": "soep-core",
     "name": "pcd0016",
     "name_cs": "pcd0016",
     "variable": "pcd0016",
@@ -76403,6 +76598,7 @@
     "label_de": "Betr. Sonstiges"
   },
   "pcd0017": {
+    "study": "soep-core",
     "name": "pcd0017",
     "name_cs": "pcd0017",
     "variable": "pcd0017",
@@ -76442,6 +76638,7 @@
     "label_de": "Betr. fuer Familie"
   },
   "pcd0018": {
+    "study": "soep-core",
     "name": "pcd0018",
     "name_cs": "pcd0018",
     "variable": "pcd0018",
@@ -76518,6 +76715,7 @@
     "label_de": "Lebensgemeinschaft"
   },
   "pcd0019": {
+    "study": "soep-core",
     "name": "pcd0019",
     "name_cs": "pcd0019",
     "variable": "pcd0019",
@@ -76557,6 +76755,7 @@
     "label_de": "Geburtsjahr Vater"
   },
   "pcd0020": {
+    "study": "soep-core",
     "name": "pcd0020",
     "name_cs": "pcd0020",
     "variable": "pcd0020",
@@ -76596,6 +76795,7 @@
     "label_de": "Todesjahr Vater"
   },
   "pcd0021": {
+    "study": "soep-core",
     "name": "pcd0021",
     "name_cs": "pcd0021",
     "variable": "pcd0021",
@@ -76635,6 +76835,7 @@
     "label_de": "Geburtsjahr Mutter"
   },
   "pcd0022": {
+    "study": "soep-core",
     "name": "pcd0022",
     "name_cs": "pcd0022",
     "variable": "pcd0022",
@@ -76674,6 +76875,7 @@
     "label_de": "Todesjahr Mutter"
   },
   "pcd0023": {
+    "study": "soep-core",
     "name": "pcd0023",
     "name_cs": "pcd0023",
     "variable": "pcd0023",
@@ -76713,6 +76915,7 @@
     "label_de": "gemeinsame Wohnung seit..."
   },
   "pce0001": {
+    "study": "soep-core",
     "name": "pce0001",
     "name_cs": "pce0001",
     "variable": "pce0001",
@@ -76752,6 +76955,7 @@
     "label_de": "Geburtsjahr"
   },
   "pce0002": {
+    "study": "soep-core",
     "name": "pce0002",
     "name_cs": "pce0002",
     "variable": "pce0002",
@@ -76791,6 +76995,7 @@
     "label_de": "Wie oft krankgemeldet ueber 6 Wochen Vorjahr"
   },
   "pce0003": {
+    "study": "soep-core",
     "name": "pce0003",
     "name_cs": "pce0003",
     "variable": "pce0003",
@@ -76867,6 +77072,7 @@
     "label_de": "Keinen Tag krankgeschrieben"
   },
   "pce0004": {
+    "study": "soep-core",
     "name": "pce0004",
     "name_cs": "pce0004",
     "variable": "pce0004",
@@ -76953,6 +77159,7 @@
     "label_de": "Tabakkonsum - Art"
   },
   "pce0005": {
+    "study": "soep-core",
     "name": "pce0005",
     "name_cs": "pce0005",
     "variable": "pce0005",
@@ -77034,6 +77241,7 @@
     "label_de": "Raucher"
   },
   "pce0006": {
+    "study": "soep-core",
     "name": "pce0006",
     "name_cs": "pce0006",
     "variable": "pce0006",
@@ -77073,6 +77281,7 @@
     "label_de": "Rauchen: Anzahl Zigarren pro Tag"
   },
   "pce0007": {
+    "study": "soep-core",
     "name": "pce0007",
     "name_cs": "pce0007",
     "variable": "pce0007",
@@ -77154,6 +77363,7 @@
     "label_de": "Nicht krankenversichert"
   },
   "pce0008": {
+    "study": "soep-core",
     "name": "pce0008",
     "name_cs": "pce0008",
     "variable": "pce0008",
@@ -77240,6 +77450,7 @@
     "label_de": "Versichertenstatus - Beitragszahlendes Pflichtmitglied"
   },
   "pce0009": {
+    "study": "soep-core",
     "name": "pce0009",
     "name_cs": "pce0009",
     "variable": "pce0009",
@@ -77356,6 +77567,7 @@
     "label_de": "Art der gesetzlichen Krankenversicherung"
   },
   "pce0010": {
+    "study": "soep-core",
     "name": "pce0010",
     "name_cs": "pce0010",
     "variable": "pce0010",
@@ -77477,6 +77689,7 @@
     "label_de": "AOK"
   },
   "pce0011": {
+    "study": "soep-core",
     "name": "pce0011",
     "name_cs": "pce0011",
     "variable": "pce0011",
@@ -77516,6 +77729,7 @@
     "label_de": "Beitrag fuer private Zusatzkrankenversicherung"
   },
   "pce0012": {
+    "study": "soep-core",
     "name": "pce0012",
     "name_cs": "pce0012",
     "variable": "pce0012",
@@ -77555,6 +77769,7 @@
     "label_de": "Monatsbeitrag private Krankenversicherung"
   },
   "pce0013": {
+    "study": "soep-core",
     "name": "pce0013",
     "name_cs": "pce0013",
     "variable": "pce0013",
@@ -77594,6 +77809,7 @@
     "label_de": "Priv.Vollversich. Personenzahl"
   },
   "pce0014": {
+    "study": "soep-core",
     "name": "pce0014",
     "name_cs": "pce0014",
     "variable": "pce0014",
@@ -77633,6 +77849,7 @@
     "label_de": "Prozent Erwerbs-, Schwerbehinderung"
   },
   "pce0015": {
+    "study": "soep-core",
     "name": "pce0015",
     "name_cs": "pce0015",
     "variable": "pce0015",
@@ -77709,6 +77926,7 @@
     "label_de": "Keinen Tag krankgeschrieben 1985"
   },
   "pce0016": {
+    "study": "soep-core",
     "name": "pce0016",
     "name_cs": "pce0016",
     "variable": "pce0016",
@@ -77748,6 +77966,7 @@
     "label_de": "Anzahl Tage der Krankschreibung 1984"
   },
   "pcf0001": {
+    "study": "soep-core",
     "name": "pcf0001",
     "name_cs": "pcf0001",
     "variable": "pcf0001",
@@ -77829,6 +78048,7 @@
     "label_de": "Keine Eigenarbeit"
   },
   "pcf0002": {
+    "study": "soep-core",
     "name": "pcf0002",
     "name_cs": "pcf0002",
     "variable": "pcf0002",
@@ -77868,6 +78088,7 @@
     "label_de": "Ersparnis Eigenarbeit Vorjahr, Betrag"
   },
   "pcf0003": {
+    "study": "soep-core",
     "name": "pcf0003",
     "name_cs": "pcf0003",
     "variable": "pcf0003",
@@ -77907,6 +78128,7 @@
     "label_de": "Ausgaben fuer Eigenarbeit,Betrag"
   },
   "pcf0006": {
+    "study": "soep-core",
     "name": "pcf0006",
     "name_cs": "pcf0006",
     "variable": "pcf0006",
@@ -78053,6 +78275,7 @@
     "label_de": "Hilfe bei Pflegebeduerftigkeit - 1.P."
   },
   "pcf0007": {
+    "study": "soep-core",
     "name": "pcf0007",
     "name_cs": "pcf0007",
     "variable": "pcf0007",
@@ -78249,6 +78472,7 @@
     "label_de": "Bedeutsame Person 1: Um Hilfe bitten bei Pflegebeduerftigkeit"
   },
   "pcf0008": {
+    "study": "soep-core",
     "name": "pcf0008",
     "name_cs": "pcf0008",
     "variable": "pcf0008",
@@ -78395,6 +78619,7 @@
     "label_de": "Hilfe bei Pflegebeduerftigkeit - 2.P."
   },
   "pcf0009": {
+    "study": "soep-core",
     "name": "pcf0009",
     "name_cs": "pcf0009",
     "variable": "pcf0009",
@@ -78591,6 +78816,7 @@
     "label_de": "Bedeutsame Person 2: Um Hilfe bitten bei Pflegebeduerftigkeit"
   },
   "pcf0010": {
+    "study": "soep-core",
     "name": "pcf0010",
     "name_cs": "pcf0010",
     "variable": "pcf0010",
@@ -78667,6 +78893,7 @@
     "label_de": "Zweitwohnung"
   },
   "pcf0011": {
+    "study": "soep-core",
     "name": "pcf0011",
     "name_cs": "pcf0011",
     "variable": "pcf0011",
@@ -78743,6 +78970,7 @@
     "label_de": "Zweitwohnung"
   },
   "pcg0001": {
+    "study": "soep-core",
     "name": "pcg0001",
     "name_cs": "pcg0001",
     "variable": "pcg0001",
@@ -78819,6 +79047,7 @@
     "label_de": "Alter Befragungsperson"
   },
   "pcg0002": {
+    "study": "soep-core",
     "name": "pcg0002",
     "name_cs": "pcg0002",
     "variable": "pcg0002",
@@ -78910,6 +79139,7 @@
     "label_de": "Allgemeinbildende Schule (Ost)"
   },
   "pcg0003": {
+    "study": "soep-core",
     "name": "pcg0003",
     "name_cs": "pcg0003",
     "variable": "pcg0003",
@@ -78981,6 +79211,7 @@
     "label_de": "Ausbildung Fachhochschule"
   },
   "pcg0004": {
+    "study": "soep-core",
     "name": "pcg0004",
     "name_cs": "pcg0004",
     "variable": "pcg0004",
@@ -79062,6 +79293,7 @@
     "label_de": "Hochschule"
   },
   "pcg0005": {
+    "study": "soep-core",
     "name": "pcg0005",
     "name_cs": "pcg0005",
     "variable": "pcg0005",
@@ -79133,6 +79365,7 @@
     "label_de": "Ausbildung Universitaet"
   },
   "pcg0006": {
+    "study": "soep-core",
     "name": "pcg0006",
     "name_cs": "pcg0006",
     "variable": "pcg0006",
@@ -79204,6 +79437,7 @@
     "label_de": "Berufliche Umschulung"
   },
   "pcg0007": {
+    "study": "soep-core",
     "name": "pcg0007",
     "name_cs": "pcg0007",
     "variable": "pcg0007",
@@ -79275,6 +79509,7 @@
     "label_de": "Sonst. Weiterbildung"
   },
   "pcg0008": {
+    "study": "soep-core",
     "name": "pcg0008",
     "name_cs": "pcg0008",
     "variable": "pcg0008",
@@ -79371,6 +79606,7 @@
     "label_de": "Schulabschluss,Abschlussart-Deutschland"
   },
   "pcg0009": {
+    "study": "soep-core",
     "name": "pcg0009",
     "name_cs": "pcg0009",
     "variable": "pcg0009",
@@ -79442,6 +79678,7 @@
     "label_de": "Schulabschluss in Deutschland"
   },
   "pcg0010": {
+    "study": "soep-core",
     "name": "pcg0010",
     "name_cs": "pcg0010",
     "variable": "pcg0010",
@@ -79533,6 +79770,7 @@
     "label_de": "Schulabschluss"
   },
   "pcg0011": {
+    "study": "soep-core",
     "name": "pcg0011",
     "name_cs": "pcg0011",
     "variable": "pcg0011",
@@ -79604,6 +79842,7 @@
     "label_de": "Kein Ausbildungsabschluss in Deutschland"
   },
   "pcg0012": {
+    "study": "soep-core",
     "name": "pcg0012",
     "name_cs": "pcg0012",
     "variable": "pcg0012",
@@ -79695,6 +79934,7 @@
     "label_de": "Allgemeinbildender Schulabschluss"
   },
   "pcg0013": {
+    "study": "soep-core",
     "name": "pcg0013",
     "name_cs": "pcg0013",
     "variable": "pcg0013",
@@ -79781,6 +80021,7 @@
     "label_de": "Hochschulabschluss"
   },
   "pcg0014": {
+    "study": "soep-core",
     "name": "pcg0014",
     "name_cs": "pcg0014",
     "variable": "pcg0014",
@@ -79877,6 +80118,7 @@
     "label_de": "Ausbildungsart"
   },
   "pcg0015": {
+    "study": "soep-core",
     "name": "pcg0015",
     "name_cs": "pcg0015",
     "variable": "pcg0015",
@@ -79916,6 +80158,7 @@
     "label_de": "l.3.J. - Kurs1,Beginn,Jahr"
   },
   "pcg0016": {
+    "study": "soep-core",
     "name": "pcg0016",
     "name_cs": "pcg0016",
     "variable": "pcg0016",
@@ -79955,6 +80198,7 @@
     "label_de": "l.3.J. - Kurs2,Beginn,Jahr"
   },
   "pcg0017": {
+    "study": "soep-core",
     "name": "pcg0017",
     "name_cs": "pcg0017",
     "variable": "pcg0017",
@@ -79994,6 +80238,7 @@
     "label_de": "l.3.J. - Kurs3,Beginn,Jahr"
   },
   "pcg0018": {
+    "study": "soep-core",
     "name": "pcg0018",
     "name_cs": "pcg0018",
     "variable": "pcg0018",
@@ -80033,6 +80278,7 @@
     "label_de": "l.3.J. - Kurs1, Dauer, Tage"
   },
   "pcg0019": {
+    "study": "soep-core",
     "name": "pcg0019",
     "name_cs": "pcg0019",
     "variable": "pcg0019",
@@ -80072,6 +80318,7 @@
     "label_de": "l.3.J. - Kurs2, Dauer, Tage"
   },
   "pcg0020": {
+    "study": "soep-core",
     "name": "pcg0020",
     "name_cs": "pcg0020",
     "variable": "pcg0020",
@@ -80111,6 +80358,7 @@
     "label_de": "l.3.J. - Kurs3, Dauer, Tage"
   },
   "pcg0021": {
+    "study": "soep-core",
     "name": "pcg0021",
     "name_cs": "pcg0021",
     "variable": "pcg0021",
@@ -80182,6 +80430,7 @@
     "label_de": "l.3.J. - Kurs1, Veranstalter"
   },
   "pcg0022": {
+    "study": "soep-core",
     "name": "pcg0022",
     "name_cs": "pcg0022",
     "variable": "pcg0022",
@@ -80221,6 +80470,7 @@
     "label_de": "Entst. Kosten f. BW. DM"
   },
   "pcg0023": {
+    "study": "soep-core",
     "name": "pcg0023",
     "name_cs": "pcg0023",
     "variable": "pcg0023",
@@ -80292,6 +80542,7 @@
     "label_de": "l.3.J. - Kurs1,  finanz.Unterst.erhalten"
   },
   "pcg0024": {
+    "study": "soep-core",
     "name": "pcg0024",
     "name_cs": "pcg0024",
     "variable": "pcg0024",
@@ -80378,6 +80629,7 @@
     "label_de": "2.Kurs finanz. Unterst. erhalten"
   },
   "pcg0025": {
+    "study": "soep-core",
     "name": "pcg0025",
     "name_cs": "pcg0025",
     "variable": "pcg0025",
@@ -80464,6 +80716,7 @@
     "label_de": "3.Kurs finanz. Unterst. erhalten"
   },
   "pcg0026": {
+    "study": "soep-core",
     "name": "pcg0026",
     "name_cs": "pcg0026",
     "variable": "pcg0026",
@@ -80545,6 +80798,7 @@
     "label_de": "Studium: Stipendium"
   },
   "pcg0027": {
+    "study": "soep-core",
     "name": "pcg0027",
     "name_cs": "pcg0027",
     "variable": "pcg0027",
@@ -80631,6 +80885,7 @@
     "label_de": "1. Kurs, finanzielle Unterstuetzung erhalten"
   },
   "pcg0028": {
+    "study": "soep-core",
     "name": "pcg0028",
     "name_cs": "pcg0028",
     "variable": "pcg0028",
@@ -80707,6 +80962,7 @@
     "label_de": "Gewerkschaftsmitglied"
   },
   "pch0001": {
+    "study": "soep-core",
     "name": "pch0001",
     "name_cs": "pch0001",
     "variable": "pch0001",
@@ -80888,6 +81144,7 @@
     "label_de": "Parteipraeferenz"
   },
   "pch0003": {
+    "study": "soep-core",
     "name": "pch0003",
     "name_cs": "pch0003",
     "variable": "pch0003",
@@ -80979,6 +81236,7 @@
     "label_de": "Kirche, Religion"
   },
   "pch0004": {
+    "study": "soep-core",
     "name": "pch0004",
     "name_cs": "pch0004",
     "variable": "pch0004",
@@ -81060,6 +81318,7 @@
     "label_de": "Andere christliche Religionsgemeinschaft"
   },
   "pch0005": {
+    "study": "soep-core",
     "name": "pch0005",
     "name_cs": "pch0005",
     "variable": "pch0005",
@@ -81136,6 +81395,7 @@
     "label_de": "Mitglied im Berufsverband"
   },
   "pci0001": {
+    "study": "soep-core",
     "name": "pci0001",
     "name_cs": "pci0001",
     "variable": "pci0001",
@@ -81175,6 +81435,7 @@
     "label_de": "Beruf,Lehre,Nebenerw. Std., Sa"
   },
   "pci0002": {
+    "study": "soep-core",
     "name": "pci0002",
     "name_cs": "pci0002",
     "variable": "pci0002",
@@ -81214,6 +81475,7 @@
     "label_de": "Beruf, Lehre, Nebenerw.Std., Sonntag"
   },
   "pci0003": {
+    "study": "soep-core",
     "name": "pci0003",
     "name_cs": "pci0003",
     "variable": "pci0003",
@@ -81253,6 +81515,7 @@
     "label_de": "Hobbies, Freizeit Std., So"
   },
   "pci0004": {
+    "study": "soep-core",
     "name": "pci0004",
     "name_cs": "pci0004",
     "variable": "pci0004",
@@ -81292,6 +81555,7 @@
     "label_de": "Hausarbeit, Besorgungen, Sonntag, Std."
   },
   "pci0005": {
+    "study": "soep-core",
     "name": "pci0005",
     "name_cs": "pci0005",
     "variable": "pci0005",
@@ -81331,6 +81595,7 @@
     "label_de": "Kinderbetreuung, Samstag, Stunden"
   },
   "pci0006": {
+    "study": "soep-core",
     "name": "pci0006",
     "name_cs": "pci0006",
     "variable": "pci0006",
@@ -81370,6 +81635,7 @@
     "label_de": "Kinderbetreuung, Sonntag, Stunden"
   },
   "pci0007": {
+    "study": "soep-core",
     "name": "pci0007",
     "name_cs": "pci0007",
     "variable": "pci0007",
@@ -81409,6 +81675,7 @@
     "label_de": "Ausbildung, Schule, Samstag, Stunden"
   },
   "pci0008": {
+    "study": "soep-core",
     "name": "pci0008",
     "name_cs": "pci0008",
     "variable": "pci0008",
@@ -81448,6 +81715,7 @@
     "label_de": "Ausbildung, Sonntag, Stunden"
   },
   "pci0009": {
+    "study": "soep-core",
     "name": "pci0009",
     "name_cs": "pci0009",
     "variable": "pci0009",
@@ -81487,6 +81755,7 @@
     "label_de": "Basteln etc., Samstag, Stunden"
   },
   "pci0010": {
+    "study": "soep-core",
     "name": "pci0010",
     "name_cs": "pci0010",
     "variable": "pci0010",
@@ -81526,6 +81795,7 @@
     "label_de": "Basteln etc., Sonntag, Stunden"
   },
   "pci0011": {
+    "study": "soep-core",
     "name": "pci0011",
     "name_cs": "pci0011",
     "variable": "pci0011",
@@ -81565,6 +81835,7 @@
     "label_de": "Hobbies, Freizeit Std., Samstag"
   },
   "pci0012": {
+    "study": "soep-core",
     "name": "pci0012",
     "name_cs": "pci0012",
     "variable": "pci0012",
@@ -81604,6 +81875,7 @@
     "label_de": "Beruf, Lehre, Nebenerw. Std., Werktg."
   },
   "pci0013": {
+    "study": "soep-core",
     "name": "pci0013",
     "name_cs": "pci0013",
     "variable": "pci0013",
@@ -81643,6 +81915,7 @@
     "label_de": "Besorgungen - Stunden Werktag (Mo-Fr)"
   },
   "pci0014": {
+    "study": "soep-core",
     "name": "pci0014",
     "name_cs": "pci0014",
     "variable": "pci0014",
@@ -81682,6 +81955,7 @@
     "label_de": "Hausarbeit Std., Werktg."
   },
   "pci0015": {
+    "study": "soep-core",
     "name": "pci0015",
     "name_cs": "pci0015",
     "variable": "pci0015",
@@ -81721,6 +81995,7 @@
     "label_de": "Kinderbetreuung, Mo-Fr, Stunden"
   },
   "pci0016": {
+    "study": "soep-core",
     "name": "pci0016",
     "name_cs": "pci0016",
     "variable": "pci0016",
@@ -81760,6 +82035,7 @@
     "label_de": "Ausbildung, Schule, Mo.-Fr., Stunden"
   },
   "pci0017": {
+    "study": "soep-core",
     "name": "pci0017",
     "name_cs": "pci0017",
     "variable": "pci0017",
@@ -81799,6 +82075,7 @@
     "label_de": "Basteln etc., Mo.- Fr., Stunden"
   },
   "pci0018": {
+    "study": "soep-core",
     "name": "pci0018",
     "name_cs": "pci0018",
     "variable": "pci0018",
@@ -81838,6 +82115,7 @@
     "label_de": "Hobbies, Freizeit Std., Werktg."
   },
   "pci0019": {
+    "study": "soep-core",
     "name": "pci0019",
     "name_cs": "pci0019",
     "variable": "pci0019",
@@ -81909,6 +82187,7 @@
     "label_de": "private PC-Nutzung"
   },
   "pci0020": {
+    "study": "soep-core",
     "name": "pci0020",
     "name_cs": "pci0020",
     "variable": "pci0020",
@@ -81948,6 +82227,7 @@
     "label_de": "Computernutzung (Privat) seit"
   },
   "pci0021": {
+    "study": "soep-core",
     "name": "pci0021",
     "name_cs": "pci0021",
     "variable": "pci0021",
@@ -81987,6 +82267,7 @@
     "label_de": "Computernutzung (Beruf) seit"
   },
   "pci0023": {
+    "study": "soep-core",
     "name": "pci0023",
     "name_cs": "pci0023",
     "variable": "pci0023",
@@ -82073,6 +82354,7 @@
     "label_de": "Besuch kultureller Veranstaltungen"
   },
   "pci0026": {
+    "study": "soep-core",
     "name": "pci0026",
     "name_cs": "pci0026",
     "variable": "pci0026",
@@ -82154,6 +82436,7 @@
     "label_de": "Geselligkeit mit Freunden, etc."
   },
   "pci0027": {
+    "study": "soep-core",
     "name": "pci0027",
     "name_cs": "pci0027",
     "variable": "pci0027",
@@ -82235,6 +82518,7 @@
     "label_de": "Nachbarschaftshilfe"
   },
   "pci0028": {
+    "study": "soep-core",
     "name": "pci0028",
     "name_cs": "pci0028",
     "variable": "pci0028",
@@ -82321,6 +82605,7 @@
     "label_de": "Ehrenamtl. Taetigkeit"
   },
   "pci0029": {
+    "study": "soep-core",
     "name": "pci0029",
     "name_cs": "pci0029",
     "variable": "pci0029",
@@ -82407,6 +82692,7 @@
     "label_de": "Beteiligung in Buergerinitiativen etc."
   },
   "pci0030": {
+    "study": "soep-core",
     "name": "pci0030",
     "name_cs": "pci0030",
     "variable": "pci0030",
@@ -82483,6 +82769,7 @@
     "label_de": "Fuehrerscheinbesitz"
   },
   "pci0031": {
+    "study": "soep-core",
     "name": "pci0031",
     "name_cs": "pci0031",
     "variable": "pci0031",
@@ -82559,6 +82846,7 @@
     "label_de": "Nutzung Omnibusse"
   },
   "pci0032": {
+    "study": "soep-core",
     "name": "pci0032",
     "name_cs": "pci0032",
     "variable": "pci0032",
@@ -82635,6 +82923,7 @@
     "label_de": "Nutzung U-,S-Bahn"
   },
   "pci0033": {
+    "study": "soep-core",
     "name": "pci0033",
     "name_cs": "pci0033",
     "variable": "pci0033",
@@ -82711,6 +83000,7 @@
     "label_de": "Nutzung Strassenbahn"
   },
   "pci0034": {
+    "study": "soep-core",
     "name": "pci0034",
     "name_cs": "pci0034",
     "variable": "pci0034",
@@ -82787,6 +83077,7 @@
     "label_de": "Nutzung Eisenbahn"
   },
   "pci0035": {
+    "study": "soep-core",
     "name": "pci0035",
     "name_cs": "pci0035",
     "variable": "pci0035",
@@ -82863,6 +83154,7 @@
     "label_de": "Nutzung Sammeltaxi"
   },
   "pci0036": {
+    "study": "soep-core",
     "name": "pci0036",
     "name_cs": "pci0036",
     "variable": "pci0036",
@@ -82944,6 +83236,7 @@
     "label_de": "PKW verfuegbar"
   },
   "pcj0001": {
+    "study": "soep-core",
     "name": "pcj0001",
     "name_cs": "pcj0001",
     "variable": "pcj0001",
@@ -83020,6 +83313,7 @@
     "label_de": "Deutsche Staatsangehoerigkeit"
   },
   "pcj0003": {
+    "study": "soep-core",
     "name": "pcj0003",
     "name_cs": "pcj0003",
     "variable": "pcj0003",
@@ -83101,6 +83395,7 @@
     "label_de": "Arbeitsplatz West-Ost-Ausland"
   },
   "pcj0004": {
+    "study": "soep-core",
     "name": "pcj0004",
     "name_cs": "pcj0004",
     "variable": "pcj0004",
@@ -83140,6 +83435,7 @@
     "label_de": "An Eltern, Schwiegereltern Betrag"
   },
   "pcj0005": {
+    "study": "soep-core",
     "name": "pcj0005",
     "name_cs": "pcj0005",
     "variable": "pcj0005",
@@ -83216,6 +83512,7 @@
     "label_de": "Leben Eltern in Dtschl.o.Ausland"
   },
   "pcj0006": {
+    "study": "soep-core",
     "name": "pcj0006",
     "name_cs": "pcj0006",
     "variable": "pcj0006",
@@ -83255,6 +83552,7 @@
     "label_de": "An Kinder Betrag"
   },
   "pcj0007": {
+    "study": "soep-core",
     "name": "pcj0007",
     "name_cs": "pcj0007",
     "variable": "pcj0007",
@@ -83331,6 +83629,7 @@
     "label_de": "Leben Kinder in Dtschl.o.Ausland"
   },
   "pcj0008": {
+    "study": "soep-core",
     "name": "pcj0008",
     "name_cs": "pcj0008",
     "variable": "pcj0008",
@@ -83370,6 +83669,7 @@
     "label_de": "An Ehepartner Betrag"
   },
   "pcj0009": {
+    "study": "soep-core",
     "name": "pcj0009",
     "name_cs": "pcj0009",
     "variable": "pcj0009",
@@ -83446,6 +83746,7 @@
     "label_de": "Lebt geschied.Ehepartner in Dtschl.o.Aus"
   },
   "pcj0010": {
+    "study": "soep-core",
     "name": "pcj0010",
     "name_cs": "pcj0010",
     "variable": "pcj0010",
@@ -83485,6 +83786,7 @@
     "label_de": "An sonst. Verwandte Betrag"
   },
   "pcj0011": {
+    "study": "soep-core",
     "name": "pcj0011",
     "name_cs": "pcj0011",
     "variable": "pcj0011",
@@ -83561,6 +83863,7 @@
     "label_de": "Leben sonst. Verwandte in Dtschl.o.Ausl."
   },
   "pcj0012": {
+    "study": "soep-core",
     "name": "pcj0012",
     "name_cs": "pcj0012",
     "variable": "pcj0012",
@@ -83600,6 +83903,7 @@
     "label_de": "An n. verwandte Pers. Betrag"
   },
   "pcj0013": {
+    "study": "soep-core",
     "name": "pcj0013",
     "name_cs": "pcj0013",
     "variable": "pcj0013",
@@ -83676,6 +83980,7 @@
     "label_de": "Leben nichtverwandte P.in Dtschl.o.Ausl."
   },
   "pcj0014": {
+    "study": "soep-core",
     "name": "pcj0014",
     "name_cs": "pcj0014",
     "variable": "pcj0014",
@@ -83715,6 +84020,7 @@
     "label_de": "Zuzug nach Deutschland, Jahr"
   },
   "pck0001": {
+    "study": "soep-core",
     "name": "pck0001",
     "name_cs": "pck0001",
     "variable": "pck0001",
@@ -83791,6 +84097,7 @@
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0002": {
+    "study": "soep-core",
     "name": "pck0002",
     "name_cs": "pck0002",
     "variable": "pck0002",
@@ -83862,6 +84169,7 @@
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0003": {
+    "study": "soep-core",
     "name": "pck0003",
     "name_cs": "pck0003",
     "variable": "pck0003",
@@ -83933,6 +84241,7 @@
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0004": {
+    "study": "soep-core",
     "name": "pck0004",
     "name_cs": "pck0004",
     "variable": "pck0004",
@@ -84014,6 +84323,7 @@
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0006": {
+    "study": "soep-core",
     "name": "pck0006",
     "name_cs": "pck0006",
     "variable": "pck0006",
@@ -84110,6 +84420,7 @@
     "label_de": "Art der Befragung"
   },
   "pck0007": {
+    "study": "soep-core",
     "name": "pck0007",
     "name_cs": "pck0007",
     "variable": "pck0007",
@@ -84186,6 +84497,7 @@
     "label_de": "Art des Interviews"
   },
   "pnc0155": {
+    "study": "soep-core",
     "name": "pnc0155",
     "name_cs": "pnc0155",
     "variable": "pnc0155",
@@ -84225,6 +84537,7 @@
     "label_de": "Mutterschaftsgeld Betrag Vorjahr"
   },
   "pnc0167": {
+    "study": "soep-core",
     "name": "pnc0167",
     "name_cs": "pnc0167",
     "variable": "pnc0167",
@@ -84296,6 +84609,7 @@
     "label_de": "Bafoeg, Stipendium etc."
   },
   "pni0010": {
+    "study": "soep-core",
     "name": "pni0010",
     "name_cs": "pni0010",
     "variable": "pni0010",
@@ -84335,6 +84649,7 @@
     "label_de": "Sonst. Freizeitbeschaeft. Std./Sonntag"
   },
   "pni0011": {
+    "study": "soep-core",
     "name": "pni0011",
     "name_cs": "pni0011",
     "variable": "pni0011",
@@ -84374,6 +84689,7 @@
     "label_de": "Besorgungen Std./Sonntag"
   },
   "pni0012": {
+    "study": "soep-core",
     "name": "pni0012",
     "name_cs": "pni0012",
     "variable": "pni0012",
@@ -84413,6 +84729,7 @@
     "label_de": "Hausarbeit Std./Samstag"
   },
   "pni0019": {
+    "study": "soep-core",
     "name": "pni0019",
     "name_cs": "pni0019",
     "variable": "pni0019",
@@ -84452,6 +84769,7 @@
     "label_de": "Kinderbetreuung Std./Samstag"
   },
   "pab0001": {
+    "study": "soep-core",
     "name": "pab0001",
     "name_cs": "pab0001",
     "variable": "pab0001",
@@ -84477,6 +84795,7 @@
     "label_de": "Voll erwerbstaetig, Jan-Dez Vorjahr"
   },
   "pab0002": {
+    "study": "soep-core",
     "name": "pab0002",
     "name_cs": "pab0002",
     "variable": "pab0002",
@@ -84502,6 +84821,7 @@
     "label_de": "Teilzeit, Jan-Dez Vorjahr"
   },
   "pab0003": {
+    "study": "soep-core",
     "name": "pab0003",
     "name_cs": "pab0003",
     "variable": "pab0003",
@@ -84527,6 +84847,7 @@
     "label_de": "Kurzarbeit, Jan-Dez Vorjahr"
   },
   "pab0004": {
+    "study": "soep-core",
     "name": "pab0004",
     "name_cs": "pab0004",
     "variable": "pab0004",
@@ -84552,6 +84873,7 @@
     "label_de": "Arbeitslos gemeldet,Jan-Dez Vorjahr"
   },
   "pab0005": {
+    "study": "soep-core",
     "name": "pab0005",
     "name_cs": "pab0005",
     "variable": "pab0005",
@@ -84577,6 +84899,7 @@
     "label_de": "In Rente etc.,Jan-Dez Vorjahr"
   },
   "pab0006": {
+    "study": "soep-core",
     "name": "pab0006",
     "name_cs": "pab0006",
     "variable": "pab0006",
@@ -84602,6 +84925,7 @@
     "label_de": "Mutterschutz etc.,Jan-Dez Vorjahr"
   },
   "pab0007": {
+    "study": "soep-core",
     "name": "pab0007",
     "name_cs": "pab0007",
     "variable": "pab0007",
@@ -84627,6 +84951,7 @@
     "label_de": "Wehr-,Zivildienst, Jan-Dez Vorjahr"
   },
   "pab0008": {
+    "study": "soep-core",
     "name": "pab0008",
     "name_cs": "pab0008",
     "variable": "pab0008",
@@ -84652,6 +84977,7 @@
     "label_de": "Hausfrau,-mann,Jan-Dez Vorjahr"
   },
   "pab0010": {
+    "study": "soep-core",
     "name": "pab0010",
     "name_cs": "pab0010",
     "variable": "pab0010",
@@ -84677,6 +85003,7 @@
     "label_de": "Fortbilung,Jan-Dez Vorjahr"
   },
   "pab0011": {
+    "study": "soep-core",
     "name": "pab0011",
     "name_cs": "pab0011",
     "variable": "pab0011",
@@ -84702,6 +85029,7 @@
     "label_de": "Mini-Job, Jan-Dez Vorjahr"
   },
   "pab0012": {
+    "study": "soep-core",
     "name": "pab0012",
     "name_cs": "pab0012",
     "variable": "pab0012",
@@ -84727,6 +85055,7 @@
     "label_de": "Sonstiges, Jan-Dez Vorjahr"
   },
   "pab0013": {
+    "study": "soep-core",
     "name": "pab0013",
     "name_cs": "pab0013",
     "variable": "pab0013",
@@ -84752,6 +85081,7 @@
     "label_de": "Schule etc.,Jan-Dez Vorjahr"
   },
   "pag0004": {
+    "study": "soep-core",
     "name": "pag0004",
     "name_cs": "pag0004",
     "variable": "pag0004",
@@ -84777,6 +85107,7 @@
     "label_de": "Buchstabe Kurs1 (F63,1989)"
   },
   "pag0005": {
+    "study": "soep-core",
     "name": "pag0005",
     "name_cs": "pag0005",
     "variable": "pag0005",
@@ -84802,6 +85133,7 @@
     "label_de": "Buchstabe Kurs2 (F63,1989)"
   },
   "pag0006": {
+    "study": "soep-core",
     "name": "pag0006",
     "name_cs": "pag0006",
     "variable": "pag0006",
@@ -84827,6 +85159,7 @@
     "label_de": "Buchstabe Kurs3 (F63,1989)"
   },
   "fpop": {
+    "study": "soep-core",
     "name": "fpop",
     "name_cs": "fpop",
     "variable": "fpop",

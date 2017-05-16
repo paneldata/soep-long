@@ -58,8 +58,9 @@ def main():
     copy.study()
     datasets()
     variables()
+    dor1.transformations()
     fix_pl()
-    convert_r2ddi.Parser(version="v32", r2ddi_path="temp/r2ddi").write_json()
+    convert_r2ddi.Parser("soep-core", version="v32", r2ddi_path="temp/r2ddi").write_json()
 
 if __name__ == "__main__":
     main()

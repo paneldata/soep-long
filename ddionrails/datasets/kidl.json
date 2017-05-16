@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "wellen-spezifische Haushaltsnummer"
   },
   "pid": {
+    "study": "soep-core",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -111,6 +114,7 @@
     "label_de": "Personennummer des Kindes"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -148,6 +152,7 @@
     "label_de": "Erhebungsjahr"
   },
   "k_nat": {
+    "study": "soep-core",
     "name": "k_nat",
     "name_cs": "k_nat",
     "variable": "k_nat",
@@ -304,6 +309,7 @@
     "label_de": "Staatsangehoerigkeit"
   },
   "k_inhh": {
+    "study": "soep-core",
     "name": "k_inhh",
     "name_cs": "k_inhh",
     "variable": "k_inhh",
@@ -480,6 +486,7 @@
     "label_de": "Haushaltszugehoerigkeit"
   },
   "k_size": {
+    "study": "soep-core",
     "name": "k_size",
     "name_cs": "k_size",
     "variable": "k_size",
@@ -517,6 +524,7 @@
     "label_de": "Zahl der Personen im HH"
   },
   "k_nrkid": {
+    "study": "soep-core",
     "name": "k_nrkid",
     "name_cs": "k_nrkid",
     "variable": "k_nrkid",
@@ -554,6 +562,7 @@
     "label_de": "Zahl der Kinder unter 16 Jahren im HH"
   },
   "k_rel": {
+    "study": "soep-core",
     "name": "k_rel",
     "name_cs": "k_rel",
     "variable": "k_rel",
@@ -810,6 +819,7 @@
     "label_de": "Stellung im HH"
   },
   "k_nrinhh": {
+    "study": "soep-core",
     "name": "k_nrinhh",
     "name_cs": "k_nrinhh",
     "variable": "k_nrinhh",
@@ -849,6 +859,7 @@
     "label_de": "Lfd. Nr. des Kindes"
   },
   "k_phead": {
+    "study": "soep-core",
     "name": "k_phead",
     "name_cs": "k_phead",
     "variable": "k_phead",
@@ -888,6 +899,7 @@
     "label_de": "Zeiger auf HV"
   },
   "k_pheadp": {
+    "study": "soep-core",
     "name": "k_pheadp",
     "name_cs": "k_pheadp",
     "variable": "k_pheadp",
@@ -927,6 +939,7 @@
     "label_de": "Zeiger auf Partner des HV"
   },
   "k_pmum": {
+    "study": "soep-core",
     "name": "k_pmum",
     "name_cs": "k_pmum",
     "variable": "k_pmum",
@@ -966,6 +979,7 @@
     "label_de": "Zeiger auf Mutter"
   },
   "k_pmump": {
+    "study": "soep-core",
     "name": "k_pmump",
     "name_cs": "k_pmump",
     "variable": "k_pmump",
@@ -1005,6 +1019,7 @@
     "label_de": "Zeiger auf Partner der Mutter"
   },
   "k_instr": {
+    "study": "soep-core",
     "name": "k_instr",
     "name_cs": "k_instr",
     "variable": "k_instr",
@@ -1111,6 +1126,7 @@
     "label_de": "Sprachversion des Fragebogens"
   },
   "ks_pre": {
+    "study": "soep-core",
     "name": "ks_pre",
     "name_cs": "ks_pre",
     "variable": "ks_pre",
@@ -1202,6 +1218,7 @@
     "label_de": "Krippe, KiGa,KiTa, Hort"
   },
   "ks_gen": {
+    "study": "soep-core",
     "name": "ks_gen",
     "name_cs": "ks_gen",
     "variable": "ks_gen",
@@ -1313,6 +1330,7 @@
     "label_de": "Allg. Schule"
   },
   "ks_vocat": {
+    "study": "soep-core",
     "name": "ks_vocat",
     "name_cs": "ks_vocat",
     "variable": "ks_vocat",
@@ -1389,6 +1407,7 @@
     "label_de": "Berufsschule"
   },
   "ks_none": {
+    "study": "soep-core",
     "name": "ks_none",
     "name_cs": "ks_none",
     "variable": "ks_none",
@@ -1470,6 +1489,7 @@
     "label_de": "keine dieser Einrichtungen"
   },
   "ks_east": {
+    "study": "soep-core",
     "name": "ks_east",
     "name_cs": "ks_east",
     "variable": "ks_east",
@@ -1571,6 +1591,7 @@
     "label_de": "Allg. Schule Ost"
   },
   "ks_eastp": {
+    "study": "soep-core",
     "name": "ks_eastp",
     "name_cs": "ks_eastp",
     "variable": "ks_eastp",
@@ -1642,6 +1663,7 @@
     "label_de": "Schulhort Ost"
   },
   "ks_other": {
+    "study": "soep-core",
     "name": "ks_other",
     "name_cs": "ks_other",
     "variable": "ks_other",
@@ -1818,6 +1840,7 @@
     "label_de": "Andere Schultypen"
   },
   "kd_publ": {
+    "study": "soep-core",
     "name": "kd_publ",
     "name_cs": "kd_publ",
     "variable": "kd_publ",
@@ -1899,6 +1922,7 @@
     "label_de": "Traeger: oeff. Einrichtung"
   },
   "kd_priv": {
+    "study": "soep-core",
     "name": "kd_priv",
     "name_cs": "kd_priv",
     "variable": "kd_priv",
@@ -1980,6 +2004,7 @@
     "label_de": "Traeger: private-gemeinn. Einrichtung"
   },
   "kd_indep": {
+    "study": "soep-core",
     "name": "kd_indep",
     "name_cs": "kd_indep",
     "variable": "kd_indep",
@@ -2061,6 +2086,7 @@
     "label_de": "Traeger: kirchlich, gemeinn. Einrichtung"
   },
   "kd_comp": {
+    "study": "soep-core",
     "name": "kd_comp",
     "name_cs": "kd_comp",
     "variable": "kd_comp",
@@ -2137,6 +2163,7 @@
     "label_de": "Traeger: betriebl. Einrichtung"
   },
   "kd_comm": {
+    "study": "soep-core",
     "name": "kd_comm",
     "name_cs": "kd_comm",
     "variable": "kd_comm",
@@ -2218,6 +2245,7 @@
     "label_de": "Traeger: private-gewerbl. Einrichtung"
   },
   "kd_rely": {
+    "study": "soep-core",
     "name": "kd_rely",
     "name_cs": "kd_rely",
     "variable": "kd_rely",
@@ -2299,6 +2327,7 @@
     "label_de": "Einhaltung der Betreuungszeiten"
   },
   "kd_time": {
+    "study": "soep-core",
     "name": "kd_time",
     "name_cs": "kd_time",
     "variable": "kd_time",
@@ -2385,6 +2414,7 @@
     "label_de": "Zeitliche Lage Einrichtungsbesuch"
   },
   "kd_hrs": {
+    "study": "soep-core",
     "name": "kd_hrs",
     "name_cs": "kd_hrs",
     "variable": "kd_hrs",
@@ -2424,6 +2454,7 @@
     "label_de": "Stunden pro Tag in der Einrichtung"
   },
   "kd_lunch": {
+    "study": "soep-core",
     "name": "kd_lunch",
     "name_cs": "kd_lunch",
     "variable": "kd_lunch",
@@ -2500,6 +2531,7 @@
     "label_de": "Mittagessen in der Einrichtung"
   },
   "ks_lunch": {
+    "study": "soep-core",
     "name": "ks_lunch",
     "name_cs": "ks_lunch",
     "variable": "ks_lunch",
@@ -2576,6 +2608,7 @@
     "label_de": "Mittagessen in der Schule"
   },
   "ks_amtp": {
+    "study": "soep-core",
     "name": "ks_amtp",
     "name_cs": "ks_amtp",
     "variable": "ks_amtp",
@@ -2615,6 +2648,7 @@
     "label_de": "Kosten fuer Schule pro Monat"
   },
   "ks_cost": {
+    "study": "soep-core",
     "name": "ks_cost",
     "name_cs": "ks_cost",
     "variable": "ks_cost",
@@ -2686,6 +2720,7 @@
     "label_de": "Schule: keine Kosten"
   },
   "kk_amtp": {
+    "study": "soep-core",
     "name": "kk_amtp",
     "name_cs": "kk_amtp",
     "variable": "kk_amtp",
@@ -2725,6 +2760,7 @@
     "label_de": "Kosten fuer Kita etc. pro Monat"
   },
   "kk_cost": {
+    "study": "soep-core",
     "name": "kk_cost",
     "name_cs": "kk_cost",
     "variable": "kk_cost",
@@ -2796,6 +2832,7 @@
     "label_de": "Kita: keine Kosten"
   },
   "kd_fee": {
+    "study": "soep-core",
     "name": "kd_fee",
     "name_cs": "kd_fee",
     "variable": "kd_fee",
@@ -2872,6 +2909,7 @@
     "label_de": "Besuch der Einrichtung kostenpflichtig"
   },
   "kd_amtp": {
+    "study": "soep-core",
     "name": "kd_amtp",
     "name_cs": "kd_amtp",
     "variable": "kd_amtp",
@@ -2911,6 +2949,7 @@
     "label_de": "Einrichtungskosten in Euro/Monat"
   },
   "kc_relat": {
+    "study": "soep-core",
     "name": "kc_relat",
     "name_cs": "kc_relat",
     "variable": "kc_relat",
@@ -2982,6 +3021,7 @@
     "label_de": "Verwandte"
   },
   "kc_frnd": {
+    "study": "soep-core",
     "name": "kc_frnd",
     "name_cs": "kc_frnd",
     "variable": "kc_frnd",
@@ -3053,6 +3093,7 @@
     "label_de": "Freunde, Bekannte, Nachbarn"
   },
   "kc_paid": {
+    "study": "soep-core",
     "name": "kc_paid",
     "name_cs": "kc_paid",
     "variable": "kc_paid",
@@ -3124,6 +3165,7 @@
     "label_de": "bezahlte Betr.person kommt ins Haus"
   },
   "kc_mindr": {
+    "study": "soep-core",
     "name": "kc_mindr",
     "name_cs": "kc_mindr",
     "variable": "kc_mindr",
@@ -3195,6 +3237,7 @@
     "label_de": "Tagesmutter ausserhalb des HH"
   },
   "kc_none": {
+    "study": "soep-core",
     "name": "kc_none",
     "name_cs": "kc_none",
     "variable": "kc_none",
@@ -3266,6 +3309,7 @@
     "label_de": "keine externe Betreuung"
   },
   "ka06_spo": {
+    "study": "soep-core",
     "name": "ka06_spo",
     "name_cs": "ka06_spo",
     "variable": "ka06_spo",
@@ -3337,6 +3381,7 @@
     "label_de": "unter 6 KiTurnen, Schwimmen"
   },
   "ka06_mus": {
+    "study": "soep-core",
     "name": "ka06_mus",
     "name_cs": "ka06_mus",
     "variable": "ka06_mus",
@@ -3408,6 +3453,7 @@
     "label_de": "unter 6 fruehkindl. Musikerziehung"
   },
   "ka06_art": {
+    "study": "soep-core",
     "name": "ka06_art",
     "name_cs": "ka06_art",
     "variable": "ka06_art",
@@ -3479,6 +3525,7 @@
     "label_de": "unter 6 Malen fuer Kinder"
   },
   "ka06_oth": {
+    "study": "soep-core",
     "name": "ka06_oth",
     "name_cs": "ka06_oth",
     "variable": "ka06_oth",
@@ -3550,6 +3597,7 @@
     "label_de": "unter 6 ElternKind Gruppe"
   },
   "ka06_non": {
+    "study": "soep-core",
     "name": "ka06_non",
     "name_cs": "ka06_non",
     "variable": "ka06_non",
@@ -3621,6 +3669,7 @@
     "label_de": "keine Aktivitaeten unter 6"
   },
   "ka16_ssp": {
+    "study": "soep-core",
     "name": "ka16_ssp",
     "name_cs": "ka16_ssp",
     "variable": "ka16_ssp",
@@ -3692,6 +3741,7 @@
     "label_de": "ab 6 Schul-Sport AG"
   },
   "ka16_smu": {
+    "study": "soep-core",
     "name": "ka16_smu",
     "name_cs": "ka16_smu",
     "variable": "ka16_smu",
@@ -3763,6 +3813,7 @@
     "label_de": "ab 6 Schul-Musik AG"
   },
   "ka16_sar": {
+    "study": "soep-core",
     "name": "ka16_sar",
     "name_cs": "ka16_sar",
     "variable": "ka16_sar",
@@ -3834,6 +3885,7 @@
     "label_de": "ab 6 Schul-Kunst AG"
   },
   "ka16_sth": {
+    "study": "soep-core",
     "name": "ka16_sth",
     "name_cs": "ka16_sth",
     "variable": "ka16_sth",
@@ -3905,6 +3957,7 @@
     "label_de": "ab 6 Schul-Theater AG"
   },
   "ka16_sot": {
+    "study": "soep-core",
     "name": "ka16_sot",
     "name_cs": "ka16_sot",
     "variable": "ka16_sot",
@@ -3976,6 +4029,7 @@
     "label_de": "ab 6 Schul-Sonstige AG"
   },
   "ka16_spo": {
+    "study": "soep-core",
     "name": "ka16_spo",
     "name_cs": "ka16_spo",
     "variable": "ka16_spo",
@@ -4047,6 +4101,7 @@
     "label_de": "ab 6 ausserh. Schule Sport"
   },
   "ka16_mus": {
+    "study": "soep-core",
     "name": "ka16_mus",
     "name_cs": "ka16_mus",
     "variable": "ka16_mus",
@@ -4118,6 +4173,7 @@
     "label_de": "ab 6 ausserh. Schule Musik"
   },
   "ka16_art": {
+    "study": "soep-core",
     "name": "ka16_art",
     "name_cs": "ka16_art",
     "variable": "ka16_art",
@@ -4189,6 +4245,7 @@
     "label_de": "ab 6 ausserh. Schule Kunst"
   },
   "ka16_org": {
+    "study": "soep-core",
     "name": "ka16_org",
     "name_cs": "ka16_org",
     "variable": "ka16_org",
@@ -4260,6 +4317,7 @@
     "label_de": "ab 6 ausserh. Schule FW, DRK"
   },
   "ka16_yth": {
+    "study": "soep-core",
     "name": "ka16_yth",
     "name_cs": "ka16_yth",
     "variable": "ka16_yth",
@@ -4331,6 +4389,7 @@
     "label_de": "ab 6 ausserh. Schule Jugendgruppe"
   },
   "ka16_ctr": {
+    "study": "soep-core",
     "name": "ka16_ctr",
     "name_cs": "ka16_ctr",
     "variable": "ka16_ctr",
@@ -4402,6 +4461,7 @@
     "label_de": "ab 6 ausserh. Schule Besuch Jug.Zentrum"
   },
   "ka16_non": {
+    "study": "soep-core",
     "name": "ka16_non",
     "name_cs": "ka16_non",
     "variable": "ka16_non",
@@ -4473,6 +4533,7 @@
     "label_de": "keine Aktivitaeten ab 6"
   },
   "k_amtp": {
+    "study": "soep-core",
     "name": "k_amtp",
     "name_cs": "k_amtp",
     "variable": "k_amtp",
@@ -4512,6 +4573,7 @@
     "label_de": "durchschnittl. Kosten pro Monat"
   },
   "k_cost": {
+    "study": "soep-core",
     "name": "k_cost",
     "name_cs": "k_cost",
     "variable": "k_cost",
@@ -4583,6 +4645,7 @@
     "label_de": "keine Kosten"
   },
   "kc_amtp": {
+    "study": "soep-core",
     "name": "kc_amtp",
     "name_cs": "kc_amtp",
     "variable": "kc_amtp",
@@ -4622,6 +4685,7 @@
     "label_de": "externe Betreuung: durchschnittl. Kosten pro Monat"
   },
   "kc_cost": {
+    "study": "soep-core",
     "name": "kc_cost",
     "name_cs": "kc_cost",
     "variable": "kc_cost",
@@ -4693,6 +4757,7 @@
     "label_de": "externe Betreuung: keine Kosten"
   },
   "k_samp": {
+    "study": "soep-core",
     "name": "k_samp",
     "name_cs": "k_samp",
     "variable": "k_samp",

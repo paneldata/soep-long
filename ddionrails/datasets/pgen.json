@@ -1,5 +1,6 @@
 {
   "cid": {
+    "study": "soep-core",
     "name": "cid",
     "name_cs": "cid",
     "variable": "cid",
@@ -37,6 +38,7 @@
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
+    "study": "soep-core",
     "name": "hid",
     "name_cs": "hid",
     "variable": "hid",
@@ -74,6 +76,7 @@
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
+    "study": "soep-core",
     "name": "pid",
     "name_cs": "pid",
     "variable": "pid",
@@ -111,6 +114,7 @@
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
+    "study": "soep-core",
     "name": "syear",
     "name_cs": "syear",
     "variable": "syear",
@@ -148,6 +152,7 @@
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "pgerljob": {
+    "study": "soep-core",
     "name": "pgerljob",
     "name_cs": "pgerljob",
     "variable": "pgerljob",
@@ -234,6 +239,7 @@
     "label_de": "Taetigkeit im erlernten Beruf"
   },
   "pgbetr": {
+    "study": "soep-core",
     "name": "pgbetr",
     "name_cs": "pgbetr",
     "variable": "pgbetr",
@@ -355,6 +361,7 @@
     "label_de": "Unternehmensgroesse"
   },
   "pgoeffd": {
+    "study": "soep-core",
     "name": "pgoeffd",
     "name_cs": "pgoeffd",
     "variable": "pgoeffd",
@@ -431,6 +438,7 @@
     "label_de": "im oeffentlichen Dienst"
   },
   "pgausb": {
+    "study": "soep-core",
     "name": "pgausb",
     "name_cs": "pgausb",
     "variable": "pgausb",
@@ -542,6 +550,7 @@
     "label_de": "erforderliche Ausbildung im Beruf"
   },
   "pgpartz": {
+    "study": "soep-core",
     "name": "pgpartz",
     "name_cs": "pgpartz",
     "variable": "pgpartz",
@@ -633,6 +642,7 @@
     "label_de": "Partner Indikator"
   },
   "pgpartnr": {
+    "study": "soep-core",
     "name": "pgpartnr",
     "name_cs": "pgpartnr",
     "variable": "pgpartnr",
@@ -672,6 +682,7 @@
     "label_de": "Unveraend. Personen-id des Partners"
   },
   "pgnation": {
+    "study": "soep-core",
     "name": "pgnation",
     "name_cs": "pgnation",
     "variable": "pgnation",
@@ -1643,6 +1654,7 @@
     "label_de": "Staatsangehoerigkeit-Nationalitaet"
   },
   "pgpsbil": {
+    "study": "soep-core",
     "name": "pgpsbil",
     "name_cs": "pgpsbil",
     "variable": "pgpsbil",
@@ -1744,6 +1756,7 @@
     "label_de": "Schulabschluss"
   },
   "pgpbbil01": {
+    "study": "soep-core",
     "name": "pgpbbil01",
     "name_cs": "pgpbbil01",
     "variable": "pgpbbil01",
@@ -1845,6 +1858,7 @@
     "label_de": "Berufl. Bildungsabschluss"
   },
   "pgpbbil02": {
+    "study": "soep-core",
     "name": "pgpbbil02",
     "name_cs": "pgpbbil02",
     "variable": "pgpbbil02",
@@ -1961,6 +1975,7 @@
     "label_de": "Hochschulabschluss"
   },
   "pgpbbil03": {
+    "study": "soep-core",
     "name": "pgpbbil03",
     "name_cs": "pgpbbil03",
     "variable": "pgpbbil03",
@@ -2042,6 +2057,7 @@
     "label_de": "Kein Berufsabschluss"
   },
   "pgpsbila": {
+    "study": "soep-core",
     "name": "pgpsbila",
     "name_cs": "pgpsbila",
     "variable": "pgpsbila",
@@ -2128,6 +2144,7 @@
     "label_de": "Schulabschluss im Ausland"
   },
   "pgpbbila": {
+    "study": "soep-core",
     "name": "pgpbbila",
     "name_cs": "pgpbbila",
     "variable": "pgpbbila",
@@ -2239,6 +2256,7 @@
     "label_de": "Berufliche Bildung im Ausland"
   },
   "pgpsbilo": {
+    "study": "soep-core",
     "name": "pgpsbilo",
     "name_cs": "pgpsbilo",
     "variable": "pgpsbilo",
@@ -2335,6 +2353,7 @@
     "label_de": "Schulabschluss-Ost"
   },
   "pgpbbilo": {
+    "study": "soep-core",
     "name": "pgpbbilo",
     "name_cs": "pgpbbilo",
     "variable": "pgpbbilo",
@@ -2421,6 +2440,7 @@
     "label_de": "Berufl. Bildungsabschluss-Ost(1950-91)"
   },
   "pgfamstd": {
+    "study": "soep-core",
     "name": "pgfamstd",
     "name_cs": "pgfamstd",
     "variable": "pgfamstd",
@@ -2527,6 +2547,7 @@
     "label_de": "Marital Status"
   },
   "pgbilzeit": {
+    "study": "soep-core",
     "name": "pgbilzeit",
     "name_cs": "pgbilzeit",
     "variable": "pgbilzeit",
@@ -2566,6 +2587,7 @@
     "label_de": "Dauer der Ausbildung, in Jahren"
   },
   "pgerwzeit": {
+    "study": "soep-core",
     "name": "pgerwzeit",
     "name_cs": "pgerwzeit",
     "variable": "pgerwzeit",
@@ -2605,6 +2627,7 @@
     "label_de": "Dauer der Betriebszugehoerigkeit"
   },
   "pgtatzeit": {
+    "study": "soep-core",
     "name": "pgtatzeit",
     "name_cs": "pgtatzeit",
     "variable": "pgtatzeit",
@@ -2644,6 +2667,7 @@
     "label_de": "Tatsaechliche Arbeitszeit pro Woche"
   },
   "pgvebzeit": {
+    "study": "soep-core",
     "name": "pgvebzeit",
     "name_cs": "pgvebzeit",
     "variable": "pgvebzeit",
@@ -2683,6 +2707,7 @@
     "label_de": "Vereinbarte Arbeitszeit pro Woche"
   },
   "pguebstd": {
+    "study": "soep-core",
     "name": "pguebstd",
     "name_cs": "pguebstd",
     "variable": "pguebstd",
@@ -2722,6 +2747,7 @@
     "label_de": "Ueberstunden pro Woche"
   },
   "pglfs": {
+    "study": "soep-core",
     "name": "pglfs",
     "name_cs": "pglfs",
     "variable": "pglfs",
@@ -2843,6 +2869,7 @@
     "label_de": "Labor Force Status"
   },
   "pgisco88": {
+    "study": "soep-core",
     "name": "pgisco88",
     "name_cs": "pgisco88",
     "variable": "pgisco88",
@@ -5369,6 +5396,7 @@
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "pgisei88": {
+    "study": "soep-core",
     "name": "pgisei88",
     "name_cs": "pgisei88",
     "variable": "pgisei88",
@@ -5408,6 +5436,7 @@
     "label_de": "letzter erreichter ISEI-Wert (International Socio-Economic Index)"
   },
   "pgmps92": {
+    "study": "soep-core",
     "name": "pgmps92",
     "name_cs": "pgmps92",
     "variable": "pgmps92",
@@ -5447,6 +5476,7 @@
     "label_de": "letzter erreichter MPS-Wert (Magnitude-Prestige-Skale, Wegener)"
   },
   "pgnace": {
+    "study": "soep-core",
     "name": "pgnace",
     "name_cs": "pgnace",
     "variable": "pgnace",
@@ -5833,6 +5863,7 @@
     "label_de": "Branche nach NACE"
   },
   "pgsiops88": {
+    "study": "soep-core",
     "name": "pgsiops88",
     "name_cs": "pgsiops88",
     "variable": "pgsiops88",
@@ -5872,6 +5903,7 @@
     "label_de": "letzter erreichter SIOPS-Wert (Std. Internat. Occupational Prestige Scale, Tre"
   },
   "pgegp88": {
+    "study": "soep-core",
     "name": "pgegp88",
     "name_cs": "pgegp88",
     "variable": "pgegp88",
@@ -5993,6 +6025,7 @@
     "label_de": "letzte erreichte EGP-Klasse (Erikson, Goldthorpe, Portocarero)"
   },
   "pgkldb92": {
+    "study": "soep-core",
     "name": "pgkldb92",
     "name_cs": "pgkldb92",
     "variable": "pgkldb92",
@@ -17484,6 +17517,7 @@
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "pgautono": {
+    "study": "soep-core",
     "name": "pgautono",
     "name_cs": "pgautono",
     "variable": "pgautono",
@@ -17580,6 +17614,7 @@
     "label_de": "Autonomie beruflichen Handelns"
   },
   "pgisced97": {
+    "study": "soep-core",
     "name": "pgisced97",
     "name_cs": "pgisced97",
     "variable": "pgisced97",
@@ -17681,6 +17716,7 @@
     "label_de": "ISCED-1997-Klassifikation"
   },
   "pgcasmin": {
+    "study": "soep-core",
     "name": "pgcasmin",
     "name_cs": "pgcasmin",
     "variable": "pgcasmin",
@@ -17797,6 +17833,7 @@
     "label_de": "CASMIN-Klassifikation"
   },
   "pgstib": {
+    "study": "soep-core",
     "name": "pgstib",
     "name_cs": "pgstib",
     "variable": "pgstib",
@@ -18088,6 +18125,7 @@
     "label_de": "Berufliche Stellung"
   },
   "pgmonth": {
+    "study": "soep-core",
     "name": "pgmonth",
     "name_cs": "pgmonth",
     "variable": "pgmonth",
@@ -18214,6 +18252,7 @@
     "label_de": "Monat des Interviews"
   },
   "pgmode": {
+    "study": "soep-core",
     "name": "pgmode",
     "name_cs": "pgmode",
     "variable": "pgmode",
@@ -18350,6 +18389,7 @@
     "label_de": "Interviewmethode"
   },
   "pglabgro": {
+    "study": "soep-core",
     "name": "pglabgro",
     "name_cs": "pglabgro",
     "variable": "pglabgro",
@@ -18389,6 +18429,7 @@
     "label_de": "Akt. Bruttoerwerbseink.(gen) in Euro"
   },
   "pgimpgro": {
+    "study": "soep-core",
     "name": "pgimpgro",
     "name_cs": "pgimpgro",
     "variable": "pgimpgro",
@@ -18465,6 +18506,7 @@
     "label_de": "Imput.flag Bruttoerwerbseinkommen(gen)"
   },
   "pglabnet": {
+    "study": "soep-core",
     "name": "pglabnet",
     "name_cs": "pglabnet",
     "variable": "pglabnet",
@@ -18504,6 +18546,7 @@
     "label_de": "Akt. Nettoerwerbseink.(gen) in Euro"
   },
   "pgimpnet": {
+    "study": "soep-core",
     "name": "pgimpnet",
     "name_cs": "pgimpnet",
     "variable": "pgimpnet",
@@ -18580,6 +18623,7 @@
     "label_de": "Imput.flag Nettoerwerbseinkommen (gen)"
   },
   "pgallbet": {
+    "study": "soep-core",
     "name": "pgallbet",
     "name_cs": "pgallbet",
     "variable": "pgallbet",
@@ -18671,6 +18715,7 @@
     "label_de": "Grobkategorien Unternehmensgroesse"
   },
   "pgemplst": {
+    "study": "soep-core",
     "name": "pgemplst",
     "name_cs": "pgemplst",
     "variable": "pgemplst",
@@ -18767,6 +18812,7 @@
     "label_de": "Employment Status"
   },
   "pgexpft": {
+    "study": "soep-core",
     "name": "pgexpft",
     "name_cs": "pgexpft",
     "variable": "pgexpft",
@@ -18806,6 +18852,7 @@
     "label_de": "Arbeitsmarkterfahrung Vollzeit"
   },
   "pgexppt": {
+    "study": "soep-core",
     "name": "pgexppt",
     "name_cs": "pgexppt",
     "variable": "pgexppt",
@@ -18845,6 +18892,7 @@
     "label_de": "Arbeitsmarkterfahrung Teilzeit"
   },
   "pgexpue": {
+    "study": "soep-core",
     "name": "pgexpue",
     "name_cs": "pgexpue",
     "variable": "pgexpue",
@@ -18884,6 +18932,7 @@
     "label_de": "Arbeitsmarkterfahrung Arbeitslos"
   },
   "pgjobch": {
+    "study": "soep-core",
     "name": "pgjobch",
     "name_cs": "pgjobch",
     "variable": "pgjobch",
@@ -18975,6 +19024,7 @@
     "label_de": "Beruflicher Wechsel"
   },
   "pgfield": {
+    "study": "soep-core",
     "name": "pgfield",
     "name_cs": "pgfield",
     "variable": "pgfield",
@@ -19341,6 +19391,7 @@
     "label_de": "Fachrichtung, Studienbereiche StaBu Fachserie 11-4.1"
   },
   "pgdegree": {
+    "study": "soep-core",
     "name": "pgdegree",
     "name_cs": "pgdegree",
     "variable": "pgdegree",
@@ -19517,6 +19568,7 @@
     "label_de": "Hochschulabschluss, angelehnt an StaBu Fachserie 11-4.1"
   },
   "pgtraina": {
+    "study": "soep-core",
     "name": "pgtraina",
     "name_cs": "pgtraina",
     "variable": "pgtraina",
@@ -20028,6 +20080,7 @@
     "label_de": "Ausbildungsberuf (Lehre), KldB 1992 Zweisteller"
   },
   "pgtrainb": {
+    "study": "soep-core",
     "name": "pgtrainb",
     "name_cs": "pgtrainb",
     "variable": "pgtrainb",
@@ -20539,6 +20592,7 @@
     "label_de": "Ausbildungsberuf (Berufsfachschule, Schule des Gesundheitswesens),KldB 1992"
   },
   "pgtrainc": {
+    "study": "soep-core",
     "name": "pgtrainc",
     "name_cs": "pgtrainc",
     "variable": "pgtrainc",
@@ -21050,6 +21104,7 @@
     "label_de": "Ausbildungsberuf (Fachschule - Meister, Techniker), KldB 1992"
   },
   "pgtraind": {
+    "study": "soep-core",
     "name": "pgtraind",
     "name_cs": "pgtraind",
     "variable": "pgtraind",
@@ -21561,6 +21616,7 @@
     "label_de": "Ausbildungsberuf (Beamtenausbildung), KldB 1992 Zweisteller"
   },
   "pgfdt_f": {
+    "study": "soep-core",
     "name": "pgfdt_f",
     "name_cs": "pgfdt_f",
     "variable": "pgfdt_f",
@@ -21647,6 +21703,7 @@
     "label_de": "Datenquelle Field Degree Train"
   },
   "pgbilztch": {
+    "study": "soep-core",
     "name": "pgbilztch",
     "name_cs": "pgbilztch",
     "variable": "pgbilztch",
@@ -21728,6 +21785,7 @@
     "label_de": "Bildungsveraenderung seit letzter Beobachtung/seit letztem Jahr"
   },
   "pgbilztev": {
+    "study": "soep-core",
     "name": "pgbilztev",
     "name_cs": "pgbilztev",
     "variable": "pgbilztev",
@@ -21814,6 +21872,7 @@
     "label_de": "Bildungsveraenderung in der gesamten Beobachtungszeit"
   },
   "pgsndjob": {
+    "study": "soep-core",
     "name": "pgsndjob",
     "name_cs": "pgsndjob",
     "variable": "pgsndjob",
@@ -21853,6 +21912,7 @@
     "label_de": "Akt. Bruttonebenverdienst (gen.) in Euro"
   },
   "pgimpsnd": {
+    "study": "soep-core",
     "name": "pgimpsnd",
     "name_cs": "pgimpsnd",
     "variable": "pgimpsnd",
@@ -21929,6 +21989,7 @@
     "label_de": "Imput.flag Bruttonebenverdienst (gen.)"
   },
   "pgjobend": {
+    "study": "soep-core",
     "name": "pgjobend",
     "name_cs": "pgjobend",
     "variable": "pgjobend",
@@ -22080,6 +22141,7 @@
     "label_de": "Grund Beschaeftigungsende"
   },
   "pgkldb10": {
+    "study": "soep-core",
     "name": "pgkldb10",
     "name_cs": "pgkldb10",
     "variable": "pgkldb10",
@@ -28576,6 +28638,7 @@
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "pgisco08": {
+    "study": "soep-core",
     "name": "pgisco08",
     "name_cs": "pgisco08",
     "variable": "pgisco08",
@@ -30822,6 +30885,7 @@
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "pgisced11": {
+    "study": "soep-core",
     "name": "pgisced11",
     "name_cs": "pgisced11",
     "variable": "pgisced11",
