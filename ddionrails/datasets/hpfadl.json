@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "hsample": {
@@ -258,6 +267,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Stichprobenart"
   },
   "hnetto": {
@@ -335,6 +347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktueller Befragungsstatus"
   },
   "sampreg": {
@@ -412,6 +427,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Stichprobenregion"
   },
   "hpop": {
@@ -499,6 +517,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Populationszugehoerigkeit"
   },
   "hrgroup": {
@@ -537,6 +558,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Random Groups"
   },
   "hbleib": {
@@ -577,6 +601,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "hhrf": {
@@ -615,6 +642,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor"
   },
   "hhrf0": {
@@ -653,6 +683,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor, nur fuer Ursprungsstichproben (Welle 1)"
   },
   "hhrf1": {
@@ -691,6 +724,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor ohne Ursprungsstichproben (Welle 1)"
   }
 }

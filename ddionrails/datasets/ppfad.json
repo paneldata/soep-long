@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "pid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "sex": {
@@ -150,6 +156,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geschlecht"
   },
   "gebjahr": {
@@ -190,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsjahr"
   },
   "erstbefr": {
@@ -230,6 +242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr der ersten Befragung"
   },
   "letztbef": {
@@ -270,6 +285,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr der letzten Befragung, Netto=1"
   },
   "eintritt": {
@@ -308,6 +326,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr des ersten Kontaktes"
   },
   "austritt": {
@@ -346,6 +367,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr des letzten Kontaktes"
   },
   "todjahr": {
@@ -386,6 +410,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Todesjahr"
   },
   "todinfo": {
@@ -493,6 +520,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Todesjahr - Infoquelle"
   },
   "immiyear": {
@@ -533,6 +563,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Year of Immigration to Germany"
   },
   "germborn": {
@@ -610,6 +643,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Born in Germany"
   },
   "loc1989": {
@@ -692,6 +728,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Where did you live in 1989?"
   },
   "corigin": {
@@ -1679,6 +1718,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Country of Origin"
   },
   "migback": {
@@ -1766,6 +1808,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Migrationshintergrund"
   },
   "miginfo": {
@@ -1858,6 +1903,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Informationsquellen von MIGBACK"
   },
   "psample": {
@@ -2005,6 +2053,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Stichprobenart"
   },
   "gebmonat": {
@@ -2132,6 +2183,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsmonat"
   },
   "gebmoval": {
@@ -2234,6 +2288,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsmonat, Datenquelle"
   }
 }

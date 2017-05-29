@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "syear": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "sample1": {
@@ -328,6 +337,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen"
   },
   "sampreg": {
@@ -405,6 +417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Aktuelle Stichprobenregion (Berlin West-Ost)"
   },
   "htyp": {
@@ -497,6 +512,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Haushaltstyp"
   },
   "hand": {
@@ -589,6 +607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Handakte;Besonderheiten"
   },
   "hpmax": {
@@ -629,6 +650,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Hoechste vergebene Personennummer im HH"
   },
   "datumtg": {
@@ -856,6 +880,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Tag letzter HH-Kontakt"
   },
   "datummo": {
@@ -988,6 +1015,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat letzter HH-Kontakt"
   },
   "bula": {
@@ -1135,6 +1165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bundesland"
   },
   "hader": {
@@ -1242,6 +1275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Adressenermittlung Haushalt"
   },
   "hadq": {
@@ -1329,6 +1365,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Informationsquelle"
   },
   "intza": {
@@ -1426,6 +1465,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zahl der eingesetzten Interviewer"
   },
   "intk": {
@@ -1543,6 +1585,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Interviewerkontakte"
   },
   "telk1": {
@@ -1630,6 +1675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Telefonkontakte 1, Bearbeitung"
   },
   "telk2": {
@@ -1712,6 +1760,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Telefonkontakte 2, Nacherhebung"
   },
   "schk": {
@@ -1789,6 +1840,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Schriftliche Kontakte"
   },
   "hform1": {
@@ -1906,6 +1960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Hauptb.Bearbeitungsform"
   },
   "herg1": {
@@ -2028,6 +2085,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Hauptb.Bearbeitungsergebnis"
   },
   "hforms": {
@@ -2145,6 +2205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Schlusscode Bearbeitungsform"
   },
   "hergs": {
@@ -2457,6 +2520,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Schlusscode Bearbeitungsergebnis"
   },
   "hstu": {
@@ -2544,6 +2610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsstufen Haushalt"
   },
   "split": {
@@ -2726,6 +2795,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Startbearbeitungsform"
   },
   "hhgr": {
@@ -2764,6 +2836,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zahl der Personen im Haushalt"
   },
   "wum1": {
@@ -2876,6 +2951,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wohnumfeld 1 - Haustyp"
   },
   "wum2": {
@@ -2988,6 +3066,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wohnumfeld 2 - Privat-,Anstaltshaushalt"
   },
   "wum3": {
@@ -3090,6 +3171,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wohnumfeld 3 - Quartier"
   },
   "wein": {
@@ -3130,6 +3214,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Welle Einzug an diese Adresse"
   },
   "htel": {
@@ -3202,6 +3289,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Telefon"
   },
   "email": {
@@ -3274,6 +3364,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Haushalt mit e-mail-Anschluss"
   },
   "spielhh": {
@@ -3361,6 +3454,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Haushalt im Brutto fuer Experiment"
   },
   "hdatrep": {
@@ -3433,6 +3529,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Datenreport"
   },
   "hd": {
@@ -3510,6 +3609,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stichprobenzugehoerigkeit"
   },
   "hgruppe": {
@@ -3617,6 +3719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Gruppenzugehoerigkeit"
   },
   "hergsz": {
@@ -3869,6 +3974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Schlusscode Bearbeitungsergeb. 2-Steller"
   },
   "waus": {
@@ -3889,6 +3997,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Welle Auszug"
   },
   "wohn": {
@@ -3929,6 +4040,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wohn"
   },
   "welle": {
@@ -3969,6 +4083,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Befragungswelle"
   },
   "listl": {
@@ -4009,6 +4126,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Listen- und lfd. Nummer im laufend. Jahr"
   },
   "haderq": {
@@ -4049,6 +4169,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Adressenermittlung zweistellig"
   },
   "bulaold": {
@@ -4166,6 +4289,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bundeslaender"
   },
   "hform2": {
@@ -4273,6 +4399,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "1.Nachb.,Bearbeitungsform"
   },
   "herg2": {
@@ -4390,6 +4519,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "1.Nachb.,Bearbeitungsergebnis"
   },
   "luecke": {
@@ -4502,6 +4634,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Luecken-Definition"
   },
   "hformv": {
@@ -4609,6 +4744,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsform Vorjahr"
   },
   "hergv": {
@@ -4836,6 +4974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis Vorjahr"
   },
   "auskv": {
@@ -4876,6 +5017,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Auskunftsperson im Vorjahr"
   },
   "wum4": {
@@ -4963,6 +5107,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wohnumfeld 4 - Siedlungsform"
   },
   "ausk": {
@@ -5003,6 +5150,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Auskunftsperson"
   },
   "vmb": {
@@ -5095,6 +5245,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ergebnis der Vermoegensbilanz"
   },
   "sonder": {
@@ -5167,6 +5320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "vorab - Besonderheiten bei vorablieferung"
   },
   "vorab": {
@@ -5244,6 +5400,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Vorab - Vollstaendigkeit"
   },
   "datumy": {
@@ -5284,6 +5443,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Interviewjahr"
   },
   "regtyp": {
@@ -5361,6 +5523,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Siedlungsstruktureller Regionsgrundtyp des BBSR"
   },
   "intid": {
@@ -5401,6 +5566,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Interviewer-Nummer"
   },
   "inckontr": {
@@ -5483,6 +5651,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Incentivierungshaushalte"
   },
   "vodere": {
@@ -5565,6 +5736,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Wahl der Incentivierung"
   },
   "intid1": {
@@ -5605,6 +5779,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "ID des zuerst eingesetzten Interviewers"
   },
   "mkz1": {
@@ -5687,6 +5864,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Migrantenkennzeichen 1 (FiD)"
   },
   "mkz2": {
@@ -5769,6 +5949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Migrantenkennzeichen 2 (FiD)"
   },
   "catierg": {
@@ -5881,6 +6064,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "CATI-Ergebnis"
   },
   "cawierg": {
@@ -5958,6 +6144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "CAWI-Ergebnis"
   },
   "capierg": {
@@ -6035,6 +6224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "CAPI-Ergebnis"
   }
 }

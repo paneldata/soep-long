@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "csample": {
@@ -187,6 +190,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Stichprobenart"
   },
   "sampdet": {
@@ -814,6 +820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Sample Detailed"
   },
   "sampling": {
@@ -1211,6 +1220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Sampling, Onomastikverfahren"
   },
   "samsplit": {
@@ -1308,6 +1320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Samplesplits"
   },
   "psu": {
@@ -1348,6 +1363,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "PSU - Primary Sampling Units (gen)"
   },
   "strata": {
@@ -1570,6 +1588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Schichtung, Stratifizierungseinheiten"
   },
   "sample1": {
@@ -1787,6 +1808,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen TNS-Infratest"
   },
   "pi": {
@@ -1827,6 +1851,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "survey",
+    "period": "nan",
     "label_de": "Zugewiesene Ziehungswahrscheinlichkeit"
   }
 }

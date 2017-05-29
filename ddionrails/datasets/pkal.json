@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "kal1a01": {
@@ -226,6 +238,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig im Jahr  Vorjahr"
   },
   "kal1a02": {
@@ -266,6 +281,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig N-Monate Vorjahr"
   },
   "kal1b01": {
@@ -343,6 +361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig im Jahr  Vorjahr"
   },
   "kal1b02": {
@@ -383,6 +404,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig N-Monate Vorjahr"
   },
   "kal1c01": {
@@ -460,6 +484,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre im Jahr  Vorjahr"
   },
   "kal1c02": {
@@ -500,6 +527,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre N-Monate Vorjahr"
   },
   "kal1d01": {
@@ -577,6 +607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    im Jahr  Vorjahr"
   },
   "kal1d02": {
@@ -617,6 +650,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    N-Monate Vorjahr"
   },
   "kal1e01": {
@@ -694,6 +730,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension       im Jahr  Vorjahr"
   },
   "kal1e02": {
@@ -734,6 +773,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension       N-Monate Vorjahr"
   },
   "kal1f01": {
@@ -811,6 +853,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       im Jahr  Vorjahr"
   },
   "kal1f02": {
@@ -851,6 +896,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       N-Monate Vorjahr"
   },
   "kal1g01": {
@@ -928,6 +976,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     im Jahr  Vorjahr"
   },
   "kal1g02": {
@@ -968,6 +1019,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     N-Monate Vorjahr"
   },
   "kal1h01": {
@@ -1060,6 +1114,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     im Jahr  Vorjahr"
   },
   "kal1h02": {
@@ -1100,6 +1157,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     N-Monate Vorjahr"
   },
   "kal1i01": {
@@ -1177,6 +1237,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     im Jahr  Vorjahr"
   },
   "kal1i02": {
@@ -1217,6 +1280,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     N-Monate Vorjahr"
   },
   "kal1j01": {
@@ -1294,6 +1360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges               im Jahr  Vorjahr"
   },
   "kal1j02": {
@@ -1334,6 +1403,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges               N-Monate Vorjahr"
   },
   "kal1k01": {
@@ -1411,6 +1483,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit          im Jahr  Vorjahr"
   },
   "kal1k02": {
@@ -1451,6 +1526,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit          N-Monate Vorjahr"
   },
   "kal1m01": {
@@ -1528,6 +1606,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch im Jahr  Vorjahr"
   },
   "kal1m02": {
@@ -1568,6 +1649,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch N-Monate Vorjahr"
   },
   "kal1n01": {
@@ -1645,6 +1729,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) im Jahr  Vorjahr"
   },
   "kal1n02": {
@@ -1685,6 +1772,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) N-Monate Vorjahr"
   },
   "kal1a001": {
@@ -1762,6 +1852,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Jan Vorjahr"
   },
   "kal1a002": {
@@ -1839,6 +1932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Feb Vorjahr"
   },
   "kal1a003": {
@@ -1916,6 +2012,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Mar Vorjahr"
   },
   "kal1a004": {
@@ -1993,6 +2092,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Apr Vorjahr"
   },
   "kal1a005": {
@@ -2070,6 +2172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Mai Vorjahr"
   },
   "kal1a006": {
@@ -2147,6 +2252,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Jun Vorjahr"
   },
   "kal1a007": {
@@ -2224,6 +2332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Jul Vorjahr"
   },
   "kal1a008": {
@@ -2301,6 +2412,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Aug Vorjahr"
   },
   "kal1a009": {
@@ -2378,6 +2492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Sep Vorjahr"
   },
   "kal1a010": {
@@ -2455,6 +2572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Okt Vorjahr"
   },
   "kal1a011": {
@@ -2532,6 +2652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Nov Vorjahr"
   },
   "kal1a012": {
@@ -2609,6 +2732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Dez Vorjahr"
   },
   "kal1b001": {
@@ -2686,6 +2812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Jan Vorjahr"
   },
   "kal1b002": {
@@ -2763,6 +2892,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Feb Vorjahr"
   },
   "kal1b003": {
@@ -2840,6 +2972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Mar Vorjahr"
   },
   "kal1b004": {
@@ -2917,6 +3052,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Apr Vorjahr"
   },
   "kal1b005": {
@@ -2994,6 +3132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Mai Vorjahr"
   },
   "kal1b006": {
@@ -3071,6 +3212,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Jun Vorjahr"
   },
   "kal1b007": {
@@ -3148,6 +3292,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Jul Vorjahr"
   },
   "kal1b008": {
@@ -3225,6 +3372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Aug Vorjahr"
   },
   "kal1b009": {
@@ -3302,6 +3452,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Sep Vorjahr"
   },
   "kal1b010": {
@@ -3379,6 +3532,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Okt Vorjahr"
   },
   "kal1b011": {
@@ -3456,6 +3612,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Nov Vorjahr"
   },
   "kal1b012": {
@@ -3533,6 +3692,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Dez Vorjahr"
   },
   "kal1c001": {
@@ -3573,6 +3735,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan Vorjahr"
   },
   "kal1c002": {
@@ -3613,6 +3778,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Feb Vorjahr"
   },
   "kal1c003": {
@@ -3653,6 +3821,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Mar Vorjahr"
   },
   "kal1c004": {
@@ -3693,6 +3864,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Apr Vorjahr"
   },
   "kal1c005": {
@@ -3733,6 +3907,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Mai Vorjahr"
   },
   "kal1c006": {
@@ -3773,6 +3950,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Jun Vorjahr"
   },
   "kal1c007": {
@@ -3813,6 +3993,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Jul Vorjahr"
   },
   "kal1c008": {
@@ -3853,6 +4036,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Aug Vorjahr"
   },
   "kal1c009": {
@@ -3893,6 +4079,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Sep Vorjahr"
   },
   "kal1c010": {
@@ -3933,6 +4122,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Okt Vorjahr"
   },
   "kal1c011": {
@@ -3973,6 +4165,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Nov Vorjahr"
   },
   "kal1c012": {
@@ -4013,6 +4208,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Dez Vorjahr"
   },
   "kal1d001": {
@@ -4053,6 +4251,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Jan Vorjahr"
   },
   "kal1d002": {
@@ -4093,6 +4294,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Feb Vorjahr"
   },
   "kal1d003": {
@@ -4133,6 +4337,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Mar Vorjahr"
   },
   "kal1d004": {
@@ -4173,6 +4380,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Apr Vorjahr"
   },
   "kal1d005": {
@@ -4213,6 +4423,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Mai Vorjahr"
   },
   "kal1d006": {
@@ -4253,6 +4466,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Jun Vorjahr"
   },
   "kal1d007": {
@@ -4293,6 +4509,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Jul Vorjahr"
   },
   "kal1d008": {
@@ -4333,6 +4552,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Aug Vorjahr"
   },
   "kal1d009": {
@@ -4373,6 +4595,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Sep Vorjahr"
   },
   "kal1d010": {
@@ -4413,6 +4638,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Okt Vorjahr"
   },
   "kal1d011": {
@@ -4453,6 +4681,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Nov Vorjahr"
   },
   "kal1d012": {
@@ -4493,6 +4724,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet    Dez Vorjahr"
   },
   "kal1e001": {
@@ -4533,6 +4767,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Jan Vorjahr"
   },
   "kal1e002": {
@@ -4573,6 +4810,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Feb Vorjahr"
   },
   "kal1e003": {
@@ -4613,6 +4853,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Mar Vorjahr"
   },
   "kal1e004": {
@@ -4653,6 +4896,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Apr Vorjahr"
   },
   "kal1e005": {
@@ -4693,6 +4939,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Mai Vorjahr"
   },
   "kal1e006": {
@@ -4733,6 +4982,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Jun Vorjahr"
   },
   "kal1e007": {
@@ -4773,6 +5025,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Jul Vorjahr"
   },
   "kal1e008": {
@@ -4813,6 +5068,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Aug Vorjahr"
   },
   "kal1e009": {
@@ -4853,6 +5111,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Sep Vorjahr"
   },
   "kal1e010": {
@@ -4893,6 +5154,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Okt Vorjahr"
   },
   "kal1e011": {
@@ -4933,6 +5197,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Nov Vorjahr"
   },
   "kal1e012": {
@@ -4973,6 +5240,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension      Dez Vorjahr"
   },
   "kal1f001": {
@@ -5013,6 +5283,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Jan Vorjahr"
   },
   "kal1f002": {
@@ -5053,6 +5326,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Feb Vorjahr"
   },
   "kal1f003": {
@@ -5093,6 +5369,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Mar Vorjahr"
   },
   "kal1f004": {
@@ -5133,6 +5412,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Apr Vorjahr"
   },
   "kal1f005": {
@@ -5173,6 +5455,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Mai Vorjahr"
   },
   "kal1f006": {
@@ -5213,6 +5498,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Jun Vorjahr"
   },
   "kal1f007": {
@@ -5253,6 +5541,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Jul Vorjahr"
   },
   "kal1f008": {
@@ -5293,6 +5584,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Aug Vorjahr"
   },
   "kal1f009": {
@@ -5333,6 +5627,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Sep Vorjahr"
   },
   "kal1f010": {
@@ -5373,6 +5670,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Okt Vorjahr"
   },
   "kal1f011": {
@@ -5413,6 +5713,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Nov Vorjahr"
   },
   "kal1f012": {
@@ -5453,6 +5756,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft       Dez Vorjahr"
   },
   "kal1g001": {
@@ -5493,6 +5799,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Jan Vorjahr"
   },
   "kal1g002": {
@@ -5533,6 +5842,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Feb Vorjahr"
   },
   "kal1g003": {
@@ -5573,6 +5885,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Mar Vorjahr"
   },
   "kal1g004": {
@@ -5613,6 +5928,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Apr Vorjahr"
   },
   "kal1g005": {
@@ -5653,6 +5971,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Mai Vorjahr"
   },
   "kal1g006": {
@@ -5693,6 +6014,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Jun Vorjahr"
   },
   "kal1g007": {
@@ -5733,6 +6057,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Jul Vorjahr"
   },
   "kal1g008": {
@@ -5773,6 +6100,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Aug Vorjahr"
   },
   "kal1g009": {
@@ -5813,6 +6143,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Sep Vorjahr"
   },
   "kal1g010": {
@@ -5853,6 +6186,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Okt Vorjahr"
   },
   "kal1g011": {
@@ -5893,6 +6229,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Nov Vorjahr"
   },
   "kal1g012": {
@@ -5933,6 +6272,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule     Dez Vorjahr"
   },
   "kal1h001": {
@@ -6020,6 +6362,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Jan Vorjahr"
   },
   "kal1h002": {
@@ -6107,6 +6452,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Feb Vorjahr"
   },
   "kal1h003": {
@@ -6194,6 +6542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Mar Vorjahr"
   },
   "kal1h004": {
@@ -6281,6 +6632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Apr Vorjahr"
   },
   "kal1h005": {
@@ -6368,6 +6722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Mai Vorjahr"
   },
   "kal1h006": {
@@ -6455,6 +6812,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Jun Vorjahr"
   },
   "kal1h007": {
@@ -6542,6 +6902,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Jul Vorjahr"
   },
   "kal1h008": {
@@ -6629,6 +6992,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Aug Vorjahr"
   },
   "kal1h009": {
@@ -6716,6 +7082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Sep Vorjahr"
   },
   "kal1h010": {
@@ -6803,6 +7172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Okt Vorjahr"
   },
   "kal1h011": {
@@ -6890,6 +7262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Nov Vorjahr"
   },
   "kal1h012": {
@@ -6977,6 +7352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst     Dez Vorjahr"
   },
   "kal1i001": {
@@ -7017,6 +7395,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Jan Vorjahr"
   },
   "kal1i002": {
@@ -7057,6 +7438,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Feb Vorjahr"
   },
   "kal1i003": {
@@ -7097,6 +7481,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Mar Vorjahr"
   },
   "kal1i004": {
@@ -7137,6 +7524,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Apr Vorjahr"
   },
   "kal1i005": {
@@ -7177,6 +7567,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Mai Vorjahr"
   },
   "kal1i006": {
@@ -7217,6 +7610,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Jun Vorjahr"
   },
   "kal1i007": {
@@ -7257,6 +7653,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Jul Vorjahr"
   },
   "kal1i008": {
@@ -7297,6 +7696,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Aug Vorjahr"
   },
   "kal1i009": {
@@ -7337,6 +7739,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Sep Vorjahr"
   },
   "kal1i010": {
@@ -7377,6 +7782,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Okt Vorjahr"
   },
   "kal1i011": {
@@ -7417,6 +7825,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Nov Vorjahr"
   },
   "kal1i012": {
@@ -7457,6 +7868,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig     Dez Vorjahr"
   },
   "kal1j001": {
@@ -7574,6 +7988,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Jan Vorjahr"
   },
   "kal1j002": {
@@ -7691,6 +8108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Feb Vorjahr"
   },
   "kal1j003": {
@@ -7808,6 +8228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Mar Vorjahr"
   },
   "kal1j004": {
@@ -7925,6 +8348,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Apr Vorjahr"
   },
   "kal1j005": {
@@ -8042,6 +8468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Mai Vorjahr"
   },
   "kal1j006": {
@@ -8159,6 +8588,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Jun Vorjahr"
   },
   "kal1j007": {
@@ -8276,6 +8708,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Jul Vorjahr"
   },
   "kal1j008": {
@@ -8393,6 +8828,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Aug Vorjahr"
   },
   "kal1j009": {
@@ -8510,6 +8948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Sep Vorjahr"
   },
   "kal1j010": {
@@ -8627,6 +9068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Okt Vorjahr"
   },
   "kal1j011": {
@@ -8744,6 +9188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Nov Vorjahr"
   },
   "kal1j012": {
@@ -8861,6 +9308,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges           Dez Vorjahr"
   },
   "kal1k001": {
@@ -8901,6 +9351,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Jan Vorjahr"
   },
   "kal1k002": {
@@ -8941,6 +9394,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Feb Vorjahr"
   },
   "kal1k003": {
@@ -8981,6 +9437,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Mar Vorjahr"
   },
   "kal1k004": {
@@ -9021,6 +9480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Apr Vorjahr"
   },
   "kal1k005": {
@@ -9061,6 +9523,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Mai Vorjahr"
   },
   "kal1k006": {
@@ -9101,6 +9566,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Jun Vorjahr"
   },
   "kal1k007": {
@@ -9141,6 +9609,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Jul Vorjahr"
   },
   "kal1k008": {
@@ -9181,6 +9652,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Aug Vorjahr"
   },
   "kal1k009": {
@@ -9221,6 +9695,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Sep Vorjahr"
   },
   "kal1k010": {
@@ -9261,6 +9738,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Okt Vorjahr"
   },
   "kal1k011": {
@@ -9301,6 +9781,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Nov Vorjahr"
   },
   "kal1k012": {
@@ -9341,6 +9824,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit      Dez Vorjahr"
   },
   "kal1m001": {
@@ -9381,6 +9867,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Jan Vorjahr"
   },
   "kal1m002": {
@@ -9421,6 +9910,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Feb Vorjahr"
   },
   "kal1m003": {
@@ -9461,6 +9953,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Mar Vorjahr"
   },
   "kal1m004": {
@@ -9501,6 +9996,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Apr Vorjahr"
   },
   "kal1m005": {
@@ -9541,6 +10039,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Mai Vorjahr"
   },
   "kal1m006": {
@@ -9581,6 +10082,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Jun Vorjahr"
   },
   "kal1m007": {
@@ -9621,6 +10125,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Jul Vorjahr"
   },
   "kal1m008": {
@@ -9661,6 +10168,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Aug Vorjahr"
   },
   "kal1m009": {
@@ -9701,6 +10211,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Sep Vorjahr"
   },
   "kal1m010": {
@@ -9741,6 +10254,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Okt Vorjahr"
   },
   "kal1m011": {
@@ -9781,6 +10297,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Nov Vorjahr"
   },
   "kal1m012": {
@@ -9821,6 +10340,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch Dez Vorjahr"
   },
   "kal1n001": {
@@ -9861,6 +10383,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Jan Vorjahr"
   },
   "kal1n002": {
@@ -9901,6 +10426,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Feb Vorjahr"
   },
   "kal1n003": {
@@ -9941,6 +10469,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Mar Vorjahr"
   },
   "kal1n004": {
@@ -9981,6 +10512,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Apr Vorjahr"
   },
   "kal1n005": {
@@ -10021,6 +10555,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Mai Vorjahr"
   },
   "kal1n006": {
@@ -10061,6 +10598,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Jun Vorjahr"
   },
   "kal1n007": {
@@ -10101,6 +10641,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Jul Vorjahr"
   },
   "kal1n008": {
@@ -10141,6 +10684,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Aug Vorjahr"
   },
   "kal1n009": {
@@ -10181,6 +10727,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Sep Vorjahr"
   },
   "kal1n010": {
@@ -10221,6 +10770,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Okt Vorjahr"
   },
   "kal1n011": {
@@ -10261,6 +10813,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Nov Vorjahr"
   },
   "kal1n012": {
@@ -10301,6 +10856,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR) Dez Vorjahr"
   },
   "kal1a": {
@@ -10327,6 +10885,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vollzeit Erwerbstaetig Jan-Dez Vorjahr"
   },
   "kal1b": {
@@ -10353,6 +10914,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Teilzeit Erwerbstaetig Jan-Dez Vorjahr"
   },
   "kal1c": {
@@ -10379,6 +10943,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betrbl 1.Ausbild,Lehre Jan-Dez Vorjahr"
   },
   "kal1d": {
@@ -10405,6 +10972,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet      Jan-Dez Vorjahr"
   },
   "kal1e": {
@@ -10431,6 +11001,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente, Pension         Jan-Dez Vorjahr"
   },
   "kal1f": {
@@ -10457,6 +11030,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Mutterschaft         Jan-Dez Vorjahr"
   },
   "kal1g": {
@@ -10483,6 +11059,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schule, Hochschule       Jan-Dez Vorjahr"
   },
   "kal1h": {
@@ -10509,6 +11088,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienst       Jan-Dez Vorjahr"
   },
   "kal1i": {
@@ -10535,6 +11117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Im Haushalt taetig       Jan-Dez Vorjahr"
   },
   "kal1j": {
@@ -10561,6 +11146,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Sonstiges                 Jan-Dez Vorjahr"
   },
   "kal1k": {
@@ -10587,6 +11175,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "In Kurzarbeit            Jan-Dez Vorjahr"
   },
   "kal1m": {
@@ -10613,6 +11204,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl Fortbildg,Umsch   Jan-Dez Vorjahr"
   },
   "kal1n": {
@@ -10639,6 +11233,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mini-Job (bis 400 EUR)   Jan-Dez Vorjahr"
   },
   "kal2a01": {
@@ -10716,6 +11313,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Bezogen Vorjahr"
   },
   "kal2a02": {
@@ -10756,6 +11356,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Monate  Vorjahr"
   },
   "kal2a03": {
@@ -10796,6 +11399,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Betrag  Vorjahr"
   },
   "kal2a04": {
@@ -10836,6 +11442,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    (Netto) Vorjahr"
   },
   "kal2b01": {
@@ -10913,6 +11522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Bezogen Vorjahr"
   },
   "kal2b02": {
@@ -10953,6 +11565,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Monate  Vorjahr"
   },
   "kal2b03": {
@@ -10993,6 +11608,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Betrag  Vorjahr"
   },
   "kal2b04": {
@@ -11033,6 +11651,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. (Netto) Vorjahr"
   },
   "kal2c01": {
@@ -11110,6 +11731,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Bezogen Vorjahr"
   },
   "kal2c02": {
@@ -11150,6 +11774,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Monate  Vorjahr"
   },
   "kal2c03": {
@@ -11190,6 +11817,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Betrag  Vorjahr"
   },
   "kal2d01": {
@@ -11267,6 +11897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Bezogen Vorjahr"
   },
   "kal2d02": {
@@ -11307,6 +11940,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Monate  Vorjahr"
   },
   "kal2d03": {
@@ -11347,6 +11983,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Betrag  Vorjahr"
   },
   "kal2e01": {
@@ -11424,6 +12063,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Bezogen Vorjahr"
   },
   "kal2e02": {
@@ -11464,6 +12106,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Monate  Vorjahr"
   },
   "kal2e03": {
@@ -11504,6 +12149,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Betrag  Vorjahr"
   },
   "kal2f01": {
@@ -11581,6 +12229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Bezogen Vorjahr"
   },
   "kal2f02": {
@@ -11621,6 +12272,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Monate  Vorjahr"
   },
   "kal2f03": {
@@ -11661,6 +12315,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Betrag  Vorjahr"
   },
   "kal2g01": {
@@ -11738,6 +12395,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe         Bezogen Vorjahr"
   },
   "kal2g02": {
@@ -11778,6 +12438,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe         Monate  Vorjahr"
   },
   "kal2g03": {
@@ -11818,6 +12481,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe         Betrag  Vorjahr"
   },
   "kal2h01": {
@@ -11900,6 +12566,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhalts-, Uebergsgeld Bezogen Vorjahr"
   },
   "kal2h02": {
@@ -11940,6 +12609,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhalts-, Uebergsgeld Monate  Vorjahr"
   },
   "kal2h03": {
@@ -11980,6 +12652,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhalts-, Uebergsgeld Betrag  Vorjahr"
   },
   "kal2i01": {
@@ -12057,6 +12732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersuebergangsgeld     Bezogen Vorjahr"
   },
   "kal2i02": {
@@ -12097,6 +12775,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersuebergangsgeld     Monate  Vorjahr"
   },
   "kal2i03": {
@@ -12137,6 +12818,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersuebergangsgeld     Betrag  Vorjahr"
   },
   "kal2j01": {
@@ -12214,6 +12898,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld         Bezogen Vorjahr"
   },
   "kal2j02": {
@@ -12254,6 +12941,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld         Monate  Vorjahr"
   },
   "kal2j03": {
@@ -12294,6 +12984,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld         Betrag  Vorjahr"
   },
   "kal2k01": {
@@ -12371,6 +13064,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Bezogen Vorjahr"
   },
   "kal2k02": {
@@ -12411,6 +13107,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Monate  Vorjahr"
   },
   "kal2k03": {
@@ -12451,6 +13150,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Betrag  Vorjahr"
   },
   "kal2l01": {
@@ -12528,6 +13230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-,Zivildienstsold    Bezogen Vorjahr"
   },
   "kal2l02": {
@@ -12568,6 +13273,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-,Zivildienstsold    Monate  Vorjahr"
   },
   "kal2l03": {
@@ -12608,6 +13316,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Wehr-,Zivildienstsold    Betrag  Vorjahr"
   },
   "kal2m01": {
@@ -12685,6 +13396,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Bezogen Vorjahr"
   },
   "kal2m02": {
@@ -12725,6 +13439,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Monate  Vorjahr"
   },
   "kal2m03": {
@@ -12765,6 +13482,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Betrag  Vorjahr"
   },
   "kal2o01": {
@@ -12842,6 +13562,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen Vorjahr"
   },
   "kal2o02": {
@@ -12882,6 +13605,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  Vorjahr"
   },
   "kal2o03": {
@@ -12922,6 +13648,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  Vorjahr"
   },
   "kal2p01": {
@@ -12999,6 +13728,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betriebsrente, auch Htbl Bezogen Vorjahr"
   },
   "kal2p02": {
@@ -13039,6 +13771,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betriebsrente, auch Htbl Monate  Vorjahr"
   },
   "kal2p03": {
@@ -13079,6 +13814,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Betriebsrente, auch Htbl Betrag  Vorjahr"
   },
   "kal2q01": {
@@ -13156,6 +13894,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente aus privater Vers. Bezogen Vorjahr"
   },
   "kal2q02": {
@@ -13196,6 +13937,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente aus privater Vers. Monate  Vorjahr"
   },
   "kal2q03": {
@@ -13236,6 +13980,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Rente aus privater Vers. Betrag  Vorjahr"
   },
   "kal2n01": {
@@ -13313,6 +14060,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Bezogen Vorjahr"
   },
   "kal2r01": {
@@ -13390,6 +14140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "ALG II, Sozialgeld       Bezogen Vorjahr"
   },
   "kal2r02": {
@@ -13430,6 +14183,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "ALG II, Sozialgeld       Monate  Vorjahr"
   },
   "kal2s01": {
@@ -13507,6 +14263,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Bezogen Vorjahr"
   },
   "kal2s02": {
@@ -13547,6 +14306,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Monate  Vorjahr"
   },
   "kal2s03": {
@@ -13587,6 +14349,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Gesetzl.Unterhalt fr.Par Betrag  Vorjahr"
   },
   "kal2t01": {
@@ -13664,6 +14429,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsvorschusskasse Bezogen Vorjahr"
   },
   "kal2t02": {
@@ -13704,6 +14472,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsvorschusskasse Monate  Vorjahr"
   },
   "kal2t03": {
@@ -13744,6 +14515,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsvorschusskasse Betrag  Vorjahr"
   },
   "kal2u01": {
@@ -13821,6 +14595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Kindesunterhalt          Bezogen Vorjahr"
   },
   "kal2u02": {
@@ -13861,6 +14638,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Kindesunterhalt          Monate  Vorjahr"
   },
   "kal2u03": {
@@ -13901,6 +14681,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Kindesunterhalt          Betrag  Vorjahr"
   },
   "kal2v01": {
@@ -13978,6 +14761,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Nachehelicher Unterhalt  Bezogen Vorjahr"
   },
   "kal2v02": {
@@ -14018,6 +14804,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Nachehelicher Unterhalt  Monate  Vorjahr"
   },
   "kal2v03": {
@@ -14058,6 +14847,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Nachehelicher Unterhalt  Betrag  Vorjahr"
   },
   "kal2a001": {
@@ -14130,6 +14922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Jan Vorjahr"
   },
   "kal2a002": {
@@ -14202,6 +14997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Feb Vorjahr"
   },
   "kal2a003": {
@@ -14274,6 +15072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Mar Vorjahr"
   },
   "kal2a004": {
@@ -14346,6 +15147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Apr Vorjahr"
   },
   "kal2a005": {
@@ -14418,6 +15222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Mai Vorjahr"
   },
   "kal2a006": {
@@ -14490,6 +15297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Jun Vorjahr"
   },
   "kal2a007": {
@@ -14562,6 +15372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Jul Vorjahr"
   },
   "kal2a008": {
@@ -14634,6 +15447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Aug Vorjahr"
   },
   "kal2a009": {
@@ -14706,6 +15522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Sep Vorjahr"
   },
   "kal2a010": {
@@ -14778,6 +15597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Okt Vorjahr"
   },
   "kal2a011": {
@@ -14850,6 +15672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Nov Vorjahr"
   },
   "kal2a012": {
@@ -14922,6 +15747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Dez Vorjahr"
   },
   "kal2b001": {
@@ -14994,6 +15822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Jan Vorjahr"
   },
   "kal2b002": {
@@ -15066,6 +15897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Feb Vorjahr"
   },
   "kal2b003": {
@@ -15138,6 +15972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Mar Vorjahr"
   },
   "kal2b004": {
@@ -15210,6 +16047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Apr Vorjahr"
   },
   "kal2b005": {
@@ -15282,6 +16122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Mai Vorjahr"
   },
   "kal2b006": {
@@ -15354,6 +16197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Jun Vorjahr"
   },
   "kal2b007": {
@@ -15426,6 +16272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Jul Vorjahr"
   },
   "kal2b008": {
@@ -15498,6 +16347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Aug Vorjahr"
   },
   "kal2b009": {
@@ -15570,6 +16422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Sep Vorjahr"
   },
   "kal2b010": {
@@ -15642,6 +16497,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Okt Vorjahr"
   },
   "kal2b011": {
@@ -15714,6 +16572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Nov Vorjahr"
   },
   "kal2b012": {
@@ -15786,6 +16647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Dez Vorjahr"
   },
   "kal2c001": {
@@ -15858,6 +16722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Jan Vorjahr"
   },
   "kal2c002": {
@@ -15930,6 +16797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Feb Vorjahr"
   },
   "kal2c003": {
@@ -16002,6 +16872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Mar Vorjahr"
   },
   "kal2c004": {
@@ -16074,6 +16947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Apr Vorjahr"
   },
   "kal2c005": {
@@ -16146,6 +17022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Mai Vorjahr"
   },
   "kal2c006": {
@@ -16218,6 +17097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Jun Vorjahr"
   },
   "kal2c007": {
@@ -16290,6 +17172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Jul Vorjahr"
   },
   "kal2c008": {
@@ -16362,6 +17247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Aug Vorjahr"
   },
   "kal2c009": {
@@ -16434,6 +17322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Sep Vorjahr"
   },
   "kal2c010": {
@@ -16506,6 +17397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Okt Vorjahr"
   },
   "kal2c011": {
@@ -16578,6 +17472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Nov Vorjahr"
   },
   "kal2c012": {
@@ -16650,6 +17547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Dez Vorjahr"
   },
   "kal2d001": {
@@ -16722,6 +17622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Jan Vorjahr"
   },
   "kal2d002": {
@@ -16794,6 +17697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Feb Vorjahr"
   },
   "kal2d003": {
@@ -16866,6 +17772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Mar Vorjahr"
   },
   "kal2d004": {
@@ -16938,6 +17847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Apr Vorjahr"
   },
   "kal2d005": {
@@ -17010,6 +17922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Mai Vorjahr"
   },
   "kal2d006": {
@@ -17082,6 +17997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Jun Vorjahr"
   },
   "kal2d007": {
@@ -17154,6 +18072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Jul Vorjahr"
   },
   "kal2d008": {
@@ -17226,6 +18147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Aug Vorjahr"
   },
   "kal2d009": {
@@ -17298,6 +18222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Sep Vorjahr"
   },
   "kal2d010": {
@@ -17370,6 +18297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Okt Vorjahr"
   },
   "kal2d011": {
@@ -17442,6 +18372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Nov Vorjahr"
   },
   "kal2d012": {
@@ -17514,6 +18447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Dez Vorjahr"
   },
   "kal2e001": {
@@ -17586,6 +18522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Jan Vorjahr"
   },
   "kal2e002": {
@@ -17658,6 +18597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Feb Vorjahr"
   },
   "kal2e003": {
@@ -17730,6 +18672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Mar Vorjahr"
   },
   "kal2e004": {
@@ -17802,6 +18747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Apr Vorjahr"
   },
   "kal2e005": {
@@ -17874,6 +18822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Mai Vorjahr"
   },
   "kal2e006": {
@@ -17946,6 +18897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Jun Vorjahr"
   },
   "kal2e007": {
@@ -18018,6 +18972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Jul Vorjahr"
   },
   "kal2e008": {
@@ -18090,6 +19047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Aug Vorjahr"
   },
   "kal2e009": {
@@ -18162,6 +19122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Sep Vorjahr"
   },
   "kal2e010": {
@@ -18234,6 +19197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Okt Vorjahr"
   },
   "kal2e011": {
@@ -18306,6 +19272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Nov Vorjahr"
   },
   "kal2e012": {
@@ -18378,6 +19347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Dez Vorjahr"
   },
   "kal2f001": {
@@ -18450,6 +19422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Jan Vorjahr"
   },
   "kal2f002": {
@@ -18522,6 +19497,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Feb Vorjahr"
   },
   "kal2f003": {
@@ -18594,6 +19572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Mar Vorjahr"
   },
   "kal2f004": {
@@ -18666,6 +19647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Apr Vorjahr"
   },
   "kal2f005": {
@@ -18738,6 +19722,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Mai Vorjahr"
   },
   "kal2f006": {
@@ -18810,6 +19797,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Jun Vorjahr"
   },
   "kal2f007": {
@@ -18882,6 +19872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Jul Vorjahr"
   },
   "kal2f008": {
@@ -18954,6 +19947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Aug Vorjahr"
   },
   "kal2f009": {
@@ -19026,6 +20022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Sep Vorjahr"
   },
   "kal2f010": {
@@ -19098,6 +20097,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Okt Vorjahr"
   },
   "kal2f011": {
@@ -19170,6 +20172,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Nov Vorjahr"
   },
   "kal2f012": {
@@ -19242,6 +20247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Dez Vorjahr"
   },
   "kal2g001": {
@@ -19314,6 +20322,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Jan Vorjahr"
   },
   "kal2g002": {
@@ -19386,6 +20397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Feb Vorjahr"
   },
   "kal2g003": {
@@ -19458,6 +20472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Mar Vorjahr"
   },
   "kal2g004": {
@@ -19530,6 +20547,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Apr Vorjahr"
   },
   "kal2g005": {
@@ -19602,6 +20622,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Mai Vorjahr"
   },
   "kal2g006": {
@@ -19674,6 +20697,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Jun Vorjahr"
   },
   "kal2g007": {
@@ -19746,6 +20772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Jul Vorjahr"
   },
   "kal2g008": {
@@ -19818,6 +20847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Aug Vorjahr"
   },
   "kal2g009": {
@@ -19890,6 +20922,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Sep Vorjahr"
   },
   "kal2g010": {
@@ -19962,6 +20997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Okt Vorjahr"
   },
   "kal2g011": {
@@ -20034,6 +21072,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Nov Vorjahr"
   },
   "kal2g012": {
@@ -20106,6 +21147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Dez Vorjahr"
   },
   "kal2h001": {
@@ -20178,6 +21222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Jan Vorjahr"
   },
   "kal2h002": {
@@ -20250,6 +21297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Feb Vorjahr"
   },
   "kal2h003": {
@@ -20322,6 +21372,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Mar Vorjahr"
   },
   "kal2h004": {
@@ -20394,6 +21447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Apr Vorjahr"
   },
   "kal2h005": {
@@ -20466,6 +21522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Mai Vorjahr"
   },
   "kal2h006": {
@@ -20538,6 +21597,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Jun Vorjahr"
   },
   "kal2h007": {
@@ -20610,6 +21672,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Jul Vorjahr"
   },
   "kal2h008": {
@@ -20682,6 +21747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Aug Vorjahr"
   },
   "kal2h009": {
@@ -20754,6 +21822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Sep Vorjahr"
   },
   "kal2h010": {
@@ -20826,6 +21897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Okt Vorjahr"
   },
   "kal2h011": {
@@ -20898,6 +21972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Nov Vorjahr"
   },
   "kal2h012": {
@@ -20970,6 +22047,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Dez Vorjahr"
   },
   "kal2j001": {
@@ -21047,6 +22127,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Jan Vorjahr"
   },
   "kal2j002": {
@@ -21124,6 +22207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Feb Vorjahr"
   },
   "kal2j003": {
@@ -21201,6 +22287,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Mar Vorjahr"
   },
   "kal2j004": {
@@ -21278,6 +22367,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Apr Vorjahr"
   },
   "kal2j005": {
@@ -21355,6 +22447,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Mai Vorjahr"
   },
   "kal2j006": {
@@ -21432,6 +22527,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Jun Vorjahr"
   },
   "kal2j007": {
@@ -21509,6 +22607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Jul Vorjahr"
   },
   "kal2j008": {
@@ -21586,6 +22687,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Aug Vorjahr"
   },
   "kal2j009": {
@@ -21663,6 +22767,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Sep Vorjahr"
   },
   "kal2j010": {
@@ -21740,6 +22847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Okt Vorjahr"
   },
   "kal2j011": {
@@ -21817,6 +22927,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Nov Vorjahr"
   },
   "kal2j012": {
@@ -21894,6 +23007,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Dez Vorjahr"
   },
   "kal2k001": {
@@ -21966,6 +23082,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Jan Vorjahr"
   },
   "kal2k002": {
@@ -22038,6 +23157,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Feb Vorjahr"
   },
   "kal2k003": {
@@ -22110,6 +23232,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Mar Vorjahr"
   },
   "kal2k004": {
@@ -22182,6 +23307,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Apr Vorjahr"
   },
   "kal2k005": {
@@ -22254,6 +23382,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Mai Vorjahr"
   },
   "kal2k006": {
@@ -22326,6 +23457,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Jun Vorjahr"
   },
   "kal2k007": {
@@ -22398,6 +23532,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Jul Vorjahr"
   },
   "kal2k008": {
@@ -22470,6 +23607,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Aug Vorjahr"
   },
   "kal2k009": {
@@ -22542,6 +23682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Sep Vorjahr"
   },
   "kal2k010": {
@@ -22614,6 +23757,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Okt Vorjahr"
   },
   "kal2k011": {
@@ -22686,6 +23832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Nov Vorjahr"
   },
   "kal2k012": {
@@ -22758,6 +23907,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Dez Vorjahr"
   },
   "kal2m001": {
@@ -22830,6 +23982,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Jan Vorjahr"
   },
   "kal2m002": {
@@ -22902,6 +24057,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Feb Vorjahr"
   },
   "kal2m003": {
@@ -22974,6 +24132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Mar Vorjahr"
   },
   "kal2m004": {
@@ -23046,6 +24207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Apr Vorjahr"
   },
   "kal2m005": {
@@ -23118,6 +24282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Mai Vorjahr"
   },
   "kal2m006": {
@@ -23190,6 +24357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Jun Vorjahr"
   },
   "kal2m007": {
@@ -23262,6 +24432,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Jul Vorjahr"
   },
   "kal2m008": {
@@ -23334,6 +24507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Aug Vorjahr"
   },
   "kal2m009": {
@@ -23406,6 +24582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Sep Vorjahr"
   },
   "kal2m010": {
@@ -23478,6 +24657,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Okt Vorjahr"
   },
   "kal2m011": {
@@ -23550,6 +24732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Nov Vorjahr"
   },
   "kal2m012": {
@@ -23622,6 +24807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Dez Vorjahr"
   },
   "kal2n001": {
@@ -23694,6 +24882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Jan Vorjahr"
   },
   "kal2n002": {
@@ -23766,6 +24957,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Feb Vorjahr"
   },
   "kal2n003": {
@@ -23838,6 +25032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Mar Vorjahr"
   },
   "kal2n004": {
@@ -23910,6 +25107,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Apr Vorjahr"
   },
   "kal2n005": {
@@ -23982,6 +25182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Mai Vorjahr"
   },
   "kal2n006": {
@@ -24054,6 +25257,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Jun Vorjahr"
   },
   "kal2n007": {
@@ -24126,6 +25332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Jul Vorjahr"
   },
   "kal2n008": {
@@ -24198,6 +25407,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Aug Vorjahr"
   },
   "kal2n009": {
@@ -24270,6 +25482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Sep Vorjahr"
   },
   "kal2n010": {
@@ -24342,6 +25557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Okt Vorjahr"
   },
   "kal2n011": {
@@ -24414,6 +25632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Nov Vorjahr"
   },
   "kal2n012": {
@@ -24486,6 +25707,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Dez Vorjahr"
   },
   "kal2a": {
@@ -24512,6 +25736,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Lohn als Arbeitnehmer    Jan-Dez Vorjahr"
   },
   "kal2b": {
@@ -24538,6 +25765,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Eink.a.selbstdg.Taetigk. Jan-Dez Vorjahr"
   },
   "kal2c": {
@@ -24564,6 +25794,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Einkommen a. Nebenerwerb Jan-Dez Vorjahr"
   },
   "kal2d": {
@@ -24590,6 +25823,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Altersrente, Pension     Jan-Dez Vorjahr"
   },
   "kal2e": {
@@ -24616,6 +25852,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Witwen-, Waisenrente     Jan-Dez Vorjahr"
   },
   "kal2f": {
@@ -24642,6 +25881,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosengeld         Jan-Dez Vorjahr"
   },
   "kal2g": {
@@ -24668,6 +25910,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe        Jan-Dez Vorjahr"
   },
   "kal2h": {
@@ -24694,6 +25939,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterhaltsgeld v.Arbamt  Jan-Dez Vorjahr"
   },
   "kal2j": {
@@ -24720,6 +25968,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Mutterschafts-, Erzggeld Jan-Dez Vorjahr"
   },
   "kal2k": {
@@ -24746,6 +25997,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium       Jan-Dez Vorjahr"
   },
   "kal2m": {
@@ -24772,6 +26026,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unterstuetzung a. des HH Jan-Dez Vorjahr"
   },
   "kal2n": {
@@ -24798,6 +26055,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Keine dieser Einkuenfte  Jan-Dez Vorjahr"
   },
   "kal2d03z": {
@@ -24838,6 +26098,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "[1985]_D03: dar.Zusatzversorg. Betrag  Vj"
   },
   "kal2e03z": {
@@ -24878,6 +26141,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "[1985]_E03: dar.Zusatzversorg. Betrag  Vj"
   }
 }

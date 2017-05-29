@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "syear": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "hid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "pnr": {
@@ -187,6 +199,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Laufende Nummer der Auskunftsperson"
   },
   "sample1": {
@@ -404,6 +419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen"
   },
   "welle": {
@@ -444,6 +462,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erhebungsjahr"
   },
   "iyear": {
@@ -484,6 +505,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Jahr des Interviews"
   },
   "imonth": {
@@ -611,6 +635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewmonat"
   },
   "iday": {
@@ -649,6 +676,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewtag"
   },
   "ihour": {
@@ -689,6 +719,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "iminute": {
@@ -729,6 +762,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "jlanw": {
@@ -811,6 +847,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "weitere anwesende Personen"
   },
   "jlinda1": {
@@ -851,6 +890,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "muendliche Interviewdauer (Minuten)"
   },
   "jlinda2": {
@@ -891,6 +933,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Selbstausfuellen schriftlich (Minuten)"
   },
   "jlinta": {
@@ -1013,6 +1058,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Befragungsart/Befragungsdurchfuehrung"
   },
   "intid": {
@@ -1053,6 +1101,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewernummer"
   },
   "jl0005": {
@@ -1130,6 +1181,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wohnt im elterl. HH.?"
   },
   "jl0006": {
@@ -1207,6 +1261,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "hat eigenes Zimmer?"
   },
   "jl0007": {
@@ -1247,6 +1304,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vorstellung vom Alter des Auszugs"
   },
   "jl0008": {
@@ -1319,6 +1379,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Vorstellung vom Auszugsalter"
   },
   "jl0009": {
@@ -1396,6 +1459,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "weiteres Zimmer ausser bei Eltern"
   },
   "jl0010": {
@@ -1473,6 +1539,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "von Wohnung zu Schule,Arbeit"
   },
   "jl0011": {
@@ -1570,6 +1639,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Was fuer andere Whg"
   },
   "jl0012": {
@@ -1647,6 +1719,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zugehoerigkeit Gruppe"
   },
   "jl0013": {
@@ -1724,6 +1799,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "eigener Verdienst"
   },
   "jl0014": {
@@ -1806,6 +1884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art Verdienst"
   },
   "jl0015": {
@@ -1888,6 +1969,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Job: Ausuebung"
   },
   "jl0016": {
@@ -1970,6 +2054,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Job: Ausuebung"
   },
   "jl0017": {
@@ -2047,6 +2134,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "frueher schon gejobbt"
   },
   "jl0018": {
@@ -2087,6 +2177,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Alter erster Job"
   },
   "jl0019": {
@@ -2169,6 +2262,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gruende fuer Jobben"
   },
   "jl0020": {
@@ -2246,6 +2342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Taschengeld, Zuschuss"
   },
   "jl0021": {
@@ -2286,6 +2385,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Taschengeld pro Woche"
   },
   "jl0022": {
@@ -2326,6 +2428,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Taschengeld pro Monat"
   },
   "jl0023": {
@@ -2408,6 +2513,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geld sparen"
   },
   "jl0024": {
@@ -2448,6 +2556,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sparen pro Monat"
   },
   "jl0025": {
@@ -2520,6 +2631,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sparen unregelm."
   },
   "jl0026": {
@@ -2612,6 +2726,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit Vater"
   },
   "jl0027": {
@@ -2704,6 +2821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit Mutter"
   },
   "jl0028": {
@@ -2796,6 +2916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit Bruder, Schwester"
   },
   "jl0029": {
@@ -2888,6 +3011,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit andere verwandte Person"
   },
   "jl0030": {
@@ -2980,6 +3106,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit feste Freundin, fester Freund"
   },
   "jl0031": {
@@ -3072,6 +3201,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit beste Freundin, bester Freund"
   },
   "jl0032": {
@@ -3164,6 +3296,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit Lehrer, Lehrerin"
   },
   "jl0033": {
@@ -3256,6 +3391,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit Clique"
   },
   "jl0034": {
@@ -3348,6 +3486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigkeit sonstige Person"
   },
   "jl0035": {
@@ -3445,6 +3586,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Streit mit Vater"
   },
   "jl0036": {
@@ -3542,6 +3686,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Streit mit Mutter"
   },
   "jl0037": {
@@ -3639,6 +3786,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Streit mit Bruder, Schwester"
   },
   "jl0038": {
@@ -3736,6 +3886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Streit mit fester Freundin, festem Freund"
   },
   "jl0039": {
@@ -3833,6 +3986,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Streit mit bestem Freund, bester Freundin"
   },
   "jl0040": {
@@ -3925,6 +4081,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Reden mit Mutter ueber eigene Erlebnisse"
   },
   "jl0041": {
@@ -4017,6 +4176,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Reden mit Vater ueber eigene Erlebnisse"
   },
   "jl0043": {
@@ -4109,6 +4271,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter spricht Probleme an"
   },
   "jl0044": {
@@ -4201,6 +4366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter fragt nach Meinung vor Entscheidungen"
   },
   "jl0045": {
@@ -4293,6 +4461,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater fragt nach Meinung vor Entscheidungen"
   },
   "jl0046": {
@@ -4385,6 +4556,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter zeigt Anerkennung"
   },
   "jl0047": {
@@ -4477,6 +4651,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater zeigt Anerkennung"
   },
   "jl0048": {
@@ -4569,6 +4746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Probleme mit Mutter werden gemeinsam geloest"
   },
   "jl0049": {
@@ -4661,6 +4841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Probleme mit Vater werden gemeinsam geloest"
   },
   "jl0050": {
@@ -4753,6 +4936,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter zeigt Vertrauen"
   },
   "jl0051": {
@@ -4845,6 +5031,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater zeigt Vertrauen"
   },
   "jl0052": {
@@ -4937,6 +5126,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter fragt nach Meinung zu Familienangeleg."
   },
   "jl0053": {
@@ -5029,6 +5221,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater fragt nach Meinung zu Familienangeleg."
   },
   "jl0054": {
@@ -5121,6 +5316,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter begruendet Entscheidungen"
   },
   "jl0055": {
@@ -5213,6 +5411,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater begruendet Entscheidungen"
   },
   "jl0056": {
@@ -5305,6 +5506,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter zeigt Liebe"
   },
   "jl0057": {
@@ -5397,6 +5601,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater zeigt Liebe"
   },
   "jl0058": {
@@ -5489,6 +5696,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Fernsehen, Video"
   },
   "jl0059": {
@@ -5581,6 +5791,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Computerspiele"
   },
   "jl0060": {
@@ -5673,6 +5886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit sonstiges Surfen im Internet"
   },
   "jl0061": {
@@ -5765,6 +5981,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Musik hoeren"
   },
   "jl0062": {
@@ -5857,6 +6076,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Musik machen"
   },
   "jl0063": {
@@ -5949,6 +6171,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Sport treiben"
   },
   "jl0064": {
@@ -6041,6 +6266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit tanzen, Theater spielen"
   },
   "jl0065": {
@@ -6133,6 +6361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit technische Arbeiten, programmieren"
   },
   "jl0066": {
@@ -6225,6 +6456,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit lesen"
   },
   "jl0067": {
@@ -6317,6 +6551,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit nichts tun, traeumen"
   },
   "jl0068": {
@@ -6409,6 +6646,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit mit festem Freund,-in zusammensein"
   },
   "jl0069": {
@@ -6501,6 +6741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit mit bestem Freund,-in zusammensein"
   },
   "jl0070": {
@@ -6593,6 +6836,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit mit Clique zusammensein"
   },
   "jl0071": {
@@ -6685,6 +6931,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Jugendzentrum, Freizeitheim"
   },
   "jl0072": {
@@ -6777,6 +7026,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit ehrenamtliche Taetigkeit"
   },
   "jl0073": {
@@ -6869,6 +7121,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit Kirchgang, religioese Veranstaltungen"
   },
   "jl0074": {
@@ -6946,6 +7201,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aktives Musizieren"
   },
   "jl0075": {
@@ -7028,6 +7286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stilrichtung der Musikausuebung"
   },
   "jl0076": {
@@ -7115,6 +7376,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Musizieren allein, in Orchester oder Band"
   },
   "jl0077": {
@@ -7202,6 +7466,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit TV, Video"
   },
   "jl0078": {
@@ -7289,6 +7556,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit Comp.spiele"
   },
   "jl0079": {
@@ -7376,6 +7646,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit Musik hoeren"
   },
   "jl0080": {
@@ -7463,6 +7736,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit Musik machen"
   },
   "jl0081": {
@@ -7550,6 +7826,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit Sport treiben"
   },
   "jl0082": {
@@ -7637,6 +7916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit spez. Hobby"
   },
   "jl0083": {
@@ -7724,6 +8006,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit mit Freund(in)"
   },
   "jl0084": {
@@ -7811,6 +8096,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freiz. Gruppe,Clique"
   },
   "jl0085": {
@@ -7898,6 +8186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit Lesen"
   },
   "jl0086": {
@@ -7985,6 +8276,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit nichts tun"
   },
   "jl0087": {
@@ -8025,6 +8319,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Alter Beginn Musikunterricht"
   },
   "jl0088": {
@@ -8097,6 +8394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fernsehnutzung"
   },
   "jl0089": {
@@ -8137,6 +8437,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "TV werktags Std-Tag"
   },
   "jl0090": {
@@ -8177,6 +8480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "TV wochend Std-Tag"
   },
   "jl0091": {
@@ -8249,6 +8555,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Radio,CD,Cass.nutzung"
   },
   "jl0092": {
@@ -8289,6 +8598,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Radio werktags Std-Tag"
   },
   "jl0093": {
@@ -8329,6 +8641,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Radio wochend Std-Tag"
   },
   "jl0094": {
@@ -8401,6 +8716,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Computer,Internetnutzg"
   },
   "jl0095": {
@@ -8441,6 +8759,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Comp. werktags Std-Tag"
   },
   "jl0096": {
@@ -8481,6 +8802,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Comp. wochend Std-Tag"
   },
   "jl0097": {
@@ -8553,6 +8877,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitungsnutzung"
   },
   "jl0098": {
@@ -8593,6 +8920,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitg werktags Std-Tag"
   },
   "jl0099": {
@@ -8633,6 +8963,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitg wochenend Std-Tag"
   },
   "jl0100": {
@@ -8705,6 +9038,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitschriftennutzung"
   },
   "jl0101": {
@@ -8745,6 +9081,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitschr werktag Std-Tag"
   },
   "jl0102": {
@@ -8785,6 +9124,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitschr wochend Std-Tag"
   },
   "jl0103": {
@@ -8857,6 +9199,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "nichts davon nutzen"
   },
   "jl0104": {
@@ -8934,6 +9279,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bezahlter Musikunterricht"
   },
   "jl0105": {
@@ -9011,6 +9359,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sportarten ausueben"
   },
   "jl0106": {
@@ -9088,6 +9439,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sportarten ausueben"
   },
   "jl0109": {
@@ -9335,6 +9689,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigste Sportart, Code"
   },
   "jl0111": {
@@ -9407,6 +9764,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine zweite Sportart"
   },
   "jl0112": {
@@ -9447,6 +9807,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Alter Beginn wichtigste Sportart"
   },
   "jl0114": {
@@ -9534,6 +9897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wie haeufig 1.Sportart"
   },
   "jl0115": {
@@ -9574,6 +9940,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Seit wann 1.Sportart"
   },
   "jl0116": {
@@ -9671,6 +10040,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wo, mit wem 1.Sportart"
   },
   "jl0117": {
@@ -9748,6 +10120,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wettkaempfe 1.Sportart"
   },
   "jl0119": {
@@ -9835,6 +10210,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wie haeufig 2.Sportart"
   },
   "jl0120": {
@@ -9875,6 +10253,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Seit wann 2.Sportart"
   },
   "jl0121": {
@@ -9972,6 +10353,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wo, mit wem 2.Sportart"
   },
   "jl0122": {
@@ -10049,6 +10433,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wettkaempfe 2.Sportart"
   },
   "jl0123": {
@@ -10146,6 +10533,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wo, mit wem wichtigste Sportart"
   },
   "jl0124": {
@@ -10223,6 +10613,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wettkaempfe 1. Sportart"
   },
   "jl0125": {
@@ -10330,6 +10723,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulbesuch"
   },
   "jl0126": {
@@ -10370,6 +10766,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Jahr Schulende"
   },
   "jl0127": {
@@ -10467,6 +10866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art Schulabschluss"
   },
   "jl0130": {
@@ -10549,6 +10951,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "weiterer Schulabschluss"
   },
   "jl0131": {
@@ -10636,6 +11041,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art praef. Schulabschl."
   },
   "jl0132": {
@@ -10743,6 +11151,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Fremdspr."
   },
   "jl0133": {
@@ -10855,6 +11266,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Fremdspr."
   },
   "jl0134": {
@@ -10967,6 +11381,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3.Fremdspr."
   },
   "jl0135": {
@@ -11007,6 +11424,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausland Schuljahre"
   },
   "jl0136": {
@@ -11089,6 +11509,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausland Schulabschl."
   },
   "jl0137": {
@@ -11171,6 +11594,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausland Schulbesuch"
   },
   "jl0138": {
@@ -11253,6 +11679,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Privatschulbesuch"
   },
   "jl0139": {
@@ -11325,6 +11754,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Klassensprecher"
   },
   "jl0140": {
@@ -11397,6 +11829,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Schulsprecher"
   },
   "jl0141": {
@@ -11469,6 +11904,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Schuelerzeitung"
   },
   "jl0142": {
@@ -11541,6 +11979,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Theater, Tanz"
   },
   "jl0143": {
@@ -11613,6 +12054,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Chor, Musik"
   },
   "jl0144": {
@@ -11685,6 +12129,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. Sport-AG"
   },
   "jl0145": {
@@ -11757,6 +12204,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Engag. sonst. Gruppe"
   },
   "jl0146": {
@@ -11829,6 +12279,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "kein Engagement"
   },
   "jl0147": {
@@ -11951,6 +12404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zufriedenheit mit Schulleistg gesamt"
   },
   "jl0148": {
@@ -12073,6 +12529,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zufriedenheit mit Deutschleistg"
   },
   "jl0149": {
@@ -12195,6 +12654,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zufriedenheit mit Matheleistg"
   },
   "jl0150": {
@@ -12317,6 +12779,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zufriedenheit mit 1. Fremdspr.leistg"
   },
   "jl0151": {
@@ -12404,6 +12869,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Empfehlung nach der Grundschule"
   },
   "jl0152": {
@@ -12501,6 +12969,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Note Deutsch"
   },
   "jl0153": {
@@ -12541,6 +13012,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Punkte Deutsch"
   },
   "jl0154": {
@@ -12638,6 +13112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Note 1. Fremdspr."
   },
   "jl0155": {
@@ -12720,6 +13197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "GK,LK Deutsch"
   },
   "jl0156": {
@@ -12817,6 +13297,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Note Mathe"
   },
   "jl0157": {
@@ -12857,6 +13340,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Punkte Mathe"
   },
   "jl0161": {
@@ -12897,6 +13383,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Punkte 1. Fremdspr."
   },
   "jl0162": {
@@ -12979,6 +13468,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "GK,LK Mathe"
   },
   "jl0163": {
@@ -13061,6 +13553,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "GK, LK 1. Fremdspr."
   },
   "jl0164": {
@@ -13138,6 +13633,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klasse wiederholt"
   },
   "jl0165": {
@@ -13178,6 +13676,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klassenstufe 1. Wdhg."
   },
   "jl0166": {
@@ -13218,6 +13719,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klassenstufe 2. Wdhg."
   },
   "jl0167": {
@@ -13295,6 +13799,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "bezahlte Nachhilfe"
   },
   "jl0168": {
@@ -13382,6 +13889,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern kuemmern sich um Leistg"
   },
   "jl0169": {
@@ -13469,6 +13979,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern unterst. Lernen"
   },
   "jl0170": {
@@ -13556,6 +14069,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Probleme mit Elt. Wegen Schulleistg"
   },
   "jl0171": {
@@ -13628,6 +14144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern besuchen Elternabende"
   },
   "jl0172": {
@@ -13700,6 +14219,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern besuchen Sprechtage"
   },
   "jl0173": {
@@ -13772,6 +14294,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern suchen Lehrer auf"
   },
   "jl0174": {
@@ -13844,6 +14369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern sind Elternvertreter"
   },
   "jl0175": {
@@ -13916,6 +14444,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern machen nichts davon"
   },
   "jl0176": {
@@ -14018,6 +14549,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl auslaend. Mitschueler"
   },
   "jl0177": {
@@ -14095,6 +14629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufl. Ausbildung, Praktikum, Lehrgang"
   },
   "jl0178": {
@@ -14172,6 +14709,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsgrundschuljahr"
   },
   "jl0179": {
@@ -14249,6 +14789,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsschuljahr reg. beendet"
   },
   "jl0180": {
@@ -14326,6 +14869,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufl. Eingliederungslehrgang"
   },
   "jl0181": {
@@ -14403,6 +14949,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufl. Eingliederungslehrgang regulaer beendet"
   },
   "jl0182": {
@@ -14480,6 +15029,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsausbildung, Lehre"
   },
   "jl0183": {
@@ -14557,6 +15109,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsausbildung, Lehre regulaer beendet"
   },
   "jl0184": {
@@ -14634,6 +15189,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsfachschule"
   },
   "jl0185": {
@@ -14711,6 +15269,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsfachschule regulaer beendet"
   },
   "jl0186": {
@@ -14788,6 +15349,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Praktikum, Volontariat"
   },
   "jl0187": {
@@ -14865,6 +15429,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Praktikum, Volontariat regulaer beendet"
   },
   "jl0188": {
@@ -14947,6 +15514,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildungs,Hochschulabschluss - angestrebt"
   },
   "jl0189": {
@@ -15019,6 +15589,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abschluss einer Lehre"
   },
   "jl0190": {
@@ -15091,6 +15664,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsfachschule"
   },
   "jl0191": {
@@ -15163,6 +15739,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachschule, Meister-, Technikerschule"
   },
   "jl0192": {
@@ -15235,6 +15814,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beamtenausbildung"
   },
   "jl0193": {
@@ -15307,6 +15889,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anerkannte Berufsakademie"
   },
   "jl0194": {
@@ -15379,6 +15964,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachhochschule"
   },
   "jl0195": {
@@ -15451,6 +16039,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Universitaet"
   },
   "jl0196": {
@@ -15517,6 +16108,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Angestrebte Ausbildung Gesamt k.A."
   },
   "jl0197": {
@@ -15557,6 +16151,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Alter wirtschtliche Unabhaengigkt."
   },
   "jl0198": {
@@ -15629,6 +16226,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "bereits wirtschlich unabhaengig?"
   },
   "jl0199": {
@@ -15711,6 +16311,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufswunsch vorhanden?"
   },
   "jl0201": {
@@ -15798,6 +16401,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wie gut ueber angestrebten Beruf informiert"
   },
   "jl0202": {
@@ -15885,6 +16491,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufswahl, Vorschlaege der Eltern wichtig"
   },
   "jl0203": {
@@ -15972,6 +16581,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufswahl, kein bestimmter Beruf vor Augen"
   },
   "jl0204": {
@@ -16059,6 +16671,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufswahl, mit versch. Moeglichkeiten besch"
   },
   "jl0205": {
@@ -16146,6 +16761,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufswahl, noch dabei Faehigkeiten rauszufinden"
   },
   "jl0206": {
@@ -16233,6 +16851,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "sichere Stellung wichtig"
   },
   "jl0207": {
@@ -16320,6 +16941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "hohes Einkommen wichtig"
   },
   "jl0208": {
@@ -16407,6 +17031,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufstiegsmoeglichkeit wichtig"
   },
   "jl0209": {
@@ -16494,6 +17121,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "anerkannter Beruf wichtig"
   },
   "jl0210": {
@@ -16581,6 +17211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freizeit wichtig"
   },
   "jl0211": {
@@ -16668,6 +17301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "interessante Taetigkeit wichtig"
   },
   "jl0212": {
@@ -16755,6 +17391,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "selbstaendiges Arbeiten wichtig"
   },
   "jl0213": {
@@ -16842,6 +17481,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kontakt wichtig"
   },
   "jl0214": {
@@ -16929,6 +17571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "fuer Gesellschaft wichtig"
   },
   "jl0215": {
@@ -17016,6 +17661,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitsbedingungen  wichtig"
   },
   "jl0216": {
@@ -17103,6 +17751,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeit fuer Familie wichtig"
   },
   "jl0217": {
@@ -17190,6 +17841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "anderen Helfen wichtig"
   },
   "jl0218": {
@@ -17282,6 +17936,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesundheitszustand"
   },
   "jl0219": {
@@ -17322,6 +17979,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Koerpergroesse (cm)"
   },
   "jl0220": {
@@ -17362,6 +18022,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gewicht (kg)"
   },
   "jl0221": {
@@ -17484,6 +18147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: gewuenschter Ausbildungs-, Studienplatz"
   },
   "jl0222": {
@@ -17606,6 +18272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Abschluss Ausbildungs-, Studienplatz"
   },
   "jl0223": {
@@ -17728,6 +18397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Arbeitsplatz"
   },
   "jl0224": {
@@ -17850,6 +18522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: beruflicher Erfolg"
   },
   "jl0225": {
@@ -17972,6 +18647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: arbeitslos"
   },
   "jl0226": {
@@ -18094,6 +18772,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Einschraenkung Familie"
   },
   "jl0227": {
@@ -18216,6 +18897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Selbstaendigkeit"
   },
   "jl0228": {
@@ -18338,6 +19022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Ausland arbeiten"
   },
   "jl0229": {
@@ -18460,6 +19147,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: Heirat"
   },
   "jl0230": {
@@ -18582,6 +19272,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: mit Partner"
   },
   "jl0231": {
@@ -18704,6 +19397,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: ein Kind"
   },
   "jl0232": {
@@ -18826,6 +19522,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wahrscheinlichkeit in %: mehrere Kinder"
   },
   "jl0233": {
@@ -18864,6 +19563,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr"
   },
   "jl0234": {
@@ -18991,6 +19693,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsmonat"
   },
   "jl0235": {
@@ -19078,6 +19783,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "in Deutschland geboren"
   },
   "jl0236": {
@@ -19155,6 +19863,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "deutsche Staatsangehoerigkeit"
   },
   "jl0238": {
@@ -20122,6 +20833,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsland Code"
   },
   "jl0239": {
@@ -20162,6 +20876,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zuzug nach Deutschland"
   },
   "jl0240": {
@@ -20269,6 +20986,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Status bei Einwanderung in Deutschland"
   },
   "jl0241": {
@@ -20346,6 +21066,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "heute deutsche Staatsangehoerigkeit"
   },
   "jl0242": {
@@ -20423,6 +21146,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "zweite Staatsangehoerigkeit"
   },
   "jl0243": {
@@ -21390,6 +22116,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "zweite Staatsangehoerigkeit (Code)"
   },
   "jl0244": {
@@ -21467,6 +22196,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "deutsche Staatsangehoerigkeit seit Geburt oder spaeter erworben"
   },
   "jl0245": {
@@ -22434,6 +23166,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Staatsangehoerigkeit (Code)"
   },
   "jl0246": {
@@ -22516,6 +23251,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Status Aufenthaltserlaubnis"
   },
   "jl0247": {
@@ -22593,6 +23331,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Muttersprache deutsch: beide Eltern"
   },
   "jl0248": {
@@ -22685,6 +23426,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sprechkompetenz: deutsch"
   },
   "jl0249": {
@@ -22777,6 +23521,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schreibkompetenz: deutsch"
   },
   "jl0250": {
@@ -22869,6 +23616,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sprechkompetenz: Herkunfts-,Elternsprache"
   },
   "jl0251": {
@@ -22961,6 +23711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schreibkompetenz: Herkunfts-,Elternsprache"
   },
   "jl0252": {
@@ -23043,6 +23796,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Status Aufenthaltserlaubnis"
   },
   "jl0253": {
@@ -23120,6 +23876,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufenthalt im Aufnahmelager"
   },
   "jl0254": {
@@ -23160,6 +23919,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufenthalt im Aufnahmelager, Wochen"
   },
   "jl0255": {
@@ -23200,6 +23962,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufenthalt im Aufnahmelager, Monate"
   },
   "jl0256": {
@@ -23277,6 +24042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "eingereist als Familienangehoeriger?"
   },
   "jl0257": {
@@ -23354,6 +24122,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "vor Einreise Kontakte mit Pers. In Dt.?"
   },
   "jl0258": {
@@ -23431,6 +24202,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zuzug in Wohnort der Bekannten"
   },
   "jl0259": {
@@ -23508,6 +24282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulbesuch in Dt."
   },
   "jl0260": {
@@ -23548,6 +24325,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schuleintritt in Dt., welche Klasse"
   },
   "jl0261": {
@@ -23625,6 +24405,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Besuch spezieller Vorbereitungsklasse"
   },
   "jl0262": {
@@ -23702,6 +24485,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "In Heimatland Familienmitglieder?"
   },
   "jl0263": {
@@ -23774,6 +24560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Eltern"
   },
   "jl0264": {
@@ -23846,6 +24635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Grosseltern"
   },
   "jl0265": {
@@ -23912,6 +24704,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinder"
   },
   "jl0266": {
@@ -23984,6 +24779,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bruder, Schwester"
   },
   "jl0267": {
@@ -24056,6 +24854,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Entferntere Verwandte"
   },
   "jl0268": {
@@ -24122,6 +24923,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ehepartner, Verlobte(r)"
   },
   "jl0269": {
@@ -24194,6 +24998,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Bekannte"
   },
   "jl0270": {
@@ -24271,6 +25078,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Personen gern nach Dt. holen?"
   },
   "jl0271": {
@@ -24358,6 +25168,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Rueckkehr in Herkunftsland"
   },
   "jl0272": {
@@ -24445,6 +25258,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ort der Kindheit"
   },
   "jl0273": {
@@ -24527,6 +25343,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ortswechsel seit Kindheit"
   },
   "jl0274": {
@@ -24604,6 +25423,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geschwister ja/nein"
   },
   "jl0275": {
@@ -24644,6 +25466,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Brueder"
   },
   "jl0276": {
@@ -24684,6 +25509,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Schwestern"
   },
   "jl0277": {
@@ -24766,6 +25594,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zwillingsschwester, -bruder"
   },
   "jl0278": {
@@ -24837,6 +25668,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geschwister: Gesamt k.A."
   },
   "jl0279": {
@@ -24877,6 +25711,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. leiblichen Eltern"
   },
   "jl0280": {
@@ -24917,6 +25754,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. alleinstehende Mutter"
   },
   "jl0281": {
@@ -24957,6 +25797,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. Mutter m. Partner"
   },
   "jl0282": {
@@ -24997,6 +25840,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. alleinst. Vater"
   },
   "jl0283": {
@@ -25037,6 +25883,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. Vater mit Partnerin"
   },
   "jl0284": {
@@ -25077,6 +25926,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. anderen Verwandten"
   },
   "jl0285": {
@@ -25117,6 +25969,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b. Pflegeeltern"
   },
   "jl0286": {
@@ -25157,6 +26012,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben im Heim"
   },
   "jl0287": {
@@ -25177,6 +26035,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anz. Jahre leben b.: Gesamt k.A."
   },
   "jl0288": {
@@ -25264,6 +26125,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater und Mutter leben im HH"
   },
   "jl0289": {
@@ -25351,6 +26215,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wo lebt der Vater"
   },
   "jl0290": {
@@ -25438,6 +26305,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wo lebt die Mutter"
   },
   "jl0291": {
@@ -25478,6 +26348,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Todesjahr - Vater"
   },
   "jl0292": {
@@ -25518,6 +26391,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Todesjahr - Mutter"
   },
   "jl0293": {
@@ -25558,6 +26434,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr - Vater"
   },
   "jl0294": {
@@ -25598,6 +26477,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr - Mutter"
   },
   "jl0295": {
@@ -25675,6 +26557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater in Deutschland geboren"
   },
   "jl0296": {
@@ -25747,6 +26632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter in Deutschland geboren"
   },
   "jl0297": {
@@ -26714,6 +27602,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsland Vater"
   },
   "jl0298": {
@@ -27681,6 +28572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsland Mutter"
   },
   "jl0299": {
@@ -27758,6 +28652,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: deutsche Staatsbuergerschaft"
   },
   "jl0300": {
@@ -27835,6 +28732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: deutsche Staatsbuergerschaft"
   },
   "jl0301": {
@@ -27932,6 +28832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Vater"
   },
   "jl0302": {
@@ -28029,6 +28932,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Mutter"
   },
   "jl0303": {
@@ -28116,6 +29022,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: berufliche Ausbildung oder  Studium abgeschlossen"
   },
   "jl0304": {
@@ -28203,6 +29112,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: berufliche Ausbildung oder  Studium abgeschlossen"
   },
   "jl0307": {
@@ -28295,6 +29207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Arbeiter"
   },
   "jl0308": {
@@ -28387,6 +29302,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Arbeiterin"
   },
   "jl0309": {
@@ -28484,6 +29402,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Angestellter"
   },
   "jl0310": {
@@ -28581,6 +29502,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Angestellte"
   },
   "jl0311": {
@@ -28668,6 +29592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Beamter"
   },
   "jl0312": {
@@ -28755,6 +29682,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Beamte"
   },
   "jl0313": {
@@ -28857,6 +29787,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Selbstaendiger"
   },
   "jl0314": {
@@ -28959,6 +29892,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Selbstaendige"
   },
   "jl0315": {
@@ -29031,6 +29967,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: nicht erwerbstaetig"
   },
   "jl0316": {
@@ -29103,6 +30042,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: nicht erwerbstaetig"
   },
   "jl0317": {
@@ -29175,6 +30117,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter-kathol.Kirche"
   },
   "jl0318": {
@@ -29247,6 +30192,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter-evang.Kirche"
   },
   "jl0319": {
@@ -29313,6 +30261,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter-anderen christl. Gemeinsch."
   },
   "jl0320": {
@@ -29385,6 +30336,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter-sonst.Religionsgemeinschaft"
   },
   "jl0321": {
@@ -29457,6 +30411,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter-Konfession"
   },
   "jl0322": {
@@ -29529,6 +30486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater-kathol.Kirche"
   },
   "jl0323": {
@@ -29601,6 +30561,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater-evang.Kirche"
   },
   "jl0324": {
@@ -29673,6 +30636,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater-anderen christl. Gemeinsch."
   },
   "jl0325": {
@@ -29745,6 +30711,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater-sonst.Religionsgemeinschaft"
   },
   "jl0326": {
@@ -29817,6 +30786,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater-Konfession"
   },
   "jl0327": {
@@ -29914,6 +30886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Religion, Konfession"
   },
   "jl0328": {
@@ -30011,6 +30986,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Religion, Konfession"
   },
   "jl0329": {
@@ -30098,6 +31076,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gluecklichsein in welcher Lebensform?"
   },
   "jl0330": {
@@ -30185,6 +31166,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gluecklichsein nur mit Kindern?"
   },
   "jl0331": {
@@ -30262,6 +31246,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zusammenleben mit Partner"
   },
   "jl0332": {
@@ -30302,6 +31289,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Jahre des Zusammenlebens"
   },
   "jl0333": {
@@ -30379,6 +31369,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Familienstand"
   },
   "jl0334": {
@@ -30399,6 +31392,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Ehejahre"
   },
   "jl0335": {
@@ -30476,6 +31472,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinder?"
   },
   "jl0336": {
@@ -30516,6 +31515,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr 1.Kind"
   },
   "jl0337": {
@@ -30603,6 +31605,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Fleiss"
   },
   "jl0338": {
@@ -30690,6 +31695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Ausnutzen anderer"
   },
   "jl0339": {
@@ -30777,6 +31785,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Intelligenz"
   },
   "jl0340": {
@@ -30864,6 +31875,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: familiare Herkunft"
   },
   "jl0341": {
@@ -30951,6 +31965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Fachkenntnisse"
   },
   "jl0342": {
@@ -31038,6 +32055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Geld"
   },
   "jl0343": {
@@ -31125,6 +32145,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Schulabschluss"
   },
   "jl0344": {
@@ -31212,6 +32235,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: hart sein"
   },
   "jl0345": {
@@ -31299,6 +32325,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Beziehungen"
   },
   "jl0346": {
@@ -31386,6 +32415,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: politisches Engagement"
   },
   "jl0347": {
@@ -31473,6 +32505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Mann sein"
   },
   "jl0348": {
@@ -31560,6 +32595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg durch: Initiative"
   },
   "jl0349": {
@@ -31682,6 +32720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "persoenliche Risikobereitschaft"
   },
   "jl0350": {
@@ -31784,6 +32825,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wie Leben verlaeuft haengt von einem selbst ab"
   },
   "jl0351": {
@@ -31886,6 +32930,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "nicht das erreicht was eigentlich verdient"
   },
   "jl0352": {
@@ -31988,6 +33035,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "was man erreicht ist Frage von Glueck, Schicksal"
   },
   "jl0353": {
@@ -32090,6 +33140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "andere bestimmen haeufig ueber mein Leben"
   },
   "jl0354": {
@@ -32192,6 +33245,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erfolg muss hart erarbeitet werden"
   },
   "jl0355": {
@@ -32294,6 +33350,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "bei Schwierigkeiten Zweifel an einem selber"
   },
   "jl0356": {
@@ -32396,6 +33455,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "soziale Umstaende bestimmen das Leben"
   },
   "jl0357": {
@@ -32498,6 +33560,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wichtiger als Anstrengung sind gegebene Faehigkt."
   },
   "jl0358": {
@@ -32600,6 +33665,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wenig Kontrolle ueber Ereignisse im Leben"
   },
   "jl0359": {
@@ -32702,6 +33770,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einfluss auf soziale Verhaeltn. Durch soz., pol. Engagement"
   },
   "jl0360": {
@@ -32804,6 +33875,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "heute Verzichten, morgen sich Leisten"
   },
   "jl0361": {
@@ -32906,6 +33980,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Menschen vertrauen"
   },
   "jl0362": {
@@ -33008,6 +34085,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "auf niemanden mehr velassen"
   },
   "jl0363": {
@@ -33110,6 +34190,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fremden misstrauen"
   },
   "jl0364": {
@@ -33212,6 +34295,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "heute Spass, nicht an morgen denken"
   },
   "jl0365": {
@@ -33314,6 +34400,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: gruendlich Arbeiten"
   },
   "jl0366": {
@@ -33416,6 +34505,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: kommunikativ"
   },
   "jl0367": {
@@ -33518,6 +34610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: grob zu anderen"
   },
   "jl0368": {
@@ -33620,6 +34715,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: neue Ideen einbringen"
   },
   "jl0369": {
@@ -33722,6 +34820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: oft Sorgen machen"
   },
   "jl0370": {
@@ -33824,6 +34925,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: kann verzeihen"
   },
   "jl0371": {
@@ -33926,6 +35030,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: faul sein"
   },
   "jl0372": {
@@ -34028,6 +35135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: gesellig sein"
   },
   "jl0373": {
@@ -34130,6 +35240,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: Aesthetik schaetzen"
   },
   "jl0374": {
@@ -34232,6 +35345,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: nervoes sein"
   },
   "jl0375": {
@@ -34334,6 +35450,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: Aufgaben effizient erledigen"
   },
   "jl0376": {
@@ -34436,6 +35555,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: zurueckhaltend"
   },
   "jl0377": {
@@ -34538,6 +35660,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: ruecksichtsvoll, freundlich"
   },
   "jl0378": {
@@ -34640,6 +35765,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: lebhafte Phantasie"
   },
   "jl0379": {
@@ -34742,6 +35870,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: entspannt sein, kein Stress"
   },
   "jl0380": {
@@ -34844,6 +35975,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: wissbegierig"
   },
   "jl0381": {
@@ -34936,6 +36070,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit aergerlich letzte 4 Wochen"
   },
   "jl0382": {
@@ -35028,6 +36165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit aengstlich letzte 4 Wochen"
   },
   "jl0383": {
@@ -35120,6 +36260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit gleucklich letzte 4 Wochen"
   },
   "jl0384": {
@@ -35212,6 +36355,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit traurig letzte 4 Wochen"
   },
   "jl0385": {
@@ -35289,6 +36435,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bezahlte Arbeit ausgeuebt (diese Woche)"
   },
   "jl0386": {
@@ -35366,6 +36515,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktiv nach Stelle gesucht (diesen Monat)"
   },
   "jl0387": {
@@ -35443,6 +36595,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet"
   },
   "jl0388": {
@@ -35530,6 +36685,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interesse fuer Politik"
   },
   "jl0389": {
@@ -35607,6 +36765,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Allgemeine Parteienpraeferenz"
   },
   "jl0390": {
@@ -35819,6 +36980,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Parteipraeferenz"
   },
   "jl0391": {
@@ -35911,6 +37075,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Parteipraeferenz-Intensitaet"
   },
   "jl0392": {
@@ -36033,6 +37200,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lebenszufriedenheit gegenwaertig"
   },
   "jl0406": {
@@ -36105,6 +37275,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachhilfe Deutsch"
   },
   "jl0407": {
@@ -36145,6 +37318,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Deutschhilfe Klasse"
   },
   "jl0408": {
@@ -36217,6 +37393,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachhilfe Mathe"
   },
   "jl0409": {
@@ -36257,6 +37436,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mathehilfe Klasse"
   },
   "jl0410": {
@@ -36329,6 +37511,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachhilfe Fremdspr."
   },
   "jl0411": {
@@ -36369,6 +37554,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fremdspr.hilfe Klasse"
   },
   "jl0412": {
@@ -36441,6 +37629,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachhilfe sonst.Fach"
   },
   "jl0413": {
@@ -36481,6 +37672,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst.Fachhilfe Klasse"
   },
   "jl0414": {
@@ -36553,6 +37747,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0415": {
@@ -36625,6 +37822,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0416": {
@@ -36697,6 +37897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zwillingsbruder/-schwester"
   },
   "jl0417": {
@@ -36769,6 +37972,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "kein Zwillingsbruder/-schwester"
   },
   "jl0418": {
@@ -37736,6 +38942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "welche Staatsangehoerigkeit vorher (Code)"
   },
   "jl0419": {
@@ -37776,6 +38985,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "deutsche Staatsangehoerigkeit in welchem Jahr erworben"
   },
   "jl0420": {
@@ -37853,6 +39065,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Leben hier im Haushalt"
   },
   "jl0421": {
@@ -37919,6 +39134,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Eig. Wohnung/Zimmer in WG"
   },
   "jl0422": {
@@ -37985,6 +39203,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort FreundIn/PartnerIn"
   },
   "jl0423": {
@@ -38051,6 +39272,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Unterkunft bei Arbeitsort"
   },
   "jl0424": {
@@ -38123,6 +39347,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Bei anderem Elternteil"
   },
   "jl0425": {
@@ -38189,6 +39416,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Schueler-/Studentenwohnheim"
   },
   "jl0426": {
@@ -38255,6 +39485,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Internat"
   },
   "jl0427": {
@@ -38321,6 +39554,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Kinderheim"
   },
   "jl0428": {
@@ -38387,6 +39623,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Pflegeheim"
   },
   "jl0429": {
@@ -38453,6 +39692,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Wohnort Sonstiges"
   },
   "jl0430": {
@@ -38550,6 +39792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit leben hier im Haushalt"
   },
   "jl0431": {
@@ -38627,6 +39872,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hauptwohnsitz"
   },
   "jl0432": {
@@ -38698,6 +39946,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hier: gemeld. Zweitwohnsitz"
   },
   "jl0433": {
@@ -38790,6 +40041,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit soziale Online-Netzwerke"
   },
   "jl0434": {
@@ -38830,6 +40084,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klasse"
   },
   "jl0435": {
@@ -38870,6 +40127,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule Ausland Alter Beginn"
   },
   "jl0436": {
@@ -38910,6 +40170,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule Ausland Alter Ende"
   },
   "jl0437": {
@@ -38992,6 +40255,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulart"
   },
   "jl0438": {
@@ -39063,6 +40329,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Duales Studium/Berufsakademie"
   },
   "jl0439": {
@@ -39134,6 +40403,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Duales Studium/Berufsakademie abgeschlossen"
   },
   "jl0440": {
@@ -39205,6 +40477,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachhochschule/Uni"
   },
   "jl0441": {
@@ -39276,6 +40551,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachhochschule/Uni abgeschlossen"
   },
   "jl0442": {
@@ -39368,6 +40646,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch sprechen"
   },
   "jl0443": {
@@ -39460,6 +40741,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch schreiben"
   },
   "jl0444": {
@@ -39552,6 +40836,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch lesen"
   },
   "jl0445": {
@@ -39644,6 +40931,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufenthaltsstatus"
   },
   "jl0446": {
@@ -39684,6 +40974,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Geschwister"
   },
   "jl0447": {
@@ -39756,6 +41049,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Geschwister"
   },
   "jl0448": {
@@ -39796,6 +41092,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geb.Jahr"
   },
   "jl0449": {
@@ -39923,6 +41222,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geb.Monat"
   },
   "jl0450": {
@@ -40000,6 +41302,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geschlecht"
   },
   "jl0451": {
@@ -40097,6 +41402,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Art"
   },
   "jl0452": {
@@ -40169,6 +41477,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. bis 15J zusammen"
   },
   "jl0453": {
@@ -40209,6 +41520,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Jahre zusammen"
   },
   "jl0454": {
@@ -40249,6 +41563,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geb.Jahr"
   },
   "jl0455": {
@@ -40376,6 +41693,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geb.Monat"
   },
   "jl0456": {
@@ -40453,6 +41773,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geschlecht"
   },
   "jl0457": {
@@ -40550,6 +41873,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Art"
   },
   "jl0458": {
@@ -40622,6 +41948,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. bis 15J zusammen"
   },
   "jl0459": {
@@ -40662,6 +41991,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Jahre zusammen"
   },
   "jl0460": {
@@ -40702,6 +42034,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geb.Jahr"
   },
   "jl0461": {
@@ -40829,6 +42164,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geb.Monat"
   },
   "jl0462": {
@@ -40906,6 +42244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geschlecht"
   },
   "jl0463": {
@@ -41003,6 +42344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Art"
   },
   "jl0464": {
@@ -41075,6 +42419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. bis 15J zusammen"
   },
   "jl0465": {
@@ -41115,6 +42462,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Jahre zusammen"
   },
   "jl0466": {
@@ -41155,6 +42505,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geb.Jahr"
   },
   "jl0467": {
@@ -41282,6 +42635,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geb.Monat"
   },
   "jl0468": {
@@ -41359,6 +42715,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geschlecht"
   },
   "jl0469": {
@@ -41456,6 +42815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Art"
   },
   "jl0470": {
@@ -41528,6 +42890,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. bis 15J zusammen"
   },
   "jl0471": {
@@ -41568,6 +42933,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Jahre zusammen"
   },
   "jl0472": {
@@ -41608,6 +42976,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geb.Jahr"
   },
   "jl0473": {
@@ -41735,6 +43106,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geb.Monat"
   },
   "jl0474": {
@@ -41812,6 +43186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geschlecht"
   },
   "jl0475": {
@@ -41909,6 +43286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Art"
   },
   "jl0476": {
@@ -41981,6 +43361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. bis 15J zusammen"
   },
   "jl0477": {
@@ -42021,6 +43404,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Jahre zusammen"
   },
   "jl0478": {
@@ -42061,6 +43447,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geb.Jahr"
   },
   "jl0479": {
@@ -42188,6 +43577,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geb.Monat"
   },
   "jl0480": {
@@ -42265,6 +43657,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geschlecht"
   },
   "jl0481": {
@@ -42362,6 +43757,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Art"
   },
   "jl0482": {
@@ -42434,6 +43832,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. bis 15J zusammen"
   },
   "jl0483": {
@@ -42474,6 +43875,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Jahre zusammen"
   },
   "jl0484": {
@@ -42514,6 +43918,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geb.Jahr"
   },
   "jl0485": {
@@ -42641,6 +44048,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geb.Monat"
   },
   "jl0486": {
@@ -42718,6 +44128,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geschlecht"
   },
   "jl0487": {
@@ -42815,6 +44228,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Art"
   },
   "jl0488": {
@@ -42887,6 +44303,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. bis 15J zusammen"
   },
   "jl0489": {
@@ -42927,6 +44346,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Jahre zusammen"
   },
   "jl0490": {
@@ -42967,6 +44389,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geb.Jahr"
   },
   "jl0491": {
@@ -43094,6 +44519,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geb.Monat"
   },
   "jl0492": {
@@ -43171,6 +44599,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geschlecht"
   },
   "jl0493": {
@@ -43268,6 +44699,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Art"
   },
   "jl0494": {
@@ -43340,6 +44774,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. bis 15J zusammen"
   },
   "jl0495": {
@@ -43380,6 +44817,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Jahre zusammen"
   },
   "jl0498": {
@@ -43457,6 +44897,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einwilligung Verknuepfung Soz.vers.Daten"
   },
   "jl0499": {
@@ -43554,6 +44997,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zusammensetzung Freundeskreis: Nicht aus D"
   },
   "jl0500": {
@@ -43631,6 +45077,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abschluss in D oder Ausland"
   },
   "jl0501": {
@@ -43713,6 +45162,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Angebot Deutsch als Fremdsprache"
   },
   "jl0502": {
@@ -43795,6 +45247,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Teilnahme an Deutsch als Fremdsprache"
   },
   "jl0503": {
@@ -43871,6 +45326,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Muttersprache"
   },
   "jl0504": {
@@ -43948,6 +45406,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung in einem anderen Land"
   },
   "jl0505": {
@@ -44025,6 +45486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beide Eltern in D geboren"
   },
   "jl0506": {
@@ -44065,6 +45529,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Jahr des Zuzugs nach D"
   },
   "jl0507": {
@@ -44085,6 +45552,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Jahr des Zuzugs nach D"
   },
   "jl0508": {
@@ -44172,6 +45642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Deutsche Staatsbuergerschaft"
   },
   "jl0509": {
@@ -44259,6 +45732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Deutsche Staatsbuergerschaft"
   },
   "jl0510": {
@@ -45241,6 +46717,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Code aktuelle/fruehere Staatsbuergerschaft"
   },
   "jl0511": {
@@ -46217,6 +47696,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Code aktuelle/fruehere Staatsbuergerschaft"
   },
   "jl0512": {
@@ -46299,6 +47781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater Schulabschluss Ausland oder D"
   },
   "jl0513": {
@@ -46381,6 +47866,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter Schulabschluss Ausland oder D"
   },
   "jl0514": {
@@ -46473,6 +47961,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Schulabschluss in D"
   },
   "jl0515": {
@@ -46559,6 +48050,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Schulabschluss in D"
   },
   "jl0516": {
@@ -46641,6 +48135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Schulabschluss im Ausland"
   },
   "jl0517": {
@@ -46723,6 +48220,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Schulabschluss im Ausland"
   },
   "jl0518": {
@@ -46810,6 +48310,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Religionsgemeinschaft Vater"
   },
   "jl0519": {
@@ -46897,6 +48400,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Religionsgemeinschaft Mutter"
   },
   "jl0520": {
@@ -46984,6 +48490,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Christl. Religionsgemeinschaft Vater"
   },
   "jl0521": {
@@ -47071,6 +48580,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Christl. Religionsgemeinschaft Mutter"
   },
   "jl0522": {
@@ -47158,6 +48670,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl0523": {
@@ -47239,6 +48754,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Islam. Religionsgemeinschaft Mutter"
   },
   "jl0524": {
@@ -47279,6 +48797,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ankerperson"
   },
   "jl0525": {
@@ -47319,6 +48840,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebersetzung: Deutsch-sprechende Person im HH"
   },
   "jl0526": {
@@ -47339,6 +48863,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebersetzung: Deutsch-sprechende Person ausserhalb HH"
   },
   "jl0527": {
@@ -47379,6 +48906,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine Ue-Hilfe verwendet"
   },
   "jl0528": {
@@ -47466,6 +48996,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Folgebefragungen erwuenscht"
   },
   "jl0532": {
@@ -47563,6 +49096,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater: Art Selbstaendiger"
   },
   "jl0533": {
@@ -47660,6 +49196,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter: Art Selbstaendige"
   },
   "jl1026": {
@@ -47732,6 +49271,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Vater"
   },
   "jl1027": {
@@ -47804,6 +49346,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Mutter"
   },
   "jl1028": {
@@ -47876,6 +49421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Bruder-Schwester"
   },
   "jl1029": {
@@ -47948,6 +49496,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Verwandte"
   },
   "jl1030": {
@@ -48020,6 +49571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig fester Freund"
   },
   "jl1031": {
@@ -48092,6 +49646,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig fester Freund"
   },
   "jl1032": {
@@ -48164,6 +49721,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Lehrer"
   },
   "jl1034": {
@@ -48236,6 +49796,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtig Sonstige"
   },
   "jl1043": {
@@ -48328,6 +49891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater spricht Probleme an"
   },
   "jl1249": {
@@ -48420,6 +49986,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lesekompetenz: deutsch"
   },
   "jl1251": {
@@ -48512,6 +50081,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lesekompetenz: Herkunfts-, Elternsprache"
   },
   "jl1380": {
@@ -48614,6 +50186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Persoenliche Eigenschaften: positive Einstellung zu sich"
   },
   "jl1400": {
@@ -48706,6 +50281,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haeufigkeit soziale Online-Netzwerke"
   },
   "jl1401": {
@@ -48788,6 +50366,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulart"
   },
   "jl1402": {
@@ -48865,6 +50446,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachhochschule/Uni"
   },
   "jl1403": {
@@ -48936,6 +50520,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fachhochschule/Uni abgeschlossen"
   },
   "jl1404": {
@@ -48976,6 +50563,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Geschwister"
   },
   "jl1405": {
@@ -49048,6 +50638,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Geschwister"
   },
   "jl1406": {
@@ -49088,6 +50681,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geb.Jahr"
   },
   "jl1407": {
@@ -49215,6 +50811,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geb.Monat"
   },
   "jl1408": {
@@ -49292,6 +50891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Geschlecht"
   },
   "jl1409": {
@@ -49389,6 +50991,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Art"
   },
   "jl1410": {
@@ -49461,6 +51066,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. bis 15J zusammen"
   },
   "jl1411": {
@@ -49501,6 +51109,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Geschw. Jahre zusammen"
   },
   "jl1412": {
@@ -49541,6 +51152,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geb.Jahr"
   },
   "jl1413": {
@@ -49668,6 +51282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geb.Monat"
   },
   "jl1414": {
@@ -49745,6 +51362,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Geschlecht"
   },
   "jl1415": {
@@ -49842,6 +51462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Art"
   },
   "jl1416": {
@@ -49914,6 +51537,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. bis 15J zusammen"
   },
   "jl1417": {
@@ -49954,6 +51580,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2. Geschw. Jahre zusammen"
   },
   "jl1418": {
@@ -49994,6 +51623,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geb.Jahr"
   },
   "jl1419": {
@@ -50121,6 +51753,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geb.Monat"
   },
   "jl1420": {
@@ -50198,6 +51833,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Geschlecht"
   },
   "jl1421": {
@@ -50295,6 +51933,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Art"
   },
   "jl1422": {
@@ -50367,6 +52008,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. bis 15J zusammen"
   },
   "jl1423": {
@@ -50407,6 +52051,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3. Geschw. Jahre zusammen"
   },
   "jl1424": {
@@ -50447,6 +52094,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geb.Jahr"
   },
   "jl1425": {
@@ -50574,6 +52224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geb.Monat"
   },
   "jl1426": {
@@ -50651,6 +52304,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Geschlecht"
   },
   "jl1427": {
@@ -50748,6 +52404,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Art"
   },
   "jl1428": {
@@ -50820,6 +52479,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. bis 15J zusammen"
   },
   "jl1429": {
@@ -50860,6 +52522,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "4. Geschw. Jahre zusammen"
   },
   "jl1430": {
@@ -50900,6 +52565,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geb.Jahr"
   },
   "jl1431": {
@@ -51027,6 +52695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geb.Monat"
   },
   "jl1432": {
@@ -51104,6 +52775,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Geschlecht"
   },
   "jl1433": {
@@ -51201,6 +52875,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Art"
   },
   "jl1434": {
@@ -51273,6 +52950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. bis 15J zusammen"
   },
   "jl1435": {
@@ -51313,6 +52993,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "5. Geschw. Jahre zusammen"
   },
   "jl1436": {
@@ -51353,6 +53036,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geb.Jahr"
   },
   "jl1437": {
@@ -51480,6 +53166,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geb.Monat"
   },
   "jl1438": {
@@ -51557,6 +53246,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Geschlecht"
   },
   "jl1439": {
@@ -51654,6 +53346,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Art"
   },
   "jl1440": {
@@ -51726,6 +53421,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. bis 15J zusammen"
   },
   "jl1441": {
@@ -51766,6 +53464,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "6. Geschw. Jahre zusammen"
   },
   "jl1442": {
@@ -51806,6 +53507,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geb.Jahr"
   },
   "jl1443": {
@@ -51933,6 +53637,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geb.Monat"
   },
   "jl1444": {
@@ -52010,6 +53717,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Geschlecht"
   },
   "jl1445": {
@@ -52107,6 +53817,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Art"
   },
   "jl1446": {
@@ -52179,6 +53892,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. bis 15J zusammen"
   },
   "jl1447": {
@@ -52219,6 +53935,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "7. Geschw. Jahre zusammen"
   },
   "jl1448": {
@@ -52259,6 +53978,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geb.Jahr"
   },
   "jl1449": {
@@ -52386,6 +54108,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geb.Monat"
   },
   "jl1450": {
@@ -52463,6 +54188,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Geschlecht"
   },
   "jl1451": {
@@ -52560,6 +54288,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Art"
   },
   "jl1452": {
@@ -52632,6 +54363,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. bis 15J zusammen"
   },
   "jl1453": {
@@ -52672,6 +54406,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "8. Geschw. Jahre zusammen"
   },
   "jl1454": {
@@ -52712,6 +54449,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klasse"
   },
   "jl1455": {
@@ -52752,6 +54492,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule Ausland Alter Beginn"
   },
   "jl1456": {
@@ -52792,6 +54535,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule Ausland Alter Ende"
   },
   "jl1457": {
@@ -52869,6 +54615,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Duales Studium/Berufsakademie"
   },
   "jl1458": {
@@ -52889,6 +54638,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Duales Studium/Berufsakademie abgeschlossen"
   },
   "jl1459": {
@@ -52981,6 +54733,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch sprechen"
   },
   "jl1460": {
@@ -53073,6 +54828,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch schreiben"
   },
   "jl1461": {
@@ -53165,6 +54923,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vor Zuzug Deutsch lesen"
   },
   "jl1462": {
@@ -53257,6 +55018,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aufenthaltsstatus"
   },
   "jl1463": {
@@ -53334,6 +55098,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einwilligung Abgleich Sozialversicherungsdaten"
   },
   "jl1464": {
@@ -53431,6 +55198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freunde nicht aus Deutschland"
   },
   "jl1465": {
@@ -53508,6 +55278,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Land"
   },
   "jl1466": {
@@ -53590,6 +55363,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Angebot Deutsch als Fremdsprache"
   },
   "jl1467": {
@@ -53672,6 +55448,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Teilnahme Deutsch als Fremdsprache"
   },
   "jl1468": {
@@ -53788,6 +55567,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zufriedenheit mit Leistungen in Muttersprache"
   },
   "jl1469": {
@@ -53865,6 +55647,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vorstellung Ausbildung Ausland"
   },
   "jl1470": {
@@ -53942,6 +55727,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsland beider Eltern D"
   },
   "jl1471": {
@@ -53982,6 +55770,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Jahr Zuzug Vater"
   },
   "jl1472": {
@@ -54002,6 +55793,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Jahr Zuzug Mutter"
   },
   "jl1473": {
@@ -54089,6 +55883,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater dtsch. Staatsb."
   },
   "jl1474": {
@@ -54176,6 +55973,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter dtsch. Staatsb."
   },
   "jl1475": {
@@ -54216,6 +56016,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater Code Staatsbuergerschaft"
   },
   "jl1476": {
@@ -54256,6 +56059,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter Code Staatsbuergerschaft"
   },
   "jl1477": {
@@ -54338,6 +56144,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater Schulabschluss in D"
   },
   "jl1478": {
@@ -54420,6 +56229,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter Schulabschluss in D"
   },
   "jl1479": {
@@ -54512,6 +56324,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Vater in D"
   },
   "jl1480": {
@@ -54604,6 +56419,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Mutter in D"
   },
   "jl1481": {
@@ -54686,6 +56504,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Vater im Ausl."
   },
   "jl1482": {
@@ -54768,6 +56589,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss Mutter im Ausl."
   },
   "jl1483": {
@@ -54855,6 +56679,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Religionsgemeinschaft Vater"
   },
   "jl1484": {
@@ -54942,6 +56769,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Religionsgemeinschaft Mutter"
   },
   "jl1485": {
@@ -55029,6 +56859,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Christl. Religionsgemeinschaft Vater"
   },
   "jl1486": {
@@ -55110,6 +56943,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Christl. Religionsgemeinschaft Mutter"
   },
   "jl1487": {
@@ -55197,6 +57033,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl1488": {
@@ -55284,6 +57123,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Islam. Religionsgemeinschaft Vater"
   },
   "jl1489": {
@@ -55356,6 +57198,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebersetzungshilfe deutschsprechende Pers. im HH."
   },
   "jl1490": {
@@ -55422,6 +57267,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebersetzungshilfe deutschsprechende Pers. ausserhalb HH."
   },
   "jl1491": {
@@ -55494,6 +57342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine Uebersetzungshilfe"
   },
   "jc0001": {
@@ -55571,6 +57422,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulbesuch"
   },
   "jc0002": {
@@ -55653,6 +57507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulbesuch"
   },
   "jc0003": {
@@ -55735,6 +57592,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "In Deutschland geboren"
   },
   "ja0001": {
@@ -55761,6 +57621,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigste Sportart"
   },
   "ja0002": {
@@ -55787,6 +57650,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zweite Sportart"
   },
   "ja0003": {
@@ -55813,6 +57679,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wichtigste Sportart"
   },
   "ja0004": {
@@ -55839,6 +57708,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zweite Sportart"
   },
   "ja0007": {
@@ -55865,6 +57737,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesamtschul-Niveau Deutsch (TEXT)"
   },
   "ja0008": {
@@ -55891,6 +57766,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesamtschul-Niveau Mathe (TEXT)"
   },
   "ja0009": {
@@ -55917,6 +57795,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesamtschul.Niveau 1. Fremdsprache (TEXT)"
   },
   "j_isco88_a": {
@@ -58304,6 +60185,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ISCO88, Angestrebter Beruf"
   },
   "j_isco88_lm": {
@@ -60691,6 +62575,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ISCO88, letzte Berufstaetigkeit der Mutter"
   },
   "j_isco88_lv": {
@@ -63078,6 +64965,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ISCO88, letzte Berufstaetigkeit des Vaters"
   },
   "j_kldb92_a": {
@@ -75460,6 +77350,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klassifikation Beruf nach StaBu 92, Angestrebter Beruf"
   },
   "j_kldb92_lm": {
@@ -87842,6 +89735,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klassifikation Beruf nach StaBu 92, letzte Berufstaetigkeit der Mutter"
   },
   "j_kldb92_lv": {
@@ -100224,6 +102120,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Klassifikation Beruf nach StaBu 92, letzte Berufstaetigkeit des Vaters"
   },
   "jpop": {
@@ -100296,6 +102195,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Populationskennzeichen J (Jugend)"
   }
 }

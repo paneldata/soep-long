@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "wellen-spezifische Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Personennummer des Kindes"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erhebungsjahr"
   },
   "k_nat": {
@@ -306,6 +318,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Staatsangehoerigkeit"
   },
   "k_inhh": {
@@ -483,6 +498,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Haushaltszugehoerigkeit"
   },
   "k_size": {
@@ -521,6 +539,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zahl der Personen im HH"
   },
   "k_nrkid": {
@@ -559,6 +580,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zahl der Kinder unter 16 Jahren im HH"
   },
   "k_rel": {
@@ -816,6 +840,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stellung im HH"
   },
   "k_nrinhh": {
@@ -856,6 +883,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lfd. Nr. des Kindes"
   },
   "k_phead": {
@@ -896,6 +926,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeiger auf HV"
   },
   "k_pheadp": {
@@ -936,6 +969,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeiger auf Partner des HV"
   },
   "k_pmum": {
@@ -976,6 +1012,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeiger auf Mutter"
   },
   "k_pmump": {
@@ -1016,6 +1055,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeiger auf Partner der Mutter"
   },
   "k_instr": {
@@ -1123,6 +1165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sprachversion des Fragebogens"
   },
   "ks_pre": {
@@ -1215,6 +1260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Krippe, KiGa,KiTa, Hort"
   },
   "ks_gen": {
@@ -1327,6 +1375,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Allg. Schule"
   },
   "ks_vocat": {
@@ -1404,6 +1455,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsschule"
   },
   "ks_none": {
@@ -1486,6 +1540,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine dieser Einrichtungen"
   },
   "ks_east": {
@@ -1588,6 +1645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Allg. Schule Ost"
   },
   "ks_eastp": {
@@ -1660,6 +1720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulhort Ost"
   },
   "ks_other": {
@@ -1837,6 +1900,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Andere Schultypen"
   },
   "kd_publ": {
@@ -1919,6 +1985,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Traeger: oeff. Einrichtung"
   },
   "kd_priv": {
@@ -2001,6 +2070,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Traeger: private-gemeinn. Einrichtung"
   },
   "kd_indep": {
@@ -2083,6 +2155,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Traeger: kirchlich, gemeinn. Einrichtung"
   },
   "kd_comp": {
@@ -2160,6 +2235,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Traeger: betriebl. Einrichtung"
   },
   "kd_comm": {
@@ -2242,6 +2320,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Traeger: private-gewerbl. Einrichtung"
   },
   "kd_rely": {
@@ -2324,6 +2405,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einhaltung der Betreuungszeiten"
   },
   "kd_time": {
@@ -2411,6 +2495,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zeitliche Lage Einrichtungsbesuch"
   },
   "kd_hrs": {
@@ -2451,6 +2538,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stunden pro Tag in der Einrichtung"
   },
   "kd_lunch": {
@@ -2528,6 +2618,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mittagessen in der Einrichtung"
   },
   "ks_lunch": {
@@ -2605,6 +2698,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mittagessen in der Schule"
   },
   "ks_amtp": {
@@ -2645,6 +2741,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kosten fuer Schule pro Monat"
   },
   "ks_cost": {
@@ -2717,6 +2816,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule: keine Kosten"
   },
   "kk_amtp": {
@@ -2757,6 +2859,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kosten fuer Kita etc. pro Monat"
   },
   "kk_cost": {
@@ -2829,6 +2934,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kita: keine Kosten"
   },
   "kd_fee": {
@@ -2906,6 +3014,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Besuch der Einrichtung kostenpflichtig"
   },
   "kd_amtp": {
@@ -2946,6 +3057,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einrichtungskosten in Euro/Monat"
   },
   "kc_relat": {
@@ -3018,6 +3132,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Verwandte"
   },
   "kc_frnd": {
@@ -3090,6 +3207,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freunde, Bekannte, Nachbarn"
   },
   "kc_paid": {
@@ -3162,6 +3282,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "bezahlte Betr.person kommt ins Haus"
   },
   "kc_mindr": {
@@ -3234,6 +3357,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tagesmutter ausserhalb des HH"
   },
   "kc_none": {
@@ -3306,6 +3432,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine externe Betreuung"
   },
   "ka06_spo": {
@@ -3378,6 +3507,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "unter 6 KiTurnen, Schwimmen"
   },
   "ka06_mus": {
@@ -3450,6 +3582,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "unter 6 fruehkindl. Musikerziehung"
   },
   "ka06_art": {
@@ -3522,6 +3657,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "unter 6 Malen fuer Kinder"
   },
   "ka06_oth": {
@@ -3594,6 +3732,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "unter 6 ElternKind Gruppe"
   },
   "ka06_non": {
@@ -3666,6 +3807,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Aktivitaeten unter 6"
   },
   "ka16_ssp": {
@@ -3738,6 +3882,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 Schul-Sport AG"
   },
   "ka16_smu": {
@@ -3810,6 +3957,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 Schul-Musik AG"
   },
   "ka16_sar": {
@@ -3882,6 +4032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 Schul-Kunst AG"
   },
   "ka16_sth": {
@@ -3954,6 +4107,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 Schul-Theater AG"
   },
   "ka16_sot": {
@@ -4026,6 +4182,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 Schul-Sonstige AG"
   },
   "ka16_spo": {
@@ -4098,6 +4257,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule Sport"
   },
   "ka16_mus": {
@@ -4170,6 +4332,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule Musik"
   },
   "ka16_art": {
@@ -4242,6 +4407,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule Kunst"
   },
   "ka16_org": {
@@ -4314,6 +4482,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule FW, DRK"
   },
   "ka16_yth": {
@@ -4386,6 +4557,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule Jugendgruppe"
   },
   "ka16_ctr": {
@@ -4458,6 +4632,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ab 6 ausserh. Schule Besuch Jug.Zentrum"
   },
   "ka16_non": {
@@ -4530,6 +4707,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Aktivitaeten ab 6"
   },
   "k_amtp": {
@@ -4570,6 +4750,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "durchschnittl. Kosten pro Monat"
   },
   "k_cost": {
@@ -4642,6 +4825,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "keine Kosten"
   },
   "kc_amtp": {
@@ -4682,6 +4868,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "externe Betreuung: durchschnittl. Kosten pro Monat"
   },
   "kc_cost": {
@@ -4754,6 +4943,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "externe Betreuung: keine Kosten"
   },
   "k_samp": {
@@ -4971,6 +5163,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stichprobenzugehoerigkeit"
   }
 }

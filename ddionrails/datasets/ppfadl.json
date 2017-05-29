@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "pid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "sex": {
@@ -188,6 +197,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geschlecht"
   },
   "gebjahr": {
@@ -228,6 +240,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsjahr -4Steller-"
   },
   "erstbefr": {
@@ -268,6 +283,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr der ersten Befragung"
   },
   "letztbef": {
@@ -308,6 +326,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr der letzten Befragung, (Netto=10-19)"
   },
   "eintritt": {
@@ -346,6 +367,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr des ersten Kontaktes"
   },
   "austritt": {
@@ -384,6 +408,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Jahr des letzten Kontaktes"
   },
   "todjahr": {
@@ -424,6 +451,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Todesjahr -4Steller-"
   },
   "todinfo": {
@@ -531,6 +561,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Todesjahr - Infoquelle"
   },
   "immiyear": {
@@ -571,6 +604,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Year Of Immigration To Germany"
   },
   "germborn": {
@@ -648,6 +684,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Born In Germany"
   },
   "loc1989": {
@@ -730,6 +769,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Where did you live in 1989?"
   },
   "corigin": {
@@ -1717,6 +1759,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Country of Origin"
   },
   "migback": {
@@ -1804,6 +1849,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Migrationshintergrund"
   },
   "miginfo": {
@@ -1896,6 +1944,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Informationsquellen von MIGBACK"
   },
   "psample": {
@@ -2043,6 +2094,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Stichprobenart"
   },
   "gebmonat": {
@@ -2170,6 +2224,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsmonat"
   },
   "gebmoval": {
@@ -2272,6 +2329,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Geburtsmonat, Datenquelle"
   },
   "wave": {
@@ -2312,6 +2372,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Erhebungswelle"
   },
   "hid": {
@@ -2352,6 +2415,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "ID Haushalt"
   },
   "netto": {
@@ -2609,6 +2675,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktueller Befragungsstatus"
   },
   "nett1": {
@@ -2706,6 +2775,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktueller Befragungsstatus (Netold)"
   },
   "casemat": {
@@ -2873,6 +2945,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Case-Match, zusammengezogene Panelhaushalte"
   },
   "sampreg": {
@@ -2950,6 +3025,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Stichprobenregion (Berlin West-Ost)"
   },
   "pop": {
@@ -3057,6 +3135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Populationszugehoerigkeit"
   },
   "iyear": {
@@ -3095,6 +3176,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Interview Year"
   },
   "parid": {
@@ -3135,6 +3219,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "PID des Ehe-,Lebenspartners"
   },
   "partner": {
@@ -3227,6 +3314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Art der Partnerschaft"
   },
   "prgroup": {
@@ -3265,6 +3355,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Random Groups"
   },
   "pbleib": {
@@ -3305,6 +3398,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
   "phrf": {
@@ -3343,6 +3439,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor"
   },
   "phrf0": {
@@ -3381,6 +3480,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor fuer Ursprungsstichproben (Welle 1)"
   },
   "phrf1": {
@@ -3419,6 +3521,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor ohne Ursprungsstichproben (Welle 1)"
   },
   "phrfe": {
@@ -3457,6 +3562,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor mit Haushaltsbezug (enumerated weights)"
   },
   "pbleibe": {
@@ -3495,6 +3603,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Inverse Bleibewahrscheinlichkeit (enum.)"
   },
   "phrfe0": {
@@ -3533,6 +3644,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor (enum.), nur fuer Ursprungsstichproben (Welle 1)"
   },
   "phrfe1": {
@@ -3571,6 +3685,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Hochrechnungsfaktor (enum.) ohne Ursprungsstichproben (Welle 1)"
   }
 }

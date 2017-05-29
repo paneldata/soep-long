@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "hsample": {
@@ -220,6 +226,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "h",
+    "sub_type": "track",
+    "period": "nan",
     "label_de": "Stichprobenart"
   }
 }

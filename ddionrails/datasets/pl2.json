@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "syear": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
   "hid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "intid": {
@@ -189,6 +201,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewer ID"
   },
   "befrper": {
@@ -227,6 +242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lfd. Personennummer"
   },
   "sample1": {
@@ -444,6 +462,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen"
   },
   "welle": {
@@ -482,6 +503,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Befragungswelle (Erhebungsjahr)"
   },
   "iyear": {
@@ -522,6 +546,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Jahr des Interviews"
   },
   "pmonin": {
@@ -654,6 +681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Monat des Interviews"
   },
   "ptagin": {
@@ -694,6 +724,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tag des Interviews"
   },
   "pdatmi": {
@@ -734,6 +767,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interview beendet Uhrzeit (Minuten)"
   },
   "pdatst": {
@@ -774,6 +810,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interview beendet Uhrzeit (Stunde)"
   },
   "pdauer1": {
@@ -814,6 +853,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewdauer muendlich in Minuten"
   },
   "pdauer2": {
@@ -854,6 +896,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Selbstausfuellen schriftlich in Minuten"
   },
   "p_dauer3": {
@@ -894,6 +939,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Interviewdauer"
   },
   "pinta": {
@@ -1016,6 +1064,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art der Befragung"
   },
   "persbio": {
@@ -1088,6 +1139,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Personenbiografie"
   },
   "p_anker": {
@@ -1128,6 +1182,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ankerperson"
   },
   "p_anw": {
@@ -1210,6 +1267,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Weitere Personen anwesend"
   },
   "p_buh1": {
@@ -1282,6 +1342,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Englische Uebersetzungshilfe"
   },
   "p_buh2": {
@@ -1354,6 +1417,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tuerkische Uebersetzungshilfe"
   },
   "p_buh3": {
@@ -1426,6 +1492,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Russische Uebersetzungshilfe"
   },
   "p_buh4": {
@@ -1498,6 +1567,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Rumaenische Uebersetzungshilfe"
   },
   "p_buh5": {
@@ -1570,6 +1642,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Polnische Uebersetzungshilfe"
   },
   "p_buh6": {
@@ -1642,6 +1717,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Deutsch sprechende Person im HH"
   },
   "p_buh7": {
@@ -1714,6 +1792,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Professioneller Dolmetscher"
   },
   "p_buh8": {
@@ -1786,6 +1867,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Deutsch sprechende Person ausserhalb HH"
   },
   "p_buh9": {
@@ -1858,6 +1942,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine Uebersetzungshilfe"
   },
   "pbuh": {
@@ -1945,6 +2032,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebersetzungshilfe beim Interview"
   },
   "hpmax": {
@@ -1985,6 +2075,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hoechste Personennummer im HH"
   },
   "p_degree": {
@@ -2322,6 +2415,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hochschulabschluss (Faechergruppe nach Destatis, FS11)"
   },
   "p_field": {
@@ -2769,6 +2865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Code Fachrichtung"
   },
   "p_isco08": {
@@ -5016,6 +5115,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "p_isco08n": {
@@ -7263,6 +7365,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-08, 4-Steller)"
   },
   "p_isco88": {
@@ -9790,6 +9895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "p_isco88n": {
@@ -12317,6 +12425,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (ISCO-88 COM, 4-Steller)"
   },
   "p_kldb10": {
@@ -18814,6 +18925,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "p_kldb10n": {
@@ -25311,6 +25425,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 2010, 5-Steller)"
   },
   "p_kldb92": {
@@ -36803,6 +36920,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "p_kldb92n": {
@@ -48295,6 +48415,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "aktuelle Nebentaetigkeit [pjobx] (KldB 92, 4-Steller)"
   },
   "p_nace": {
@@ -48682,6 +48805,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Branche nach NACE"
   },
   "p_train_kldb10": {
@@ -55184,6 +55310,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildungsabschluss (KldB2010)"
   },
   "p_train_kldb92": {
@@ -66686,6 +66815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildungsabschluss (KldB92)"
   },
   "pcb0001": {
@@ -66763,6 +66895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Frueher erwerbstaetig gewesen? ja,nein"
   },
   "pcb0002": {
@@ -66865,6 +67000,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0003": {
@@ -66972,6 +67110,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus"
   },
   "pcb0004": {
@@ -67074,6 +67215,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus"
   },
   "pcb0005": {
@@ -67181,6 +67325,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus"
   },
   "pcb0006": {
@@ -67293,6 +67440,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus"
   },
   "pcb0007": {
@@ -67390,6 +67540,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0008": {
@@ -67492,6 +67645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbsstatus zum Befragungszeitpunkt"
   },
   "pcb0009": {
@@ -67532,6 +67688,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bei jetzigen Arbeitgeber, Jahr"
   },
   "pcb0010": {
@@ -67614,6 +67773,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Frist d. derz. Beschaeftigung"
   },
   "pcb0011": {
@@ -67696,6 +67858,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Frist der derzeitigen Beschaeftigung"
   },
   "pcb0012": {
@@ -67773,6 +67938,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "ABM- oder SAM-Stelle"
   },
   "pcb0013": {
@@ -67813,6 +67981,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Neugruendung Jahr"
   },
   "pcb0014": {
@@ -67910,6 +68081,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zahl Beschaeftigte im Gesamtunternehmen"
   },
   "pcb0015": {
@@ -68002,6 +68176,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zahl Beschaeftigte im Gesamtunternehmen"
   },
   "pcb0016": {
@@ -68099,6 +68276,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Beschaeftigte"
   },
   "pcb0017": {
@@ -68201,6 +68381,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Beschaeftigte"
   },
   "pcb0018": {
@@ -68293,6 +68476,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Selbstaendiger"
   },
   "pcb0019": {
@@ -68385,6 +68571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Derz. Stellung Selbstaendige"
   },
   "pcb0020": {
@@ -68467,6 +68656,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Auszubildende, Praktikanten"
   },
   "pcb0021": {
@@ -68544,6 +68736,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Derz. Stellung Auszubildende,Praktikant"
   },
   "pcb0022": {
@@ -68636,6 +68831,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Angestellter"
   },
   "pcb0023": {
@@ -68708,6 +68906,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine besondere Ausbildung"
   },
   "pcb0024": {
@@ -68790,6 +68991,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bedeutung der Berufstaetigkeit"
   },
   "pcb0025": {
@@ -68830,6 +69034,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Pendeln seit Jahr"
   },
   "pcb0026": {
@@ -68912,6 +69119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art des Arbeitswegs"
   },
   "pcb0027": {
@@ -68989,6 +69199,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kein Arbeitsweg,wechselnder Arbeitsort"
   },
   "pcb0028": {
@@ -69029,6 +69242,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wochenstunden vereinbart"
   },
   "pcb0029": {
@@ -69069,6 +69285,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tatsaechliche Arbeitszeit"
   },
   "pcb0030": {
@@ -69146,6 +69365,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "325-EURO-Job"
   },
   "pcb0031": {
@@ -69238,6 +69460,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abgeltung von Ueberstunden"
   },
   "pcb0032": {
@@ -69315,6 +69540,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ueberstunden im letzten Monat"
   },
   "pcb0033": {
@@ -69392,6 +69620,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine Ueberstd letzten Monat"
   },
   "pcb0034": {
@@ -69474,6 +69705,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abendarbeit, zwischen 19 und 22 Uhr"
   },
   "pcb0035": {
@@ -69556,6 +69790,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachtarbeit, nach 22 Uhr"
   },
   "pcb0036": {
@@ -69633,6 +69870,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsarbeit an Samstagen"
   },
   "pcb0037": {
@@ -69710,6 +69950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufsarbeit an Sonntagen"
   },
   "pcb0038": {
@@ -69750,6 +69993,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wochenstunden gewuenscht"
   },
   "pcb0039": {
@@ -69877,6 +70123,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erste Erwerbstaetigkeit Monat 92"
   },
   "pcb0040": {
@@ -69974,6 +70223,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art der berufliche Veraenderung"
   },
   "pcb0041": {
@@ -70076,6 +70328,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art Beendigung Beschaeftigungsverhaeltnis"
   },
   "pcb0042": {
@@ -70183,6 +70438,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ende Befristung"
   },
   "pcb0043": {
@@ -70285,6 +70543,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Von Stelle erfahren durch"
   },
   "pcb0044": {
@@ -70357,6 +70618,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Stellenfindung Arbeitsamt"
   },
   "pcb0045": {
@@ -70454,6 +70718,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Letzte berufliche Stellung: Angestellte"
   },
   "pcb0046": {
@@ -70541,6 +70808,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bereich Nebentaetigkeit"
   },
   "pcb0047": {
@@ -70628,6 +70898,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geeignete Stelle finden"
   },
   "pcb0048": {
@@ -70668,6 +70941,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hoehe Nettoverdienst fuer Stellenannahme"
   },
   "pcb0049": {
@@ -70755,6 +71031,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Von sich aus neue Stelle suchen-naechst 2 J."
   },
   "pcb0050": {
@@ -70842,6 +71121,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitsplatz verlieren-naechst 2 J."
   },
   "pcb0051": {
@@ -70929,6 +71211,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "berufl Aufstieg in Betrieb-naechst 2 J."
   },
   "pcb0052": {
@@ -71016,6 +71301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Selbstaendig-naechst 2 J."
   },
   "pcb0053": {
@@ -71103,6 +71391,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "anderer Beruf-naechst 2 J."
   },
   "pcb0054": {
@@ -71190,6 +71481,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Erwerbstaetigkeit aufgeben-naechst 2 J."
   },
   "pcb0055": {
@@ -71277,6 +71571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "berufl Abstieg in Betrieb-naechst 2 J."
   },
   "pcb0056": {
@@ -71364,6 +71661,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Rente,Vorruhestand-naechst 2 J."
   },
   "pcb0057": {
@@ -71451,6 +71751,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wechsel Vollzeit-Teilzeit-naechst 2 J."
   },
   "pcb0058": {
@@ -71538,6 +71841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Weiterqualifizierung-naechst 2 J."
   },
   "pcb0059": {
@@ -71625,6 +71931,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Aussertarifl Gehaltserhoehung-naechst 2"
   },
   "pcb0060": {
@@ -71665,6 +71974,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bruttolohn als Arbeitnehmer/in Betrag Vorjahr"
   },
   "pcb0061": {
@@ -71705,6 +72017,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bruttoeinkommen a. selbst. Taetigkeit Vorjahr"
   },
   "pcb0062": {
@@ -71745,6 +72060,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Einkommen aus Nebenerwerb Betrag Vorjahr"
   },
   "pcb0063": {
@@ -71837,6 +72155,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abgeltung von Ueberstunden"
   },
   "pcb0064": {
@@ -71877,6 +72198,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitsstd. pro Arbeitstag"
   },
   "pcb0065": {
@@ -71974,6 +72298,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abendarbeit"
   },
   "pcb0066": {
@@ -72071,6 +72398,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachtarbeit"
   },
   "pcb0068": {
@@ -72198,6 +72528,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Von Stelle erfahren durch"
   },
   "pcc0001": {
@@ -72238,6 +72571,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Monatl.Nettobetrag,den HH unbed.braucht"
   },
   "pcc0002": {
@@ -72278,6 +72614,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bruttoverdienst letzten Monat"
   },
   "pcc0003": {
@@ -72318,6 +72657,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nettoverdienst letzten Monat"
   },
   "pcc0004": {
@@ -72358,6 +72700,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nettolohn als Arbeitnehmer/in Betrag Vorjahr"
   },
   "pcc0005": {
@@ -72398,6 +72743,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Monate Schlechtwettergeld"
   },
   "pcc0006": {
@@ -72438,6 +72786,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Abfindung Betrag"
   },
   "pcc0007": {
@@ -72478,6 +72829,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "13. Monatsgehalt Betrag"
   },
   "pcc0008": {
@@ -72518,6 +72872,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "14. Monatsgehalt Betrag"
   },
   "pcc0009": {
@@ -72558,6 +72915,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Weihnachtsgeld Betrag"
   },
   "pcc0010": {
@@ -72598,6 +72958,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Urlaubsgeld Betrag"
   },
   "pcc0011": {
@@ -72638,6 +73001,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gewinnbeteiligung Betrag"
   },
   "pcc0012": {
@@ -72678,6 +73044,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonstige Sonderverguetung Betrag"
   },
   "pcc0013": {
@@ -72750,6 +73119,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kurzarbeitergeld erhalten"
   },
   "pcc0014": {
@@ -72790,6 +73162,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Monate Kurzarbeitergeld"
   },
   "pcc0015": {
@@ -72830,6 +73205,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nebenerwerb Bruttobetrag"
   },
   "pcc0016": {
@@ -72870,6 +73248,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienstsold Bruttobetrag"
   },
   "pcc0017": {
@@ -72910,6 +73291,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wehr-, Zivildienstsold Betrag Vorjahr"
   },
   "pcc0018": {
@@ -72950,6 +73334,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nettoeinkommen aus selbst. Taetigkeit Vorjahr"
   },
   "pcc0019": {
@@ -72990,6 +73377,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesamtbetrag Lohn-, Einkommenssteuer"
   },
   "pcc0020": {
@@ -73030,6 +73420,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag des Freibetrages der L.karte"
   },
   "pcc0021": {
@@ -73102,6 +73495,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Steuerklasse I"
   },
   "pcc0022": {
@@ -73204,6 +73600,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Finanz. Absicherung bei Krankheit ist .."
   },
   "pcc0023": {
@@ -73306,6 +73705,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Finanzielle Absicherung b.Arbeitslosigk."
   },
   "pcc0024": {
@@ -73408,6 +73810,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Finanz. Absicherung f. das  Alter ist..."
   },
   "pcc0025": {
@@ -73448,6 +73853,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe Bruttobetrag"
   },
   "pcc0026": {
@@ -73488,6 +73896,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslosenhilfe Betrag Vorjahr"
   },
   "pcc0027": {
@@ -73528,6 +73939,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslosengeld Bruttobetrag"
   },
   "pcc0028": {
@@ -73568,6 +73982,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterhaltsgeld Bruttobetrag"
   },
   "pcc0029": {
@@ -73608,6 +74025,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslosengeld Betrag Vorjahr"
   },
   "pcc0030": {
@@ -73648,6 +74068,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterhaltsgeld Betrag Vorjahr"
   },
   "pcc0031": {
@@ -73688,6 +74111,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld Bruttobetrag"
   },
   "pcc0032": {
@@ -73728,6 +74154,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld Betrag Vorjahr"
   },
   "pcc0033": {
@@ -73768,6 +74197,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Uebergangsgeld etc. Betrag Vorjahr"
   },
   "pcc0034": {
@@ -73808,6 +74240,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vorruhestandszahlungen Bruttobetrag"
   },
   "pcc0035": {
@@ -73848,6 +74283,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bafoeg, Stipendium Bruttobetrag"
   },
   "pcc0036": {
@@ -73888,6 +74326,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "BAFOEG, Stipendium Betrag Vorjahr"
   },
   "pcc0037": {
@@ -73928,6 +74369,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterstuetzung ausserhalb des HH Betrag Vorjahr"
   },
   "pcc0038": {
@@ -73968,6 +74412,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterstuetzung Bruttobetrag"
   },
   "pcc0039": {
@@ -74008,6 +74455,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Knappschaft A"
   },
   "pcc0040": {
@@ -74048,6 +74498,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Zusatz- Sonderversorg.systeme A"
   },
   "pcc0042": {
@@ -74088,6 +74541,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Renten versich. Arb. u. Angest. A"
   },
   "pcc0043": {
@@ -74128,6 +74584,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Altershilfe der Landwirte A"
   },
   "pcc0044": {
@@ -74168,6 +74627,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Altersrente etc. Betrag Vorjahr"
   },
   "pcc0045": {
@@ -74208,6 +74670,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Altersrente Bruttobetrag"
   },
   "pcc0046": {
@@ -74248,6 +74713,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Beamtenversorg. A"
   },
   "pcc0047": {
@@ -74288,6 +74756,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Zusatzversorg. oefftl. Dienst A"
   },
   "pcc0048": {
@@ -74328,6 +74799,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Betriebl. Altersversorg. A"
   },
   "pcc0049": {
@@ -74368,6 +74842,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Kriegsopferversorg. A"
   },
   "pcc0050": {
@@ -74408,6 +74885,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Kriegsopferversorg. B"
   },
   "pcc0051": {
@@ -74448,6 +74928,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Sonst. Rente, Pension A"
   },
   "pcc0052": {
@@ -74488,6 +74971,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Zusatz- Sonderversorg.systeme B"
   },
   "pcc0053": {
@@ -74528,6 +75014,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Knappschaft B"
   },
   "pcc0054": {
@@ -74568,6 +75057,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Altershilfe der Landwirte B"
   },
   "pcc0055": {
@@ -74608,6 +75100,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Witwenrente etc. Betrag Vorjahr"
   },
   "pcc0056": {
@@ -74648,6 +75143,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Witwenrente Bruttobetrag"
   },
   "pcc0057": {
@@ -74688,6 +75186,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Rentenversich. Arb. u. Angest. B"
   },
   "pcc0058": {
@@ -74728,6 +75229,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Beamtenversorg. B"
   },
   "pcc0059": {
@@ -74768,6 +75272,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Zusatzversorg. oefftl. Dienst B"
   },
   "pcc0060": {
@@ -74808,6 +75315,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Betriebl. Altersversorg. B"
   },
   "pcc0061": {
@@ -74848,6 +75358,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Unfallversicherung B"
   },
   "pcc0062": {
@@ -74888,6 +75401,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betrag Sonst. Rente, Pension B"
   },
   "pcc0063": {
@@ -74970,6 +75486,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beitraege z. gesetzl. Rentenversicherung"
   },
   "pcc0064": {
@@ -75057,6 +75576,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beitraege zur gesetzlichen Rentenvers."
   },
   "pcc0065": {
@@ -75139,6 +75661,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beitraege zur gesetzlichen Rentenvers."
   },
   "pcc0066": {
@@ -75179,6 +75704,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Freiwilliger bzw. Plichtbeitrag pro Mon."
   },
   "pcc0098": {
@@ -75251,6 +75779,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterhaltsvorschuss bezogen Vorjahr"
   },
   "pcc0099": {
@@ -75291,6 +75822,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterhaltsvorschuss Monate Vorjahr"
   },
   "pcc0100": {
@@ -75331,6 +75865,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Unterhaltsvorschuss Betrag Vorjahr"
   },
   "pcd0001": {
@@ -75423,6 +75960,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutter - Beziehung"
   },
   "pcd0002": {
@@ -75515,6 +76055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Vater - Beziehung"
   },
   "pcd0003": {
@@ -75607,6 +76150,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Frueherer Ehepartner - Beziehung"
   },
   "pcd0004": {
@@ -75699,6 +76245,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Derz. Ehepartner Bez., falls nicht i.H."
   },
   "pcd0005": {
@@ -75791,6 +76340,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sohn, Soehne - Beziehung"
   },
   "pcd0006": {
@@ -75883,6 +76435,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tochter, Toechter - Beziehung"
   },
   "pcd0007": {
@@ -75975,6 +76530,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bruder, Brueder - Beziehung"
   },
   "pcd0008": {
@@ -76067,6 +76625,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schwester, Schwestern - Beziehung"
   },
   "pcd0009": {
@@ -76159,6 +76720,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Enkel - Beziehung"
   },
   "pcd0010": {
@@ -76251,6 +76815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Grosseltern - Beziehung"
   },
   "pcd0011": {
@@ -76343,6 +76910,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonstige Verwandte - Beziehung"
   },
   "pcd0012": {
@@ -76435,6 +77005,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wie eng ist Beziehung zu Verwandten"
   },
   "pcd0013": {
@@ -76475,6 +77048,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gesamtbetrag Heimat"
   },
   "pcd0014": {
@@ -76515,6 +77091,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betr. fuer Familie"
   },
   "pcd0015": {
@@ -76555,6 +77134,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betr. Ruecklagen"
   },
   "pcd0016": {
@@ -76595,6 +77177,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betr. Sonstiges"
   },
   "pcd0017": {
@@ -76635,6 +77220,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Betr. fuer Familie"
   },
   "pcd0018": {
@@ -76712,6 +77300,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lebensgemeinschaft"
   },
   "pcd0019": {
@@ -76752,6 +77343,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr Vater"
   },
   "pcd0020": {
@@ -76792,6 +77386,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Todesjahr Vater"
   },
   "pcd0021": {
@@ -76832,6 +77429,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr Mutter"
   },
   "pcd0022": {
@@ -76872,6 +77472,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Todesjahr Mutter"
   },
   "pcd0023": {
@@ -76912,6 +77515,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "gemeinsame Wohnung seit..."
   },
   "pce0001": {
@@ -76952,6 +77558,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geburtsjahr"
   },
   "pce0002": {
@@ -76992,6 +77601,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wie oft krankgemeldet ueber 6 Wochen Vorjahr"
   },
   "pce0003": {
@@ -77069,6 +77681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keinen Tag krankgeschrieben"
   },
   "pce0004": {
@@ -77156,6 +77771,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Tabakkonsum - Art"
   },
   "pce0005": {
@@ -77238,6 +77856,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Raucher"
   },
   "pce0006": {
@@ -77278,6 +77899,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Rauchen: Anzahl Zigarren pro Tag"
   },
   "pce0007": {
@@ -77360,6 +77984,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nicht krankenversichert"
   },
   "pce0008": {
@@ -77447,6 +78074,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Versichertenstatus - Beitragszahlendes Pflichtmitglied"
   },
   "pce0009": {
@@ -77564,6 +78194,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art der gesetzlichen Krankenversicherung"
   },
   "pce0010": {
@@ -77686,6 +78319,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "AOK"
   },
   "pce0011": {
@@ -77726,6 +78362,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beitrag fuer private Zusatzkrankenversicherung"
   },
   "pce0012": {
@@ -77766,6 +78405,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Monatsbeitrag private Krankenversicherung"
   },
   "pce0013": {
@@ -77806,6 +78448,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Priv.Vollversich. Personenzahl"
   },
   "pce0014": {
@@ -77846,6 +78491,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Prozent Erwerbs-, Schwerbehinderung"
   },
   "pce0015": {
@@ -77923,6 +78571,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keinen Tag krankgeschrieben 1985"
   },
   "pce0016": {
@@ -77963,6 +78614,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Anzahl Tage der Krankschreibung 1984"
   },
   "pcf0001": {
@@ -78045,6 +78699,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Keine Eigenarbeit"
   },
   "pcf0002": {
@@ -78085,6 +78742,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ersparnis Eigenarbeit Vorjahr, Betrag"
   },
   "pcf0003": {
@@ -78125,6 +78785,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausgaben fuer Eigenarbeit,Betrag"
   },
   "pcf0006": {
@@ -78272,6 +78935,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hilfe bei Pflegebeduerftigkeit - 1.P."
   },
   "pcf0007": {
@@ -78469,6 +79135,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bedeutsame Person 1: Um Hilfe bitten bei Pflegebeduerftigkeit"
   },
   "pcf0008": {
@@ -78616,6 +79285,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hilfe bei Pflegebeduerftigkeit - 2.P."
   },
   "pcf0009": {
@@ -78813,6 +79485,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bedeutsame Person 2: Um Hilfe bitten bei Pflegebeduerftigkeit"
   },
   "pcf0010": {
@@ -78890,6 +79565,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zweitwohnung"
   },
   "pcf0011": {
@@ -78967,6 +79645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zweitwohnung"
   },
   "pcg0001": {
@@ -79044,6 +79725,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Alter Befragungsperson"
   },
   "pcg0002": {
@@ -79136,6 +79820,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Allgemeinbildende Schule (Ost)"
   },
   "pcg0003": {
@@ -79208,6 +79895,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung Fachhochschule"
   },
   "pcg0004": {
@@ -79290,6 +79980,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hochschule"
   },
   "pcg0005": {
@@ -79362,6 +80055,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung Universitaet"
   },
   "pcg0006": {
@@ -79434,6 +80130,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Berufliche Umschulung"
   },
   "pcg0007": {
@@ -79506,6 +80205,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Weiterbildung"
   },
   "pcg0008": {
@@ -79603,6 +80305,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss,Abschlussart-Deutschland"
   },
   "pcg0009": {
@@ -79675,6 +80380,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss in Deutschland"
   },
   "pcg0010": {
@@ -79767,6 +80475,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schulabschluss"
   },
   "pcg0011": {
@@ -79839,6 +80550,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kein Ausbildungsabschluss in Deutschland"
   },
   "pcg0012": {
@@ -79931,6 +80645,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Allgemeinbildender Schulabschluss"
   },
   "pcg0013": {
@@ -80018,6 +80735,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hochschulabschluss"
   },
   "pcg0014": {
@@ -80115,6 +80835,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildungsart"
   },
   "pcg0015": {
@@ -80155,6 +80878,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs1,Beginn,Jahr"
   },
   "pcg0016": {
@@ -80195,6 +80921,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs2,Beginn,Jahr"
   },
   "pcg0017": {
@@ -80235,6 +80964,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs3,Beginn,Jahr"
   },
   "pcg0018": {
@@ -80275,6 +81007,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs1, Dauer, Tage"
   },
   "pcg0019": {
@@ -80315,6 +81050,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs2, Dauer, Tage"
   },
   "pcg0020": {
@@ -80355,6 +81093,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs3, Dauer, Tage"
   },
   "pcg0021": {
@@ -80427,6 +81168,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs1, Veranstalter"
   },
   "pcg0022": {
@@ -80467,6 +81211,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Entst. Kosten f. BW. DM"
   },
   "pcg0023": {
@@ -80539,6 +81286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "l.3.J. - Kurs1,  finanz.Unterst.erhalten"
   },
   "pcg0024": {
@@ -80626,6 +81376,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "2.Kurs finanz. Unterst. erhalten"
   },
   "pcg0025": {
@@ -80713,6 +81466,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "3.Kurs finanz. Unterst. erhalten"
   },
   "pcg0026": {
@@ -80795,6 +81551,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Studium: Stipendium"
   },
   "pcg0027": {
@@ -80882,6 +81641,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "1. Kurs, finanzielle Unterstuetzung erhalten"
   },
   "pcg0028": {
@@ -80959,6 +81721,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Gewerkschaftsmitglied"
   },
   "pch0001": {
@@ -81141,6 +81906,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Parteipraeferenz"
   },
   "pch0003": {
@@ -81233,6 +82001,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kirche, Religion"
   },
   "pch0004": {
@@ -81315,6 +82086,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Andere christliche Religionsgemeinschaft"
   },
   "pch0005": {
@@ -81392,6 +82166,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mitglied im Berufsverband"
   },
   "pci0001": {
@@ -81432,6 +82209,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beruf,Lehre,Nebenerw. Std., Sa"
   },
   "pci0002": {
@@ -81472,6 +82252,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beruf, Lehre, Nebenerw.Std., Sonntag"
   },
   "pci0003": {
@@ -81512,6 +82295,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hobbies, Freizeit Std., So"
   },
   "pci0004": {
@@ -81552,6 +82338,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hausarbeit, Besorgungen, Sonntag, Std."
   },
   "pci0005": {
@@ -81592,6 +82381,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinderbetreuung, Samstag, Stunden"
   },
   "pci0006": {
@@ -81632,6 +82424,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinderbetreuung, Sonntag, Stunden"
   },
   "pci0007": {
@@ -81672,6 +82467,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung, Schule, Samstag, Stunden"
   },
   "pci0008": {
@@ -81712,6 +82510,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung, Sonntag, Stunden"
   },
   "pci0009": {
@@ -81752,6 +82553,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Basteln etc., Samstag, Stunden"
   },
   "pci0010": {
@@ -81792,6 +82596,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Basteln etc., Sonntag, Stunden"
   },
   "pci0011": {
@@ -81832,6 +82639,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hobbies, Freizeit Std., Samstag"
   },
   "pci0012": {
@@ -81872,6 +82682,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beruf, Lehre, Nebenerw. Std., Werktg."
   },
   "pci0013": {
@@ -81912,6 +82725,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Besorgungen - Stunden Werktag (Mo-Fr)"
   },
   "pci0014": {
@@ -81952,6 +82768,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hausarbeit Std., Werktg."
   },
   "pci0015": {
@@ -81992,6 +82811,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinderbetreuung, Mo-Fr, Stunden"
   },
   "pci0016": {
@@ -82032,6 +82854,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ausbildung, Schule, Mo.-Fr., Stunden"
   },
   "pci0017": {
@@ -82072,6 +82897,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Basteln etc., Mo.- Fr., Stunden"
   },
   "pci0018": {
@@ -82112,6 +82940,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hobbies, Freizeit Std., Werktg."
   },
   "pci0019": {
@@ -82184,6 +83015,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "private PC-Nutzung"
   },
   "pci0020": {
@@ -82224,6 +83058,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Computernutzung (Privat) seit"
   },
   "pci0021": {
@@ -82264,6 +83101,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Computernutzung (Beruf) seit"
   },
   "pci0023": {
@@ -82351,6 +83191,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Besuch kultureller Veranstaltungen"
   },
   "pci0026": {
@@ -82433,6 +83276,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Geselligkeit mit Freunden, etc."
   },
   "pci0027": {
@@ -82515,6 +83361,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nachbarschaftshilfe"
   },
   "pci0028": {
@@ -82602,6 +83451,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Ehrenamtl. Taetigkeit"
   },
   "pci0029": {
@@ -82689,6 +83541,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Beteiligung in Buergerinitiativen etc."
   },
   "pci0030": {
@@ -82766,6 +83621,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fuehrerscheinbesitz"
   },
   "pci0031": {
@@ -82843,6 +83701,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nutzung Omnibusse"
   },
   "pci0032": {
@@ -82920,6 +83781,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nutzung U-,S-Bahn"
   },
   "pci0033": {
@@ -82997,6 +83861,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nutzung Strassenbahn"
   },
   "pci0034": {
@@ -83074,6 +83941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nutzung Eisenbahn"
   },
   "pci0035": {
@@ -83151,6 +84021,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Nutzung Sammeltaxi"
   },
   "pci0036": {
@@ -83233,6 +84106,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "PKW verfuegbar"
   },
   "pcj0001": {
@@ -83310,6 +84186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Deutsche Staatsangehoerigkeit"
   },
   "pcj0003": {
@@ -83392,6 +84271,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitsplatz West-Ost-Ausland"
   },
   "pcj0004": {
@@ -83432,6 +84314,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "An Eltern, Schwiegereltern Betrag"
   },
   "pcj0005": {
@@ -83509,6 +84394,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Leben Eltern in Dtschl.o.Ausland"
   },
   "pcj0006": {
@@ -83549,6 +84437,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "An Kinder Betrag"
   },
   "pcj0007": {
@@ -83626,6 +84517,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Leben Kinder in Dtschl.o.Ausland"
   },
   "pcj0008": {
@@ -83666,6 +84560,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "An Ehepartner Betrag"
   },
   "pcj0009": {
@@ -83743,6 +84640,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Lebt geschied.Ehepartner in Dtschl.o.Aus"
   },
   "pcj0010": {
@@ -83783,6 +84683,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "An sonst. Verwandte Betrag"
   },
   "pcj0011": {
@@ -83860,6 +84763,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Leben sonst. Verwandte in Dtschl.o.Ausl."
   },
   "pcj0012": {
@@ -83900,6 +84806,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "An n. verwandte Pers. Betrag"
   },
   "pcj0013": {
@@ -83977,6 +84886,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Leben nichtverwandte P.in Dtschl.o.Ausl."
   },
   "pcj0014": {
@@ -84017,6 +84929,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Zuzug nach Deutschland, Jahr"
   },
   "pck0001": {
@@ -84094,6 +85009,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0002": {
@@ -84166,6 +85084,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0003": {
@@ -84238,6 +85159,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0004": {
@@ -84320,6 +85244,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fragebogenfassung, Splitkennzeichen"
   },
   "pck0006": {
@@ -84417,6 +85344,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art der Befragung"
   },
   "pck0007": {
@@ -84494,6 +85424,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Art des Interviews"
   },
   "pnc0155": {
@@ -84534,6 +85467,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutterschaftsgeld Betrag Vorjahr"
   },
   "pnc0167": {
@@ -84606,6 +85542,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Bafoeg, Stipendium etc."
   },
   "pni0010": {
@@ -84646,6 +85585,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonst. Freizeitbeschaeft. Std./Sonntag"
   },
   "pni0011": {
@@ -84686,6 +85628,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Besorgungen Std./Sonntag"
   },
   "pni0012": {
@@ -84726,6 +85671,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hausarbeit Std./Samstag"
   },
   "pni0019": {
@@ -84766,6 +85714,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kinderbetreuung Std./Samstag"
   },
   "pab0001": {
@@ -84792,6 +85743,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Voll erwerbstaetig, Jan-Dez Vorjahr"
   },
   "pab0002": {
@@ -84818,6 +85772,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Teilzeit, Jan-Dez Vorjahr"
   },
   "pab0003": {
@@ -84844,6 +85801,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Kurzarbeit, Jan-Dez Vorjahr"
   },
   "pab0004": {
@@ -84870,6 +85830,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Arbeitslos gemeldet,Jan-Dez Vorjahr"
   },
   "pab0005": {
@@ -84896,6 +85859,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "In Rente etc.,Jan-Dez Vorjahr"
   },
   "pab0006": {
@@ -84922,6 +85888,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mutterschutz etc.,Jan-Dez Vorjahr"
   },
   "pab0007": {
@@ -84948,6 +85917,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Wehr-,Zivildienst, Jan-Dez Vorjahr"
   },
   "pab0008": {
@@ -84974,6 +85946,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Hausfrau,-mann,Jan-Dez Vorjahr"
   },
   "pab0010": {
@@ -85000,6 +85975,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Fortbilung,Jan-Dez Vorjahr"
   },
   "pab0011": {
@@ -85026,6 +86004,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Mini-Job, Jan-Dez Vorjahr"
   },
   "pab0012": {
@@ -85052,6 +86033,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Sonstiges, Jan-Dez Vorjahr"
   },
   "pab0013": {
@@ -85078,6 +86062,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Schule etc.,Jan-Dez Vorjahr"
   },
   "pag0004": {
@@ -85104,6 +86091,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Buchstabe Kurs1 (F63,1989)"
   },
   "pag0005": {
@@ -85130,6 +86120,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Buchstabe Kurs2 (F63,1989)"
   },
   "pag0006": {
@@ -85156,6 +86149,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Buchstabe Kurs3 (F63,1989)"
   },
   "fpop": {
@@ -85243,6 +86239,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/net",
+    "period": "nan",
     "label_de": "Teilpopulation - Ausl,West,Ost,Mig"
   }
 }

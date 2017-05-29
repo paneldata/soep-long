@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "pgerljob": {
@@ -236,6 +248,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Taetigkeit im erlernten Beruf"
   },
   "pgbetr": {
@@ -358,6 +373,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unternehmensgroesse"
   },
   "pgoeffd": {
@@ -435,6 +453,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "im oeffentlichen Dienst"
   },
   "pgausb": {
@@ -547,6 +568,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "erforderliche Ausbildung im Beruf"
   },
   "pgpartz": {
@@ -639,6 +663,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Partner Indikator"
   },
   "pgpartnr": {
@@ -679,6 +706,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Unveraend. Personen-id des Partners"
   },
   "pgnation": {
@@ -1651,6 +1681,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Staatsangehoerigkeit-Nationalitaet"
   },
   "pgpsbil": {
@@ -1753,6 +1786,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schulabschluss"
   },
   "pgpbbil01": {
@@ -1855,6 +1891,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl. Bildungsabschluss"
   },
   "pgpbbil02": {
@@ -1972,6 +2011,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Hochschulabschluss"
   },
   "pgpbbil03": {
@@ -2054,6 +2096,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Kein Berufsabschluss"
   },
   "pgpsbila": {
@@ -2141,6 +2186,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schulabschluss im Ausland"
   },
   "pgpbbila": {
@@ -2253,6 +2301,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufliche Bildung im Ausland"
   },
   "pgpsbilo": {
@@ -2350,6 +2401,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Schulabschluss-Ost"
   },
   "pgpbbilo": {
@@ -2437,6 +2491,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufl. Bildungsabschluss-Ost(1950-91)"
   },
   "pgfamstd": {
@@ -2544,6 +2601,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Marital Status"
   },
   "pgbilzeit": {
@@ -2584,6 +2644,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Dauer der Ausbildung, in Jahren"
   },
   "pgerwzeit": {
@@ -2624,6 +2687,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Dauer der Betriebszugehoerigkeit"
   },
   "pgtatzeit": {
@@ -2664,6 +2730,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Tatsaechliche Arbeitszeit pro Woche"
   },
   "pgvebzeit": {
@@ -2704,6 +2773,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Vereinbarte Arbeitszeit pro Woche"
   },
   "pguebstd": {
@@ -2744,6 +2816,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Ueberstunden pro Woche"
   },
   "pglfs": {
@@ -2866,6 +2941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Labor Force Status"
   },
   "pgisco88": {
@@ -5393,6 +5471,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (ISCO-88 COM, 4-Steller)"
   },
   "pgisei88": {
@@ -5433,6 +5514,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "letzter erreichter ISEI-Wert (International Socio-Economic Index)"
   },
   "pgmps92": {
@@ -5473,6 +5557,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "letzter erreichter MPS-Wert (Magnitude-Prestige-Skale, Wegener)"
   },
   "pgnace": {
@@ -5860,6 +5947,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Branche nach NACE"
   },
   "pgsiops88": {
@@ -5900,6 +5990,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "letzter erreichter SIOPS-Wert (Std. Internat. Occupational Prestige Scale, Tre"
   },
   "pgegp88": {
@@ -6022,6 +6115,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "letzte erreichte EGP-Klasse (Erikson, Goldthorpe, Portocarero)"
   },
   "pgkldb92": {
@@ -17514,6 +17610,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (KldB 92, 4-Steller)"
   },
   "pgautono": {
@@ -17611,6 +17710,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Autonomie beruflichen Handelns"
   },
   "pgisced97": {
@@ -17713,6 +17815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "ISCED-1997-Klassifikation"
   },
   "pgcasmin": {
@@ -17830,6 +17935,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "CASMIN-Klassifikation"
   },
   "pgstib": {
@@ -18122,6 +18230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Berufliche Stellung"
   },
   "pgmonth": {
@@ -18249,6 +18360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Monat des Interviews"
   },
   "pgmode": {
@@ -18386,6 +18500,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Interviewmethode"
   },
   "pglabgro": {
@@ -18426,6 +18543,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Akt. Bruttoerwerbseink.(gen) in Euro"
   },
   "pgimpgro": {
@@ -18503,6 +18623,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Imput.flag Bruttoerwerbseinkommen(gen)"
   },
   "pglabnet": {
@@ -18543,6 +18666,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Akt. Nettoerwerbseink.(gen) in Euro"
   },
   "pgimpnet": {
@@ -18620,6 +18746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Imput.flag Nettoerwerbseinkommen (gen)"
   },
   "pgallbet": {
@@ -18712,6 +18841,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Grobkategorien Unternehmensgroesse"
   },
   "pgemplst": {
@@ -18809,6 +18941,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Employment Status"
   },
   "pgexpft": {
@@ -18849,6 +18984,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitsmarkterfahrung Vollzeit"
   },
   "pgexppt": {
@@ -18889,6 +19027,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitsmarkterfahrung Teilzeit"
   },
   "pgexpue": {
@@ -18929,6 +19070,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Arbeitsmarkterfahrung Arbeitslos"
   },
   "pgjobch": {
@@ -19021,6 +19165,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Beruflicher Wechsel"
   },
   "pgfield": {
@@ -19388,6 +19535,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Fachrichtung, Studienbereiche StaBu Fachserie 11-4.1"
   },
   "pgdegree": {
@@ -19565,6 +19715,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Hochschulabschluss, angelehnt an StaBu Fachserie 11-4.1"
   },
   "pgtraina": {
@@ -20077,6 +20230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Ausbildungsberuf (Lehre), KldB 1992 Zweisteller"
   },
   "pgtrainb": {
@@ -20589,6 +20745,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Ausbildungsberuf (Berufsfachschule, Schule des Gesundheitswesens),KldB 1992"
   },
   "pgtrainc": {
@@ -21101,6 +21260,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Ausbildungsberuf (Fachschule - Meister, Techniker), KldB 1992"
   },
   "pgtraind": {
@@ -21613,6 +21775,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Ausbildungsberuf (Beamtenausbildung), KldB 1992 Zweisteller"
   },
   "pgfdt_f": {
@@ -21700,6 +21865,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Datenquelle Field Degree Train"
   },
   "pgbilztch": {
@@ -21782,6 +21950,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Bildungsveraenderung seit letzter Beobachtung/seit letztem Jahr"
   },
   "pgbilztev": {
@@ -21869,6 +22040,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Bildungsveraenderung in der gesamten Beobachtungszeit"
   },
   "pgsndjob": {
@@ -21909,6 +22083,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Akt. Bruttonebenverdienst (gen.) in Euro"
   },
   "pgimpsnd": {
@@ -21986,6 +22163,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Imput.flag Bruttonebenverdienst (gen.)"
   },
   "pgjobend": {
@@ -22138,6 +22318,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "Grund Beschaeftigungsende"
   },
   "pgkldb10": {
@@ -28635,6 +28818,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (KldB 2010, 5-Steller)"
   },
   "pgisco08": {
@@ -30882,6 +31068,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "aktueller Beruf [pber] (ISCO-08, 4-Steller)"
   },
   "pgisced11": {
@@ -30994,6 +31183,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "gen",
+    "period": "nan",
     "label_de": "ISCED-2011-Klassifikation"
   }
 }

@@ -35,6 +35,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
   "hid": {
@@ -73,6 +76,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
   "pid": {
@@ -111,6 +117,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
   "syear": {
@@ -149,6 +158,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Erhebungsjahr (Survey-Year)"
   },
   "geburt": {
@@ -189,6 +201,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Geburtsjahr"
   },
   "sex": {
@@ -271,6 +286,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Geschlecht"
   },
   "pnat": {
@@ -1238,6 +1256,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Staatsangehoerigkeit"
   },
   "stistat": {
@@ -1325,6 +1346,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stichprobenstatus"
   },
   "befstat": {
@@ -1432,6 +1456,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Befragungsstatus"
   },
   "lint": {
@@ -1804,6 +1831,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Letztes Interview in Welle"
   },
   "luecke": {
@@ -1891,6 +1921,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Lueckenbearbeitung"
   },
   "zupan": {
@@ -2258,6 +2291,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zugangswelle zum Panel"
   },
   "pnrakt": {
@@ -2298,6 +2334,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "lfd. Personen-Nr. im HH"
   },
   "stell": {
@@ -2540,6 +2579,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stellung zum HV, Bezugsperson"
   },
   "pzug": {
@@ -2832,6 +2874,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zugehoerigkeit zum HH"
   },
   "pform": {
@@ -2944,6 +2989,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsform"
   },
   "perg": {
@@ -3056,6 +3104,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis 1-Steller"
   },
   "pergz": {
@@ -3263,6 +3314,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis 2-Steller"
   },
   "hhnrold": {
@@ -3303,6 +3357,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "HH-Nummer Vorjahr mit Pfkz."
   },
   "pnrold": {
@@ -3343,6 +3400,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "lfd. Personen-Nr. im HH im Vorjahr"
   },
   "pzugv": {
@@ -3635,6 +3695,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zugehoerigkeit zum HH im Vorjahr"
   },
   "pformv": {
@@ -3752,6 +3815,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsform im Vorjahr"
   },
   "pergzv": {
@@ -3964,6 +4030,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis im Vorjahr"
   },
   "pader": {
@@ -4071,6 +4140,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Adressermittlung"
   },
   "paderq": {
@@ -4158,6 +4230,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Info-Quelle fuer Adressermittlung"
   },
   "auszugm": {
@@ -4285,6 +4360,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat des Auszugs"
   },
   "auszugj": {
@@ -4325,6 +4403,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Jahr des Auszugs"
   },
   "einzugm": {
@@ -4457,6 +4538,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat des Einzugs"
   },
   "einzugj": {
@@ -4497,6 +4581,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Jahr des Einzugs"
   },
   "abwesm": {
@@ -4629,6 +4716,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat der temp. Abwesenheit"
   },
   "abwesj": {
@@ -4669,6 +4759,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Jahr der temp. Abwesenheit"
   },
   "pbio": {
@@ -4791,6 +4884,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis Biographie"
   },
   "ber": {
@@ -4878,6 +4974,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Teilnahmebereitchaft"
   },
   "perge": {
@@ -4960,6 +5059,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungscode STP E"
   },
   "pnat0": {
@@ -5072,6 +5174,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Staatsangehoerigkeit 85-95"
   },
   "umzug": {
@@ -5112,6 +5217,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Umzug von Ost nach West"
   },
   "pzugm": {
@@ -5244,6 +5352,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat Zugang, Abgang"
   },
   "pzugj": {
@@ -5461,6 +5572,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Jahr Zugang, Abgang"
   },
   "padq": {
@@ -5542,6 +5656,9 @@
       "values": []
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Adressenermittlung, Informationsquelle"
   },
   "part": {
@@ -5629,6 +5746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Art des Personendatensatzes"
   },
   "pzweitv": {
@@ -5701,6 +5821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zweitwohnsitz im Vorjahr"
   },
   "wstatus": {
@@ -5793,6 +5916,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Weiterverfolgungsstatus"
   },
   "zuhau": {
@@ -5900,6 +6026,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Zugangswelle Haushalt"
   },
   "abhau": {
@@ -5997,6 +6126,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Abgangswelle Haushalt"
   },
   "sample1": {
@@ -6214,6 +6346,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen"
   },
   "ewstatu": {
@@ -6311,6 +6446,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Erwerbsstatus von Nicht-Teilnehmern"
   },
   "intdabei": {
@@ -6388,6 +6526,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Vorab - Personeninterviews erfasst"
   },
   "dj": {
@@ -6470,6 +6611,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Kognitiver Test - Lust auf DJ"
   },
   "stell1": {
@@ -6612,6 +6756,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[bis 2011] Stellung zum HV, Bezugsperson"
   },
   "e1": {
@@ -6709,6 +6856,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 1 (0-1 Jahre)"
   },
   "e2": {
@@ -6806,6 +6956,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 2 (1-2 Jahre)"
   },
   "e3": {
@@ -6903,6 +7056,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 3 (2-3 Jahre)"
   },
   "e4": {
@@ -7000,6 +7156,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 4 (5-6 Jahre)"
   },
   "e5": {
@@ -7097,6 +7256,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 5 (7-8 Jahre)"
   },
   "e6": {
@@ -7194,6 +7356,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 6 (9-10 Jahre)"
   },
   "panker": {
@@ -7266,6 +7431,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ankerperson"
   },
   "ic": {
@@ -7408,6 +7576,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
   "sv": {
@@ -7500,6 +7671,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage"
   },
   "hk": {
@@ -7572,6 +7746,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Greifkrafttest"
   },
   "kogtier": {
@@ -7644,6 +7821,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Teilnahme am Test Tiere nennen [2012]"
   },
   "kogzahl": {
@@ -7716,6 +7896,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Teilnahme am Test Zahlen-Zeichen [2012]"
   },
   "kogwort": {
@@ -7788,6 +7971,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Teilnahme am Test Worte identifizieren [2012]"
   },
   "berv": {
@@ -7875,6 +8061,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Teilnahmebereitschaft Vorjahr [2002]"
   },
   "pd": {
@@ -7952,6 +8141,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Stichprobenkennzeichen D1/D2 [1996/97]"
   },
   "pgruppe": {
@@ -8069,6 +8261,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Gruppierung Nationalitaet [1995]"
   },
   "pherkft": {
@@ -8641,6 +8836,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Herkunftsland [1994/5]"
   },
   "pnrneu": {
@@ -8681,6 +8879,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Neue Haushalts- Und Personennummer [1991]"
   },
   "pergv": {
@@ -8798,6 +8999,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Bearbeitungsergebnis im Vorj.[1985-1991]"
   },
   "pup": {
@@ -8925,6 +9129,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Letztes Updating Person [1985/86]"
   },
   "tagin": {
@@ -8965,6 +9172,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Tag der Befragung [1984]"
   },
   "monin": {
@@ -9005,6 +9215,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Monat der Befragung [1984]"
   },
   "intid": {
@@ -9045,6 +9258,9 @@
       ]
     },
     "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Interviewer ID [1984]"
   },
   "reclin_mltreat": {
@@ -9122,6 +9338,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin_mlgroup": {
@@ -9209,6 +9428,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Gruppen fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin_mlerg": {
@@ -9296,6 +9518,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
   "reclin": {
@@ -9368,6 +9593,9 @@
       ]
     },
     "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "org/gross",
+    "period": "nan",
     "label_de": "Record Linkage"
   }
 }
