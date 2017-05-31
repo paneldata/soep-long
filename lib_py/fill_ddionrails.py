@@ -61,6 +61,14 @@ def main():
     dor1.transformations()
     fix_pl()
     convert_r2ddi.Parser("soep-long", version="v32", r2ddi_path="temp/r2ddi").write_json()
+    try:
+        os.system("""
+            rm -r ddionrails/topics
+            cp -r ../soep-core/ddionrails/topics/ ddionrails/
+        """)
+        print("[INFO] Copy topics from soep-core")
+    except:
+        print("[ERROR] Couldn't copy topics from soep-core")
 
 if __name__ == "__main__":
     main()
