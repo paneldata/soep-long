@@ -43103,11 +43103,11 @@ c(""#### 2015\n* SOEPcore: {{/soep-core/data/ah/welle}}\n"", ""#### 2015\n* SOEP
 ""#### 2015\n* SOEPcore: {{/soep-core/data/wp/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/xh/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/xkind/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/xp/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/yh/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/ykind/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/yp/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/zh/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/zkind/welle}}\n"", 
 ""#### 2015\n* SOEPcore: {{/soep-core/data/zp/welle}}\n"", ""#### 2015\n* SOEPcore: {{/soep-core/data/zvp/welle}}\n"")
 c(""#### 2016\n* SOEPcore: {{/soep-core/data/bgh/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgh_refugees/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgp/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgp_mig/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgp_refugees/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgschool/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgschool2/syear}}\n"", 
-""#### 2016\n* SOEPcore: {{/soep-core/data/bgvp/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/abroad/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bajugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bbjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bcjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bdjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bejugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bfjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioage17/syear}}\n"", 
-""#### 2016\n* SOEPcore: {{/soep-core/data/bioagel/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioimmig/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioresid/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/biosoc/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/cogdj/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/cognit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/exit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/gripstr/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/hconsum/syear}}\n"", 
-""#### 2016\n* SOEPcore: {{/soep-core/data/health/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/hwealth/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/interviewer/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/kidlong/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/mihinc/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pbr_exit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pbr_hhch/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pflege/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pwealth/syear}}\n"", 
-""#### 2016\n* SOEPcore: {{/soep-core/data/qjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/rjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/sjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/timepref/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/tjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/trust/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/ujugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/vjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/wjugend/syear}}\n"", 
-""#### 2016\n* SOEPcore: {{/soep-core/data/xjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/yjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/zjugend/syear}}\n"")",1
+""#### 2016\n* SOEPcore: {{/soep-core/data/bgvp/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/camces/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/abroad/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bajugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bbjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bcjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bdjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bejugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bfjugend/syear}}\n"", 
+""#### 2016\n* SOEPcore: {{/soep-core/data/bioage17/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioagel/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioimmig/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bioresid/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/biosoc/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/cogdj/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/cognit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/exit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/gripstr/syear}}\n"", 
+""#### 2016\n* SOEPcore: {{/soep-core/data/hconsum/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/health/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/hwealth/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/interviewer/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/kidlong/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/mihinc/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pbr_exit/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pbr_hhch/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/pflege/syear}}\n"", 
+""#### 2016\n* SOEPcore: {{/soep-core/data/pwealth/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/qjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/rjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/sjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/timepref/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/tjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/trust/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/ujugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/vjugend/syear}}\n"", 
+""#### 2016\n* SOEPcore: {{/soep-core/data/wjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/xjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/yjugend/syear}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/zjugend/syear}}\n"")",1
 "soep-long","cid","hpfad","_cid","","",0.5
 "soep-long","hid","hpfad","_hid","","",0.5
 "soep-long","hsample","hpfad","hsample","","",0.5
@@ -82732,9 +82732,7 @@ c(""#### 2016\n* SOEPcore: {{/soep-core/data/bgh/intid}}\n"", ""#### 2016\n* SOE
 #### 2004
 * SOEPcore: {{/soep-core/data/up/up6808}}
 
-#### 2016
-* SOEPcore: {{/soep-core/data/bgp/bgpr189b02}}
-",0.33
+c(""#### 2016\n* SOEPcore: {{/soep-core/data/bgp/bgpr189b02}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgp_refugees/bgpr189b02}}\n"")",0.33
 "soep-long","plc0129","pl","pvek072","The variable is available for 16 years, ranging from 1990 to 2005. To harmonize this variable over time 12 replace or recode commands were necessary.","#### 1990
 * Var with original data within SOEPlong: pcc0026
  * Recode:   EUR 
@@ -95201,9 +95199,7 @@ c(""#### 2016\n* SOEPcore: {{/soep-core/data/bgh/intid}}\n"", ""#### 2016\n* SOE
 #### 2015
 * SOEPcore: {{/soep-core/data/bfp/bfp13001}}
 
-#### 2016
-* SOEPcore: {{/soep-core/data/bgp/bgpr316}}
-",0.15
+c(""#### 2016\n* SOEPcore: {{/soep-core/data/bgp/bgpr316}}\n"", ""#### 2016\n* SOEPcore: {{/soep-core/data/bgp_refugees/bgpr316}}\n"")",0.15
 "soep-long","ple0010","pl","ppgeb","This variable is available for all years. But to harmonize this variable over time 15 replace or recode commands were necessary.","#### 1984
 * Var with original data within SOEPlong: 
  * Recode:   REC (0 = -1) 
