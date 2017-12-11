@@ -12,12 +12,9 @@ config:
 
 * **Title:** SOEPlong
 * **Label:** Long format of the German Socio-Economic Panel Study (SOEP)
-* **Citation guideline:** see SOEP-Core
-* **Persistent identifier:** 10.5684/soep.v32.1
-* **Investigators/authors:** Jürgen Schupp; Peter Krause; Jan Goebel; Martin Kroh; Carsten
-  Schröder; Charlotte Bartels; Klaudia Erhardt; Alexandra Fedorets; Marco
-  Giesselmann; Markus Grabka; Simon Kühne; David Richter; Rainer
-  Siegers; Paul Schmelzer; Christian Schmitt; Daniel Schnitzlein; Knut Wenzig
+* **Citation guideline:** see [SOEP-Core](https://paneldata.org/soep-core)
+* **Persistent identifier:** 10.5684/soep.v33
+* **Investigators/authors:** Jürgen Schupp; Peter Krause; Jan Goebel; Martin Kroh; Carsten Schröder; Charlotte Bartels; Klaudia Erhardt; Andreas Franken; Alexandra Fedorets; Marco Giesselmann; Markus Grabka; Hannes Kröger; Maria Metzing; Jana Nebelin; Simon Kühne; David Richter; Rainer Siegers; Diana Schacht; Paul Schmelzer; Christian Schmitt; Daniel Schnitzlein; Knut Wenzig
 
 ## Study info
 
