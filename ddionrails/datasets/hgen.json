@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25,18 +26,19 @@
       ],
       "values": [
         "19",
-        "36030",
-        "274900",
-        "599500",
-        "516900",
-        "3500000",
-        "319388",
+        "37613",
+        "280941",
+        "676365.848005694",
+        "520667",
+        "3864898",
+        "337210",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -66,18 +69,19 @@
       ],
       "values": [
         "19",
-        "54290",
-        "270700",
-        "603500",
-        "519900",
-        "3503000",
-        "319388",
+        "57711",
+        "277576",
+        "679168.187669405",
+        "563480",
+        "3864898",
+        "337210",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -108,17 +113,18 @@
       "values": [
         "1984",
         "1997",
-        "2004",
-        "2003",
-        "2011",
-        "2015",
-        "319388",
+        "2005",
+        "2003.72778683906",
+        "2012",
+        "2016",
+        "337210",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Survey-Year, Erhebungsjahr"
   },
@@ -133,16 +139,16 @@
       "frequencies": [
         0,
         0,
+        3320,
         0,
         0,
         0,
-        0,
-        28,
-        137078,
-        173934,
-        7586,
+        29,
+        143421,
+        181756,
+        7878,
         102,
-        660
+        704
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -159,13 +165,13 @@
         "[5] Living In A Home"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -207,13 +213,14 @@
         "invalid"
       ],
       "values": [
-        "319360",
-        "28"
+        "333861",
+        "3349"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Eigentuemer, Mieter"
   },
@@ -228,7 +235,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -245,18 +253,19 @@
       "values": [
         "1900",
         "1979",
-        "1992",
-        "1989",
-        "2001",
-        "2015",
-        "2454",
-        "316934",
-        "2454"
+        "1993",
+        "1989.30675635958",
+        "2002",
+        "2016",
+        "3776",
+        "333434",
+        "3776"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Jahr des Einzugs"
   },
@@ -271,7 +280,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -289,17 +299,18 @@
         "0",
         "1919",
         "1949",
-        "1669",
+        "1671.75482326564",
         "1972",
-        "2015",
-        "9469",
-        "309919",
-        "9469"
+        "2016",
+        "14296",
+        "322914",
+        "14296"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Fruehestmoegliches Baujahr des Hauses"
   },
@@ -314,7 +325,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -332,17 +344,18 @@
         "1917",
         "1948",
         "1971",
-        "1967",
+        "1966.79007413739",
         "1984",
-        "2015",
-        "9469",
-        "309919",
-        "9469"
+        "2016",
+        "14296",
+        "322914",
+        "14296"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Spaetestmoegliches Baujahr des Hauses"
   },
@@ -357,7 +370,7 @@
       "frequencies": [
         0,
         0,
-        0,
+        17822,
         0,
         0,
         0,
@@ -381,13 +394,13 @@
         "[4] Dilapidated"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -427,12 +440,13 @@
       ],
       "values": [
         "318090",
-        "1298"
+        "19120"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Renovierungsbeduerftigkeit"
   },
@@ -447,14 +461,14 @@
       "frequencies": [
         0,
         0,
-        13374,
+        16694,
         0,
         0,
-        174504,
-        40236,
-        31332,
-        21916,
-        38020,
+        182662,
+        44410,
+        32458,
+        22351,
+        38629,
         6
       ],
       "labels": [
@@ -471,13 +485,13 @@
         "[4] Got Back From Public Property"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -516,13 +530,14 @@
         "invalid"
       ],
       "values": [
-        "91274",
-        "228114"
+        "93444",
+        "243766"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Art des Eigentumerwerbs"
   },
@@ -537,7 +552,7 @@
       "frequencies": [
         0,
         0,
-        39848,
+        57670,
         0,
         0,
         125873,
@@ -563,13 +578,13 @@
         "[5] Too Expensive"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -612,12 +627,13 @@
       ],
       "values": [
         "152024",
-        "167364"
+        "185186"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Beurteilung Miethoehe"
   },
@@ -632,16 +648,16 @@
       "frequencies": [
         0,
         0,
+        1197,
         0,
         0,
         0,
-        0,
-        1561,
-        7884,
-        48277,
-        226766,
-        31039,
-        3861
+        1583,
+        8583,
+        50871,
+        238135,
+        32735,
+        4106
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -658,13 +674,13 @@
         "[5] Much Too Large"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -706,13 +722,14 @@
         "invalid"
       ],
       "values": [
-        "317827",
-        "1561"
+        "334430",
+        "2780"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Beurteilung der Wohnungsgroesse"
   },
@@ -727,7 +744,7 @@
       "frequencies": [
         0,
         0,
-        32028,
+        49850,
         0,
         0,
         0,
@@ -747,13 +764,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -787,12 +804,13 @@
       ],
       "values": [
         "285789",
-        "33599"
+        "51421"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Kueche"
   },
@@ -807,7 +825,7 @@
       "frequencies": [
         0,
         0,
-        32028,
+        49850,
         0,
         0,
         0,
@@ -827,13 +845,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -867,12 +885,13 @@
       ],
       "values": [
         "285480",
-        "33908"
+        "51730"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Bad, Dusche"
   },
@@ -887,7 +906,7 @@
       "frequencies": [
         0,
         0,
-        110751,
+        128573,
         0,
         0,
         0,
@@ -907,13 +926,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -947,12 +966,13 @@
       ],
       "values": [
         "206581",
-        "112807"
+        "130629"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: WC in Wohnung"
   },
@@ -967,7 +987,7 @@
       "frequencies": [
         0,
         0,
-        15991,
+        33813,
         0,
         0,
         0,
@@ -987,13 +1007,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1027,12 +1047,13 @@
       ],
       "values": [
         "300326",
-        "19062"
+        "36884"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Zentral-, Etagenheizung"
   },
@@ -1047,13 +1068,13 @@
       "frequencies": [
         0,
         0,
+        1199,
         0,
         0,
         0,
-        0,
-        4979,
-        233636,
-        80773
+        4986,
+        246545,
+        84480
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1067,13 +1088,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1106,13 +1127,14 @@
         "invalid"
       ],
       "values": [
-        "314409",
-        "4979"
+        "331025",
+        "6185"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Balkon, Terrasse"
   },
@@ -1127,13 +1149,13 @@
       "frequencies": [
         0,
         0,
+        1205,
         0,
         0,
         0,
-        0,
-        2253,
-        298009,
-        19126
+        2260,
+        312987,
+        20758
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1147,13 +1169,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1186,13 +1208,14 @@
         "invalid"
       ],
       "values": [
-        "317135",
-        "2253"
+        "333745",
+        "3465"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Keller"
   },
@@ -1207,13 +1230,13 @@
       "frequencies": [
         0,
         0,
+        1199,
         0,
         0,
         0,
-        0,
-        5042,
-        185442,
-        128904
+        5053,
+        194589,
+        136369
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1227,13 +1250,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1266,13 +1289,14 @@
         "invalid"
       ],
       "values": [
-        "314346",
-        "5042"
+        "330958",
+        "6252"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Garten"
   },
@@ -1287,7 +1311,7 @@
       "frequencies": [
         0,
         0,
-        62891,
+        80713,
         0,
         0,
         4640,
@@ -1307,13 +1331,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1347,12 +1371,13 @@
       ],
       "values": [
         "250010",
-        "69378"
+        "87200"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Fl. Warmwasser, Boiler"
   },
@@ -1367,7 +1392,7 @@
       "frequencies": [
         0,
         0,
-        37658,
+        55480,
         0,
         0,
         4640,
@@ -1387,13 +1412,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1427,12 +1452,13 @@
       ],
       "values": [
         "267063",
-        "52325"
+        "70147"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Telefon oder Handy"
   },
@@ -1447,13 +1473,13 @@
       "frequencies": [
         0,
         0,
-        150155,
+        151363,
         0,
         0,
         0,
-        11597,
-        5741,
-        151895
+        11612,
+        6583,
+        167652
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1467,13 +1493,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1506,13 +1532,14 @@
         "invalid"
       ],
       "values": [
-        "157636",
-        "161752"
+        "174235",
+        "162975"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Alarmanlage"
   },
@@ -1527,13 +1554,13 @@
       "frequencies": [
         0,
         0,
-        185890,
+        189210,
         0,
         0,
         0,
-        698,
-        10710,
-        122090
+        714,
+        12152,
+        135134
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1547,13 +1574,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1586,13 +1613,14 @@
         "invalid"
       ],
       "values": [
-        "132800",
-        "186588"
+        "147286",
+        "189924"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Solaranlage"
   },
@@ -1607,13 +1635,13 @@
       "frequencies": [
         0,
         0,
-        185890,
+        189210,
         0,
         0,
         0,
-        779,
-        2158,
-        130561
+        795,
+        2466,
+        144739
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1627,13 +1655,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1666,13 +1694,14 @@
         "invalid"
       ],
       "values": [
-        "132719",
-        "186669"
+        "147205",
+        "190005"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Klimaanlage"
   },
@@ -1687,13 +1716,13 @@
       "frequencies": [
         0,
         0,
-        208637,
+        209837,
         0,
         0,
         0,
-        422,
-        9132,
-        101197
+        438,
+        10859,
+        116076
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1707,13 +1736,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1746,13 +1775,14 @@
         "invalid"
       ],
       "values": [
-        "110329",
-        "209059"
+        "126935",
+        "210275"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Aufzug, Lift"
   },
@@ -1767,13 +1797,13 @@
       "frequencies": [
         0,
         0,
-        208637,
+        211957,
         0,
         0,
         0,
-        506,
-        3517,
-        106728
+        524,
+        4056,
+        120673
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -1787,13 +1817,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -1826,13 +1856,14 @@
         "invalid"
       ],
       "values": [
-        "110245",
-        "209143"
+        "124729",
+        "212481"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Andere Alternative Energiequelle"
   },
@@ -1847,7 +1878,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1864,18 +1896,19 @@
       "values": [
         "6",
         "65",
-        "85",
-        "95.32",
+        "86",
+        "95.4652942823276",
         "120",
         "938",
-        "19",
-        "319369",
-        "19"
+        "1444",
+        "335766",
+        "1444"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Wohnflaeche in qm"
   },
@@ -1890,7 +1923,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1908,17 +1942,18 @@
         "0",
         "3",
         "3",
-        "3.834",
+        "3.83536060904581",
         "5",
         "82",
-        "5",
-        "319383",
-        "5"
+        "1209",
+        "336001",
+        "1209"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zahl der Wohnraeume ueber 6 qm"
   },
@@ -1933,7 +1968,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1949,19 +1985,20 @@
       ],
       "values": [
         "0",
-        "250",
-        "357",
-        "394.3",
-        "495",
+        "255",
+        "362",
+        "400.612643983109",
+        "500",
         "7318",
-        "146211",
-        "173177",
-        "146211"
+        "156286",
+        "180924",
+        "156286"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monatl. Bruttokaltmiete (EUR)"
   },
@@ -1976,7 +2013,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -1992,19 +2030,20 @@
       ],
       "values": [
         "0",
-        "48",
-        "66",
-        "75.86",
+        "50",
+        "67",
+        "76.6077199384884",
         "100",
         "930",
-        "152637",
-        "166751",
-        "152637"
+        "162934",
+        "174276",
+        "162934"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monatl. Heiz- und Warmwasserkosten (EUR)"
   },
@@ -2019,50 +2058,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
-    },
-    "statistics": {
-      "names": [
-        "Min.",
-        "1st Qu.",
-        "Median",
-        "Mean",
-        "3rd Qu.",
-        "Max.",
-        "NA's",
-        "valid",
-        "invalid"
-      ],
-      "values": [
-        "0",
-        "39",
-        "58",
-        "66.68",
-        "90",
-        "930",
-        "181685",
-        "137703",
-        "181685"
-      ]
-    },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "gen",
-    "period": "nan",
-    "label_de": "Monatl. Umlagen (EUR)"
-  },
-  "hgelectr": {
-    "study": "soep-long",
-    "name": "hgelectr",
-    "name_cs": "hgelectr",
-    "variable": "hgelectr",
-    "dataset": "hgen",
-    "label": "Costs of Electricity (gen)",
-    "categories": {
-      "frequencies": [],
-      "labels": [],
-      "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2079,18 +2076,64 @@
       "values": [
         "0",
         "40",
-        "56",
-        "63.51",
-        "80",
-        "950",
-        "267305",
-        "52083",
-        "267305"
+        "59",
+        "67.0696026462569",
+        "90",
+        "930",
+        "192704",
+        "144506",
+        "192704"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Monatl. Umlagen (EUR)"
+  },
+  "hgelectr": {
+    "study": "soep-long",
+    "name": "hgelectr",
+    "name_cs": "hgelectr",
+    "variable": "hgelectr",
+    "dataset": "hgen",
+    "label": "Costs of Electricity (gen)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "40",
+        "57",
+        "63.9769673704415",
+        "80",
+        "950",
+        "277295",
+        "59915",
+        "277295"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "h",
+    "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monatl. Stromkosten (EUR)"
   },
@@ -2105,7 +2148,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -2123,17 +2167,18 @@
         "0",
         "30",
         "60",
-        "68.6",
+        "68.6035751840168",
         "100",
         "550",
-        "318437",
+        "336259",
         "951",
-        "318437"
+        "336259"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monatl. Gaskosten (EUR)"
   },
@@ -2148,12 +2193,12 @@
       "frequencies": [
         0,
         0,
+        3321,
         0,
         0,
-        0,
-        310254,
-        108,
-        9026
+        324344,
+        112,
+        9433
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2166,13 +2211,13 @@
         "[1] Pays No Rent"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -2202,13 +2247,14 @@
         "invalid"
       ],
       "values": [
-        "9026",
-        "310362"
+        "9433",
+        "327777"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zahlt keine Miete"
   },
@@ -2223,14 +2269,14 @@
       "frequencies": [
         0,
         0,
-        287360,
+        290680,
         0,
         0,
-        13882,
-        15,
-        17341,
-        489,
-        301
+        20225,
+        89,
+        25019,
+        743,
+        454
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2245,13 +2291,13 @@
         "[3] Does Not Pay either Rent or Utilities"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -2287,13 +2333,14 @@
         "invalid"
       ],
       "values": [
-        "18131",
-        "301257"
+        "26216",
+        "310994"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Haushalt zahlt Miete und/oder Nebenkosten"
   },
@@ -2308,13 +2355,13 @@
       "frequencies": [
         0,
         0,
-        303351,
+        306671,
         0,
         0,
         15730,
-        0,
+        14032,
         24,
-        283
+        753
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2328,13 +2375,13 @@
         "[3] No Heating Costs"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2367,13 +2414,14 @@
         "invalid"
       ],
       "values": [
-        "307",
-        "319081"
+        "777",
+        "336433"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Grund fuer fehlende Heizkosten"
   },
@@ -2388,13 +2436,13 @@
       "frequencies": [
         0,
         0,
-        287360,
+        290680,
         0,
         0,
         28251,
-        0,
+        13063,
         35,
-        3742
+        5181
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2408,13 +2456,13 @@
         "[3] No Other Additional Utility Costs"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2447,13 +2495,14 @@
         "invalid"
       ],
       "values": [
-        "3777",
-        "315611"
+        "5216",
+        "331994"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Grund fuer fehlende Umlagekosten"
   },
@@ -2468,14 +2517,14 @@
       "frequencies": [
         0,
         0,
-        303351,
+        306671,
         0,
         0,
         15665,
-        0,
+        14337,
         9,
         282,
-        81
+        246
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2490,13 +2539,13 @@
         "[3] No Electricity Costs"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -2532,13 +2581,14 @@
         "invalid"
       ],
       "values": [
-        "372",
-        "319016"
+        "537",
+        "336673"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Grund fuer fehlende Stromkosten"
   },
@@ -2553,7 +2603,7 @@
       "frequencies": [
         0,
         0,
-        303351,
+        321173,
         0,
         0,
         8175,
@@ -2575,13 +2625,13 @@
         "[3] No Gas Costs"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -2618,12 +2668,13 @@
       ],
       "values": [
         "7862",
-        "311526"
+        "329348"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Grund fuer fehlende Gaskosten"
   },
@@ -2643,8 +2694,8 @@
         0,
         0,
         0,
-        318230,
-        1158
+        334623,
+        2587
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2658,13 +2709,13 @@
         "[1] Imputed"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2697,13 +2748,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Wohnflaeche in qm"
   },
@@ -2723,8 +2775,8 @@
         0,
         0,
         0,
-        317037,
-        2351
+        333654,
+        3556
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2738,13 +2790,13 @@
         "[1] Imputed"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -2777,13 +2829,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Anzahl der Wohnraeume ueber 6 qm"
   },
@@ -2803,10 +2856,10 @@
         0,
         0,
         0,
-        253092,
-        50172,
-        13282,
-        2842
+        268524,
+        52275,
+        13486,
+        2925
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2822,13 +2875,13 @@
         "[3] Imputed Costs Of Heating And Warm Water"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2867,13 +2920,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Bruttokaltmiete"
   },
@@ -2893,24 +2947,24 @@
         0,
         0,
         0,
-        243978,
-        25139,
-        32599,
-        405,
-        2919,
-        1179,
-        0,
-        0,
-        8980,
-        507,
-        220,
-        133,
+        258864,
+        25655,
+        34090,
+        460,
+        2968,
+        1303,
+        36,
+        10,
+        9478,
+        548,
+        213,
+        208,
         1,
-        55,
+        50,
         217,
         0,
         0,
-        3056
+        3109
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2940,13 +2994,13 @@
         "[17] Rent Imp. & Imp. Heating Costs /Levies \u00e2\u0080\u0093 Filter Question"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3027,13 +3081,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Detaillierte Imputation Flag, Bruttokaltmiete"
   },
@@ -3053,9 +3108,9 @@
         0,
         0,
         0,
-        269320,
-        19684,
-        19141
+        286234,
+        20389,
+        19344
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3070,13 +3125,13 @@
         "[2] Electricity Costs from Previous or Subsequent Years"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -3112,13 +3167,14 @@
         "invalid"
       ],
       "values": [
-        "308145",
+        "325967",
         "11243"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Heiz- und Warmwasserkosten"
   },
@@ -3138,9 +3194,9 @@
         0,
         0,
         0,
-        177110,
-        76945,
-        13519
+        192223,
+        78738,
+        14435
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3155,13 +3211,13 @@
         "[2] Electricity Costs from Previous or Subsequent Years"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -3197,13 +3253,14 @@
         "invalid"
       ],
       "values": [
-        "267574",
+        "285396",
         "51814"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Umlagen"
   },
@@ -3223,9 +3280,9 @@
         0,
         0,
         0,
-        93959,
-        2261,
-        2642
+        111458,
+        2392,
+        2834
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3240,13 +3297,13 @@
         "[2] Electricity Costs from Previous or Subsequent Years"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -3282,13 +3339,14 @@
         "invalid"
       ],
       "values": [
-        "98862",
+        "116684",
         "220526"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, Stromkosten"
   },
@@ -3303,7 +3361,7 @@
       "frequencies": [
         0,
         0,
-        219182,
+        237004,
         0,
         0,
         74396,
@@ -3323,13 +3381,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -3363,12 +3421,13 @@
       ],
       "values": [
         "14041",
-        "305347"
+        "323169"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Eigentumsfoerderung mit oeff. Darlehen"
   },
@@ -3383,7 +3442,7 @@
       "frequencies": [
         0,
         0,
-        116197,
+        134019,
         0,
         0,
         108728,
@@ -3403,13 +3462,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -3443,12 +3502,13 @@
       ],
       "values": [
         "93238",
-        "226150"
+        "243972"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Foerderung mit oeff. Darlehen letztes Jahr"
   },
@@ -3463,14 +3523,14 @@
       "frequencies": [
         0,
         0,
+        3320,
         0,
         0,
-        0,
-        137836,
-        2907,
-        16894,
-        4882,
-        156869
+        144179,
+        2977,
+        17428,
+        4895,
+        164411
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3485,13 +3545,13 @@
         "[3] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -3527,13 +3587,14 @@
         "invalid"
       ],
       "values": [
-        "178645",
-        "140743"
+        "186734",
+        "150476"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Sozialwohnung"
   },
@@ -3548,13 +3609,13 @@
       "frequencies": [
         0,
         0,
-        11243,
+        14563,
         0,
         0,
-        133208,
-        18541,
-        14155,
-        142241
+        139551,
+        18555,
+        14773,
+        149768
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3568,13 +3629,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -3607,13 +3668,14 @@
         "invalid"
       ],
       "values": [
-        "156396",
-        "162992"
+        "164541",
+        "172669"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Verbilligt ueberlassene Wohnung"
   },
@@ -3633,14 +3695,14 @@
         0,
         0,
         0,
-        75402,
-        91652,
-        25239,
-        70996,
-        30676,
-        16828,
-        4035,
-        4560,
+        79949,
+        95878,
+        27083,
+        75515,
+        31706,
+        17857,
+        4193,
+        5029,
         0
       ],
       "labels": [
@@ -3662,13 +3724,13 @@
         "[9] No Answer"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3722,13 +3784,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Haushalts-Typologie (1-Steller)"
   },
@@ -3748,31 +3811,31 @@
         0,
         0,
         0,
-        9289,
-        13244,
-        8548,
-        8106,
-        9897,
-        26318,
-        91652,
-        8273,
-        4845,
-        7488,
-        1786,
-        1715,
-        1132,
-        27455,
-        30576,
-        12965,
-        20392,
-        8742,
-        1542,
-        8674,
-        8154,
-        3640,
+        10442,
+        13967,
+        9112,
+        8481,
+        10473,
+        27474,
+        95878,
+        8824,
+        5225,
+        8010,
+        1904,
+        1838,
+        1282,
+        28736,
+        32386,
+        14393,
+        21056,
+        9018,
+        1632,
+        8999,
+        8858,
+        3781,
         27,
-        368,
-        4560,
+        385,
+        5029,
         0
       ],
       "labels": [
@@ -3811,13 +3874,13 @@
         "[82] Other Combination With K. LE 16"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3922,13 +3985,14 @@
         "invalid"
       ],
       "values": [
-        "319388",
+        "337210",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Haushalts-Typologie (2-Steller)"
   },
@@ -3943,7 +4007,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3960,18 +4025,19 @@
       "values": [
         "0",
         "1278",
-        "1950",
-        "2296",
-        "2850",
+        "1994",
+        "2311.7730194995",
+        "2900",
         "2e+05",
-        "16407",
-        "302981",
-        "16407"
+        "17253",
+        "319957",
+        "17253"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monatl. Haushaltsnettoeinkommen (EUR)"
   },
@@ -3986,7 +4052,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4002,19 +4069,20 @@
       ],
       "values": [
         "0",
-        "1426",
-        "2090",
-        "2471",
+        "1400",
+        "2096",
+        "2478.24687415208",
         "3000",
-        "1e+05",
+        "99999",
         "64484",
-        "254904",
+        "272726",
         "64484"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "1.Imput.monatl.HH-Nettoeinkommen (EUR) [1/5]"
   },
@@ -4029,7 +4097,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4045,19 +4114,20 @@
       ],
       "values": [
         "0",
-        "1430",
+        "1400",
         "2096",
-        "2472",
+        "2479.27136393303",
         "3000",
-        "1e+05",
+        "99999",
         "64484",
-        "254904",
+        "272726",
         "64484"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "2.Imput.monatl.HH-Nettoeinkommen (EUR) [2/5]"
   },
@@ -4072,7 +4142,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4088,19 +4159,20 @@
       ],
       "values": [
         "0",
-        "1430",
+        "1401",
         "2096",
-        "2472",
+        "2478.78580333375",
         "3000",
-        "1e+05",
+        "99999",
         "64484",
-        "254904",
+        "272726",
         "64484"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "3.Imput.monatl.HH-Nettoeinkommen (EUR) [3/5]"
   },
@@ -4115,7 +4187,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4131,19 +4204,20 @@
       ],
       "values": [
         "0",
-        "1430",
-        "2096",
-        "2472",
+        "1406",
+        "2097",
+        "2479.3374852416",
         "3000",
-        "1e+05",
+        "99999",
         "64484",
-        "254904",
+        "272726",
         "64484"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "4.Imput.monatl.HH-Nettoeinkommen (EUR) [4/5]"
   },
@@ -4158,7 +4232,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4174,19 +4249,20 @@
       ],
       "values": [
         "0",
-        "1429",
+        "1400",
         "2096",
-        "2472",
+        "2478.94454140786",
         "3000",
-        "1e+05",
+        "99999",
         "64484",
-        "254904",
+        "272726",
         "64484"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "5.Imput.monatl.HH-Nettoeinkommen (EUR) [5/5]"
   },
@@ -4206,8 +4282,8 @@
         0,
         3,
         3,
-        305766,
-        13616
+        322742,
+        14462
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4221,13 +4297,13 @@
         "[1] Imputed"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -4260,13 +4336,14 @@
         "invalid"
       ],
       "values": [
-        "319382",
+        "337204",
         "6"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Imputation Flag, monatl.HH-Nettoeinkommen"
   },
@@ -4286,22 +4363,22 @@
         0,
         5921,
         2,
-        39153,
-        45587,
-        13358,
-        12136,
-        2652,
-        5291,
-        22761,
-        7312,
-        27629,
-        65099,
-        15696,
-        2501,
-        20418,
-        12118,
-        9707,
-        12047
+        41264,
+        48462,
+        14165,
+        12894,
+        2786,
+        5629,
+        23988,
+        7706,
+        29262,
+        68651,
+        16541,
+        2733,
+        21439,
+        12707,
+        10380,
+        12680
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4329,13 +4406,13 @@
         "[16] Thuringia"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4410,13 +4487,14 @@
         "invalid"
       ],
       "values": [
-        "313465",
+        "331287",
         "5923"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "NUTS-Systematik-1 (Bundesland)"
   },
@@ -4436,18 +4514,18 @@
         1,
         0,
         37,
-        22267,
-        80758,
-        84974,
-        47852,
-        26968,
-        22289,
-        14525,
-        8325,
-        6410,
-        3777,
-        873,
-        332
+        22392,
+        85328,
+        88003,
+        50113,
+        28685,
+        23038,
+        15227,
+        9894,
+        7572,
+        4334,
+        1704,
+        882
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4471,13 +4549,13 @@
         "[12] December"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4540,13 +4618,14 @@
         "invalid"
       ],
       "values": [
-        "319350",
+        "337172",
         "38"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monat des Interviews"
   },
@@ -4566,20 +4645,20 @@
         0,
         0,
         11,
-        4181,
-        99122,
-        53461,
+        4204,
+        99955,
+        55082,
         0,
-        5794,
-        6730,
-        9,
+        5878,
+        6862,
+        10,
         1334,
         9175,
-        100123,
-        2114,
+        112993,
+        2881,
         0,
-        37079,
-        255
+        38569,
+        256
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4605,13 +4684,13 @@
         "[220] Phone Interview"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4680,13 +4759,14 @@
         "invalid"
       ],
       "values": [
-        "319377",
+        "337199",
         "11"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Interviewmethode"
   },
@@ -4701,13 +4781,13 @@
       "frequencies": [
         0,
         0,
-        208637,
+        209840,
         0,
         0,
         0,
-        1736,
-        20918,
-        88097
+        1837,
+        23773,
+        101760
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4721,13 +4801,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -4760,13 +4840,14 @@
         "invalid"
       ],
       "values": [
-        "109015",
-        "210373"
+        "125533",
+        "211677"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Fussbodenheizung"
   },
@@ -4781,13 +4862,13 @@
       "frequencies": [
         0,
         0,
-        303397,
+        306717,
         0,
         0,
         0,
-        439,
-        8613,
-        6939
+        558,
+        17295,
+        12640
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4801,13 +4882,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -4840,13 +4921,14 @@
         "invalid"
       ],
       "values": [
-        "15552",
-        "303836"
+        "29935",
+        "307275"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Waermedaemmung"
   },
@@ -4861,13 +4943,13 @@
       "frequencies": [
         0,
         0,
-        303397,
+        306717,
         0,
         0,
         0,
-        85,
-        14287,
-        1619
+        109,
+        27699,
+        2685
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4881,13 +4963,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -4920,13 +5002,14 @@
         "invalid"
       ],
       "values": [
-        "15906",
-        "303482"
+        "30384",
+        "306826"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Mindestens Doppelverglasung"
   },
@@ -4941,13 +5024,13 @@
       "frequencies": [
         0,
         0,
-        269267,
+        270493,
         0,
         0,
         0,
-        192,
-        7528,
-        42401
+        209,
+        9841,
+        56667
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -4961,13 +5044,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -5000,13 +5083,14 @@
         "invalid"
       ],
       "values": [
-        "49929",
-        "269459"
+        "66508",
+        "270702"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Barrierefreie Wohnaust."
   },
@@ -5021,13 +5105,13 @@
       "frequencies": [
         0,
         0,
-        303397,
+        304608,
         0,
         0,
         0,
-        73,
-        10882,
-        5036
+        92,
+        21365,
+        11145
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -5041,13 +5125,13 @@
         "[2] No"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -5080,13 +5164,14 @@
         "invalid"
       ],
       "values": [
-        "15918",
-        "303470"
+        "32510",
+        "304700"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "gen",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausstattung: Garage/Stellplatz"
   }

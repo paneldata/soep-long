@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25,18 +26,19 @@
       ],
       "values": [
         "19",
-        "260900",
-        "806700",
-        "1496000",
-        "3124000",
-        "3500000",
-        "54594",
+        "268188",
+        "865798",
+        "1627649.35811665",
+        "3263400",
+        "3864898",
+        "58534",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -66,18 +69,19 @@
       ],
       "values": [
         "19",
-        "210800",
-        "803300",
-        "1491000",
-        "3132000",
-        "3503000",
-        "54594",
+        "250744.75",
+        "859261",
+        "1617281.48845116",
+        "3302937.25",
+        "3864898",
+        "58534",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -97,22 +101,25 @@
         0,
         0,
         0,
-        8267,
-        2642,
-        4070,
-        886,
-        1389,
-        7831,
-        1701,
-        1746,
+        8309,
+        2648,
+        4101,
+        891,
+        1395,
+        7897,
+        1736,
+        1760,
         1756,
-        3444,
-        1658,
-        2250,
-        2964,
-        1046,
-        2945,
-        9999
+        3493,
+        1692,
+        2273,
+        3079,
+        1095,
+        3052,
+        10021,
+        1698,
+        1638,
+        0
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -137,16 +144,22 @@
         "[13] L2 2010 Family Type (Low-Income, Single-Parent, Large Families)",
         "[14] L3 2011 Family Type (Single-Parent, Large Families)",
         "[15] M1 2013 Migration (1995-2011)",
-        "[16] Engeneering"
+        "[16] M2 2015 Migration (2009-2013)",
+        "[17] M3 2016 Refugee (2013-2015)",
+        "[18] M4 2016 Refugee/family (2013-2015)",
+        "[19] M5 2017 Refugee (2013-2016)"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -187,7 +200,10 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17",
+        "18",
+        "19"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -212,7 +228,10 @@
         "[13] L2 2010 Familientypen(NiedrigEinkommen,AlleinErziehend,MehrKindFamilien)",
         "[14] L3 2011 Familientypen(AlleinErziehend,MehrKindFamilien)",
         "[15] M1 2013 Migration (1995-2010)",
-        "[16] M2 2015 Migration (2009-2013)"
+        "[16] M2 2015 Migration (2009-2013)",
+        "[17] M3 2016 Flucht (2013-2015)",
+        "[18] M4 2016 Flucht/Familie (2013-2015)",
+        "[19] M5 2017 Flucht (2013-2016)"
       ]
     },
     "statistics": {
@@ -221,13 +240,14 @@
         "invalid"
       ],
       "values": [
-        "54594",
+        "58534",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Stichprobenart"
   }

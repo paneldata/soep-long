@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25,18 +26,19 @@
       ],
       "values": [
         "27",
-        "36000",
-        "200600",
-        "457600",
-        "505100",
-        "3342000",
-        "9988",
+        "37597.5",
+        "217721.5",
+        "531580.103035445",
+        "509949",
+        "3483770",
+        "10608",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -66,18 +69,19 @@
       ],
       "values": [
         "204",
-        "445100",
-        "1274000",
-        "4601000",
-        "5043000",
-        "35020000",
-        "9988",
+        "459502.75",
+        "2088401.5",
+        "5331255.48397436",
+        "5097476.75",
+        "35020502",
+        "10608",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Unveraenderliche Personennummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -107,18 +112,19 @@
       ],
       "values": [
         "1985",
-        "1994",
+        "1995",
         "2004",
-        "2002",
-        "2010",
-        "2015",
-        "9988",
+        "2002.82607466063",
+        "2011",
+        "2016",
+        "10608",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Erhebungsjahr"
   },
@@ -133,7 +139,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -148,18 +155,19 @@
       ],
       "values": [
         "27",
-        "46260",
-        "126900",
-        "461100",
-        "503700",
-        "3502000",
-        "9988",
+        "47104",
+        "205995",
+        "533970.105674962",
+        "509698.75",
+        "3502405",
+        "10608",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -169,7 +177,7 @@
     "name_cs": "sample1",
     "variable": "sample1",
     "dataset": "pbr_exit",
-    "label": "Survey ID",
+    "label": "Subsample Identifier TNS-Infratest",
     "categories": {
       "frequencies": [
         0,
@@ -179,36 +187,38 @@
         0,
         0,
         0,
-        3105,
-        547,
-        291,
-        305,
-        435,
-        295,
-        1095,
-        108,
-        217,
+        3169,
+        548,
+        294,
+        312,
+        441,
+        296,
+        1139,
+        119,
+        224,
         152,
-        129,
-        1620,
-        81,
+        132,
+        1710,
+        83,
         0,
-        254,
-        268,
+        270,
+        294,
         43,
-        284,
-        91,
+        348,
+        124,
         0,
         0,
-        176,
+        263,
+        60,
         0,
-        114,
-        86,
-        125,
-        37,
-        64,
-        33,
-        33
+        0,
+        132,
+        98,
+        157,
+        47,
+        68,
+        47,
+        38
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -220,43 +230,47 @@
         "[-1] No Answer",
         "[1] A German HH Head, West",
         "[2] B1 Turkish HH Head",
-        "[3] B2 Yugoslavian HH Head",
+        "[3] B2 Yugoslav HH Head",
         "[4] B3 Greek HH Head",
         "[5] B4 Italian HH Head",
         "[6] B5 Spanish HH Head",
         "[7] C German HH Head, East",
-        "[8] D1 Immigrant W. Germany since 1984",
-        "[9] D2 Immigrant W. Germany since 1984",
-        "[10] E1 Refreshment 1998, PAPI",
-        "[11] E2 Refreshment 1998, CAPI",
-        "[12] F1 ISOEP, Innovation",
-        "[13] F2 ISOEP, Addtnl Foreigner Enumeration",
-        "[14] G1 High-Income (Pre-Test)",
-        "[15] G1 High-Income",
+        "[8] D1 Immigrant W. Germany",
+        "[9] D2 Immigrant W. Germany",
+        "[10] E1 Refrehment (PAPI)",
+        "[11] E2 Refrehment (CAPI)",
+        "[12] F1 Refreshment (Innovation)",
+        "[13] F2 Refreshment, Additional Foreigner Addresses",
+        "[14] G1 High Income (PreTest)",
+        "[15] G2 High Income",
         "[16] H Refreshment 2006",
-        "[19] I Incentivation 2009",
-        "[20] J Increase 2011",
-        "[21] K Increase 2012",
-        "[22] I2 Refreshment IS, 2012",
-        "[23] Special Survey (Laboratory Sample), 2012",
-        "[24] M1 Migration (1995-2011), 2013",
-        "[29] M2 Migration Increase 2015",
-        "[60] L2/3 FiD Screening, Low Income, 2010/11",
-        "[61] L2/3 FiD Screening, Single Parent, 2010/11",
-        "[62] L2/3 FiD Screening, Families with Several Children, 2010/11",
-        "[63] L1 FiD Birth Cohort 2007, 2010/11",
-        "[64] L1 FiD Birth Cohort 2008, 2010/11",
-        "[65] L1 FiD Birth Cohort 2009, 2010/11",
-        "[66] L1 FiD Birth Cohort 2010, 2010/11"
+        "[19] I Refreshment, Incentivation 2009",
+        "[20] J Refreshment 2011",
+        "[21] K Refreshment 2012",
+        "[22] I2 Refreshment IS 2012",
+        "[23] Special Survey (Laboratory Sample) 2012",
+        "[24] M1 2013 Migration (1995-2011)",
+        "[29] M2 2015 Migration (2009-2013)",
+        "[30] M3 2016 Refugee (2013-2015)",
+        "[31] M4 2016 Refugee/Families (2013-2015)",
+        "[60] L2/3 FiD Screening, Low Income",
+        "[61] L2/3 FiD Screening, Single Parent",
+        "[62] L2/3 FiD Screening, Families with Several Children",
+        "[63] L1 FiD Birth Cohort 2007",
+        "[64] L1 FiD Birth Cohort 2008",
+        "[65] L1 FiD Birth Cohort 2009",
+        "[66] L1 FiD Birth Cohort 2010"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -319,6 +333,8 @@
         "23",
         "24",
         "29",
+        "30",
+        "31",
         "60",
         "61",
         "62",
@@ -342,8 +358,8 @@
         "[5] B4 Italienischer HV",
         "[6] B5 Spanischer HV",
         "[7] C Deutscher HV (Ost)",
-        "[8] D1 Zuwanderung nach Westd.",
-        "[9] D2 Zuwanderung nach Westd.",
+        "[8] D1 Zuwanderung nach Westdeutschland",
+        "[9] D2 Zuwanderung nach Westdeutschland",
         "[10] E1 (PAPI)",
         "[11] E2 (CAPI)",
         "[12] F1 ISOEP (Innovation)",
@@ -355,9 +371,11 @@
         "[20] J Aufstockung 2011",
         "[21] K Aufstockung 2012",
         "[22] I2 Aufstockung IS 2012",
-        "[23]    Sondererhebung 2012 (Laborstichprobe)",
-        "[24] M1    Migration 2013",
-        "[29] M2 Migration Aufstockung 2015",
+        "[23] Sondererhebung 2012 (Laborstichprobe)",
+        "[24] M1 2013 Migration (1995-2010)",
+        "[29] M2 2015 Migration (2009-2013)",
+        "[30] M3 2016 Flucht (2013-2015)",
+        "[31] M4 2016 Flucht/Familien (2013-2015)",
         "[60] L2/3 FiD Screening 2010/11 Niedrigeinkommen",
         "[61] L2/3 FiD Screening 2010/11 Alleinerziehende",
         "[62] L2/3 FiD Screening 2010/11 Mehrkindfamilien",
@@ -373,15 +391,16 @@
         "invalid"
       ],
       "values": [
-        "9988",
+        "10608",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
-    "label_de": "Survey ID"
+    "label_de": "Stichprobenkennzeichen"
   },
   "ypnrakt": {
     "study": "soep-long",
@@ -394,7 +413,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -411,16 +431,17 @@
         "1",
         "1",
         "2",
-        "2.333",
+        "2.34257164404223",
         "3",
         "15",
-        "9988",
+        "10608",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Laufende Nr. der Person im HH"
   },
@@ -435,7 +456,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -451,19 +473,20 @@
       ],
       "values": [
         "1882",
-        "1929",
-        "1951",
+        "1930",
         "1953",
-        "1978",
+        "1953.66008448767",
+        "1979",
         "2014",
-        "404",
-        "9584",
-        "404"
+        "429",
+        "10179",
+        "429"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Geburtsjahr"
   },
@@ -483,9 +506,9 @@
         0,
         0,
         1,
-        5415,
-        4572,
-        0
+        5754,
+        4852,
+        1
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -500,13 +523,13 @@
         "[9] No Answer"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -542,13 +565,14 @@
         "invalid"
       ],
       "values": [
-        "9987",
+        "10607",
         "1"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Geschlecht"
   },
@@ -568,28 +592,28 @@
         0,
         0,
         0,
-        2213,
-        2935,
+        2346,
+        3094,
         7,
-        700,
+        752,
         1904,
-        582,
-        145,
+        757,
+        165,
         0,
-        65,
-        96,
+        72,
+        102,
         0,
-        41,
+        44,
         452,
-        110,
-        3,
+        143,
+        5,
         0,
         0,
-        192,
-        4,
+        199,
+        5,
         94,
-        27,
-        0,
+        38,
+        1,
         1,
         0,
         0,
@@ -597,11 +621,11 @@
         2,
         78,
         2,
+        4,
         3,
-        2,
         3,
         277,
-        47,
+        55,
         0
       ],
       "labels": [
@@ -649,13 +673,13 @@
         "[99] Unknown"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -787,13 +811,14 @@
         "invalid"
       ],
       "values": [
-        "9988",
+        "10608",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Stellung zum Haushaltsvorstand,Bezugsperson"
   },
@@ -811,7 +836,7 @@
         0,
         0,
         0,
-        1960,
+        2580,
         0,
         1872,
         2404,
@@ -852,13 +877,13 @@
         "[13] Same Sex Spouse"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -928,12 +953,13 @@
       ],
       "values": [
         "8028",
-        "1960"
+        "2580"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[bis 2011]Stellung zum Haushaltsvorstand,Bezugsperson"
   },
@@ -952,91 +978,91 @@
         0,
         0,
         0,
-        34,
-        7595,
-        589,
+        44,
+        8072,
+        597,
         177,
-        303,
-        441,
-        285,
+        310,
+        455,
+        299,
         64,
-        21,
-        23,
-        2,
-        7,
-        7,
-        2,
-        2,
-        5,
-        26,
-        5,
-        0,
-        9,
         27,
+        25,
+        2,
+        8,
+        12,
+        3,
+        2,
+        5,
+        29,
         6,
         0,
-        1,
-        3,
-        0,
-        14,
-        5,
-        1,
+        17,
+        46,
         6,
-        11,
         0,
-        1,
-        0,
-        0,
-        0,
-        3,
-        0,
-        1,
-        3,
-        1,
-        0,
-        1,
-        0,
-        0,
-        0,
-        6,
-        5,
-        1,
-        2,
-        1,
-        0,
-        2,
-        3,
-        0,
-        0,
-        0,
-        2,
-        7,
-        9,
-        0,
-        0,
-        2,
-        3,
-        0,
-        3,
-        5,
-        0,
-        0,
-        3,
-        1,
-        0,
-        0,
-        14,
-        2,
         1,
         4,
         0,
+        17,
+        9,
+        1,
+        7,
+        15,
         0,
         1,
+        0,
+        0,
+        0,
+        3,
+        0,
+        1,
+        3,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        7,
+        5,
+        1,
+        2,
+        1,
+        0,
+        2,
+        3,
+        1,
+        0,
+        0,
+        2,
+        7,
+        9,
+        0,
+        0,
+        2,
+        3,
+        0,
+        3,
+        6,
+        0,
+        0,
+        3,
+        1,
+        0,
+        1,
+        14,
+        2,
+        1,
+        10,
+        0,
+        0,
+        5,
         0,
         7,
         0,
-        0,
         1,
+        2,
         0,
         0,
         3,
@@ -1048,7 +1074,7 @@
         0,
         1,
         0,
-        2,
+        4,
         0,
         0,
         2,
@@ -1068,57 +1094,57 @@
         0,
         2,
         0,
-        14,
-        45,
+        15,
+        47,
         88,
         7,
         7,
-        2,
+        4,
         0,
-        2,
+        3,
         0,
         0,
         0,
         0,
         5,
         0,
-        2,
+        3,
         0,
         0,
         3,
         0,
         0,
         0,
+        3,
+        19,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        0,
         2,
-        18,
-        0,
-        0,
-        0,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        6,
-        1,
-        0,
-        1,
         0,
         0,
         0,
@@ -1149,7 +1175,7 @@
         "[4] Greece",
         "[5] Italy",
         "[6] Spain",
-        "[7] Ex-GDR (only country of origin)",
+        "[7] Ex-GDR (only as country of origin)",
         "[10] Austria",
         "[11] France",
         "[12] Benelux",
@@ -1258,7 +1284,7 @@
         "[115] Trinidad-Tobago",
         "[116] Luxembourg",
         "[117] Belgium",
-        "[118] Netherlands",
+        "[118] The Netherlands",
         "[119] Croatia",
         "[120] Bosnia-Herzegovina",
         "[121] Macedonia",
@@ -1326,13 +1352,13 @@
         "[333] Other Unspecified Foreign Country"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -1902,13 +1928,14 @@
         "invalid"
       ],
       "values": [
-        "9954",
-        "34"
+        "10564",
+        "44"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Fragebogenversion, Nationalitaet"
   },
@@ -1928,8 +1955,8 @@
         0,
         0,
         0,
-        8270,
-        1715,
+        8794,
+        1811,
         0,
         3
       ],
@@ -1947,13 +1974,13 @@
         "[4] New Non-Core Sample Member"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -1992,13 +2019,14 @@
         "invalid"
       ],
       "values": [
-        "9988",
+        "10608",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Stichprobenstatus"
   },
@@ -2016,15 +2044,15 @@
         0,
         0,
         0,
-        129,
+        130,
         0,
-        6374,
-        252,
-        67,
+        6685,
+        267,
+        69,
         2,
-        1224,
+        1316,
         0,
-        1940,
+        2139,
         0
       ],
       "labels": [
@@ -2045,13 +2073,13 @@
         "[8] Converted From Category 7"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2102,13 +2130,14 @@
         "invalid"
       ],
       "values": [
-        "9859",
-        "129"
+        "10478",
+        "130"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Befragungsstatus"
   },
@@ -2135,9 +2164,9 @@
         0,
         0,
         0,
-        4340,
-        5496,
-        130,
+        4540,
+        5915,
+        131,
         0,
         0,
         0,
@@ -2222,16 +2251,16 @@
         "[47] Has Died",
         "[48] Has Moved",
         "[88] Has Moved (double in ol HH)",
-        "[99] No Answer When Added"
+        "[99] No Answer"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2387,13 +2416,14 @@
         "invalid"
       ],
       "values": [
-        "9975",
+        "10595",
         "13"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugehoerigkeit der Person zum HH"
   },
@@ -2406,113 +2436,113 @@
     "label": "Month Entered,Left Panel",
     "categories": {
       "frequencies": [
-        115,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8721,
         632,
+        115,
+        87,
+        97,
+        97,
+        79,
+        77,
+        119,
+        153,
+        144,
         98,
         90,
         99,
-        87,
-        8101,
-        97,
-        0,
-        97,
-        0,
-        79,
-        0,
-        77,
-        0,
-        119,
-        153,
-        0,
-        144,
         0
       ],
       "labels": [
-        "1",
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
         "[-1] No Answer",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
         "10",
         "11",
         "12",
-        "2",
-        "[-2] Does not apply",
-        "3",
-        "[-3] Answer improbable",
-        "4",
-        "[-4] Inadmissible multiple response",
-        "5",
-        "[-5] Not included in this version of the questionnaire",
-        "6",
-        "[-6] Version of questionnaire with modified filtering",
-        "7",
-        "8",
-        "[-8] Question this year not part of Survey program",
-        "9",
         "[99] No Answer"
       ],
       "missings": [
         false,
-        true,
         false,
         false,
         false,
         false,
-        true,
-        false,
-        true,
-        false,
-        true,
-        false,
-        true,
-        false,
-        true,
         false,
         false,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
       "values": [
-        "1",
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
         "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
         "10",
         "11",
         "12",
-        "2",
-        "-2",
-        "3",
-        "-3",
-        "4",
-        "-4",
-        "5",
-        "-5",
-        "6",
-        "-6",
-        "7",
-        "8",
-        "-8",
-        "9",
         "99"
       ],
       "labels_de": [
-        "",
-        "[-1] keine Angabe",
-        "",
-        "",
-        "",
-        "",
-        "[-2] trifft nicht zu",
-        "",
-        "[-3] nicht valide",
-        "",
-        "[-4] Unzulaessige Mehrfachantwort",
-        "",
-        "[-5] In Fragebogenversion nicht enthalten",
-        "",
-        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
-        "",
-        "",
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
-        "",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
         "[99] Keine Angabe"
       ]
     },
@@ -2523,12 +2553,13 @@
       ],
       "values": [
         "1255",
-        "8733"
+        "9353"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugehoerigkeit der Person seit Monat"
   },
@@ -2561,13 +2592,13 @@
         "[99] No Answer"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -2598,6 +2629,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugehoerigkeit der Person seit Jahr"
   },
@@ -2615,17 +2647,17 @@
         0,
         0,
         0,
-        3349,
+        3647,
         47,
-        5177,
+        5427,
         3,
-        216,
-        322,
+        220,
+        326,
         0,
-        546,
-        309,
+        569,
+        344,
         2,
-        17
+        23
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2646,13 +2678,13 @@
         "[10] CAWI"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2706,13 +2738,14 @@
         "invalid"
       ],
       "values": [
-        "6592",
-        "3396"
+        "6914",
+        "3694"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsform Person"
   },
@@ -2730,18 +2763,18 @@
         0,
         0,
         0,
-        3199,
+        3497,
         0,
         149,
         0,
         2,
-        0,
+        1,
         83,
-        2164,
-        4092,
+        2297,
+        4273,
         157,
         1,
-        141
+        148
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2757,19 +2790,19 @@
         "[3] Unwilling Then",
         "[4] Final Refusal",
         "[5] Moved Out Of Germany",
-        "[6] Died",
+        "[6] Has Died",
         "[7] Moved, No Core Person",
         "[8] HH Not Found",
         "[9] Address Of HH Not Found"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -2826,13 +2859,14 @@
         "invalid"
       ],
       "values": [
-        "6789",
-        "3199"
+        "7111",
+        "3497"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsergebnis Person"
   },
@@ -2850,7 +2884,7 @@
         0,
         0,
         0,
-        3266,
+        3564,
         0,
         82,
         0,
@@ -2872,14 +2906,14 @@
         0,
         0,
         0,
-        0,
+        1,
         79,
         4,
-        2164,
-        4092,
+        2297,
+        4273,
         157,
         1,
-        141
+        148
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -2913,19 +2947,19 @@
         "[40] Final Refusal",
         "[46] Not Usable",
         "[50] Moved To Foreign Country",
-        "[60] Died",
+        "[60] Has Died",
         "[70] Moved, No Core Person",
         "[80] HH Not Found",
         "[90] Address Of HH Not Found"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3036,13 +3070,14 @@
         "invalid"
       ],
       "values": [
-        "6722",
-        "3266"
+        "7044",
+        "3564"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsergebnis Person zweistellig"
   },
@@ -3060,18 +3095,18 @@
         0,
         0,
         0,
-        1589,
+        1804,
         0,
         4011,
-        2560,
+        2731,
         0,
-        247,
+        267,
         43,
         1,
-        229,
+        247,
         0,
-        1303,
-        5
+        1485,
+        19
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -3093,13 +3128,13 @@
         "[10] cawi (computer assisted web interview)"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3156,13 +3191,14 @@
         "invalid"
       ],
       "values": [
-        "8399",
-        "1589"
+        "8804",
+        "1804"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsform Person im Vorjahr"
   },
@@ -3180,7 +3216,7 @@
         0,
         0,
         0,
-        6056,
+        6676,
         0,
         3932,
         0,
@@ -3207,19 +3243,19 @@
         "[3] Unwilling Then",
         "[4] Final Refusal",
         "[5] Moved Out Of Germany",
-        "[6] Died",
+        "[6] Has Died",
         "[7] Moved, No Core Person",
         "[8] HH Not Found",
         "[9] Address Of HH Not Found"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3277,12 +3313,13 @@
       ],
       "values": [
         "3932",
-        "6056"
+        "6676"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsergebnis Person im Vorjahr"
   },
@@ -3297,7 +3334,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3315,17 +3353,18 @@
         "0",
         "1",
         "2",
-        "5.459",
+        "5.24902455818224",
         "3",
         "90",
         "1894",
-        "8094",
+        "8714",
         "1894"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Alte Haushalts- und Personennummer"
   },
@@ -3343,7 +3382,7 @@
         0,
         0,
         0,
-        6056,
+        6676,
         0,
         3932,
         0,
@@ -3366,13 +3405,13 @@
         "[4] New P. Exc WSTATUS"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3415,12 +3454,13 @@
       ],
       "values": [
         "3932",
-        "6056"
+        "6676"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Weiterverfolgungsstatus"
   },
@@ -3438,7 +3478,7 @@
         0,
         0,
         1,
-        9980,
+        10600,
         0,
         1,
         2,
@@ -3469,13 +3509,13 @@
         "[9] Rejoined Panel HH"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3530,12 +3570,13 @@
       ],
       "values": [
         "7",
-        "9981"
+        "10601"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ergebnis der Adressenermittlung Person"
   },
@@ -3574,13 +3615,13 @@
         "[4] Target Person"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3594,10 +3635,10 @@
         "-3",
         "-2",
         "-1",
-        " 1",
-        " 2",
-        " 3",
-        " 4"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -3620,6 +3661,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Informationsquelle"
   },
@@ -3634,7 +3676,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3652,17 +3695,18 @@
         "1",
         "51",
         "51",
-        "55.62",
+        "55.6154672395274",
         "61",
         "73",
-        "9057",
+        "9677",
         "931",
-        "9057"
+        "9677"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Adressenermittlung Person zweistellig"
   },
@@ -3677,7 +3721,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3698,14 +3743,15 @@
         "0",
         "0",
         "0",
-        "9942",
+        "10562",
         "46",
-        "9942"
+        "10562"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Neue Haushalts- und Personennummer"
   },
@@ -3723,7 +3769,7 @@
         0,
         0,
         0,
-        6079,
+        6699,
         0,
         403,
         3506,
@@ -3744,13 +3790,13 @@
         "[4] Twice In New HH"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3790,12 +3836,13 @@
       ],
       "values": [
         "3909",
-        "6079"
+        "6699"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Art des Personendatensatzes"
   },
@@ -3810,7 +3857,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -3826,19 +3874,20 @@
       ],
       "values": [
         "1984",
-        "1990",
+        "1993",
         "2000",
-        "1999",
-        "2006",
-        "2014",
+        "1999.92180946675",
+        "2009",
+        "2015",
         "3932",
-        "6056",
+        "6676",
         "3932"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugangswelle Panel"
   },
@@ -3903,13 +3952,13 @@
         "[17] 2000, Wave Q"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -3936,15 +3985,15 @@
         "-3",
         "-2",
         "-1",
-        " 1",
-        " 2",
-        " 3",
-        " 4",
-        " 5",
-        " 6",
-        " 7",
-        " 8",
-        " 9",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
         "10",
         "11",
         "12",
@@ -3988,6 +4037,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugangswelle Haushalt"
   },
@@ -4032,13 +4082,13 @@
         "[8] 1991, Wave H"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4055,13 +4105,13 @@
         "-3",
         "-2",
         "-1",
-        " 2",
-        " 3",
-        " 4",
-        " 5",
-        " 6",
-        " 7",
-        " 8"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -4087,6 +4137,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Abgangswelle Haushalt"
   },
@@ -4101,7 +4152,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4119,17 +4171,18 @@
         "0",
         "0",
         "0",
-        "902.4",
+        "902.402738839767",
         "2006",
         "2014",
-        "714",
+        "1334",
         "9274",
-        "714"
+        "1334"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Welle des letzten Interviews"
   },
@@ -4162,13 +4215,13 @@
         "[1] Yes"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -4179,7 +4232,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -4199,6 +4252,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zweitwohnung, Vorjahr,Abgangsjahr"
   },
@@ -4218,26 +4272,26 @@
         0,
         5,
         18,
-        8552,
-        18,
-        49,
+        9060,
+        19,
+        54,
         25,
-        63,
+        64,
         61,
         68,
         0,
         0,
         0,
-        53,
-        363,
-        37,
         55,
+        386,
+        42,
+        60,
         9,
         5,
         1,
         51,
         19,
-        57,
+        62,
         0,
         0,
         0,
@@ -4246,13 +4300,13 @@
         1,
         0,
         0,
-        361,
+        421,
         2,
-        72,
+        76,
         2,
         9,
         15,
-        15,
+        16,
         0,
         0,
         0,
@@ -4317,13 +4371,13 @@
         "[99] No Answer When Added"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4482,13 +4536,14 @@
         "invalid"
       ],
       "values": [
-        "9965",
+        "10585",
         "23"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Zugehoerigkeit zum HH im Vorjahr"
   },
@@ -4506,7 +4561,7 @@
         0,
         0,
         0,
-        9978,
+        10598,
         0,
         5,
         1,
@@ -4543,13 +4598,13 @@
         "[12] December"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4613,12 +4668,13 @@
       ],
       "values": [
         "10",
-        "9978"
+        "10598"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Letztes Updating Person"
   },
@@ -4633,7 +4689,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4649,19 +4706,20 @@
       ],
       "values": [
         "0",
-        "46540",
-        "118100",
-        "446700",
-        "502000",
-        "3502000",
+        "47406",
+        "144815",
+        "525445.119834711",
+        "508745.75",
+        "3502405",
         "686",
-        "9302",
+        "9922",
         "686"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "HH-Nummer Vorjahr mit Pfkz."
   },
@@ -4679,11 +4737,11 @@
         0,
         0,
         0,
-        8211,
+        8713,
         0,
         554,
         2,
-        1221,
+        1339,
         0
       ],
       "labels": [
@@ -4700,13 +4758,13 @@
         "[8] Miss Several Prev Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4745,13 +4803,14 @@
         "invalid"
       ],
       "values": [
-        "1777",
-        "8211"
+        "1895",
+        "8713"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Luecke in Vorjahr"
   },
@@ -4769,30 +4828,30 @@
         0,
         0,
         0,
-        3954,
+        4169,
         0,
-        4245,
+        4509,
         220,
         2,
-        53,
-        15,
+        57,
+        16,
         1,
         0,
-        142,
+        149,
         6,
         2,
         1,
-        7,
-        151,
+        10,
+        155,
         20,
         3,
-        165,
+        191,
         6,
-        168,
-        23,
-        646,
-        131,
-        9,
+        176,
+        29,
+        720,
+        137,
+        11,
         0,
         1,
         0,
@@ -4830,19 +4889,19 @@
         "[46] Final Refusal",
         "[47] Language Difficulties",
         "[50] Moved To Foreign Country",
-        "[60] Died",
+        "[60] Has Died",
         "[70] Moved, No Core Person",
         "[80] HH Not Found",
         "[90] Address HH Not Found"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -4950,13 +5009,14 @@
         "invalid"
       ],
       "values": [
-        "6034",
-        "3954"
+        "6439",
+        "4169"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsergebnis im Vorjahr"
   },
@@ -4971,7 +5031,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -4989,17 +5050,18 @@
         "1",
         "3",
         "7",
-        "6.562",
+        "6.54656901767235",
         "10",
         "12",
-        "4059",
-        "5929",
-        "4059"
+        "4327",
+        "6281",
+        "4327"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monat des Auszugs"
   },
@@ -5014,7 +5076,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5031,18 +5094,19 @@
       "values": [
         "5",
         "13",
-        "1996",
-        "1292",
-        "2003",
+        "1995",
+        "1231.18435469487",
+        "2002",
         "2008",
-        "2512",
-        "7476",
-        "2512"
+        "2759",
+        "7849",
+        "2759"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Jahr des Auszugs"
   },
@@ -5057,7 +5121,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5078,14 +5143,15 @@
         "9",
         "12",
         "12",
-        "9979",
+        "10599",
         "9",
-        "9979"
+        "10599"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monat des Einzugs"
   },
@@ -5100,7 +5166,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5118,17 +5185,18 @@
         "0",
         "0",
         "0",
-        "0.5284",
+        "0.528426395939086",
         "0",
         "2001",
-        "6048",
+        "6668",
         "3940",
-        "6048"
+        "6668"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Jahr des Einzugs"
   },
@@ -5143,7 +5211,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5164,14 +5233,15 @@
         "6.6",
         "9.25",
         "12",
-        "9968",
+        "10588",
         "20",
-        "9968"
+        "10588"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Monat der temp. Abwesenheit"
   },
@@ -5186,7 +5256,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -5207,14 +5278,15 @@
         "11",
         "11",
         "11",
-        "9987",
+        "10607",
         "1",
-        "9987"
+        "10607"
       ]
     },
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Jahr der temp. Abwesenheit"
   },
@@ -5232,17 +5304,17 @@
         0,
         0,
         0,
-        3017,
+        3107,
         0,
-        1639,
+        1674,
         0,
         423,
         1,
-        778,
-        3528,
-        45,
+        783,
+        3879,
+        57,
         191,
-        366,
+        493,
         0
       ],
       "labels": [
@@ -5265,13 +5337,13 @@
         "[9] Left Panel Before Biography"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5328,13 +5400,14 @@
         "invalid"
       ],
       "values": [
-        "6971",
-        "3017"
+        "7501",
+        "3107"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Bearbeitungsergebnis Biographie"
   },
@@ -5349,14 +5422,17 @@
       "frequencies": [
         0,
         0,
-        440,
+        502,
         0,
         0,
-        9546,
+        10050,
         0,
         0,
         1,
-        1
+        1,
+        29,
+        4,
+        21
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -5367,17 +5443,23 @@
         "[-2] Does not apply",
         "[-1] No Answer",
         "[1] DJ Completed",
-        "[2] DJ Not Possible",
-        "[4] DJ Refused"
+        "[2] No Interest in DJ, Reason Unknown",
+        "[4] DJ Refused",
+        "[5] Interest in DJ present from prev. wave",
+        "[6] No Interest in dj from prev. waves",
+        "[8] Interest in dj refused in prev waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false
@@ -5392,7 +5474,10 @@
         "-1",
         "1",
         "2",
-        "4"
+        "4",
+        "5",
+        "6",
+        "8"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -5402,9 +5487,12 @@
         "[-3] nicht valide",
         "[-2] trifft nicht zu",
         "[-1] keine Angabe",
-        "[1] DJ liegt vor",
-        "[2] DJ nicht moeglich",
-        "[4] DJ verweigert"
+        "[1] lust auf dj liegt vor",
+        "[2] lust auf dj nicht vorhanden, grund nicht bekannt",
+        "[4] lust auf dj verweigert",
+        "[5] lust auf dj aus vorwelle vorhanden",
+        "[6] kein lust auf dj aus vorwellen vorhanden",
+        "[8] lust auf dj in vorwellen verweigert"
       ]
     },
     "statistics": {
@@ -5413,13 +5501,14 @@
         "invalid"
       ],
       "values": [
-        "2",
-        "9986"
+        "56",
+        "10552"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Kognitiver Test - Lust auf DJ"
   },
@@ -5462,13 +5551,13 @@
         "[6] Other"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5484,12 +5573,12 @@
         "-3",
         "-2",
         "-1",
-        " 1",
-        " 2",
-        " 3",
-        " 4",
-        " 5",
-        " 6"
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -5514,6 +5603,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Erwerbsstatus von Nicht-Teilnehmern"
   },
@@ -5531,7 +5621,7 @@
         0,
         0,
         0,
-        9971,
+        10591,
         0,
         0,
         0,
@@ -5556,13 +5646,13 @@
         "[8] Parent Questionnaire 1 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5608,12 +5698,13 @@
       ],
       "values": [
         "17",
-        "9971"
+        "10591"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 1 (0-1 Jahre)"
   },
@@ -5631,7 +5722,7 @@
         0,
         0,
         0,
-        9962,
+        10582,
         0,
         0,
         0,
@@ -5656,13 +5747,13 @@
         "[8] Parent Questionnaire 2 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5708,12 +5799,13 @@
       ],
       "values": [
         "26",
-        "9962"
+        "10582"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 2 (1-2 Jahre)"
   },
@@ -5731,7 +5823,7 @@
         0,
         0,
         0,
-        9963,
+        10583,
         0,
         0,
         0,
@@ -5756,13 +5848,13 @@
         "[8] Parent Questionnaire 3 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5808,12 +5900,13 @@
       ],
       "values": [
         "25",
-        "9963"
+        "10583"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 3 (2-3 Jahre)"
   },
@@ -5831,7 +5924,7 @@
         0,
         0,
         0,
-        9974,
+        10594,
         0,
         0,
         1,
@@ -5856,13 +5949,13 @@
         "[8] Parent Questionnaire 4 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -5908,12 +6001,13 @@
       ],
       "values": [
         "14",
-        "9974"
+        "10594"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 4 (5-6 Jahre)"
   },
@@ -5931,7 +6025,7 @@
         0,
         0,
         0,
-        9971,
+        10591,
         0,
         0,
         1,
@@ -5956,13 +6050,13 @@
         "[8] Parent Questionnaire 5 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6008,12 +6102,13 @@
       ],
       "values": [
         "17",
-        "9971"
+        "10591"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 5 (7-8 Jahre)"
   },
@@ -6031,7 +6126,7 @@
         0,
         0,
         0,
-        9972,
+        10592,
         0,
         0,
         1,
@@ -6056,13 +6151,13 @@
         "[8] Parent Questionnaire 6 Refused in Former Waves"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6108,12 +6203,13 @@
       ],
       "values": [
         "16",
-        "9972"
+        "10592"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "[FiD]Bearbeitungsergebnis Elternfragebogen 6 (9-10 Jahre)"
   },
@@ -6146,13 +6242,13 @@
         "[1] Participated"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -6163,7 +6259,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -6183,6 +6279,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Teilnahme am Test Tiere nennen"
   },
@@ -6215,13 +6312,13 @@
         "[1] Participated"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -6232,7 +6329,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -6252,6 +6349,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Teilnahme am Test Zahlen-Zeichen"
   },
@@ -6284,13 +6382,13 @@
         "[1] Participated"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -6301,7 +6399,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -6321,6 +6419,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Teilnahme am Test Worte identifizieren"
   },
@@ -6353,13 +6452,13 @@
         "[1] Grip Force Test Completed"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -6370,7 +6469,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -6390,6 +6489,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Greifkrafttest"
   },
@@ -6404,12 +6504,12 @@
       "frequencies": [
         0,
         0,
-        858,
+        1331,
         0,
         0,
-        9088,
+        9186,
         0,
-        42
+        91
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -6422,13 +6522,13 @@
         "[1] Anchor Person from IAB"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -6458,13 +6558,14 @@
         "invalid"
       ],
       "values": [
-        "42",
-        "9946"
+        "91",
+        "10517"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ankerperson"
   },
@@ -6482,7 +6583,7 @@
         453,
         0,
         0,
-        9486,
+        10106,
         0,
         37,
         0,
@@ -6509,13 +6610,13 @@
         "[7] No Agreement Intended 2014"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6564,12 +6665,13 @@
       ],
       "values": [
         "49",
-        "9939"
+        "10559"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6610,13 +6712,13 @@
         "[5] Agreement, Should Not Have Been Asked /Not in Sample"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6631,11 +6733,11 @@
         "-3",
         "-2",
         "-1",
-        " 1",
-        " 2",
-        " 3",
-        " 4",
-        " 5"
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -6659,6 +6761,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6676,7 +6779,7 @@
         405,
         0,
         0,
-        9521,
+        10141,
         0,
         5,
         0,
@@ -6705,13 +6808,13 @@
         "[8] No Ev Intention in 2015"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6763,12 +6866,13 @@
       ],
       "values": [
         "62",
-        "9926"
+        "10546"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
   },
@@ -6783,13 +6887,13 @@
       "frequencies": [
         0,
         0,
-        128,
+        337,
         0,
         0,
-        9849,
+        10257,
         0,
         3,
-        8
+        11
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -6803,13 +6907,13 @@
         "[1] Treatment Group"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -6842,13 +6946,14 @@
         "invalid"
       ],
       "values": [
-        "11",
-        "9977"
+        "14",
+        "10594"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -6863,15 +6968,15 @@
       "frequencies": [
         0,
         0,
-        128,
+        337,
         0,
         0,
-        9849,
+        10257,
         0,
         3,
         2,
-        1,
-        5
+        2,
+        7
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -6887,13 +6992,13 @@
         "[20] Employed, Critical Income Segment"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6932,13 +7037,14 @@
         "invalid"
       ],
       "values": [
-        "11",
-        "9977"
+        "14",
+        "10594"
       ]
     },
     "scale": "cat",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Gruppen fuer Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -6977,13 +7083,13 @@
         "[4] Refusal"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -6997,10 +7103,10 @@
         "-3",
         "-2",
         "-1",
-        " 1",
-        " 2",
-        " 3",
-        " 4"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -7023,6 +7129,7 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Ergebnis Einverstaendniserklaerung fuer Record Linkage Mindestlohn"
   },
@@ -7055,13 +7162,13 @@
         "[1] total brutto for declaration of consent"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false
       ],
       "values": [
@@ -7072,7 +7179,7 @@
         "-3",
         "-2",
         "-1",
-        " 1"
+        "1"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -7092,7 +7199,710 @@
     "scale": "",
     "analysis_unit": "p",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Record Linkage"
+  },
+  "y_ic_4": {
+    "study": "soep-long",
+    "name": "y_ic_4",
+    "name_cs": "y_ic_4",
+    "variable": "y_ic_4",
+    "dataset": "pbr_exit",
+    "label": "Initial Brutto for Declaration of Consent for Record Linkage",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        473,
+        0,
+        0,
+        10011,
+        0,
+        0,
+        38,
+        13,
+        0,
+        73
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] ic, not reached survey age in 2016 (m1+m2)",
+        "[2] ic, so far ta when in ic-brutto (m1+m2)",
+        "[3] ic, refused or missing in 2015 (m2)",
+        "[4] ic, new person in 2016 (m1+m2)",
+        "[5] No Declaration of Consent in 2016 intended (m1+m2)"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] ic, da 2016 befragungsalter erreicht (m1+m2)",
+        "[2] ic, da bisher ta wenn in ic-brutto (m1+m2)",
+        "[3] ic, da in 2015 verweigert oder gefehlt (m2)",
+        "[4] ic, da neue person in 2016 (m1+m2)",
+        "[5] keine einverstaendniserklaerung in 2016 vorgesehen (m1+m2)"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "124",
+        "10484"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Ausgangsbrutto fuer Einverstaendniserklaerung fuer Record Linkage"
+  },
+  "ypnat2": {
+    "study": "soep-long",
+    "name": "ypnat2",
+    "name_cs": "ypnat2",
+    "variable": "ypnat2",
+    "dataset": "pbr_exit",
+    "label": "Have Second Nationality",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": [],
+      "labels_de": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "22.5",
+        "28",
+        "46.5",
+        "65.75",
+        "118",
+        "10602",
+        "6",
+        "10602"
+      ]
+    },
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Zweite Staatsangehoerigkeit"
+  },
+  "ypfort": {
+    "study": "soep-long",
+    "name": "ypfort",
+    "name_cs": "ypfort",
+    "variable": "ypfort",
+    "dataset": "pbr_exit",
+    "label": "fortschreibung von personendaten",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        147,
+        0,
+        0,
+        10459,
+        0,
+        0,
+        1,
+        1
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Update of pnat1, pnat2 and gender",
+        "[2] Update of wnnstell, pnat1, pnat2 and gender",
+        "[3] Updare of pvor, pgeb, wnnstell, pnat1, pnat2 and gender"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] fortschreibung von pnat1, pnat2 und sex",
+        "[2] fortschreibung von wnnstell, pnat1, pnat2 und sex",
+        "[3] fortschreibung von pvor, pgeb, wnnstell, pnat1, pnat2, sex"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "10606"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "fortschreibung von personendaten"
+  },
+  "yvarpvor": {
+    "study": "soep-long",
+    "name": "yvarpvor",
+    "name_cs": "yvarpvor",
+    "variable": "yvarpvor",
+    "dataset": "pbr_exit",
+    "label": "Aenderung bei pvor zur vorwelle",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10604,
+        0,
+        4
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Change of pvor Compared to Prev. Wave"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] aenderungen bei pvor zur vorwelle"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "4",
+        "10604"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Aenderung bei pvor zur vorwelle"
+  },
+  "ypfamcode": {
+    "study": "soep-long",
+    "name": "ypfamcode",
+    "name_cs": "ypfamcode",
+    "variable": "ypfamcode",
+    "dataset": "pbr_exit",
+    "label": "Uebereinstimmung vom nachnamen bei ehepaaren",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        558,
+        0,
+        0,
+        10045,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Last Name not Identical with Spouse",
+        "[2] Last Name Identical with Spouse",
+        "[3] Double name",
+        "[4] Partner with Double name",
+        "[5] Identical Last Name with Female Ending",
+        "[6] Unknown"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] nachname mit ehepartner nicht identisch",
+        "[2] nachname mit ehepartner identisch",
+        "[3] doppelnamen",
+        "[4] partner mit doppelnamen",
+        "[5] identischer nachname mit weiblicher endungsform",
+        "[6] unbekannt"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "10603"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Uebereinstimmung vom nachnamen bei ehepaaren"
+  },
+  "yvarpgeb": {
+    "study": "soep-long",
+    "name": "yvarpgeb",
+    "name_cs": "yvarpgeb",
+    "variable": "yvarpgeb",
+    "dataset": "pbr_exit",
+    "label": "Aenderung bei pgeb zur vorwelle",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10605,
+        0,
+        3
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Change of pgeb Compared to Prev. Wave"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] aenderungen bei pgeb zur vorwelle"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "10605"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Aenderung bei pgeb zur vorwelle"
+  },
+  "yvarsex": {
+    "study": "soep-long",
+    "name": "yvarsex",
+    "name_cs": "yvarsex",
+    "variable": "yvarsex",
+    "dataset": "pbr_exit",
+    "label": "Aenderung bei sex zur vorwelle",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10607,
+        0,
+        1
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Change of Gender Compared to Prev. Wave"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] aenderungen bei sex zur vorwelle"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "10607"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Aenderung bei sex zur vorwelle"
+  },
+  "yvarpnat1": {
+    "study": "soep-long",
+    "name": "yvarpnat1",
+    "name_cs": "yvarpnat1",
+    "variable": "yvarpnat1",
+    "dataset": "pbr_exit",
+    "label": "Aenderung bei pnat1 zur vorwelle",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10607,
+        0,
+        1
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Change of pnat1 Compared to Prev. Wave"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] aenderungen bei pnat1 zur vorwelle"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "10607"
+      ]
+    },
+    "scale": "cat",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Aenderung bei pnat1 zur vorwelle"
+  },
+  "yvarpnat2": {
+    "study": "soep-long",
+    "name": "yvarpnat2",
+    "name_cs": "yvarpnat2",
+    "variable": "yvarpnat2",
+    "dataset": "pbr_exit",
+    "label": "Aenderung bei pnat2 zur vorwelle",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "[-8] Question this year not part of Survey program",
+        "[-6] Version of questionnaire with modified filtering",
+        "[-5] Not included in this version of the questionnaire",
+        "[-4] Inadmissible multiple response",
+        "[-3] Answer improbable",
+        "[-2] Does not apply",
+        "[-1] No Answer",
+        "[1] Change of pnat2 Compared to Prev. Wave"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "-8",
+        "-6",
+        "-5",
+        "-4",
+        "-3",
+        "-2",
+        "-1",
+        "1"
+      ],
+      "labels_de": [
+        "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
+        "[-6] Fragebogenversion mit geaenderter Filterfuehrung",
+        "[-5] In Fragebogenversion nicht enthalten",
+        "[-4] Unzulaessige Mehrfachantwort",
+        "[-3] nicht valide",
+        "[-2] trifft nicht zu",
+        "[-1] keine Angabe",
+        "[1] aenderungen bei pnat2 zur vorwelle"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": "",
+    "analysis_unit": "p",
+    "sub_type": "track",
+    "boost": "1",
+    "period": "nan",
+    "label_de": "Aenderung bei pnat2 zur vorwelle"
   }
 }
