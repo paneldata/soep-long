@@ -10,7 +10,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -25,18 +26,19 @@
       ],
       "values": [
         "19",
-        "38110",
-        "281000",
-        "686700",
-        "521100",
-        "3500000",
-        "370634",
+        "38938",
+        "283138",
+        "698412.845890339",
+        "700622",
+        "3864898",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Case ID, Ursprungshaushaltsnummer"
   },
@@ -51,7 +53,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -66,18 +69,19 @@
       ],
       "values": [
         "19",
-        "59220",
-        "277600",
-        "690100",
-        "565400",
-        "3503000",
-        "370634",
+        "61204",
+        "279560",
+        "700190.038853786",
+        "568023",
+        "3864898",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Haushaltsnummer"
   },
@@ -92,7 +96,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -107,18 +112,19 @@
       ],
       "values": [
         "1984",
-        "1997",
+        "1998",
         "2005",
-        "2004",
-        "2011",
-        "2015",
-        "370634",
+        "2003.9808772846",
+        "2012",
+        "2016",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Erhebungsjahr (SurveyYear)"
   },
@@ -138,22 +144,25 @@
         0,
         0,
         0,
-        110303,
-        29603,
-        49681,
-        8848,
-        11813,
-        66844,
-        12814,
-        11049,
+        112190,
+        29903,
+        50903,
+        9058,
+        11896,
+        69288,
+        13489,
+        11775,
         3251,
-        14122,
-        5868,
-        10757,
-        13222,
-        4423,
-        8037,
-        9999
+        16260,
+        7086,
+        12048,
+        14965,
+        5157,
+        10181,
+        2214,
+        1698,
+        1638,
+        0
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -178,16 +187,22 @@
         "[13] L2 2010 Family Type (Low-Income, Single-Parent, Large Families)",
         "[14] L3 2011 Family Type (Single-Parent, Large Families)",
         "[15] M1 2013 Migration (1995-2011)",
-        "[16] Engeneering"
+        "[16] M2 2015 Migration (2009-2013)",
+        "[17] M3 2016 Refugee (2013-2015)",
+        "[18] M4 2016 Refugee/family (2013-2015)",
+        "[19] M5 2017 Refugee (2013-2016)"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -228,7 +243,10 @@
         "13",
         "14",
         "15",
-        "16"
+        "16",
+        "17",
+        "18",
+        "19"
       ],
       "labels_de": [
         "[-8] Frage in diesem Jahr nicht Teil des Frageprograms",
@@ -253,7 +271,10 @@
         "[13] L2 2010 Familientypen(NiedrigEinkommen,AlleinErziehend,MehrKindFamilien)",
         "[14] L3 2011 Familientypen(AlleinErziehend,MehrKindFamilien)",
         "[15] M1 2013 Migration (1995-2010)",
-        "[16] M2 2015 Migration (2009-2013)"
+        "[16] M2 2015 Migration (2009-2013)",
+        "[17] M3 2016 Flucht (2013-2015)",
+        "[18] M4 2016 Flucht/Familie (2013-2015)",
+        "[19] M5 2017 Flucht (2013-2016)"
       ]
     },
     "statistics": {
@@ -262,13 +283,14 @@
         "invalid"
       ],
       "values": [
-        "370634",
+        "383000",
         "0"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Stichprobenart"
   },
@@ -288,8 +310,8 @@
         8,
         0,
         0,
-        319388,
-        51238
+        337210,
+        45782
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -303,13 +325,13 @@
         "[2] HH In Brutto Only"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -342,13 +364,14 @@
         "invalid"
       ],
       "values": [
-        "370626",
+        "382992",
         "8"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktueller Befragungsstatus"
   },
@@ -368,8 +391,8 @@
         8,
         92,
         0,
-        292475,
-        78059
+        301319,
+        81581
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -383,13 +406,13 @@
         "[2] East-Germany"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false
       ],
@@ -422,13 +445,14 @@
         "invalid"
       ],
       "values": [
-        "370534",
+        "382900",
         "100"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Stichprobenregion"
   },
@@ -446,12 +470,12 @@
         0,
         0,
         0,
-        11038,
+        2172,
         0,
-        317938,
-        38319,
-        2748,
-        591
+        333005,
+        43113,
+        2879,
+        1831
       ],
       "labels": [
         "[-8] Question this year not part of Survey program",
@@ -467,13 +491,13 @@
         "[4] Institutionalized HH, Foreign HH-Head"
       ],
       "missings": [
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
-        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
         false,
         false,
         false,
@@ -512,13 +536,14 @@
         "invalid"
       ],
       "values": [
-        "359596",
-        "11038"
+        "380828",
+        "2172"
       ]
     },
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Aktuelle Populationszugehoerigkeit"
   },
@@ -533,7 +558,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -548,18 +574,19 @@
       ],
       "values": [
         "0",
-        "2",
-        "4",
-        "4.411",
-        "6",
+        "3",
+        "5",
+        "4.5192819843342",
+        "7",
         "8",
-        "370634",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Random Groups"
   },
@@ -574,7 +601,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -590,19 +618,20 @@
       ],
       "values": [
         "0",
-        "1.01",
-        "1.03",
-        "0.8804",
-        "1.09",
-        "18.33",
+        "1.00999999046326",
+        "1.02999997138977",
+        "0.898172096070368",
+        "1.0900000333786",
+        "18.3299999237061",
         "5921",
-        "364713",
+        "377079",
         "5921"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Inverse Bleibewahrscheinlichkeit"
   },
@@ -617,7 +646,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -632,18 +662,19 @@
       ],
       "values": [
         "0",
-        "583.3",
-        "2097",
-        "3169",
-        "4612",
-        "46890",
-        "370634",
+        "606.3975",
+        "2094.185",
+        "3175.04518947781",
+        "4594.54",
+        "37910.45",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Hochrechnungsfaktor"
   },
@@ -658,7 +689,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -675,16 +707,17 @@
         "0",
         "0",
         "0",
-        "567",
+        "549.886530966057",
         "0",
-        "205100",
-        "370634",
+        "205099.27",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Hochrechnungsfaktor, nur fuer Ursprungsstichproben (Welle 1)"
   },
@@ -699,7 +732,8 @@
       "frequencies": [],
       "labels": [],
       "missings": [],
-      "values": []
+      "values": [],
+      "labels_de": []
     },
     "statistics": {
       "names": [
@@ -714,18 +748,19 @@
       ],
       "values": [
         "0",
-        "358.7",
-        "1975",
-        "3170",
-        "4705",
-        "43980",
-        "370634",
+        "404.64",
+        "1979.01",
+        "3176.16286208877",
+        "4690.195",
+        "57557.95",
+        "383000",
         "0"
       ]
     },
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "track",
+    "boost": "1",
     "period": "nan",
     "label_de": "Hochrechnungsfaktor ohne Ursprungsstichproben (Welle 1)"
   }
