@@ -9,6 +9,7 @@ pytest = "*"
 [packages]
 ddi = {editable = true,git = "https://github.com/ddionrails/ddi.py.git",ref = "master"}
 goodtables = "*"
+pyyaml = "==5.1b3" # pin temporarily
 
 [requires]
 python_version = "3.6"
