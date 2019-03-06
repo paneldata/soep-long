@@ -3,7 +3,10 @@ import os
 import re
 
 import pandas as pd
-from ddi.onrails.repos import convert_r2ddi, copy, dor1, merge_instruments
+from ddi.onrails.repos import convert_r2ddi, copy, dor1
+
+STUDY = "soep-long"
+VERSION = "v33"
 
 
 def datasets():
@@ -73,19 +76,17 @@ def main():
     variables()
     dor1.transformations()
     fix_pl()
-    convert_r2ddi.Parser(
-        "soep-long", version="v32", r2ddi_path="temp/r2ddi"
-    ).write_json()
-    try:
-        os.system(
-            """
-            rm -r ddionrails/topics
-            cp -r ../soep-core/ddionrails/topics/ ddionrails/
-        """
-        )
-        print("[INFO] Copy topics from soep-core")
-    except:
-        print("[ERROR] Couldn't copy topics from soep-core")
+    convert_r2ddi.Parser(STUDY, version=VERSION).write_json()
+    # try:
+    #     os.system(
+    #         """
+    #         rm -r ddionrails/topics
+    #         cp -r ../soep-core/ddionrails/topics/ ddionrails/
+    #     """
+    #     )
+    #     print("[INFO] Copy topics from soep-core")
+    # except:
+    #     print("[ERROR] Couldn't copy topics from soep-core")
 
 
 if __name__ == "__main__":
