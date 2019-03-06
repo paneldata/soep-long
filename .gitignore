@@ -3,3 +3,4 @@ temp/*
 *.dta
 nohup.out
 *.log
+.idea/
