@@ -1,12 +1,9 @@
 import glob
 import os
 import re
-import sys
 
 import pandas as pd
 from ddi.onrails.repos import convert_r2ddi, copy, dor1, merge_instruments
-
-sys.path.append(os.path.expanduser("~/github/ddi.py/"))
 
 
 def datasets():
