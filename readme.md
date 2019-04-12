@@ -1,8 +1,8 @@
-# SOEPlong
+# SOEP-Long
 
-A longitudinal survey of private households in Germany. (long/narrow-Data) 
+A longitudinal survey of private households in Germany. (long/narrow-Data)
 
-Note: deprecated v34/2018
+Note: deprecated v34/2018, see [soep-core](https://github.com/paneldata/soep-core)
 
 URL:  https://www.diw.de/de/diw_02.c.221180.de/fdz_soep.html
 
