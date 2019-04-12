@@ -19,7 +19,7 @@ provide all datasets in the “long” format (former SOEPlong) as a standard pa
 of our SOEP data release. 
 
 In the top-level (or root) directory of our data release, you will find all of
-the datasets provided up to now with SOEPlong (pl, ppfadl, etc.) as well as
+the datasets provided up to now with SOEPlong (pl, ppfadl/ppathl, etc.) as well as
 all of the additional datasets formerly provided only in our classic “wide”
 format (biographical or spell data such as bioparen, artkalen, etc.). 
 **All of the data in the main SOEP-Core study are therefore contained in the
