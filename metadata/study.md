@@ -6,61 +6,35 @@ config:
         label-table: True
 ---
 
-# SOEPlong
+In search of SOEP-long? **Please see [SOEP-Core](https://paneldata.org/soep-core)**
 
-## Citation
+# From SOEPlong (v33) to SOEP in “long” format on the top level of SOEP-Core (v34)
 
-* **Title:** SOEPlong
-* **Label:** Long format of the German Socio-Economic Panel Study (SOEP)
-* **Citation guideline:** see [SOEP-Core](https://paneldata.org/soep-core)
-* **Persistent identifier:** 10.5684/soep.v33
-* **Investigators/authors:** Jürgen Schupp; Peter Krause; Jan Goebel; Martin Kroh; Carsten Schröder; Charlotte Bartels; Klaudia Erhardt; Andreas Franken; Alexandra Fedorets; Marco Giesselmann; Markus Grabka; Hannes Kröger; Maria Metzing; Jana Nebelin; Simon Kühne; David Richter; Rainer Siegers; Diana Schacht; Paul Schmelzer; Christian Schmitt; Daniel Schnitzlein; Knut Wenzig
+The new wave of the [SOEP-Core](https://paneldata.org/soep-core) study
+incorporates our “wide” and “long” data formats, which used to be provided to
+users separately. Our aim is to eliminate any confusion about what is
+available in which format and to make data use easier overall. After several
+years of testing SOEPlong as an additional and separated service, we now
+provide all datasets in the “long” format (former SOEPlong) as a standard part
+of our SOEP data release. 
 
-## Study info
+In the top-level (or root) directory of our data release, you will find all of
+the datasets provided up to now with SOEPlong (pl, ppathl [ppfadl], etc.) as well as
+all of the additional datasets formerly provided only as part of our classic “wide”
+format (biographical or spell data such as bioparen, artkalen, etc.). 
+**All of the available information in the main SOEP-Core study are therefore contained in the
+datasets in the top-level directory (in long format).**
 
-SOEPlong is a complete and user-friendly data format for all wave-specific data, primary and generated, from SOEPcore. In the classic delivery, the data are provided annually as individual files and.  Ppriority is given to faithful reproduction of the data and the original sequence based on the respective survey instrument. On the basis of structured programmes, SOEPlong includes all SOEPcore data as timely and consistent long-variables. 
-The time-consuming data preparation required for analyses is facilitated by SOEPlong in many ways: (1) SOEPlong provides all variables as time-consistent long-variables – this makes individual collecting, renaming, and recoding of variables in the time course unnecessary. (2) If required, the long-variables are already recoded (e.g., changing categories in the time course or income data in euro) and integrated (i.e. variables from P/H-OST / PAUSL / P_MIG datasets).  All changed variables are additionally provided as original coded  long-variables for the respective years for alternative recoding. (3) Moreover, figures for all long-variables are provided which document temporal monitoring, time-course distribution (bar charts and violin plots), acquisition and consistency of the population (missings) in the time course.
-Provenance details infrom the biography and life history dataquestionnaires are only shared in SOEPlong (BIO). Moreover, the variables partner-status and partner-ID – also for non-realised household members – as well as enumerated weights are only available in SOEPlong (P/H-PFADL).
-Specifically, the following files are provided in SOEPlong Version v301 (prepared biography and spell data are already available as long or spell format in SOEPcore and can be linked in the same way in SOEPlong)
+Feedback from experienced and beginning users over the past several years
+shows that the “long” data offer significant advantages in ease of use,
+particularly for beginners. We have therefore decided to use this as our
+primary data format in future data releases.
 
-A more detailled overview can be found in the [Desktop Companion](http://about.paneldata.org/soep/dtc/) in chapter [Principles of data structure](http://about.paneldata.org/soep/dtc/data-structure.html).
+A more detailed description of the format of our SOEP-Core data release can be
+found in our new [SOEPcompanion](http://companion.soep.de/Data%20Structure%20of%20SOEPcore/index.html#data-distribution-file).
 
-## Missings
 
-|Code | Meaning|
-|:----:|-----|
-|-1|no answer /don`t know|
-|-2|does not apply|
-|-3|implausible value|
-|-4|inadmissible multiple response|
-|-5|not included in this version of the questionnaire|
-|-6|version of questionnaire with modified filtering|
-|-8|question not part of the survey programm this year*
+Therefore: **Please see [SOEP-Core](https://paneldata.org/soep-core)**
 
-*Only applicable for datasets in long format.
-
-## Data set
-
-Table  Matching of SOEPlong and cross-sectional datasets from SOEP-CORE
-
-| SOEPlong | SOEPcore                                         |
-|----------|--------------------------------------------------|
-|_Tracking Files_|
-| ppfadl   | ppfad, phrf                                      |
-| hpfadl   | hpfad, hhrf                                      |
-|_Register-Files_|
-| pbrutto  | bpbrutto, ..., zpbrutto, bapbrutto, bbpbrutto, ... |
-| hbrutto  | bhbrutto, ..., zhbrutto, bahbrutto, bbhbrutto, ... |
-|_Respondents-Files_|
-| pl       | ap, ..., zp, bap, bbp, ...                       |
-| hl       | ah, ..., zh, bah, bbh, ...                       |
-| kidl     | kidlong (akind, ..., zkind, bakind, bbkind, ...) |
-| bio      | biolela, mlela, ..., zlela, balela, bblela, ...  |
-| jugend   | qjugend, ..., zjugend, bajugend, bbjugend, ...   |
-|_Generated Files_|
-| pgen     | apgen, ..., zpgen, bapgen, bbpgen, ...           |
-| hgen     | ahgen, ..., zhgen, bahgen, bbhgen, ...           |
-| pkal     | apkal, ..., zpkal, bapkal, bbpkal, ...           |
-| pequiv   | apequiv, ..., zpequiv, bapequiv, bbpequiv, ...   |
 
 
